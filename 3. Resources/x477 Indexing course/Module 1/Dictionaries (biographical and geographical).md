@@ -1,0 +1,3 @@
+_[Webster's Biographical Dictionary (Links to an external site.)](http://www.amazon.com/Merriam-Websters-Biographical-Dictionary-Merriam-Webster/dp/0877797439):_ Though this has not been updated since 1995, it is still one of the finest biographical dictionaries and name sources available on historic and deceased individuals.
+
+_[Webster's Geographical Dictionary (Links to an external site.)](http://www.amazon.com/s/?ie=UTF8&keywords=webster+geographical+dictionary&tag=mh0b-20&index=stripbooks&hvadid=1470801753&ref=pd_sl_95jxlalvqg_e)_ is an excellent source on geographical locations and aid for the correct sorting of geographical names.

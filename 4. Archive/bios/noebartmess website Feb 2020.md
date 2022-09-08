@@ -1,0 +1,3 @@
+Noe (rhymes with Zoe) writes humorous science fiction and fantasy as well as nonfiction on representation of autistic characters in fiction. She's also edited a nonfiction anthology with contributions by adult-diagnosed autistic people. 
+
+Noe is a graduate of the 2016 Clarion West Writers Workshop. You can find her on Twitter at @noebartmess. Contact info: noe.bartmess@gmail.com or use the contact form. Pronouns: she/they.

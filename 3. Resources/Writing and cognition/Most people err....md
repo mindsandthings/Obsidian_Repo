@@ -1,0 +1,1 @@
+Most people err on the side of thinking that other people think like them and that they think like other people

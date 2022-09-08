@@ -1,0 +1,24 @@
+# Shame on the Internet
+### https://betterbemeta.tumblr.com/post/188022379042/people-on-the-internet-do-not-read-situations-the
+
+[https://betterbemeta.tumblr.com/post/188022379042/people-on-the-internet-do-not-read-situations-the](https://betterbemeta.tumblr.com/post/188022379042/people-on-the-internet-do-not-read-situations-the)
+*People on the internet do not read situations the way they read them in real life*, or when serving on a jury, or when reading a book or watching a movie– even when they talk about those very same things on the internet. It is a common mistake to think so.
+The dynamics of “who is being blamed” or “who is punished” or “who is safe and who is under attack” and “who is in the position of power” and that loose cluster of impressions that in real life can be very complicated reduce to mostly one emotion: *shame.*
+Which makes sense. On the internet, you can’t /do/ anything to anyone else, not really. Not unless you SWAT them, dox them, or find some secondary way to impact their real lives. If you have aggression, shame is basically the only thing you can try to impart to other people, and the most common thing people actually fear as a consequence on the internet. The objective of most of the confrontational internet is to impart as much shame as possible, and avoid someone else doing the same to them.
+So based on this logic it is really easy to see why a lot of confrontations, interpretations, and other “reads” on situations don’t go the way one might expect, on the internet:
+* Someone creates a story or media where multiple characters are flawed, but one experiences shame as a consequence for their flaws and others do not, but instead experience other conflicts like confusion, misery, or insecurity… and the internet thinks the character that experiences shame is being disproportionately punished next to the others.
+* Figures, real or fictional, that are not ‘available’ to experience shame or be shamed for their actions are vilified on that basis in specific.
+* Identifying yourself and every aspect of your life to strangers becomes compulsory and it’s because people are entitled to your vulnerabilities as you’re entitled to theirs. This is not a very good or safe assumption.
+* People come to believe or engage in behavior that assumes inflicting shame is some kind of political praxis, even when it has no effects on major forces in our world like wealth or income, or credibility to broader culture.
+* Movements that are intended to revoke the credibility of those who have violated others, or their wealth/income, are heavily packaged with inflicting shame on the internet as if that’s a /required/part of damage control.
+* Those who already fear shame will find their behavior amplified on the internet by those around them. Whether that’s someone who’s been bullied or marginalized before, or the bully who marginalized them, for their own social gain, or a privileged person who has only shame to fear, it is a risk.
+* Online dramas are ‘won’ by those who project the least shame, giving advantage to 1) public figures with PR teams and 2) absolutely bananas people with no conscience whatsoever. 
+* Some figures may even be enacting schemes to extract money from reactionaries who want an idol that wards off shame.
+* internet denizens often believe they are going to ‘take down’ other users by revealing them to be shameful (which is itself, not something able to apply any ‘real force’), but may forget to protect themselves or they may lack insight as to who gains access to their audience. 
+* Internet audiences respond well to shame, want to be ‘taught’ how to avoid shame as well what is the socially lauded way to shame others
+* discussions that bear themes of shame dominate the internet even when they are minor or private in other spaces. Like discussions of sexual vulnerability, or even assigning politics to sexual vulnerability.
+* The concept of ‘shame’ becomes disassociated into discussions of ‘shaming’ which turn it into an action instead of an emotional impact someone can feel– which can be self-contained (we can feel ashamed of ourselves) or imposed without direct action at all. Shame that isn’t the result of direct blame or as a result of someone else’s aggression is poorly understood on the internet.
+It is easy to underestimate shame’s significance on the internet, when it’s actually the primary way that people understand and interact with other people, storytelling, and platformed figures.
+   [long post, ](https://betterbemeta.tumblr.com/tagged/long-post)  [the internet and sha](https://betterbemeta.tumblr.com/tagged/the-internet-and-shame) 
+
+#z-archives/sj, #z-archives

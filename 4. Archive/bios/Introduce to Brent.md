@@ -1,0 +1,5 @@
+I grew up in East Tennessee and now live in the Bay Area. Right now I write and also do some volunteer stuff - I run weekly Twitter chats for autistic and neurodivergent people, and designed and implemented a system for disabled people with difficulty speaking to have volunteers phone Congress members on their behalf, and am thinking about starting a YouTube channel. I also edited a nonfiction anthology with contributions by adult-diagnosed autistic people that came out last year. 
+
+My novel-in-progress is a humorous contemporary fantasy set in a malfunctioning magical theme park designed by faeries for human tourists. I'm pitching it as "Terry Pratchett's Tiffany Aching series meets a modern, edgy Lisa Frank" with strong characterization and relationship development and multiple queer and neurodiverse characters. Shiv and I were in the same Clarion West class and it's based on a short story I wrote there. 
+
+(It also has a dungeon crawl in it)

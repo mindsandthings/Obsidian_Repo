@@ -1,0 +1,1 @@
+Fiction is not optimization for a universal reader, it is a series of tradeoffs made for different readers. 

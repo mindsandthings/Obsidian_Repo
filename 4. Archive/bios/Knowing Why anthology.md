@@ -1,0 +1,5 @@
+About the Editor
+
+Elizabeth Bartmess is a Bay Area writer, editor, and autistic advocate. She runs weekly Twitter chats for autistic people and autistic cousins (hashtag: #autchat; website: http://autchat.com) and has written about autistic representation in fiction for Disability in Kid Lit (http://disabilityinkidlit.com/). She also writes humorous science fiction and fantasy and is a graduate of the 2016 Clarion West writers workshop. You can find her on Twitter at @theoriesofminds; her website is http://elizabethbartmess.com. 
+
+REVISED May 2018: Elizabeth Bartmess is a Bay Area writer, editor, and autistic advocate. She runs weekly Twitter chats for autistic people and autistic cousins (hashtag: #autchat; website: http://autchat.com) and has written about autistic representation in fiction. She also writes humorous science fiction and fantasy and is a graduate of the 2016 Clarion West writers workshop. You can find her on Twitter at @theoriesofminds; her website is http://elizabethbartmess.com.

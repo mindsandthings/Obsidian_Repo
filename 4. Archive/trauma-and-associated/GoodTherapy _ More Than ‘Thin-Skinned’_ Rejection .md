@@ -1,0 +1,1 @@
+https://www.goodtherapy.org/blog/more-than-thin-skinned-rejection-sensitive-dysphoria-1130197

@@ -1,0 +1,9 @@
+# Tired of being an activist
+ [https://miseriathome.tumblr.com/post/166276692299/a-lot-of-times-the-idea-of-im-tired-of-being-an](https://miseriathome.tumblr.com/post/166276692299/a-lot-of-times-the-idea-of-im-tired-of-being-an) 
+A lot of times, the idea of “I’m tired of being an activist and I’m settling for what I can get” is seen as a privileged stance. The logic is that people who are truly oppressed /have/ to keep fighting even if they’re tired because there is simply no other option that allows them to continue existing. Privileged people, meanwhile, have the luxury of sitting back and either reaping the benefits of other peoples’ activism or enjoying a considerable number of benefits that they already have, which do not actually need to be fought for.
+However another reality exists, and that is that some people are simply so marginalized and so forgotten that no mainstream form of activism will ever account for their existence. For those people, fighting means watching other people make gains but hardly if ever reaping the benefits of that change. And in that case, *declaring “tiredness” is a reclamation of dignity; it’s the idea that being a pawn cannot be more important than being heard and recognized; it’s the acknowledgement that social change is meaningless, and therefore so is resisting.*
+(The fact that this very concept escapes so many Marxism-based “radical” activists baffles me because it is quite literally in the text.)
+In any case, I propose that “from each according to their ability” should also account for one’s emotional capacity to be invested.
+(Source:  [miseriathome](https://miseriathome.tumblr.com/) )
+ 
+#z-archives/sj

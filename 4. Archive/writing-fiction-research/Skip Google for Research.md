@@ -1,0 +1,1 @@
+https://earlgraytay.tumblr.com/post/690280330591076352/skip-google-for-research
