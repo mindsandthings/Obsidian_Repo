@@ -2,6 +2,10 @@ I discussed three major topics with Susan for my 1-5 strengths, and she suggeste
 
 I'd also be interested in your thoughts on strengths changes over time. I'm aware changes are partly an artifact of learning more about strengths, but I think Analytical and Deliberative (top 10 only in 2022) are major features of the way I interact with the world now (and Susan commented on Analytical being present in a lot of what I said as well). When strengths rise in prominence, is that more likely to represent a growth area to leverage or an attempt to work around a blockage in some other more "natural" strength? When strengths drop in prominence, does that mean they're being neglected, or that they're less useful? etc. 
 
+
+
+
+
 The topics I discussed with Susan: 
 
 # Info management for fiction: 

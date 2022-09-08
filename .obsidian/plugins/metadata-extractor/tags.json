@@ -1,7 +1,7 @@
 [
   {
     "tag": "task",
-    "tagCount": 70,
+    "tagCount": 71,
     "relativePaths": [
       "daily/2022-08-31.md",
       "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md",
@@ -10,6 +10,7 @@
       "1. Projects/x477 indexing course/Module 3/3.0 Module 3.md",
       "1. Projects/x477 indexing course/0.5 My notes/Ongoing resources to read.md",
       "1. Projects/x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+      "1. Projects/Strengths course/Becca coaching session.md",
       "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md"
     ]
   },
@@ -1800,6 +1801,13 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/archived-cw-pubq/CW culture committee notes.md"
+    ]
+  },
+  {
+    "tag": "-sign",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/anki/Enhanced Cloze plugin.md"
     ]
   },
   {

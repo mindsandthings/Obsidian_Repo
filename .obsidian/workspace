@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab151ab129e7a19b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects/anki/Enhanced Cloze plugin.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "12948bd9b8db944c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Marbela mystery/Marbela outline.md",
+            "file": "1. Projects/Strengths course/Becca coaching session.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.0050811767578
+    "width": 378.0050811767578,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/anki/Enhanced Cloze plugin.md",
+                "file": "1. Projects/Strengths course/Becca coaching session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/anki/Enhanced Cloze plugin.md",
+                "file": "1. Projects/Strengths course/Becca coaching session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/anki/Enhanced Cloze plugin.md"
+                "file": "1. Projects/Strengths course/Becca coaching session.md"
               }
             }
           },
@@ -162,17 +151,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "ab151ab129e7a19b",
+  "active": "12948bd9b8db944c",
   "lastOpenFiles": [
+    "1. Projects/Strengths course/my top 10 strengths from 2007, 2009, 2022.md",
+    "1. Projects/Strengths course/Becca coaching session.md",
+    "1. Projects/Strengths course/Pre-coaching form for Becca.md",
+    "1. Projects/Strengths course/Pre-coaching form for Becca with add'l notes from me 1.md",
+    "1. Projects/Marbela mystery/Marbela outline.md",
+    "1. Projects/anki/Enhanced Cloze plugin.md",
     "1. Projects/anki/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
     "1. Projects/Obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
     "1. Projects/Obsidian/Github error.md",
-    "0. Inbox/Autistic writers resources.md",
-    "0. Inbox/This is a new test note.md",
-    "daily/2022-09-08-Thu.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "1. Projects/Obsidian/New practices to remember.md",
-    "1. Projects/Obsidian/Stuff I could potentially automate.md",
-    "1. Projects/Obsidian/Keyboard shortcuts to review.md"
+    "0. Inbox/Autistic writers resources.md"
   ]
 }

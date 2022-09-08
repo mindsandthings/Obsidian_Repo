@@ -21965,6 +21965,23 @@
     ]
   },
   {
+    "fileName": "Enhanced Cloze plugin",
+    "relativePath": "1. Projects/anki/Enhanced Cloze plugin.md",
+    "tags": [
+      "-sign"
+    ],
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 2
+      },
+      {
+        "heading": "Download",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Effective learning - 20 rules of formulating knowledge (Wozniak 1999)",
     "relativePath": "1. Projects/anki/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
     "frontmatter": {
@@ -22370,6 +22387,51 @@
       {
         "heading": "Download citation",
         "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Becca coaching session",
+    "relativePath": "1. Projects/Strengths course/Becca coaching session.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Intro",
+        "level": 1
+      },
+      {
+        "heading": "What I sent her",
+        "level": 2
+      },
+      {
+        "heading": "Notes from call",
+        "level": 2
+      },
+      {
+        "heading": "Info management for fiction:",
+        "level": 1
+      },
+      {
+        "heading": "Bekka notes",
+        "level": 2
+      },
+      {
+        "heading": "Nonfiction writing:",
+        "level": 1
+      },
+      {
+        "heading": "Becca notes",
+        "level": 2
+      },
+      {
+        "heading": "Exposition/backstory",
+        "level": 2
+      },
+      {
+        "heading": "lower less impact on work process - I asked her",
+        "level": 1
       }
     ]
   },
