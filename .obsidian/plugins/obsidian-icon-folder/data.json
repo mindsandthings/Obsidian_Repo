@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbStar",
+      "RiStickyNoteFill",
+      "RiQuestionMark",
+      "RiListCheck",
+      "RiCheckboxFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "0. Inbox": "RiInboxFill",
+  "1. Projects": "RiCheckboxMultipleBlankFill",
+  "4. Archive": "RiArchiveFill",
+  "2. Areas": "RiGlobeFill",
+  "3. Resources": "RiArchiveDrawerFill",
+  "1. Projects/Obsidian": "RiStickyNoteFill",
+  "1. Projects/Strengths course": "RiSlideshowLine",
+  "1. Projects/x477 indexing course": "RiComputerFill",
+  "1. Projects/Writer and book search/Writers to research.md": "RiListCheck",
+  "1. Projects/Marbela mystery": "RiQuestionMark",
+  "0. Inbox/00-scratchpad-note.md": "RiStickyNoteFill",
+  "daily": "RiCalendar2Line",
+  "3. Resources/x477 Indexing course/Module 1/0.1 Reading notes - Module 1.md": "RiPencilFill",
+  "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md": "RiCheckboxFill",
+  "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md": "RiCheckboxBlankFill",
+  "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md": "RiPencilFill",
+  "1. Projects/anki": "IbStar"
+}

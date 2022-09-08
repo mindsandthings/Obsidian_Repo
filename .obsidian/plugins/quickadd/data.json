@@ -1,0 +1,40 @@
+{
+  "choices": [
+    {
+      "id": "c204a5bc-71f4-40be-96a8-7d863ee8a861",
+      "name": "Capture to Daily Note",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "periodic/daily/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "* {{DATE:HH:mm}} {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "# {{DATE:YYYY-MM-DD}}",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,11 @@
+{
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current",
+  "readableLineLength": true
+}
