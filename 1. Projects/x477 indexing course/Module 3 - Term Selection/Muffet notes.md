@@ -6,8 +6,8 @@ And frightened Miss Muffet away. 5
 
 
 lingering issues:
--- curds and whey: only have one entry. omit? add an entry? 
--- tuffet: didn't inclde as its own entry becvause wall was excluded in dumpty example, but not sure if their exclusion was intentional
+-- curds and whey: only have one entry. omit? add an entry? [edit: after talking to Kendra, include it because readers will be interested in it]
+-- tuffet: didn't inclde as its own entry becvause wall was excluded in dumpty example, but not sure if their exclusion was intentional [edit: after talking to Kendra, include it because readers will be interested in it]
 -- frightening of Little Miss Muffet: can't do see spider, it's not a preferred term issue
 -- frightening and departure 
 -- no see also 

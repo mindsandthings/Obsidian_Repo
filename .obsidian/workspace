@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Strengths course/Becca coaching session.md",
+            "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.0050811767578,
-    "collapsed": true
+    "width": 378.0050811767578
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Strengths course/Becca coaching session.md",
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Strengths course/Becca coaching session.md",
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Strengths course/Becca coaching session.md"
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
-    "1. Projects/Strengths course/my top 10 strengths from 2007, 2009, 2022.md",
-    "1. Projects/Strengths course/Becca coaching session.md",
-    "1. Projects/Strengths course/Pre-coaching form for Becca.md",
-    "1. Projects/Strengths course/Pre-coaching form for Becca with add'l notes from me 1.md",
-    "1. Projects/Marbela mystery/Marbela outline.md",
-    "1. Projects/anki/Enhanced Cloze plugin.md",
-    "1. Projects/anki/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
-    "1. Projects/Obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
-    "1. Projects/Obsidian/Github error.md",
-    "0. Inbox/Autistic writers resources.md"
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion answer.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/Baa baa black sheep notes.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.7 Concepts and Thematic Relationships.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.4 Indexing Humpty Dumpty.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.5 The Importance of Good Term Selection.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.8 Identifying Thematic Relationships.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.9 Indexing Exercise 2.md",
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion.md",
+    "3. Resources/x477 Indexing course/Module 1/0.1 Reading notes - Module 1.md"
   ]
 }
