@@ -75,17 +75,17 @@ under what circumstances:
 **teddy bear
 	travels to queen's palace, 4
 	knocking at gate of queen's palace, 5
-	asked by soldier to wait at palace gate, 6
+	request by soldier to wait at palace gate, 6
 
 **soldier
-	at palace gate, 5
-	asks teddy bear to wait at palace gate, 6
+	stationed at palace gate, 5
+	request to teddy bear to wait at palace gate, 6
 
 **queen's soldier. See soldier
 
 **gate of queen's palace
 	teddy bear's knocking at, 5
-	soldier at, 5
+	soldier stationed at, 5
 	soldier's request for teddy bear to wait, 6**
 
 **Palace gate. See gate of queen's palace**
@@ -203,3 +203,5 @@ under what circumstances:
 
 
 **establishment of friendship/relationship deepening or something**
+loneliness and friendship
+huge room as embodiment of
