@@ -2,8 +2,6 @@
 Opt-hyphen: en dash
 
 
-![[Pasted image 20220902120421.png]]
-
 # Tasks
 https://obsidian-tasks-group.github.io/obsidian-tasks/
 Cmd-Option-T - create or edit task

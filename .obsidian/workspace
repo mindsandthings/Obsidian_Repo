@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-09-Fri.md",
+            "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-09-Fri.md",
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-09-Fri.md",
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-09-Fri.md"
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
+    "1. Projects/Obsidian/New practices to remember.md",
+    "1. Projects/Obsidian/Pasted image 2.png.md",
+    "1. Projects/Obsidian/Keyboard shortcuts to review.md",
+    "1. Projects/anki/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
+    "1. Projects/anki/Enhanced Cloze plugin.md",
+    "3. Resources/Indexing/Indexing people (indexers).md",
+    "0. Inbox/test.md",
+    "daily/2022-09-09-Fri.md",
     "0. Inbox/Autistic writers resources.md",
-    "0. Inbox/Groceries.md",
-    "0. Inbox/This is a new test note.md",
-    "0. Inbox/Life areas and projects - Aug 29 2022.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Tea with the queen (unfinished) notes.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion answer.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Baa baa black sheep notes.md"
+    "0. Inbox/Groceries.md"
   ]
 }
