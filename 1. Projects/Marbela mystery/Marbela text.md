@@ -102,8 +102,48 @@ c. Invite him to get another Marbelini after the art unveiling, so she can figur
 
 # c. Invite him to get another Marbelini after the art unveiling, so she can figure out how to politely and indirectly ask how many stars he would give her.  
 
+The catering station was about to get rushed. Marbela's boss, Paisley, would need her. No time to find out if the kid liked the Marbelini enough for five stars. 
+
+"Come by after the mural unveiling," she told the kid. "I can make you another one."
+
+He nodded solemnly and stuck his face back in his book. The cover read *Wikipedia Jones and the Mystery of the Mariana Trench.* Marbela wondered if it was good. She'd have to ask later. 
+
+At the catering station, Paisley already had all eight arms full serving customers. With a sideways nod, she gestured for Marbela to pull out another tray of mollusks. 
+
+The next few minutes were a whirlwind of customers and food. When the eddies subsided, they were down to a half-tray of mollusks and one lone mussel wrap. 
+
+Paisley nodded her head toward Mayor Myrtle, who was adjusting the podium microphone. "She shoulda ordered more." Paisley's pink-and-blue ombre bow was askew and she was flushed a dull, tired red. "I'm going inside the museum to freshen up."
+
+Marbela took Paisley's place and began clearing the empty trays. She was sure Mayor Myrtle had ordered as many refreshments as she thought they'd need. Who would have known that a mural unveiling would be so popular?
+
+Mayor Myrtle cleared her throat. "I'd like to welcome you all here today—"
+
+"This is a travesty!" A blobfish floated up out of the crowd. "What would Augusta say if she were here today?"
+
+The mayor gave him a firm, authoritative look. "I imagine, Cyrus, that she would ask you to sit down. She made her wishes quite clear in her will—"
+
+The blobfish bristled. To the extent that any blobfish could look angry and prickly, he did. "The will is fake!" 
+
+Gasps from the crowd. Marbela found her arms twisting nervously together again. She'd known there was some kind of scandal over Augusta's will, but she thought it had been resolved. Some of Augusta's grandchildren were in the crowd; they must be so embarrassed that someone was making a public scene. 
+
+"Her will was verified by her descendants," Mayor Myrtle said calmly. "Yes, Aria?"
+
+An octopus near the front had an arm raised. "Just because my grandmother won the Ocean Depths puzzle contest against your grandmother five years running does not give you the right to show up at an event held in her honor and accuse us of faking her will!"
+
+The blobfish bristled even further. "That is not why I'm here!"
+
+Marbela looked around. Where was security? She thought she'd seen at least one security guard when they'd been setting up, a hammerhead shark. But she didn't see him now. 
+
+
+What should Marbela do? Pick up to 2. 
+
+a. The museum entrance is nearby. Duck inside and look for the guard. 
+
+b. Stay at her catering station, but ask someone nearby to duck inside and look for the guard. 
+
+c. Hold tight and let Mayor Myrtle handle things. 
+
+d. Keep herself calm. Mix up another couple Marbelinis. 
 
 
 
-
-He closed his book. *Wikipedia Jones and the Mystery of the Ocean Deep.* 
