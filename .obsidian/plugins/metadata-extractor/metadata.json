@@ -1,9 +1,5 @@
 [
   {
-    "fileName": "testinggit",
-    "relativePath": "testinggit.md"
-  },
-  {
     "fileName": "Daily reminders",
     "relativePath": "periodic/Daily reminders.md",
     "headings": [
@@ -20,6 +16,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "2022-09-10-Sat",
+    "relativePath": "daily/2022-09-10-Sat.md"
   },
   {
     "fileName": "2022-09-09-Fri",
@@ -107,16 +107,6 @@
   {
     "fileName": "2022-08-23",
     "relativePath": "daily/2022-08-23.md"
-  },
-  {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "Obsidian_Repo",
-        "level": 1
-      }
-    ]
   },
   {
     "fileName": "Potential tumblr posts",
@@ -5138,6 +5128,13 @@
         "heading": "Dropbox authentication codes",
         "level": 1
       }
+    ]
+  },
+  {
+    "fileName": "Autistic writers resources",
+    "relativePath": "4. Archive/autism/Autistic writers resources.md",
+    "tags": [
+      "autchat"
     ]
   },
   {
@@ -23379,13 +23376,6 @@
         "link": "altering my own revising practices",
         "relativePath": "1. Projects/Strengths course/altering my own revising practices.md"
       }
-    ]
-  },
-  {
-    "fileName": "Autistic writers resources",
-    "relativePath": "0. Inbox/Autistic writers resources.md",
-    "tags": [
-      "autchat"
     ]
   },
   {
