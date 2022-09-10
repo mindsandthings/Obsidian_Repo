@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-10-Sat.md",
+            "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-10-Sat.md",
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-10-Sat.md",
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-10-Sat.md"
+                "file": "1. Projects/Obsidian/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
-    "daily/2022-09-09-Fri.md",
+    "4. Archive/obsidian/Github error.md",
+    "4. Archive/obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
+    "0. Inbox/00-scratchpad-note.md",
     "daily/2022-09-10-Sat.md",
+    "daily/2022-09-09-Fri.md",
     "periodic/Daily reminders.md",
     "daily/2022-09-08-Thu.md",
     "daily/2022-09-06-Tue.md",
     "daily/2022-09-05-Mon.md",
-    "daily/2022-09-05.md",
-    "daily/2022-09-04.md",
-    "periodic/Weekly reminders.md",
-    "0. Inbox/Life areas and projects - Aug 29 2022.md"
+    "daily/2022-09-05.md"
   ]
 }
