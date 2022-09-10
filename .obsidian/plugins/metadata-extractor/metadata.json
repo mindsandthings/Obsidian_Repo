@@ -4,8 +4,22 @@
     "relativePath": "testinggit.md"
   },
   {
-    "fileName": "2022-09-05",
-    "relativePath": "periodic/daily/2022-09-05.md"
+    "fileName": "Daily reminders",
+    "relativePath": "periodic/Daily reminders.md",
+    "headings": [
+      {
+        "heading": "Self",
+        "level": 1
+      },
+      {
+        "heading": "Michael",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "2022-09-09-Fri",
