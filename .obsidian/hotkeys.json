@@ -253,5 +253,14 @@
       ],
       "key": "PageDown"
     }
+  ],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "V"
+    }
   ]
 }

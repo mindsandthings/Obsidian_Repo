@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
+            "file": "periodic/Daily reminders.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5348f7056ca09428",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/Obsidian/Stuff I could potentially automate.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
+                "file": "periodic/Daily reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
+                "file": "periodic/Daily reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md"
+                "file": "periodic/Daily reminders.md"
               }
             }
           },
@@ -152,15 +164,15 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
+    "4. Archive/obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
+    "1. Projects/Marbela mystery/Julie Marbela notes.md",
+    "1. Projects/Obsidian/Stuff I could potentially automate.md",
+    "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
+    "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md",
     "Pasted image 20220906101257.png",
     "Pasted image 20220905173528.png",
     "0. Inbox/00-scratchpad-note.md",
     "1. Projects/Obsidian/Keyboard shortcuts to review.md",
-    "4. Archive/obsidian/Github error.md",
-    "4. Archive/obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
-    "daily/2022-09-10-Sat.md",
-    "daily/2022-09-09-Fri.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-09-08-Thu.md"
+    "4. Archive/obsidian/Github error.md"
   ]
 }

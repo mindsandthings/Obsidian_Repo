@@ -10,8 +10,8 @@
 
 # Michael
 
-2022-08-01: Give Michael a distress number / say "I'm flooded" / tell him what I need/whose court the ball is in
+* 2022-08-01: Give Michael a distress number / say "I'm flooded" / tell him what I need/whose court the ball is in
 
 # Goals
 
-2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
+* 2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
