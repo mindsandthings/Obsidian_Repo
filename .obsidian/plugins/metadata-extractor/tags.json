@@ -15,50 +15,29 @@
     ]
   },
   {
-    "tag": "z-archives/writing/nonfiction/post-ideas",
-    "tagCount": 5,
+    "tag": "z-archives/upsetting",
+    "tagCount": 1,
     "relativePaths": [
-      "4. Archive/writing-nonfiction/Potential tumblr posts.md",
-      "4. Archive/validating/Autism privilege [posted Tumblr].md",
-      "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
-      "4. Archive/archived-daily/2020-12-30.md",
-      "4. Archive/archived-cw-pubq/CW survey answers leftover.md"
+      "4. Archive/cw-pubq/_not a structural issue_.md"
     ]
   },
   {
-    "tag": "z-archives/someday-maybe",
-    "tagCount": 13,
+    "tag": "z-archives/pubq",
+    "tagCount": 4,
     "relativePaths": [
-      "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
-      "4. Archive/writing-fiction/Faerie story notes.md",
-      "4. Archive/writing-fiction/D&D haunted theater.md",
-      "4. Archive/therapy/Therapist question notes.md",
-      "4. Archive/media-recs/Music I_ve liked.md",
-      "4. Archive/media-recs/Cult books.md",
-      "4. Archive/finances-insurance/Mint alternatives.md",
-      "4. Archive/clothing-and-stuff/desk.md",
-      "4. Archive/asl/ASL things can watch.md",
-      "4. Archive/archived-productivity/Productivity research options.md",
-      "4. Archive/archived-health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
-      "4. Archive/archived-health/TrainingAndRehabilitation videos.md",
-      "4. Archive/archived-health/Health experiment options.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing",
-    "tagCount": 16,
-    "relativePaths": [
-      "4. Archive/writing-fiction/Thrillersuspense notes.md",
-      "4. Archive/writing-fiction/Pratchett.md",
-      "4. Archive/writing business/Craft article.md",
-      "4. Archive/archived-reviews/Margie course reviews.md",
-      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
+      "4. Archive/cw-pubq/Saved msgs from id-nonbinary PubQ slack.md",
+      "4. Archive/cw-pubq/PubQ.md",
+      "4. Archive/validating/unused PubQ stuff.md",
+      "4. Archive/archived-daily/2021-10-10.md"
     ]
   },
   {
     "tag": "z-archives",
     "tagCount": 735,
     "relativePaths": [
+      "4. Archive/cw-pubq/PubQ microaggressions survey.md",
+      "4. Archive/correspondence-drafts/HRP notes for endever_.md",
+      "4. Archive/correspondence-drafts/Guberman earlier draft.md",
       "4. Archive/writing-fiction/Southern accent research.md",
       "4. Archive/writing business/Writers group continuation recs.md",
       "4. Archive/writing business/Writer_s shed.md",
@@ -136,10 +115,63 @@
       "4. Archive/archived-daily/2021-04-12.md",
       "4. Archive/archived-daily/2021-03-01 2.md",
       "4. Archive/archived-daily/2020-04-20.md",
-      "4. Archive/archived-cw-pubq/PubQ microaggressions survey.md",
-      "4. Archive/archived-correspondence-drafts/HRP notes for endever_.md",
-      "4. Archive/archived-correspondence-drafts/Guberman earlier draft.md",
       "2. Areas/Web presence updates/noebartmess website changes.md"
+    ]
+  },
+  {
+    "tag": "z-archives/clarionwest",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/cw-pubq/Jae CW committee resignation draft.md",
+      "4. Archive/cw-pubq/CW clarion west slack channel deletions.md"
+    ]
+  },
+  {
+    "tag": "z-archives/writing/nonfiction/post-ideas",
+    "tagCount": 5,
+    "relativePaths": [
+      "4. Archive/cw-pubq/CW survey answers leftover.md",
+      "4. Archive/writing-nonfiction/Potential tumblr posts.md",
+      "4. Archive/validating/Autism privilege [posted Tumblr].md",
+      "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
+      "4. Archive/archived-daily/2020-12-30.md"
+    ]
+  },
+  {
+    "tag": "z-archives/cw-culture",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/cw-pubq/CW culture committee notes.md"
+    ]
+  },
+  {
+    "tag": "z-archives/someday-maybe",
+    "tagCount": 13,
+    "relativePaths": [
+      "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
+      "4. Archive/writing-fiction/Faerie story notes.md",
+      "4. Archive/writing-fiction/D&D haunted theater.md",
+      "4. Archive/therapy/Therapist question notes.md",
+      "4. Archive/media-recs/Music I_ve liked.md",
+      "4. Archive/media-recs/Cult books.md",
+      "4. Archive/finances-insurance/Mint alternatives.md",
+      "4. Archive/clothing-and-stuff/desk.md",
+      "4. Archive/asl/ASL things can watch.md",
+      "4. Archive/archived-productivity/Productivity research options.md",
+      "4. Archive/archived-health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
+      "4. Archive/archived-health/TrainingAndRehabilitation videos.md",
+      "4. Archive/archived-health/Health experiment options.md"
+    ]
+  },
+  {
+    "tag": "z-archives/writing",
+    "tagCount": 16,
+    "relativePaths": [
+      "4. Archive/writing-fiction/Thrillersuspense notes.md",
+      "4. Archive/writing-fiction/Pratchett.md",
+      "4. Archive/writing business/Craft article.md",
+      "4. Archive/archived-reviews/Margie course reviews.md",
+      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
     ]
   },
   {
@@ -329,16 +361,6 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/vertical heterophoria/Vertical heterophoria.md"
-    ]
-  },
-  {
-    "tag": "z-archives/pubq",
-    "tagCount": 4,
-    "relativePaths": [
-      "4. Archive/validating/unused PubQ stuff.md",
-      "4. Archive/archived-daily/2021-10-10.md",
-      "4. Archive/archived-cw-pubq/Saved msgs from id-nonbinary PubQ slack.md",
-      "4. Archive/archived-cw-pubq/PubQ.md"
     ]
   },
   {
@@ -1779,28 +1801,6 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/archived-daily/2020-03-22.md"
-    ]
-  },
-  {
-    "tag": "z-archives/upsetting",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/archived-cw-pubq/_not a structural issue_.md"
-    ]
-  },
-  {
-    "tag": "z-archives/clarionwest",
-    "tagCount": 2,
-    "relativePaths": [
-      "4. Archive/archived-cw-pubq/Jae CW committee resignation draft.md",
-      "4. Archive/archived-cw-pubq/CW clarion west slack channel deletions.md"
-    ]
-  },
-  {
-    "tag": "z-archives/cw-culture",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/archived-cw-pubq/CW culture committee notes.md"
     ]
   },
   {

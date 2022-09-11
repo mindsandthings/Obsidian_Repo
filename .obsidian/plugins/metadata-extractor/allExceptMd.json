@@ -61,14 +61,6 @@
       "relativePath": "3. Resources/x477 Indexing course"
     },
     {
-      "name": "archived-correspondence-drafts",
-      "relativePath": "4. Archive/archived-correspondence-drafts"
-    },
-    {
-      "name": "archived-cw-pubq",
-      "relativePath": "4. Archive/archived-cw-pubq"
-    },
-    {
       "name": "archived-daily",
       "relativePath": "4. Archive/archived-daily"
     },
@@ -419,6 +411,18 @@
     {
       "name": "Module 4 - Indexing Specifications",
       "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
+    },
+    {
+      "name": "obsidian",
+      "relativePath": "4. Archive/obsidian"
+    },
+    {
+      "name": "correspondence-drafts",
+      "relativePath": "4. Archive/correspondence-drafts"
+    },
+    {
+      "name": "cw-pubq",
+      "relativePath": "4. Archive/cw-pubq"
     }
   ],
   "nonMdFiles": [
