@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Macrex videos notes.md",
+            "file": "0. Inbox/00-scratchpad-note.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Macrex videos notes.md",
+                "file": "0. Inbox/00-scratchpad-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Macrex videos notes.md",
+                "file": "0. Inbox/00-scratchpad-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Macrex videos notes.md"
+                "file": "0. Inbox/00-scratchpad-note.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
+    "0. Inbox/Macrex videos notes.md",
     "0. Inbox/Life areas and projects - Aug 29 2022.md",
     "daily/2022-09-11-Sun.md",
     "2. Areas/food/Groceries.md",
@@ -173,7 +174,6 @@
     "1. Projects/Marbela mystery/Julie Marbela notes.md",
     "1. Projects/Obsidian/Stuff I could potentially automate.md",
     "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
-    "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md",
-    "Pasted image 20220906101257.png"
+    "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md"
   ]
 }
