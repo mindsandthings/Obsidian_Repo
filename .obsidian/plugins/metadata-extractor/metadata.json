@@ -17136,6 +17136,11 @@
         "fileName": "0.1 reading notes - module 2",
         "link": "Successful Subheadings by Fred Leise",
         "relativePath": "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md"
+      },
+      {
+        "fileName": "Ongoing resources to read",
+        "link": "Successful Subheadings by Fred Leise",
+        "relativePath": "1. Projects/x477 indexing course/0.5 My notes/Ongoing resources to read.md"
       }
     ]
   },
@@ -20762,6 +20767,46 @@
     ]
   },
   {
+    "fileName": "Tea with the queen (unfinished) notes",
+    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+    "headings": [
+      {
+        "heading": "Issues",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Muffet notes",
+    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Muffet notes.md",
+    "headings": [
+      {
+        "heading": "Little Miss Muffet sat on a tuffet, 1",
+        "level": 1
+      },
+      {
+        "heading": "Eating her curds and whey. 2",
+        "level": 1
+      },
+      {
+        "heading": "Along came a spider, 3",
+        "level": 1
+      },
+      {
+        "heading": "Who sat down beside her, 4",
+        "level": 1
+      },
+      {
+        "heading": "And frightened Miss Muffet away. 5",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Baa baa black sheep notes",
+    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md"
+  },
+  {
     "fileName": "Module discussion answer",
     "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion answer.md",
     "headings": [
@@ -20803,24 +20848,6 @@
         "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.0 Module 3.md"
       }
     ]
-  },
-  {
-    "fileName": "Tea with the queen (unfinished) notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Tea with the queen (unfinished) notes.md",
-    "headings": [
-      {
-        "heading": "Issues",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Muffet notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Muffet notes.md"
-  },
-  {
-    "fileName": "Baa baa black sheep notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Baa baa black sheep notes.md"
   },
   {
     "fileName": "3.9 Indexing Exercise 2",
@@ -21523,6 +21550,16 @@
       {
         "heading": "The Indexer",
         "level": 1
+      },
+      {
+        "heading": "To review",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Successful Subheadings by Fred Leise",
+        "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
       }
     ]
   },
