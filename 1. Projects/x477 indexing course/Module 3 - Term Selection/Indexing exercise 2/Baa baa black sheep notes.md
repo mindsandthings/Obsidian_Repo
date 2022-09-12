@@ -9,14 +9,17 @@ And one for the dame, 6
 And one for the little boy, 7  
 Who lives down the lane. 8
 
+sheep. See black sheep
+speaker. See sir
+
 sir
-	greeting of sheep in sheep language, 1
-	questioning of sheep regarding possession of wool, 2
+	greets sheep in sheep language, 1
+	questions sheep regarding possession of wool, 2
 
 black sheep
-	greeting by sir in sheep language, 1
-	questioning by sir regarding possession of wool, 2
-	affirmation to sir of possessing wool bags, 3-4
+	greeted by sir in sheep language, 1
+	questioned by sir regarding possession of wool, 2
+	affirms possession of bags of wool, 3-4
 	See also master; dame; little boy
 
 master 
@@ -33,8 +36,10 @@ little boy
 	See also black sheep
 
 boy. See little boy
+three bags full. See wool, bags of
 
 wool, bags of
+	possessed by sheep, 3-4
 	supplied to master, 5
 	supplied to dame, 6
 	supplied to little boy, 7
