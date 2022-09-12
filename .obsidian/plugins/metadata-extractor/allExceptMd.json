@@ -423,6 +423,10 @@
     {
       "name": "cw-pubq",
       "relativePath": "4. Archive/cw-pubq"
+    },
+    {
+      "name": "food",
+      "relativePath": "2. Areas/food"
     }
   ],
   "nonMdFiles": [

@@ -22,6 +22,10 @@
     ]
   },
   {
+    "fileName": "2022-09-11-Sun",
+    "relativePath": "daily/2022-09-11-Sun.md"
+  },
+  {
     "fileName": "2022-09-10-Sat",
     "relativePath": "daily/2022-09-10-Sat.md"
   },
@@ -19715,6 +19719,10 @@
     "relativePath": "3. Resources/Copyediting and developmental editing/Copyediting.md"
   },
   {
+    "fileName": "Groceries",
+    "relativePath": "2. Areas/food/Groceries.md"
+  },
+  {
     "fileName": "Yearly reminders",
     "relativePath": "2. Areas/reminders/Yearly reminders.md"
   },
@@ -23311,8 +23319,22 @@
     ]
   },
   {
-    "fileName": "Groceries",
-    "relativePath": "0. Inbox/Groceries.md"
+    "fileName": "Macrex videos notes",
+    "relativePath": "0. Inbox/Macrex videos notes.md",
+    "headings": [
+      {
+        "heading": "01 - basic environment",
+        "level": 1
+      },
+      {
+        "heading": "Basic modes",
+        "level": 2
+      },
+      {
+        "heading": "LPE",
+        "level": 2
+      }
+    ]
   },
   {
     "fileName": "Life areas and projects - Aug 29 2022",

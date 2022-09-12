@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-11-Sun.md",
+            "file": "0. Inbox/Macrex videos notes.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.0050811767578
+    "width": 378.0050811767578,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-11-Sun.md",
+                "file": "0. Inbox/Macrex videos notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-11-Sun.md",
+                "file": "0. Inbox/Macrex videos notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-11-Sun.md"
+                "file": "0. Inbox/Macrex videos notes.md"
               }
             }
           },
@@ -164,6 +165,8 @@
   },
   "active": "12948bd9b8db944c",
   "lastOpenFiles": [
+    "0. Inbox/Life areas and projects - Aug 29 2022.md",
+    "daily/2022-09-11-Sun.md",
     "2. Areas/food/Groceries.md",
     "periodic/Daily reminders.md",
     "4. Archive/obsidian/Dropsync to syn Android phone iwth Obsidian in Dropbox.md",
@@ -171,8 +174,6 @@
     "1. Projects/Obsidian/Stuff I could potentially automate.md",
     "1. Projects/Marbela mystery/https___thenovelfactory.blogspot.com_2016_02_myste.md",
     "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md",
-    "Pasted image 20220906101257.png",
-    "Pasted image 20220905173528.png",
-    "0. Inbox/00-scratchpad-note.md"
+    "Pasted image 20220906101257.png"
   ]
 }
