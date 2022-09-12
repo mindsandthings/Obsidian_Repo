@@ -22,6 +22,10 @@
     ]
   },
   {
+    "fileName": "2022-09-12-Mon",
+    "relativePath": "daily/2022-09-12-Mon.md"
+  },
+  {
     "fileName": "2022-09-11-Sun",
     "relativePath": "daily/2022-09-11-Sun.md"
   },
@@ -23314,24 +23318,6 @@
       },
       {
         "heading": "When should the body show up?",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Macrex videos notes",
-    "relativePath": "0. Inbox/Macrex videos notes.md",
-    "headings": [
-      {
-        "heading": "01 - basic environment",
-        "level": 1
-      },
-      {
-        "heading": "Basic modes",
-        "level": 2
-      },
-      {
-        "heading": "LPE",
         "level": 2
       }
     ]
