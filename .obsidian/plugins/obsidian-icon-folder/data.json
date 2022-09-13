@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStarFill",
+      "IbPencil",
       "IbStar",
       "RiStickyNoteFill",
-      "RiQuestionMark",
-      "RiListCheck",
-      "RiCheckboxFill"
+      "RiQuestionMark"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,7 @@
   "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md": "RiCheckboxFill",
   "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md": "RiCheckboxBlankFill",
   "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md": "RiPencilFill",
-  "1. Projects/anki": "IbStar"
+  "1. Projects/anki": "IbStar",
+  "1. Projects/Strengths journal": "IbPencil",
+  "1. Projects/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill"
 }

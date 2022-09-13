@@ -431,6 +431,18 @@
     {
       "name": "Indexing exercise 2",
       "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2"
+    },
+    {
+      "name": "Strengths course texts",
+      "relativePath": "1. Projects/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "Coaching notes",
+      "relativePath": "1. Projects/Strengths course/Coaching notes"
+    },
+    {
+      "name": "Strengths journal",
+      "relativePath": "1. Projects/Strengths journal"
     }
   ],
   "nonMdFiles": [
@@ -465,11 +477,6 @@
       "relativePath": "2. Areas/productivity/Progressive Summarization Cheat Sheet.pdf"
     },
     {
-      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
-      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
-      "relativePath": "1. Projects/Strengths course/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
-    },
-    {
       "name": "cover9781938800078_p0_v1_s600x595.jpg",
       "basename": "cover9781938800078_p0_v1_s600x595",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/cover9781938800078_p0_v1_s600x595.jpg"
@@ -483,6 +490,11 @@
       "name": "bluehaircropped.jpg",
       "basename": "bluehaircropped",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/bluehaircropped.jpg"
+    },
+    {
+      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
+      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
+      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     }
   ]
 }

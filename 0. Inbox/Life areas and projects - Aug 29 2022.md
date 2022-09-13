@@ -42,12 +42,12 @@ Tue, Aug 30, 2022:
 * Making lists of authors/books
 	* Authors to look up for possible writing advice
 	* Books to read and attempt to analyze (incl nonfiction)
-* Have notes on how to [[altering my own revising practices]] during revision
+* Have notes on how to [[Development plan Sep 2022]] during revision
 
 # Novel [in process]
 Tue, Aug 30, 2022: 
 * Adding scenes into Excel
-* When done, start rewriting; use [[altering my own revising practices]] in revision
+* When done, start rewriting; use [[Development plan Sep 2022]] in revision
 
 # Marbela story [focus on this]
 - will happen as it happens, but good to do some reading and planning

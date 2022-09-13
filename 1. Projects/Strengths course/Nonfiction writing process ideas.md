@@ -1,1 +1,0 @@
-could I make an index and then pick a chunk of index, to write nonfiction?
