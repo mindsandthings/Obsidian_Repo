@@ -146,4 +146,5 @@ c. Hold tight and let Mayor Myrtle handle things.
 d. Keep herself calm. Mix up another couple Marbelinis. 
 
 
+# c. Hold tight and let Mayor Myrtle handle things. 
 
