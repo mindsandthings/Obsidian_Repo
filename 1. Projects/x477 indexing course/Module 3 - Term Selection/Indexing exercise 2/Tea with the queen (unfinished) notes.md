@@ -188,7 +188,6 @@ teddy bear
 	queen's friendly conversation with, 15
 
 loneliness of queen
-	queen's delight at seeing teddy bear, 13
 	conversation with teddy bear as ameliorating, 15
 	
 tea with the queen
