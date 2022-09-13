@@ -148,3 +148,37 @@ d. Keep herself calm. Mix up another couple Marbelinis.
 
 # c. Hold tight and let Mayor Myrtle handle things. 
 
+Maybe she should check inside the museum for the security guard. No, maybe she should ask somebody else to check. No, maybe she should stay here. She needed to watch the catering station for Paisley. 
+
+"Cyrus." Mayor Myrtle's voice sounded like she looked: a layer of friendly soft blubber over a solid iron core. "If you don't leave off, I will tell stories about your grandfather. And believe me, I can tell a few."
+
+"This is an outrage." Cyrus's words were strong but his voice wavered and his gaze dropped. He slumped, deflated, and bobbed back into the crowd. 
+
+"Thanks to a generous bequeathal from Ocean Depths'
+famous puzzle-maker Augusta, 
+
+
+Mr. 
+
+Mademoiselle Lifi, elaborate makeup
+she reveals it
+paisley's standing there with the guard; the wall is missing
+the leafy sea dragon screams and faints
+
+
+What should Marbela do? 
+
+a. Watch her boss, Paisley. 
+
+b. Watch the security guard.
+
+c. Watch Mayor Myrtle. 
+
+d. Watch Cyrus, the unhelpful blobfish who accused Augusta's descendants of faking Augusta's will. 
+
+e. Watch Aria, Augusta's descendant who spoke out against Cyrus. 
+
+f. Watch someone else. (The manatee kid? The school of herring art students? The museum's proprietor, a stuffy-looking shrimp? A starfish with several top hats and an expensive-looking monocle?)
+
+g. Bring Mademoiselle Lifi a reviving drink. 
+
