@@ -33,6 +33,58 @@
       "relativePath": "periodic"
     },
     {
+      "name": "Gallup Strengths",
+      "relativePath": "2. Areas/Gallup Strengths"
+    },
+    {
+      "name": "EBT",
+      "relativePath": "2. Areas/EBT"
+    },
+    {
+      "name": "food",
+      "relativePath": "2. Areas/food"
+    },
+    {
+      "name": "Web presence updates",
+      "relativePath": "2. Areas/Web presence updates"
+    },
+    {
+      "name": "productivity",
+      "relativePath": "2. Areas/productivity"
+    },
+    {
+      "name": "reminders",
+      "relativePath": "2. Areas/reminders"
+    },
+    {
+      "name": "Marbela mystery",
+      "relativePath": "1. Projects/Marbela mystery"
+    },
+    {
+      "name": "Obsidian",
+      "relativePath": "1. Projects/Obsidian"
+    },
+    {
+      "name": "Strengths course",
+      "relativePath": "1. Projects/Strengths course"
+    },
+    {
+      "name": "Strengths journal",
+      "relativePath": "1. Projects/Strengths journal"
+    },
+    {
+      "name": "Writer and book search",
+      "relativePath": "1. Projects/Writer and book search"
+    },
+    {
+      "name": "anki",
+      "relativePath": "1. Projects/anki"
+    },
+    {
+      "name": "x477 indexing course",
+      "relativePath": "1. Projects/x477 indexing course"
+    },
+    {
       "name": "Copyediting and developmental editing",
       "relativePath": "3. Resources/Copyediting and developmental editing"
     },
@@ -177,6 +229,14 @@
       "relativePath": "4. Archive/clothing-and-stuff"
     },
     {
+      "name": "correspondence-drafts",
+      "relativePath": "4. Archive/correspondence-drafts"
+    },
+    {
+      "name": "cw-pubq",
+      "relativePath": "4. Archive/cw-pubq"
+    },
+    {
       "name": "embassy-common",
       "relativePath": "4. Archive/embassy-common"
     },
@@ -235,6 +295,10 @@
     {
       "name": "media-recs",
       "relativePath": "4. Archive/media-recs"
+    },
+    {
+      "name": "obsidian",
+      "relativePath": "4. Archive/obsidian"
     },
     {
       "name": "pl",
@@ -305,48 +369,32 @@
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "EBT",
-      "relativePath": "2. Areas/EBT"
+      "name": "strengths-2022",
+      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
     },
     {
-      "name": "Gallup Strengths",
-      "relativePath": "2. Areas/Gallup Strengths"
+      "name": "0. Introductory material",
+      "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
     {
-      "name": "Web presence updates",
-      "relativePath": "2. Areas/Web presence updates"
+      "name": "0.5 My notes",
+      "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
     },
     {
-      "name": "productivity",
-      "relativePath": "2. Areas/productivity"
+      "name": "Module 3 - Term Selection",
+      "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection"
     },
     {
-      "name": "reminders",
-      "relativePath": "2. Areas/reminders"
+      "name": "Module 4 - Indexing Specifications",
+      "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
     },
     {
-      "name": "Marbela mystery",
-      "relativePath": "1. Projects/Marbela mystery"
+      "name": "Coaching notes",
+      "relativePath": "1. Projects/Strengths course/Coaching notes"
     },
     {
-      "name": "Obsidian",
-      "relativePath": "1. Projects/Obsidian"
-    },
-    {
-      "name": "Strengths course",
-      "relativePath": "1. Projects/Strengths course"
-    },
-    {
-      "name": "Writer and book search",
-      "relativePath": "1. Projects/Writer and book search"
-    },
-    {
-      "name": "anki",
-      "relativePath": "1. Projects/anki"
-    },
-    {
-      "name": "x477 indexing course",
-      "relativePath": "1. Projects/x477 indexing course"
+      "name": "Strengths course texts",
+      "relativePath": "1. Projects/Strengths course/Strengths course texts"
     },
     {
       "name": "Business planning",
@@ -373,10 +421,6 @@
       "relativePath": "4. Archive/archived-health/archived-vertical-heterophoria"
     },
     {
-      "name": "family",
-      "relativePath": "4. Archive/finances-insurance/family"
-    },
-    {
       "name": "Ada interview - Mar 2021.md",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md"
     },
@@ -389,60 +433,16 @@
       "relativePath": "4. Archive/bios/Resumes"
     },
     {
+      "name": "family",
+      "relativePath": "4. Archive/finances-insurance/family"
+    },
+    {
       "name": "ASI Module A",
       "relativePath": "4. Archive/indexing/ASI Module A"
     },
     {
-      "name": "strengths-2022",
-      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
-    },
-    {
-      "name": "0. Introductory material",
-      "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
-    },
-    {
-      "name": "0.5 My notes",
-      "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
-    },
-    {
-      "name": "Module 3 - Term Selection",
-      "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection"
-    },
-    {
-      "name": "Module 4 - Indexing Specifications",
-      "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
-    },
-    {
-      "name": "obsidian",
-      "relativePath": "4. Archive/obsidian"
-    },
-    {
-      "name": "correspondence-drafts",
-      "relativePath": "4. Archive/correspondence-drafts"
-    },
-    {
-      "name": "cw-pubq",
-      "relativePath": "4. Archive/cw-pubq"
-    },
-    {
-      "name": "food",
-      "relativePath": "2. Areas/food"
-    },
-    {
       "name": "Indexing exercise 2",
       "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2"
-    },
-    {
-      "name": "Strengths course texts",
-      "relativePath": "1. Projects/Strengths course/Strengths course texts"
-    },
-    {
-      "name": "Coaching notes",
-      "relativePath": "1. Projects/Strengths course/Coaching notes"
-    },
-    {
-      "name": "Strengths journal",
-      "relativePath": "1. Projects/Strengths journal"
     }
   ],
   "nonMdFiles": [
@@ -477,6 +477,16 @@
       "relativePath": "2. Areas/productivity/Progressive Summarization Cheat Sheet.pdf"
     },
     {
+      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
+      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
+      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
+    },
+    {
+      "name": "bluehaircropped.jpg",
+      "basename": "bluehaircropped",
+      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/bluehaircropped.jpg"
+    },
+    {
       "name": "cover9781938800078_p0_v1_s600x595.jpg",
       "basename": "cover9781938800078_p0_v1_s600x595",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/cover9781938800078_p0_v1_s600x595.jpg"
@@ -485,16 +495,6 @@
       "name": "ttl2-2560x1600-1.jpg",
       "basename": "ttl2-2560x1600-1",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
-    },
-    {
-      "name": "bluehaircropped.jpg",
-      "basename": "bluehaircropped",
-      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/bluehaircropped.jpg"
-    },
-    {
-      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
-      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
-      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     }
   ]
 }

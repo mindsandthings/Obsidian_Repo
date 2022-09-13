@@ -16,29 +16,50 @@
     ]
   },
   {
-    "tag": "z-archives/upsetting",
-    "tagCount": 1,
+    "tag": "z-archives/writing/nonfiction/post-ideas",
+    "tagCount": 5,
     "relativePaths": [
-      "4. Archive/cw-pubq/_not a structural issue_.md"
+      "4. Archive/writing-nonfiction/Potential tumblr posts.md",
+      "4. Archive/validating/Autism privilege [posted Tumblr].md",
+      "4. Archive/cw-pubq/CW survey answers leftover.md",
+      "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
+      "4. Archive/archived-daily/2020-12-30.md"
     ]
   },
   {
-    "tag": "z-archives/pubq",
-    "tagCount": 4,
+    "tag": "z-archives/someday-maybe",
+    "tagCount": 13,
     "relativePaths": [
-      "4. Archive/cw-pubq/Saved msgs from id-nonbinary PubQ slack.md",
-      "4. Archive/cw-pubq/PubQ.md",
-      "4. Archive/validating/unused PubQ stuff.md",
-      "4. Archive/archived-daily/2021-10-10.md"
+      "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
+      "4. Archive/writing-fiction/Faerie story notes.md",
+      "4. Archive/writing-fiction/D&D haunted theater.md",
+      "4. Archive/therapy/Therapist question notes.md",
+      "4. Archive/media-recs/Music I_ve liked.md",
+      "4. Archive/media-recs/Cult books.md",
+      "4. Archive/finances-insurance/Mint alternatives.md",
+      "4. Archive/clothing-and-stuff/desk.md",
+      "4. Archive/asl/ASL things can watch.md",
+      "4. Archive/archived-productivity/Productivity research options.md",
+      "4. Archive/archived-health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
+      "4. Archive/archived-health/TrainingAndRehabilitation videos.md",
+      "4. Archive/archived-health/Health experiment options.md"
+    ]
+  },
+  {
+    "tag": "z-archives/writing",
+    "tagCount": 16,
+    "relativePaths": [
+      "4. Archive/writing-fiction/Thrillersuspense notes.md",
+      "4. Archive/writing-fiction/Pratchett.md",
+      "4. Archive/writing business/Craft article.md",
+      "4. Archive/archived-reviews/Margie course reviews.md",
+      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
     ]
   },
   {
     "tag": "z-archives",
     "tagCount": 735,
     "relativePaths": [
-      "4. Archive/cw-pubq/PubQ microaggressions survey.md",
-      "4. Archive/correspondence-drafts/HRP notes for endever_.md",
-      "4. Archive/correspondence-drafts/Guberman earlier draft.md",
       "4. Archive/writing-fiction/Southern accent research.md",
       "4. Archive/writing business/Writers group continuation recs.md",
       "4. Archive/writing business/Writer_s shed.md",
@@ -85,6 +106,9 @@
       "4. Archive/finances-insurance/family/Dad and Carol_s wills and assets.md",
       "4. Archive/emergency-preparedness/Evacuation packing list.md",
       "4. Archive/embassy-common/Garage shelves.md",
+      "4. Archive/cw-pubq/PubQ microaggressions survey.md",
+      "4. Archive/correspondence-drafts/HRP notes for endever_.md",
+      "4. Archive/correspondence-drafts/Guberman earlier draft.md",
       "4. Archive/clothing-and-stuff/Packing list.md",
       "4. Archive/civic-participation/Votes 2020.md",
       "4. Archive/backups/elizabethbartmess website.md",
@@ -120,62 +144,6 @@
     ]
   },
   {
-    "tag": "z-archives/clarionwest",
-    "tagCount": 2,
-    "relativePaths": [
-      "4. Archive/cw-pubq/Jae CW committee resignation draft.md",
-      "4. Archive/cw-pubq/CW clarion west slack channel deletions.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing/nonfiction/post-ideas",
-    "tagCount": 5,
-    "relativePaths": [
-      "4. Archive/cw-pubq/CW survey answers leftover.md",
-      "4. Archive/writing-nonfiction/Potential tumblr posts.md",
-      "4. Archive/validating/Autism privilege [posted Tumblr].md",
-      "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
-      "4. Archive/archived-daily/2020-12-30.md"
-    ]
-  },
-  {
-    "tag": "z-archives/cw-culture",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/cw-pubq/CW culture committee notes.md"
-    ]
-  },
-  {
-    "tag": "z-archives/someday-maybe",
-    "tagCount": 13,
-    "relativePaths": [
-      "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
-      "4. Archive/writing-fiction/Faerie story notes.md",
-      "4. Archive/writing-fiction/D&D haunted theater.md",
-      "4. Archive/therapy/Therapist question notes.md",
-      "4. Archive/media-recs/Music I_ve liked.md",
-      "4. Archive/media-recs/Cult books.md",
-      "4. Archive/finances-insurance/Mint alternatives.md",
-      "4. Archive/clothing-and-stuff/desk.md",
-      "4. Archive/asl/ASL things can watch.md",
-      "4. Archive/archived-productivity/Productivity research options.md",
-      "4. Archive/archived-health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
-      "4. Archive/archived-health/TrainingAndRehabilitation videos.md",
-      "4. Archive/archived-health/Health experiment options.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing",
-    "tagCount": 16,
-    "relativePaths": [
-      "4. Archive/writing-fiction/Thrillersuspense notes.md",
-      "4. Archive/writing-fiction/Pratchett.md",
-      "4. Archive/writing business/Craft article.md",
-      "4. Archive/archived-reviews/Margie course reviews.md",
-      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
-    ]
-  },
-  {
     "tag": "z-archives/partially-written-threads",
     "tagCount": 1,
     "relativePaths": [
@@ -189,8 +157,8 @@
       "4. Archive/writing business/agents.md",
       "4. Archive/writing business/Writers organizations.md",
       "4. Archive/licenses-passwords/Jellyfish photo license.md",
-      "4. Archive/archived-sensitivity-read/Sensitivity read prices.md",
-      "4. Archive/archived-sensitivity-read/Sensitivity read costs.md"
+      "4. Archive/archived-sensitivity-read/Sensitivity read costs.md",
+      "4. Archive/archived-sensitivity-read/Sensitivity read prices.md"
     ]
   },
   {
@@ -332,11 +300,11 @@
       "4. Archive/validating/Emotional abuse cheatsheet.md",
       "4. Archive/validating/Contextual gender.md",
       "4. Archive/validating/Communication styles connection and competition.md",
-      "4. Archive/validating/Bi folks in straight-passing relationships are que.md",
       "4. Archive/validating/Cognitive dissonance.md",
+      "4. Archive/validating/Bi folks in straight-passing relationships are que.md",
       "4. Archive/validating/Bad SJ.md",
-      "4. Archive/validating/Affirmation re abuse.md",
       "4. Archive/validating/Articulating the situation.md",
+      "4. Archive/validating/Affirmation re abuse.md",
       "4. Archive/trauma-and-associated/Fawn.md",
       "4. Archive/media/Last Unicorn.md",
       "4. Archive/archived-sunrise-movement/GND disability.md",
@@ -362,6 +330,16 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/vertical heterophoria/Vertical heterophoria.md"
+    ]
+  },
+  {
+    "tag": "z-archives/pubq",
+    "tagCount": 4,
+    "relativePaths": [
+      "4. Archive/validating/unused PubQ stuff.md",
+      "4. Archive/cw-pubq/Saved msgs from id-nonbinary PubQ slack.md",
+      "4. Archive/cw-pubq/PubQ.md",
+      "4. Archive/archived-daily/2021-10-10.md"
     ]
   },
   {
@@ -437,10 +415,10 @@
       "4. Archive/asl/ASL to reviewpractic.md",
       "4. Archive/archived-daily/Weekly journal summaries.md",
       "4. Archive/archived-daily/Wed, Oct 6, 2021.md",
-      "4. Archive/archived-daily/Wed, Nov 3, 2021.md",
       "4. Archive/archived-daily/Wed, Oct 27, 2021.md",
       "4. Archive/archived-daily/Wed, Oct 20, 2021.md",
       "4. Archive/archived-daily/Wed, Oct 13, 2021.md",
+      "4. Archive/archived-daily/Wed, Nov 3, 2021.md",
       "4. Archive/archived-daily/Wed, Nov 24, 2021.md",
       "4. Archive/archived-daily/Tues, Oct 5, 2021.md",
       "4. Archive/archived-daily/Tue, Oct 19, 2021.md",
@@ -450,8 +428,8 @@
       "4. Archive/archived-daily/Tue, Nov 2, 2021.md",
       "4. Archive/archived-daily/Tue, Nov 16, 2021.md",
       "4. Archive/archived-daily/Thu, Oct 7, 2021.md",
-      "4. Archive/archived-daily/Thu, Oct 28, 2021.md",
       "4. Archive/archived-daily/Thu, Oct 21, 2021.md",
+      "4. Archive/archived-daily/Thu, Oct 28, 2021.md",
       "4. Archive/archived-daily/Thu, Oct 14, 2021.md",
       "4. Archive/archived-daily/Thu, Nov 4, 2021.md",
       "4. Archive/archived-daily/Thu, Nov 11, 2021.md",
@@ -506,29 +484,29 @@
       "4. Archive/measurements/Measurements 6th ave.md",
       "4. Archive/finances-insurance/money discussion coronavirus.md",
       "4. Archive/archived-daily/Wed, Sep 9, 2020.md",
-      "4. Archive/archived-daily/Wed, Sep 23, 2020.md",
       "4. Archive/archived-daily/Wed, Sep 30, 2020.md",
+      "4. Archive/archived-daily/Wed, Sep 23, 2020.md",
       "4. Archive/archived-daily/Wed, Sep 2, 2020.md",
-      "4. Archive/archived-daily/Wed, Oct 7, 2020.md",
       "4. Archive/archived-daily/Wed, Sep 16, 2020.md",
+      "4. Archive/archived-daily/Wed, Oct 7, 2020.md",
       "4. Archive/archived-daily/Wed, Oct 28, 2020.md",
-      "4. Archive/archived-daily/Wed, Nov 25, 2020.md",
       "4. Archive/archived-daily/Wed, Oct 21, 2020.md",
       "4. Archive/archived-daily/Wed, Oct 14, 2020.md",
       "4. Archive/archived-daily/Wed, Nov 4, 2020.md",
+      "4. Archive/archived-daily/Wed, Nov 25, 2020.md",
       "4. Archive/archived-daily/Wed, Nov 18, 2020.md",
       "4. Archive/archived-daily/Wed, Nov 11, 2020.md",
       "4. Archive/archived-daily/Wed, May 6, 2020.md",
       "4. Archive/archived-daily/Wed, May 27, 2020.md",
-      "4. Archive/archived-daily/Wed, May 13, 2020.md",
       "4. Archive/archived-daily/Wed, May 20, 2020.md",
-      "4. Archive/archived-daily/Wed, Mar 3, 2021.md",
+      "4. Archive/archived-daily/Wed, May 13, 2020.md",
+      "4. Archive/archived-daily/Wed, Mar 11, 2020.md",
       "4. Archive/archived-daily/Wed, Mar 4, 2020.md",
       "4. Archive/archived-daily/Wed, Mar 25, 2020.md",
-      "4. Archive/archived-daily/Wed, Mar 11, 2020.md",
+      "4. Archive/archived-daily/Wed, Mar 3, 2021.md",
       "4. Archive/archived-daily/Wed, Mar 10, 2021.md",
-      "4. Archive/archived-daily/Wed, Jun 24, 2020.md",
       "4. Archive/archived-daily/Wed, Jun 3, 2020.md",
+      "4. Archive/archived-daily/Wed, Jun 24, 2020.md",
       "4. Archive/archived-daily/Wed, Jun 17, 2020.md",
       "4. Archive/archived-daily/Wed, Jun 10, 2020.md",
       "4. Archive/archived-daily/Wed, Jul 8, 2020.md",
@@ -537,23 +515,23 @@
       "4. Archive/archived-daily/Wed, Jul 15, 2020.md",
       "4. Archive/archived-daily/Wed, Jul 1, 2020.md",
       "4. Archive/archived-daily/Wed, Jan 8, 2020.md",
-      "4. Archive/archived-daily/Wed, Jan 6, 2021.md",
-      "4. Archive/archived-daily/Wed, Jan 29, 2020.md",
       "4. Archive/archived-daily/Wed, Jan 27, 2021.md",
       "4. Archive/archived-daily/Wed, Jan 22, 2020.md",
+      "4. Archive/archived-daily/Wed, Jan 6, 2021.md",
+      "4. Archive/archived-daily/Wed, Jan 29, 2020.md",
       "4. Archive/archived-daily/Wed, Jan 20, 2021.md",
       "4. Archive/archived-daily/Wed, Jan 13, 2021.md",
       "4. Archive/archived-daily/Wed, Jan 1, 2020.md",
+      "4. Archive/archived-daily/Wed, Feb 24, 2021.md",
       "4. Archive/archived-daily/Wed, Feb 5, 2020.md",
       "4. Archive/archived-daily/Wed, Feb 26, 2020.md",
-      "4. Archive/archived-daily/Wed, Feb 24, 2021.md",
       "4. Archive/archived-daily/Wed, Feb 19, 2020.md",
       "4. Archive/archived-daily/Wed, Feb 17, 2021.md",
       "4. Archive/archived-daily/Wed, Feb 12, 2020.md",
       "4. Archive/archived-daily/Wed, Dec 9, 2020.md",
       "4. Archive/archived-daily/Wed, Dec 30, 2020.md",
-      "4. Archive/archived-daily/Wed, Dec 23, 2020.md",
       "4. Archive/archived-daily/Wed, Dec 2, 2020.md",
+      "4. Archive/archived-daily/Wed, Dec 23, 2020.md",
       "4. Archive/archived-daily/Wed, Dec 16, 2020.md",
       "4. Archive/archived-daily/Wed, Aug 5, 2020.md",
       "4. Archive/archived-daily/Wed, Aug 26, 2020.md",
@@ -590,8 +568,8 @@
       "4. Archive/archived-daily/Tue, Mar 24, 2020.md",
       "4. Archive/archived-daily/Tue, Mar 2, 2021.md",
       "4. Archive/archived-daily/Tue, Mar 17, 2020.md",
-      "4. Archive/archived-daily/Tue, Mar 10, 2020.md",
       "4. Archive/archived-daily/Tue, Jun 9, 2020.md",
+      "4. Archive/archived-daily/Tue, Mar 10, 2020.md",
       "4. Archive/archived-daily/Tue, Jun 30, 2020.md",
       "4. Archive/archived-daily/Tue, Jun 23, 2020.md",
       "4. Archive/archived-daily/Tue, Jun 2, 2020.md",
@@ -606,26 +584,26 @@
       "4. Archive/archived-daily/Tue, Jan 19, 2021.md",
       "4. Archive/archived-daily/Tue, Jan 14, 2020.md",
       "4. Archive/archived-daily/Tue, Feb 9, 2021.md",
+      "4. Archive/archived-daily/Tue, Feb 18, 2020.md",
       "4. Archive/archived-daily/Tue, Feb 4, 2020.md",
       "4. Archive/archived-daily/Tue, Feb 23, 2021.md",
-      "4. Archive/archived-daily/Tue, Feb 18, 2020.md",
-      "4. Archive/archived-daily/Tue, Dec 22, 2020.md",
       "4. Archive/archived-daily/Tue, Feb 16, 2021.md",
       "4. Archive/archived-daily/Tue, Dec 8, 2020.md",
       "4. Archive/archived-daily/Tue, Dec 29, 2020.md",
-      "4. Archive/archived-daily/Tue, Dec 15, 2020.md",
+      "4. Archive/archived-daily/Tue, Dec 22, 2020.md",
       "4. Archive/archived-daily/Tue, Dec 1, 2020.md",
+      "4. Archive/archived-daily/Tue, Dec 15, 2020.md",
       "4. Archive/archived-daily/Tue, Aug 25, 2020.md",
       "4. Archive/archived-daily/Tue, Aug 18, 2020.md",
       "4. Archive/archived-daily/Tue, Aug 11, 2020.md",
-      "4. Archive/archived-daily/Tue, Apr 7, 2020.md",
       "4. Archive/archived-daily/Tue, Apr 28, 2020.md",
+      "4. Archive/archived-daily/Tue, Apr 7, 2020.md",
       "4. Archive/archived-daily/Tue, Apr 21, 2020.md",
       "4. Archive/archived-daily/Tue, Apr 14, 2020.md",
       "4. Archive/archived-daily/Thu, Sep 3, 2020.md",
       "4. Archive/archived-daily/Thu, Sep 24, 2020.md",
-      "4. Archive/archived-daily/Thu, Sep 17, 2020.md",
       "4. Archive/archived-daily/Thu, Sep 10, 2020.md",
+      "4. Archive/archived-daily/Thu, Sep 17, 2020.md",
       "4. Archive/archived-daily/Thu, Oct 8, 2020.md",
       "4. Archive/archived-daily/Thu, Oct 29, 2020.md",
       "4. Archive/archived-daily/Thu, Oct 22, 2020.md",
@@ -637,9 +615,9 @@
       "4. Archive/archived-daily/Thu, May 7, 2020.md",
       "4. Archive/archived-daily/Thu, May 14, 2020.md",
       "4. Archive/archived-daily/Thu, Mar 5, 2020.md",
+      "4. Archive/archived-daily/Thu, Mar 19, 2020.md",
       "4. Archive/archived-daily/Thu, Mar 4, 2021.md",
       "4. Archive/archived-daily/Thu, Mar 26, 2020.md",
-      "4. Archive/archived-daily/Thu, Mar 19, 2020.md",
       "4. Archive/archived-daily/Thu, Mar 12, 2020.md",
       "4. Archive/archived-daily/Thu, Mar 11, 2021.md",
       "4. Archive/archived-daily/Thu, Jun 4, 2020.md",
@@ -670,8 +648,8 @@
       "4. Archive/archived-daily/Thu, Dec 31, 2020.md",
       "4. Archive/archived-daily/Thu, Dec 3, 2020.md",
       "4. Archive/archived-daily/Thu, Dec 17, 2020.md",
-      "4. Archive/archived-daily/Thu, Dec 10, 2020.md",
       "4. Archive/archived-daily/Thu, Aug 27, 2020.md",
+      "4. Archive/archived-daily/Thu, Dec 10, 2020.md",
       "4. Archive/archived-daily/Thu, Aug 20, 2020.md",
       "4. Archive/archived-daily/Thu, Aug 13, 2020.md",
       "4. Archive/archived-daily/Thu, Apr 9, 2020.md",
@@ -706,8 +684,8 @@
       "4. Archive/archived-daily/Sun, Jun 21, 2020.md",
       "4. Archive/archived-daily/Sun, Jun 14, 2020.md",
       "4. Archive/archived-daily/Sun, Jul 5, 2020.md",
-      "4. Archive/archived-daily/Sun, Jul 19, 2020.md",
       "4. Archive/archived-daily/Sun, Jul 12, 2020.md",
+      "4. Archive/archived-daily/Sun, Jul 19, 2020.md",
       "4. Archive/archived-daily/Sun, Jan 5, 2020.md",
       "4. Archive/archived-daily/Sun, Jan 31, 2021.md",
       "4. Archive/archived-daily/Sun, Jan 3, 2021.md",
@@ -716,11 +694,11 @@
       "4. Archive/archived-daily/Sun, Jan 17, 2021.md",
       "4. Archive/archived-daily/Sun, Jan 12, 2020.md",
       "4. Archive/archived-daily/Sun, Feb 9, 2020.md",
-      "4. Archive/archived-daily/Sun, Feb 7, 2021.md",
       "4. Archive/archived-daily/Sun, Feb 28, 2021.md",
+      "4. Archive/archived-daily/Sun, Feb 7, 2021.md",
       "4. Archive/archived-daily/Sun, Feb 23, 2020.md",
-      "4. Archive/archived-daily/Sun, Feb 21, 2021.md",
       "4. Archive/archived-daily/Sun, Feb 2, 2020.md",
+      "4. Archive/archived-daily/Sun, Feb 21, 2021.md",
       "4. Archive/archived-daily/Sun, Feb 16, 2020.md",
       "4. Archive/archived-daily/Sun, Feb 14, 2021.md",
       "4. Archive/archived-daily/Sun, Dec 27, 2020.md",
@@ -729,8 +707,8 @@
       "4. Archive/archived-daily/Sun, Aug 9, 2020.md",
       "4. Archive/archived-daily/Sun, Aug 30, 2020.md",
       "4. Archive/archived-daily/Sun, Aug 23, 2020.md",
-      "4. Archive/archived-daily/Sun, Aug 2, 2020.md",
       "4. Archive/archived-daily/Sun, Aug 16, 2020.md",
+      "4. Archive/archived-daily/Sun, Aug 2, 2020.md",
       "4. Archive/archived-daily/Sun, Apr 5, 2020.md",
       "4. Archive/archived-daily/Sun, Apr 26, 2020.md",
       "4. Archive/archived-daily/Sun, Apr 19, 2020.md",
@@ -818,8 +796,8 @@
       "4. Archive/archived-daily/Mon, Jun 1, 2020.md",
       "4. Archive/archived-daily/Mon, Jul 27, 2020.md",
       "4. Archive/archived-daily/Mon, Jul 20, 2020.md",
-      "4. Archive/archived-daily/Mon, Jan 6, 2020.md",
       "4. Archive/archived-daily/Mon, Jul 13, 2020.md",
+      "4. Archive/archived-daily/Mon, Jan 6, 2020.md",
       "4. Archive/archived-daily/Mon, Jan 4, 2021.md",
       "4. Archive/archived-daily/Mon, Jan 27, 2020.md",
       "4. Archive/archived-daily/Mon, Jan 25, 2021.md",
@@ -890,8 +868,8 @@
       "4. Archive/archived-daily/Fri, Jan 10, 2020.md",
       "4. Archive/archived-daily/Fri, Jan 1, 2021.md",
       "4. Archive/archived-daily/Fri, Feb 7, 2020.md",
-      "4. Archive/archived-daily/Fri, Feb 28, 2020.md",
       "4. Archive/archived-daily/Fri, Feb 26, 2021.md",
+      "4. Archive/archived-daily/Fri, Feb 28, 2020.md",
       "4. Archive/archived-daily/Fri, Feb 19, 2021.md",
       "4. Archive/archived-daily/Fri, Feb 14, 2020.md",
       "4. Archive/archived-daily/Fri, Dec 4, 2020.md",
@@ -1015,6 +993,28 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/embassy-common/Lease notes with items to review.md"
+    ]
+  },
+  {
+    "tag": "z-archives/upsetting",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/cw-pubq/_not a structural issue_.md"
+    ]
+  },
+  {
+    "tag": "z-archives/clarionwest",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/cw-pubq/Jae CW committee resignation draft.md",
+      "4. Archive/cw-pubq/CW clarion west slack channel deletions.md"
+    ]
+  },
+  {
+    "tag": "z-archives/cw-culture",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/cw-pubq/CW culture committee notes.md"
     ]
   },
   {
@@ -1662,8 +1662,8 @@
     "tagCount": 3,
     "relativePaths": [
       "4. Archive/archived-health/archived-doctor-notes/Blitshteyn notes for Mon, May 17, 2021.md",
-      "4. Archive/archived-health/archived-doctor-notes/Blitshteyn Oct 2019.md",
-      "4. Archive/archived-health/archived-doctor-notes/Blitshteyn appointment Mon, Dec 7, 2020.md"
+      "4. Archive/archived-health/archived-doctor-notes/Blitshteyn appointment Mon, Dec 7, 2020.md",
+      "4. Archive/archived-health/archived-doctor-notes/Blitshteyn Oct 2019.md"
     ]
   },
   {
