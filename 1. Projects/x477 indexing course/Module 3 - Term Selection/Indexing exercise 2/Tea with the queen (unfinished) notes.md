@@ -50,7 +50,7 @@ why: to visit queen's palace
 
 teddy bear
 	speaker asks where t. has been, 1
-	visit with queen, recounting of, 3-18
+	visit with queen recounted by, 3-18
 
 London
 	teddy bear's destination, 3
@@ -97,6 +97,10 @@ palace gate
 gate of queen's palace. See palace gate
 gate. See palace gate
 
+loneliness of queen
+	palace gate and soldiers as barriers to social connection, 5-6
+
+
 > [!NOTE]
 > Then one of her footmen, 7  
 > All dressed in red, 8  
@@ -114,7 +118,7 @@ what: nicknames teddy bear Ted*
 
 footman
 	red outfit, 8
-	nicknames teddy bear, 9
+	teddy bear nicknamed by, as indicator of personal relationship, 9
 	teddy bear escorted to queen by, 9
 	
 queen's footman. See footman
@@ -122,13 +126,13 @@ queen's footman. See footman
 Ted. See teddy bear
 
 teddy bear
-	nickname given by footman, 9
+	footman's nicknaming as indicator of personal relationship, 9
 	footman leads into palace, 7
 
 gate of queen's palace
 	footman escorts teddy bear to queen from, 9
 
-
+	
 > [!NOTE]
 > And there in a huge room, 10  
 > High on her throne, 11  
@@ -156,8 +160,12 @@ teddy bear
 tea with teddy bear and queen
 	teddy bear's arrival at huge room, 10-12
 
-==loneliness
-	???
+loneliness of queen
+	huge room as symbolic of, 10
+	throne's height as symbolic of, 11
+	taking tea alone as representative of, 12
+	teddy bear's recognition of, 12
+	
 
 > [!NOTE]
 > She said, how delightful, 13  
@@ -165,8 +173,8 @@ tea with teddy bear and queen
 > And soon we were chattering just like old chums! 15
 
 queen
-	greets teddy bear, 13
-	invites teddy bear to tea, 14
+	teddy bear greeted by, 13
+	teddy bear invited to tea by, 14
 	teddy bear, friendly conversation with, 14
 
 huge room
@@ -179,8 +187,14 @@ teddy bear
 	queen invites to tea, 14
 	queen's friendly conversation with, 15
 
-tea with queen
-	????
+loneliness of queen
+	queen's delight at seeing teddy bear, 13
+	conversation with teddy bear as ameliorating, 15
+	
+tea with the queen
+	teddy bear greeted by queen, 13
+	teddy bear invited to tea by queen, 14
+	friendly conversation between queen and teddy bear, 15
 
 > [!NOTE]
 > And when time came to leave, 16  
@@ -203,26 +217,18 @@ why: queen enjoyed his visit
 under what circumstances: 
 
 queen
-	handshake with teddy bear at visit's conclusion, 16-17
+	handshake with teddy bear at end of visit, 16-17
 	teddy bear invited to tea again by, 18
+	See also loneliness of queen
 
 huge room
-	handshake between queen and teddy bear at visit's conclusion, 16-17
+	handshake between queen and teddy bear at end of visit, 16-17
 	queen invites teddy bear to tea again, 18
 
 teddy bear
-	handshake by queen at conclusion of visit, 16-17
+	hand shaken by queen at end of visit, 16-17
 	invited by queen to tea again, 18
 
-
-**tea with teddy bear and queen** 
-	????
-
-
-
-**establishment of friendship/relationship deepening or something**
-loneliness and friendship
-huge room as embodiment of
-tea
-servants as isolating
-relationship deepening between teddy bear and queen
+loneliness of queen
+	queen's enthusiasm for future teddy bear visit, 16-18
+	See also queen

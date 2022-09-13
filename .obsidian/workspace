@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Untitled.md",
+            "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Untitled.md",
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Untitled.md",
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Untitled.md"
+                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md"
               }
             }
           },
@@ -152,6 +153,8 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md",
+    "0. Inbox/Untitled.md",
     "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md",
     "0. Inbox/00-scratchpad-note.md",
     "daily/2022-09-13-Tue.md",
@@ -159,8 +162,6 @@
     "periodic/Daily reminders.md",
     "1. Projects/Marbela mystery/Marbela text.md",
     "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
-    "1. Projects/Strengths course/Development plan Sep 2022.md",
-    "1. Projects/Strengths journal/Strengths - 2. Strategic.md",
-    "1. Projects/Strengths course/Coaching session with Becca Syme - 2022 09 08.md"
+    "1. Projects/Strengths course/Development plan Sep 2022.md"
   ]
 }

@@ -23894,6 +23894,37 @@
     ]
   },
   {
+    "fileName": "Untitled",
+    "relativePath": "0. Inbox/Untitled.md",
+    "frontmatter": {
+      "created": "2022-09-13T10:57:31 (UTC -07:00)",
+      "source": "file:///Users/rainfall/Downloads/Work%20Flow%20Master%20Project%20Checklist,%204.%20Start%20new%20index./Work%20Flow%20Master%20Project%20Checklist,%204.%20Start%20new%20index..html",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 257
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Remapping cmd-H to ctrl-H in parallels",
+    "relativePath": "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md"
+  },
+  {
     "fileName": "Life areas and projects - Aug 29 2022",
     "relativePath": "0. Inbox/Life areas and projects - Aug 29 2022.md",
     "headings": [
