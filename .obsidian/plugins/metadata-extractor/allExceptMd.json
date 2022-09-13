@@ -381,10 +381,6 @@
       "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
     },
     {
-      "name": "Module 3 - Term Selection",
-      "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection"
-    },
-    {
       "name": "Module 4 - Indexing Specifications",
       "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
     },
@@ -441,8 +437,12 @@
       "relativePath": "4. Archive/indexing/ASI Module A"
     },
     {
+      "name": "Module 3 - Term Selection",
+      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
+    },
+    {
       "name": "Indexing exercise 2",
-      "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2"
+      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
     }
   ],
   "nonMdFiles": [

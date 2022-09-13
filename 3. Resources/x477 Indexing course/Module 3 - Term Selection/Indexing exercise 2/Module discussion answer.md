@@ -10,22 +10,28 @@ Post your answers as a reply to this topic and attach your index for "Tea with t
 When you are responding to another student, click on the Reply box immediately below that student's post.
 
 ------
+**What did you find difficult or challenging?**
 
+1. Deciding on a format for subheadings. I ultimately went with noun followed by verb for places and themes ("palace gate, soldier stationed at") and the reverse for characters ("queen, greets teddy bear"). With characters, I feel this risks making subentries harder to find, because indexes can standardize nouns via cross-references, but not verbs (I can't do "welcomes. See greets"). I initially did a draft that was also noun-first for characters ("queen, teddy bear, greeted by") but felt it impacted readability severely enough to warrant doing it the other way around. I still feel conflicted about it, though.
 
-1.  What did you find difficult or challenging?
-	1. Figuring out how and whether to index the setting. 
-	2. Figuring out what to do about an unnamed speaker. 
-	3. Figuring out terminology when a part is used to describe a whole. For example, the major event in Little Miss Muffet is the frightening of Little Miss Muffet, ?????
-	4. Figuring out what to do when the text collapses two things into one or expands one thing into two. For example, the spider frightens Miss Muffet away, but this is actually two events: Miss Muffet experiences fright, then she leaves.  
-	5. Figuring out how to handle single-item entries. 
-	6. Figuring out how to handle indexing a whole vs parts of a whole. For example: ????????
-2.  What part of the indexing process did you find to be easy?
-	1. I was surprised how easy it was to determine relations using the who/when/what/why/where/under what circumstances questions. 
-3.  Are you happy with your results? If not, what would you like to improve?
-	1. I'd like to better capture the emotional arc of the queen. 
-	2. 
-4.  Is there anything about Exercise 2 that you'd like to comment on?
-	1. It got easier conceptually when I realized that thematic relations in fiction means the relationships among characters, plot, and setting.  A main heading is one instance of any of those; a subentry is a description of the relationship of any two characters/plot events/setting elements in the context of the main heading. 
+2. Making subheadings consistent with each other and the heading without weird circumlocutions.  
+
+3. Figuring out themes. I did an entry for "loneliness of the queen", but there was a theme of formality/ceremony that I wanted to capture and gave up on because I couldn't get it into words. 
+
+  
+**What part of the indexing process did you find to be easy?**
+
+I was surprised how easy it was to determine relations using the who/when/what/why/where/under what circumstances questions. 
+
+**Are you happy with your results? If not, what would you like to improve?**
+
+I'd like to get better at capturing themes. 
+
+**Is there anything about Exercise 2 that you'd like to comment on?**
+
+It got easier conceptually when I realized that from a fiction-writing standpoint I was indexing the relationships among characters, plot, and setting. 
+
+[](https://onlinelearning.berkeley.edu/courses/1939224/discussion_topics/10736084#)
 
 
 #### Further comments

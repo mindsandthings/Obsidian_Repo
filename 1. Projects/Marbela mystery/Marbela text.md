@@ -154,21 +154,28 @@ Maybe she should check inside the museum for the security guard. No, maybe she s
 
 "This is an outrage." Cyrus's words were strong but his voice wavered and his gaze dropped. He slumped, deflated, and bobbed back into the crowd. 
 
-"Thanks to a generous bequeathal from Ocean Depths'
-famous puzzle-maker Augusta, 
+Mayor Myrtle cleared her throat. "Thanks to a generous bequeathal from Ocean Depths' famous puzzle-maker Augusta, the puzzle museum was able to commission a mural depicting Ocean Depths' history." She gestured toward a leafy sea dragon wearing her weight in costume jewelry. "Thanks to renowned painter Mademoiselle Lifi, the mural was completed in record time." 
 
+Mademoiselle Lifi's jewelry clanked and rattled as she nodded in acknowledgment. "Thank you so very much." She looked surprisingly apprehensive, but maybe she was just anxious about getting a good reception. Marbela felt a pang of sympathy for her. 
 
-Mr. 
+"Mr. Shramply, the museum's proprietor—" Mayor Myrtle scanned the crowd, her gaze alighting on an elderly shrimp in an ill-fitting suit— "will now reveal the mural." 
 
-Mademoiselle Lifi, elaborate makeup
-she reveals it
-paisley's standing there with the guard; the wall is missing
-the leafy sea dragon screams and faints
+With great ceremony and a little bit of age-related shakiness, Mr. Shramply swam up to the curtain concealing the mural, and pulled the cord at its side.
+
+The great red curtain slid slowly back. 
+
+For a moment, Marbela thought that Mademoiselle Lifi had painted a mural of Paisley standing next to the missing security guard. Paisley's expression was wide and startled. Her bow was still askew. 
+
+Then she moved, and Marbela realized it wasn't a mural at all. It was the inside of the museum. The wall was missing. 
+
+Someone had stolen the wall. 
+
+"Sacre bleu! My mural!" Mademoiselle Lifi screamed, and fell over in a dramatic faint.
 
 
 What should Marbela do? 
 
-a. Watch her boss, Paisley. 
+a. Watch Paisley. 
 
 b. Watch the security guard.
 

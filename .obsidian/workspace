@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+            "file": "1. Projects/Marbela mystery/Marbela text.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+                "file": "1. Projects/Marbela mystery/Marbela text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+                "file": "1. Projects/Marbela mystery/Marbela text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md"
+                "file": "1. Projects/Marbela mystery/Marbela text.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Module discussion answer.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.5 The Importance of Good Term Selection.md",
+    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md",
     "0. Inbox/Untitled.md",
-    "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-09-13-Tue.md",
-    "1. Projects/Strengths journal/Strengths - 1. Input.md",
-    "periodic/Daily reminders.md",
-    "1. Projects/Marbela mystery/Marbela text.md",
-    "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
-    "1. Projects/Strengths course/Development plan Sep 2022.md"
+    "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md"
   ]
 }

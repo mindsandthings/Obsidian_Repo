@@ -17128,6 +17128,477 @@
     ]
   },
   {
+    "fileName": "Untitled",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Untitled.md"
+  },
+  {
+    "fileName": "Module discussion",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Module discussion.md",
+    "headings": [
+      {
+        "heading": "Module 3 Discussion: \"Tea with the Queen\" Index",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "3.0 Module 3",
+        "link": "Module discussion",
+        "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Module discussion answer",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Module discussion answer.md",
+    "headings": [
+      {
+        "heading": "Further comments",
+        "level": 4
+      },
+      {
+        "heading": "Muffet:",
+        "level": 4
+      },
+      {
+        "heading": "Teddy bear:",
+        "level": 4
+      },
+      {
+        "heading": "Baa baa black sheep:",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Tea with the queen (unfinished) notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+    "headings": [
+      {
+        "heading": "Issues",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Muffet notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Muffet notes.md",
+    "headings": [
+      {
+        "heading": "Little Miss Muffet sat on a tuffet, 1",
+        "level": 1
+      },
+      {
+        "heading": "Eating her curds and whey. 2",
+        "level": 1
+      },
+      {
+        "heading": "Along came a spider, 3",
+        "level": 1
+      },
+      {
+        "heading": "Who sat down beside her, 4",
+        "level": 1
+      },
+      {
+        "heading": "And frightened Miss Muffet away. 5",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Baa baa black sheep notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md"
+  },
+  {
+    "fileName": "3.9 Indexing Exercise 2",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.9 Indexing Exercise 2.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:52:49 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-9-indexing-exercise-2",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 161
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.9 Indexing Exercise 2: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.9 Indexing Exercise 2",
+        "level": 2
+      },
+      {
+        "heading": "Identifying Main Headings and Subheadings to Create an Index",
+        "level": 3
+      },
+      {
+        "heading": "The Nursery Rhymes",
+        "level": 3
+      },
+      {
+        "heading": "_Little Miss Muffet_",
+        "level": 4
+      },
+      {
+        "heading": "_Baa Baa Black Sheep_",
+        "level": 4
+      },
+      {
+        "heading": "",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "3.8 Identifying Thematic Relationships",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.8 Identifying Thematic Relationships.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:36:35 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-8-identifying-thematic-relationships",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 176
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.8 Identifying Thematic Relationships: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.8 Identifying Thematic Relationships",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.7 Concepts and Thematic Relationships",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.7 Concepts and Thematic Relationships.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:35:05 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-7-concepts-and-thematic-relationships",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 177
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.7 Concepts and Thematic Relationships: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.7 Concepts and Thematic Relationships",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.6 Identifying Metatopics and the Meaning of the Text",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:32:31 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-6-identifying-metatopics-and-the-meaning-of-the-text",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 192
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.6 Identifying Metatopics and the Meaning of the Text: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.6 Identifying Metatopics and the Meaning of the Text",
+        "level": 2
+      },
+      {
+        "heading": "Putting the Entries All Together",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "3.5 The Importance of Good Term Selection",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.5 The Importance of Good Term Selection.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:31:40 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-5-the-importance-of-good-term-selection",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 179
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.5 The Importance of Good Term Selection: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.5 The Importance of Good Term Selection",
+        "level": 2
+      },
+      {
+        "heading": "Good Term Selection and the Editing Process",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "3.4 Indexing Humpty Dumpty",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.4 Indexing Humpty Dumpty.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:27:32 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-4-indexing-humpty-dumpty",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.4 Indexing \"Humpty Dumpty\": JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.4 Indexing \"Humpty Dumpty\"",
+        "level": 2
+      },
+      {
+        "heading": "Putting all of the entries together, the index becomes:",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "3.3 Asking the Information Questions",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.3 Asking the Information Questions.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:25:44 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-3-asking-the-information-questions",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 174
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.3 Asking the Information Questions: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.3 Asking the Information Questions",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.2 Comprehension of the Material",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.2 Comprehension of the Material.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:25:02 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-2-comprehension-of-the-material",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 171
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.2 Comprehension of the Material: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.2 Comprehension of the Material",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.1 Introduction to Term Selection",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.1 Introduction to Term Selection.md",
+    "frontmatter": {
+      "created": "2022-09-05T17:20:55 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-1-introduction-to-term-selection",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 172
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "3.1 Introduction to Term Selection: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "3.1 Introduction to Term Selection",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.0 Reading notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Reading notes.md",
+    "headings": [
+      {
+        "heading": "Mulvany: pages 49-51",
+        "level": 1
+      },
+      {
+        "heading": "Chicago: Sections 16.9-16.10; 16.29-16.31; 16:126-16.130 (this will be a review of some of the Module 2 reading)",
+        "level": 1
+      },
+      {
+        "heading": "Main headings 16.9-10",
+        "level": 2
+      },
+      {
+        "heading": "General principles 16.29-31",
+        "level": 2
+      },
+      {
+        "heading": "Editing and refining the entries 16:126-16.130",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.0 Module 3",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Module 3: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 3: Term Selection",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Exercise 2**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "Module discussion",
+        "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Module discussion.md"
+      }
+    ]
+  },
+  {
     "fileName": "Successful Subheadings by Fred Leise",
     "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md",
     "backlinks": [
@@ -20718,23 +21189,6 @@
     "tags": [
       "task"
     ],
-    "frontmatter": {
-      "created": "2022-09-06T15:04:10 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-4?module_item_id=89811861",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 166
-        }
-      }
-    },
     "headings": [
       {
         "heading": "Module 4: JOURNX477-032 Indexing: Theory and Application",
@@ -20771,477 +21225,6 @@
       {
         "heading": "**Online Research**",
         "level": 5
-      }
-    ]
-  },
-  {
-    "fileName": "Untitled",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Untitled.md"
-  },
-  {
-    "fileName": "Module discussion",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion.md",
-    "headings": [
-      {
-        "heading": "Module 3 Discussion: \"Tea with the Queen\" Index",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "3.0 Module 3",
-        "link": "Module discussion",
-        "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.0 Module 3.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Module discussion answer",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion answer.md",
-    "headings": [
-      {
-        "heading": "Further comments",
-        "level": 4
-      },
-      {
-        "heading": "Muffet:",
-        "level": 4
-      },
-      {
-        "heading": "Teddy bear:",
-        "level": 4
-      },
-      {
-        "heading": "Baa baa black sheep:",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Tea with the queen (unfinished) notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
-    "headings": [
-      {
-        "heading": "Issues",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Muffet notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Muffet notes.md",
-    "headings": [
-      {
-        "heading": "Little Miss Muffet sat on a tuffet, 1",
-        "level": 1
-      },
-      {
-        "heading": "Eating her curds and whey. 2",
-        "level": 1
-      },
-      {
-        "heading": "Along came a spider, 3",
-        "level": 1
-      },
-      {
-        "heading": "Who sat down beside her, 4",
-        "level": 1
-      },
-      {
-        "heading": "And frightened Miss Muffet away. 5",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Baa baa black sheep notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md"
-  },
-  {
-    "fileName": "3.9 Indexing Exercise 2",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.9 Indexing Exercise 2.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:52:49 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-9-indexing-exercise-2",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 161
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.9 Indexing Exercise 2: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.9 Indexing Exercise 2",
-        "level": 2
-      },
-      {
-        "heading": "Identifying Main Headings and Subheadings to Create an Index",
-        "level": 3
-      },
-      {
-        "heading": "The Nursery Rhymes",
-        "level": 3
-      },
-      {
-        "heading": "_Little Miss Muffet_",
-        "level": 4
-      },
-      {
-        "heading": "_Baa Baa Black Sheep_",
-        "level": 4
-      },
-      {
-        "heading": "",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "3.8 Identifying Thematic Relationships",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.8 Identifying Thematic Relationships.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:36:35 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-8-identifying-thematic-relationships",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 176
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.8 Identifying Thematic Relationships: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.8 Identifying Thematic Relationships",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.7 Concepts and Thematic Relationships",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.7 Concepts and Thematic Relationships.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:35:05 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-7-concepts-and-thematic-relationships",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 177
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.7 Concepts and Thematic Relationships: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.7 Concepts and Thematic Relationships",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.6 Identifying Metatopics and the Meaning of the Text",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:32:31 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-6-identifying-metatopics-and-the-meaning-of-the-text",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 192
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.6 Identifying Metatopics and the Meaning of the Text: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.6 Identifying Metatopics and the Meaning of the Text",
-        "level": 2
-      },
-      {
-        "heading": "Putting the Entries All Together",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "3.5 The Importance of Good Term Selection",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.5 The Importance of Good Term Selection.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:31:40 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-5-the-importance-of-good-term-selection",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 179
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.5 The Importance of Good Term Selection: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.5 The Importance of Good Term Selection",
-        "level": 2
-      },
-      {
-        "heading": "Good Term Selection and the Editing Process",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "3.4 Indexing Humpty Dumpty",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.4 Indexing Humpty Dumpty.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:27:32 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-4-indexing-humpty-dumpty",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 164
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.4 Indexing \"Humpty Dumpty\": JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.4 Indexing \"Humpty Dumpty\"",
-        "level": 2
-      },
-      {
-        "heading": "Putting all of the entries together, the index becomes:",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "3.3 Asking the Information Questions",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.3 Asking the Information Questions.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:25:44 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-3-asking-the-information-questions",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 174
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.3 Asking the Information Questions: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.3 Asking the Information Questions",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.2 Comprehension of the Material",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.2 Comprehension of the Material.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:25:02 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-2-comprehension-of-the-material",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 171
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.2 Comprehension of the Material: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.2 Comprehension of the Material",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.1 Introduction to Term Selection",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.1 Introduction to Term Selection.md",
-    "frontmatter": {
-      "created": "2022-09-05T17:20:55 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/3-dot-1-introduction-to-term-selection",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 172
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "3.1 Introduction to Term Selection: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "3.1 Introduction to Term Selection",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.0 Reading notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.0 Reading notes.md",
-    "headings": [
-      {
-        "heading": "Mulvany: pages 49-51",
-        "level": 1
-      },
-      {
-        "heading": "Chicago: Sections 16.9-16.10; 16.29-16.31; 16:126-16.130 (this will be a review of some of the Module 2 reading)",
-        "level": 1
-      },
-      {
-        "heading": "Main headings 16.9-10",
-        "level": 2
-      },
-      {
-        "heading": "General principles 16.29-31",
-        "level": 2
-      },
-      {
-        "heading": "Editing and refining the entries 16:126-16.130",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.0 Module 3",
-    "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/3.0 Module 3.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "Module 3: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Module 3: Term Selection",
-        "level": 2
-      },
-      {
-        "heading": "Learning Objectives",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Commentary",
-        "level": 3
-      },
-      {
-        "heading": "Discussion",
-        "level": 3
-      },
-      {
-        "heading": "Assignments",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Exercise 2**",
-        "level": 5
-      },
-      {
-        "heading": "**Online Research**",
-        "level": 5
-      }
-    ],
-    "links": [
-      {
-        "link": "Module discussion",
-        "relativePath": "1. Projects/x477 indexing course/Module 3 - Term Selection/Module discussion.md"
       }
     ]
   },
