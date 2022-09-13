@@ -1,3 +1,16 @@
+Please go back through your notes, as we end class, and create action steps for how you will act on this plan. Keep the action steps small.
+
+
+DAILY: Watch for my Strengths, label them either live or in retrospect, and journal about how I'm using them (especially how I see them showing up in my writing).
+
+WEEKLY: Review my journal pages and make notes about patterns I see in how I use my Strengths and how I can execute more often.
+
+MONTHLY: Check in with the Strengths community for X Strength. Share some of my insights and learn from the development plans of other writers.
+
+QUARTERLY: Check in with Becca about how my X Strength development is going. See if I should schedule a follow-up one-on-one, or continue in what I'm doing. Am I in a place where I could get regular Strengths coaching? Or is it best for me to keep developing on my own?
+
+ANNUALLY: Take the SFW Check-In class and get re-centered on developing my Strengths, or pick a new Strength to start developing.
+
 
 # Info tracking: Adopt new revision practices
 *I write slowly and have a poor memory. I need to create an information tracking system that actively supports my ability to identify dependencies in worldbuilding, plot, and character arc for a given book—including tracking what's on the page, tracking the underlying generative information that gives rise to what's on the page, and tracking how fixed or flexible that information is based on how many problems I'll create by changing it.
