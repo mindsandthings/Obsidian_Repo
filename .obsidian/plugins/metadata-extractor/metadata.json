@@ -26,6 +26,10 @@
     ]
   },
   {
+    "fileName": "2022-09-14-Wed",
+    "relativePath": "daily/2022-09-14-Wed.md"
+  },
+  {
     "fileName": "2022-09-13-Tue",
     "relativePath": "daily/2022-09-13-Tue.md"
   },
@@ -185,19 +189,6 @@
     ]
   },
   {
-    "fileName": "Faerie story notes",
-    "relativePath": "4. Archive/writing-fiction/Faerie story notes.md",
-    "tags": [
-      "z-archives/someday-maybe"
-    ],
-    "headings": [
-      {
-        "heading": "Faerie story notes",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Pratchett",
     "relativePath": "4. Archive/writing-fiction/Pratchett.md",
     "tags": [
@@ -233,6 +224,19 @@
     "headings": [
       {
         "heading": "Archaeologists: “Uhhhh, there’s still a lot of... - The Reason I Get Nothing Done",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Faerie story notes",
+    "relativePath": "4. Archive/writing-fiction/Faerie story notes.md",
+    "tags": [
+      "z-archives/someday-maybe"
+    ],
+    "headings": [
+      {
+        "heading": "Faerie story notes",
         "level": 1
       }
     ]
@@ -490,19 +494,6 @@
     ]
   },
   {
-    "fileName": "Emma kind words",
-    "relativePath": "4. Archive/writing business/Emma kind words.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "Emma kind words",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Presses that publish autistic authors",
     "relativePath": "4. Archive/writing business/Presses that publish autistic authors.md",
     "tags": [
@@ -548,6 +539,19 @@
     "headings": [
       {
         "heading": "A Never-Ending Tea Party",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Emma kind words",
+    "relativePath": "4. Archive/writing business/Emma kind words.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "Emma kind words",
         "level": 1
       }
     ]
@@ -843,6 +847,19 @@
     ]
   },
   {
+    "fileName": "unused PubQ stuff",
+    "relativePath": "4. Archive/validating/unused PubQ stuff.md",
+    "tags": [
+      "z-archives/pubq"
+    ],
+    "headings": [
+      {
+        "heading": "unused PubQ stuff",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "secondary trauma from rule-breaking in autistic environments",
     "relativePath": "4. Archive/validating/secondary trauma from rule-breaking in autistic environments.md",
     "frontmatter": {
@@ -865,19 +882,6 @@
     "headings": [
       {
         "heading": "this is my soul's vomit repository — I think that people who are heavily socially...",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "unused PubQ stuff",
-    "relativePath": "4. Archive/validating/unused PubQ stuff.md",
-    "tags": [
-      "z-archives/pubq"
-    ],
-    "headings": [
-      {
-        "heading": "unused PubQ stuff",
         "level": 1
       }
     ]
@@ -909,19 +913,6 @@
     ]
   },
   {
-    "fileName": "eat bones and shit ghosts",
-    "relativePath": "4. Archive/validating/eat bones and shit ghosts.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "eat bones and shit ghosts",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "httpsearlgraytay.tumblr.compost648967237070454784",
     "relativePath": "4. Archive/validating/httpsearlgraytay.tumblr.compost648967237070454784.md",
     "tags": [
@@ -942,6 +933,19 @@
       },
       {
         "heading": "when you raise your front legs you DO look bigger than anything, even a tree",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "eat bones and shit ghosts",
+    "relativePath": "4. Archive/validating/eat bones and shit ghosts.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "eat bones and shit ghosts",
         "level": 1
       }
     ]
@@ -1107,6 +1111,19 @@
     ]
   },
   {
+    "fileName": "Talking over autistic people",
+    "relativePath": "4. Archive/validating/Talking over autistic people.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "Talking over autistic people",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Social exclusion feeling like a threat",
     "relativePath": "4. Archive/validating/Social exclusion feeling like a threat.md",
     "frontmatter": {
@@ -1134,14 +1151,14 @@
     ]
   },
   {
-    "fileName": "Talking over autistic people",
-    "relativePath": "4. Archive/validating/Talking over autistic people.md",
+    "fileName": "Social contract and exploiters",
+    "relativePath": "4. Archive/validating/Social contract and exploiters.md",
     "tags": [
       "z-archives/sj"
     ],
     "headings": [
       {
-        "heading": "Talking over autistic people",
+        "heading": "Social contract and exploiters",
         "level": 1
       }
     ]
@@ -1160,14 +1177,18 @@
     ]
   },
   {
-    "fileName": "Social contract and exploiters",
-    "relativePath": "4. Archive/validating/Social contract and exploiters.md",
+    "fileName": "Simple writing is hard",
+    "relativePath": "4. Archive/validating/Simple writing is hard.md",
     "tags": [
       "z-archives/sj"
     ],
     "headings": [
       {
-        "heading": "Social contract and exploiters",
+        "heading": "Simple writing is hard",
+        "level": 1
+      },
+      {
+        "heading": "Conversation",
         "level": 1
       }
     ]
@@ -1187,23 +1208,6 @@
       {
         "heading": "https://betterbemeta.tumblr.com/post/188022379042/people-on-the-internet-do-not-read-situations-the",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Simple writing is hard",
-    "relativePath": "4. Archive/validating/Simple writing is hard.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "Simple writing is hard",
-        "level": 1
-      },
-      {
-        "heading": "Conversation",
-        "level": 1
       }
     ]
   },
@@ -1238,19 +1242,6 @@
     ]
   },
   {
-    "fileName": "How to recognize",
-    "relativePath": "4. Archive/validating/How to recognize.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "How to recognize",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Perspective",
     "relativePath": "4. Archive/validating/Perspective.md",
     "tags": [
@@ -1260,19 +1251,6 @@
     "headings": [
       {
         "heading": "Perspective",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "JADE",
-    "relativePath": "4. Archive/validating/JADE.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "JADE",
         "level": 1
       }
     ]
@@ -1299,6 +1277,19 @@
     ]
   },
   {
+    "fileName": "JADE",
+    "relativePath": "4. Archive/validating/JADE.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "JADE",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "If you can resist anything, resist",
     "relativePath": "4. Archive/validating/If you can resist anything, resist.md",
     "tags": [
@@ -1308,6 +1299,19 @@
     "headings": [
       {
         "heading": "If you can resist anything, resist...",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "How to recognize",
+    "relativePath": "4. Archive/validating/How to recognize.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "How to recognize",
         "level": 1
       }
     ]
@@ -1447,19 +1451,6 @@
     ]
   },
   {
-    "fileName": "Articulating the situation",
-    "relativePath": "4. Archive/validating/Articulating the situation.md",
-    "tags": [
-      "z-archives/sj"
-    ],
-    "headings": [
-      {
-        "heading": "Articulating the situation",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Autism privilege [posted Tumblr]",
     "relativePath": "4. Archive/validating/Autism privilege [posted Tumblr].md",
     "tags": [
@@ -1468,6 +1459,19 @@
     "headings": [
       {
         "heading": "Autism privilege [posted Tumblr]",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Articulating the situation",
+    "relativePath": "4. Archive/validating/Articulating the situation.md",
+    "tags": [
+      "z-archives/sj"
+    ],
+    "headings": [
+      {
+        "heading": "Articulating the situation",
         "level": 1
       }
     ]
@@ -1619,19 +1623,6 @@
     ]
   },
   {
-    "fileName": "What I want from Michael",
-    "relativePath": "4. Archive/therapy/What I want from Michael.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "What I want from Michael",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "therapy",
     "relativePath": "4. Archive/therapy/therapy.md",
     "tags": [
@@ -1671,6 +1662,19 @@
     ]
   },
   {
+    "fileName": "What I want from Michael",
+    "relativePath": "4. Archive/therapy/What I want from Michael.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "What I want from Michael",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Therapy questions",
     "relativePath": "4. Archive/therapy/Therapy questions.md",
     "tags": [
@@ -1701,19 +1705,6 @@
       },
       {
         "heading": "Therapy notes from with Mario Wed Sep 7, 2022",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Relationship therapy notes",
-    "relativePath": "4. Archive/therapy/Relationship therapy notes.md",
-    "tags": [
-      "z-archives/therapynotes"
-    ],
-    "headings": [
-      {
-        "heading": "Relationship therapy notes",
         "level": 1
       }
     ]
@@ -1782,10 +1773,6 @@
     ]
   },
   {
-    "fileName": "Sat Jan 30 therapy notes",
-    "relativePath": "4. Archive/therapy/Sat Jan 30 therapy notes.md"
-  },
-  {
     "fileName": "Therapist question notes",
     "relativePath": "4. Archive/therapy/Therapist question notes.md",
     "tags": [
@@ -1794,6 +1781,23 @@
     "headings": [
       {
         "heading": "Therapist question notes",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sat Jan 30 therapy notes",
+    "relativePath": "4. Archive/therapy/Sat Jan 30 therapy notes.md"
+  },
+  {
+    "fileName": "Relationship therapy notes",
+    "relativePath": "4. Archive/therapy/Relationship therapy notes.md",
+    "tags": [
+      "z-archives/therapynotes"
+    ],
+    "headings": [
+      {
+        "heading": "Relationship therapy notes",
         "level": 1
       }
     ]
@@ -1859,16 +1863,6 @@
     "relativePath": "4. Archive/therapy/Mario notes.md"
   },
   {
-    "fileName": "Gottman goals discussion with Michael",
-    "relativePath": "4. Archive/therapy/Gottman goals discussion with Michael.md",
-    "headings": [
-      {
-        "heading": "Gottman goals discussion with Michael",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Mario notes Sep 10, 2021",
     "relativePath": "4. Archive/therapy/Mario notes Sep 10, 2021.md",
     "tags": [
@@ -1888,32 +1882,6 @@
   {
     "fileName": "M therapy notes",
     "relativePath": "4. Archive/therapy/M therapy notes.md"
-  },
-  {
-    "fileName": "Allie mom discussion notes",
-    "relativePath": "4. Archive/therapy/Allie mom discussion notes.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "Allie mom discussion notes",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Gottmann dreams",
-    "relativePath": "4. Archive/therapy/Gottmann dreams.md",
-    "tags": [
-      "2-projects"
-    ],
-    "headings": [
-      {
-        "heading": "Gottmann dreams",
-        "level": 1
-      }
-    ]
   },
   {
     "fileName": "Ideas for therapy topics",
@@ -1969,6 +1937,19 @@
     ]
   },
   {
+    "fileName": "Gottmann dreams",
+    "relativePath": "4. Archive/therapy/Gottmann dreams.md",
+    "tags": [
+      "2-projects"
+    ],
+    "headings": [
+      {
+        "heading": "Gottmann dreams",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Gottman journaling ebbflow",
     "relativePath": "4. Archive/therapy/Gottman journaling ebbflow.md",
     "tags": [
@@ -1978,6 +1959,29 @@
     "headings": [
       {
         "heading": "Gottman journaling: ebb/flow",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Gottman goals discussion with Michael",
+    "relativePath": "4. Archive/therapy/Gottman goals discussion with Michael.md",
+    "headings": [
+      {
+        "heading": "Gottman goals discussion with Michael",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Allie mom discussion notes",
+    "relativePath": "4. Archive/therapy/Allie mom discussion notes.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "Allie mom discussion notes",
         "level": 1
       }
     ]
@@ -2369,10 +2373,6 @@
     ]
   },
   {
-    "fileName": "Bedroom window for AC",
-    "relativePath": "4. Archive/measurements/Bedroom window for AC.md"
-  },
-  {
     "fileName": "Carbon credits",
     "relativePath": "4. Archive/measurements/Carbon credits.md",
     "tags": [
@@ -2384,6 +2384,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Bedroom window for AC",
+    "relativePath": "4. Archive/measurements/Bedroom window for AC.md"
   },
   {
     "fileName": "Watch manual (Ticchi)",
@@ -2838,35 +2842,6 @@
     ]
   },
   {
-    "fileName": "Donations Feb 2020",
-    "relativePath": "4. Archive/finances-insurance/Donations Feb 2020.md",
-    "tags": [
-      "emergencycrowdfund",
-      "showupforwishes",
-      "twitterphilanthropy",
-      "z-archives/financial"
-    ],
-    "headings": [
-      {
-        "heading": "Donations Feb 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Mint alternatives",
-    "relativePath": "4. Archive/finances-insurance/Mint alternatives.md",
-    "tags": [
-      "z-archives/someday-maybe"
-    ],
-    "headings": [
-      {
-        "heading": "Mint alternatives",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "money discussion coronavirus",
     "relativePath": "4. Archive/finances-insurance/money discussion coronavirus.md",
     "tags": [
@@ -2998,6 +2973,19 @@
     ]
   },
   {
+    "fileName": "Mint alternatives",
+    "relativePath": "4. Archive/finances-insurance/Mint alternatives.md",
+    "tags": [
+      "z-archives/someday-maybe"
+    ],
+    "headings": [
+      {
+        "heading": "Mint alternatives",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Insurance info 2022",
     "relativePath": "4. Archive/finances-insurance/Insurance info 2022.md"
   },
@@ -3010,6 +2998,22 @@
     "headings": [
       {
         "heading": "Gift cards",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Donations Feb 2020",
+    "relativePath": "4. Archive/finances-insurance/Donations Feb 2020.md",
+    "tags": [
+      "emergencycrowdfund",
+      "showupforwishes",
+      "twitterphilanthropy",
+      "z-archives/financial"
+    ],
+    "headings": [
+      {
+        "heading": "Donations Feb 2020",
         "level": 1
       }
     ]
@@ -3664,16 +3668,16 @@
     ]
   },
   {
-    "fileName": "Bio for Writing the Other - Worldbuilding class",
-    "relativePath": "4. Archive/bios/Bio for Writing the Other - Worldbuilding class.md"
+    "fileName": "Codex intro",
+    "relativePath": "4. Archive/bios/Codex intro.md"
   },
   {
     "fileName": "Codex 8.1.16",
     "relativePath": "4. Archive/bios/Codex 8.1.16.md"
   },
   {
-    "fileName": "Codex intro",
-    "relativePath": "4. Archive/bios/Codex intro.md"
+    "fileName": "Bio for Writing the Other - Worldbuilding class",
+    "relativePath": "4. Archive/bios/Bio for Writing the Other - Worldbuilding class.md"
   },
   {
     "fileName": "TLTL bios",
@@ -3745,6 +3749,19 @@
     ]
   },
   {
+    "fileName": "Basslines to look up",
+    "relativePath": "4. Archive/bass-guitar/Basslines to look up.md",
+    "tags": [
+      "z-archives/bass"
+    ],
+    "headings": [
+      {
+        "heading": "Basslines to look up",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Common Disaster summary",
     "relativePath": "4. Archive/bass-guitar/Common Disaster summary.md",
     "tags": [
@@ -3779,19 +3796,6 @@
       {
         "heading": "",
         "level": 5
-      }
-    ]
-  },
-  {
-    "fileName": "Basslines to look up",
-    "relativePath": "4. Archive/bass-guitar/Basslines to look up.md",
-    "tags": [
-      "z-archives/bass"
-    ],
-    "headings": [
-      {
-        "heading": "Basslines to look up",
-        "level": 1
       }
     ]
   },
@@ -3872,26 +3876,54 @@
     ]
   },
   {
-    "fileName": "todoist backups Fri, Jun 12, 2020",
-    "relativePath": "4. Archive/backups/todoist backups Fri, Jun 12, 2020.md",
+    "fileName": "todoist backups Thu, Apr 16, 2020",
+    "relativePath": "4. Archive/backups/todoist backups Thu, Apr 16, 2020.md",
     "tags": [
       "z-archives/reference/backups/todoist"
     ],
     "headings": [
       {
-        "heading": "todoist backups Fri, Jun 12, 2020",
+        "heading": "todoist backups Thu, Apr 16, 2020",
         "level": 1
       },
       {
-        "heading": "Don't know how to do",
+        "heading": "M logistics",
         "level": 2
       },
       {
-        "heading": "House stuff",
+        "heading": "Misc",
         "level": 2
       },
       {
-        "heading": "High priority",
+        "heading": "Sunrise",
+        "level": 2
+      },
+      {
+        "heading": "Writing",
+        "level": 2
+      },
+      {
+        "heading": "Security keys",
+        "level": 2
+      },
+      {
+        "heading": "Kville assisted living",
+        "level": 2
+      },
+      {
+        "heading": "Website",
+        "level": 2
+      },
+      {
+        "heading": "Scheduled",
+        "level": 2
+      },
+      {
+        "heading": "Recurring",
+        "level": 2
+      },
+      {
+        "heading": "Someday-maybe",
         "level": 2
       }
     ]
@@ -3942,54 +3974,26 @@
     ]
   },
   {
-    "fileName": "todoist backups Thu, Apr 16, 2020",
-    "relativePath": "4. Archive/backups/todoist backups Thu, Apr 16, 2020.md",
+    "fileName": "todoist backups Fri, Jun 12, 2020",
+    "relativePath": "4. Archive/backups/todoist backups Fri, Jun 12, 2020.md",
     "tags": [
       "z-archives/reference/backups/todoist"
     ],
     "headings": [
       {
-        "heading": "todoist backups Thu, Apr 16, 2020",
+        "heading": "todoist backups Fri, Jun 12, 2020",
         "level": 1
       },
       {
-        "heading": "M logistics",
+        "heading": "Don't know how to do",
         "level": 2
       },
       {
-        "heading": "Misc",
+        "heading": "House stuff",
         "level": 2
       },
       {
-        "heading": "Sunrise",
-        "level": 2
-      },
-      {
-        "heading": "Writing",
-        "level": 2
-      },
-      {
-        "heading": "Security keys",
-        "level": 2
-      },
-      {
-        "heading": "Kville assisted living",
-        "level": 2
-      },
-      {
-        "heading": "Website",
-        "level": 2
-      },
-      {
-        "heading": "Scheduled",
-        "level": 2
-      },
-      {
-        "heading": "Recurring",
-        "level": 2
-      },
-      {
-        "heading": "Someday-maybe",
+        "heading": "High priority",
         "level": 2
       }
     ]
@@ -5464,10 +5468,6 @@
     ]
   },
   {
-    "fileName": "Points system",
-    "relativePath": "4. Archive/asl/Points system.md"
-  },
-  {
     "fileName": "Receptive ASL practice ideas",
     "relativePath": "4. Archive/asl/Receptive ASL practice ideas.md",
     "tags": [
@@ -5479,6 +5479,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Points system",
+    "relativePath": "4. Archive/asl/Points system.md"
   },
   {
     "fileName": "Paddy Ladd notes",
@@ -5625,19 +5629,6 @@
     ]
   },
   {
-    "fileName": "ASL things can watch",
-    "relativePath": "4. Archive/asl/ASL things can watch.md",
-    "tags": [
-      "z-archives/someday-maybe"
-    ],
-    "headings": [
-      {
-        "heading": "ASL things can watch",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "ASL review",
     "relativePath": "4. Archive/asl/ASL review.md",
     "tags": [
@@ -5646,6 +5637,19 @@
     "headings": [
       {
         "heading": "ASL review",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "ASL things can watch",
+    "relativePath": "4. Archive/asl/ASL things can watch.md",
+    "tags": [
+      "z-archives/someday-maybe"
+    ],
+    "headings": [
+      {
+        "heading": "ASL things can watch",
         "level": 1
       }
     ]
@@ -5904,19 +5908,6 @@
     ]
   },
   {
-    "fileName": "Convo with Amy about joining Sunrise disability te",
-    "relativePath": "4. Archive/archived-sunrise-movement/Convo with Amy about joining Sunrise disability te.md",
-    "tags": [
-      "z-archives/sunrise/disability"
-    ],
-    "headings": [
-      {
-        "heading": "Convo with Amy about joining Sunrise disability team",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "GND disability",
     "relativePath": "4. Archive/archived-sunrise-movement/GND disability.md",
     "tags": [
@@ -5925,6 +5916,19 @@
     "headings": [
       {
         "heading": "GND disability",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Convo with Amy about joining Sunrise disability te",
+    "relativePath": "4. Archive/archived-sunrise-movement/Convo with Amy about joining Sunrise disability te.md",
+    "tags": [
+      "z-archives/sunrise/disability"
+    ],
+    "headings": [
+      {
+        "heading": "Convo with Amy about joining Sunrise disability team",
         "level": 1
       }
     ]
@@ -6289,6 +6293,27 @@
     ]
   },
   {
+    "fileName": "From mission peak presentation",
+    "relativePath": "4. Archive/archived-mission-peak-housing-coop/From mission peak presentation.md",
+    "tags": [
+      "z-archives/mission-peak"
+    ],
+    "headings": [
+      {
+        "heading": "From mission peak presentation",
+        "level": 1
+      },
+      {
+        "heading": "Explorer: 3 months to sample meetings and events, gather info, get aquainted. $150; applies to full membership fee if we join. Signing up now gets workshop as an included bonus.",
+        "level": 3
+      },
+      {
+        "heading": "Kickoff workshop Mar 14-15. Projected budget and timeline, Q&A with cohousing expert, get acquainted.",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Mission Peak choosing",
     "relativePath": "4. Archive/archived-mission-peak-housing-coop/Mission Peak choosing.md",
     "tags": [
@@ -6321,27 +6346,6 @@
       },
       {
         "heading": "~Full Membership~",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "From mission peak presentation",
-    "relativePath": "4. Archive/archived-mission-peak-housing-coop/From mission peak presentation.md",
-    "tags": [
-      "z-archives/mission-peak"
-    ],
-    "headings": [
-      {
-        "heading": "From mission peak presentation",
-        "level": 1
-      },
-      {
-        "heading": "Explorer: 3 months to sample meetings and events, gather info, get aquainted. $150; applies to full membership fee if we join. Signing up now gets workshop as an included bonus.",
-        "level": 3
-      },
-      {
-        "heading": "Kickoff workshop Mar 14-15. Projected budget and timeline, Q&A with cohousing expert, get acquainted.",
         "level": 3
       }
     ]
@@ -6559,12 +6563,12 @@
     ]
   },
   {
-    "fileName": "2010 _purpose in life_",
-    "relativePath": "4. Archive/archived-journaling/2010 _purpose in life_.md"
-  },
-  {
     "fileName": "2009 _Remind myself who I am_",
     "relativePath": "4. Archive/archived-journaling/2009 _Remind myself who I am_.md"
+  },
+  {
+    "fileName": "2010 _purpose in life_",
+    "relativePath": "4. Archive/archived-journaling/2010 _purpose in life_.md"
   },
   {
     "fileName": "List of garage stuff",
@@ -6943,19 +6947,6 @@
     ]
   },
   {
-    "fileName": "SoundSense writeup of my videochat",
-    "relativePath": "4. Archive/archived-health/archived-apd-has/SoundSense writeup of my videochat.md",
-    "tags": [
-      "z-archives/capd"
-    ],
-    "headings": [
-      {
-        "heading": "SoundSense writeup of my videochat",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Video chat posts",
     "relativePath": "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
     "tags": [
@@ -6964,6 +6955,19 @@
     "headings": [
       {
         "heading": "Video chat posts",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "SoundSense writeup of my videochat",
+    "relativePath": "4. Archive/archived-health/archived-apd-has/SoundSense writeup of my videochat.md",
+    "tags": [
+      "z-archives/capd"
+    ],
+    "headings": [
+      {
+        "heading": "SoundSense writeup of my videochat",
         "level": 1
       }
     ]
@@ -7495,19 +7499,6 @@
     ]
   },
   {
-    "fileName": "Nerve glides",
-    "relativePath": "4. Archive/archived-health/Nerve glides.md",
-    "tags": [
-      "z-archives/health"
-    ],
-    "headings": [
-      {
-        "heading": "Nerve glides",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Labcorp",
     "relativePath": "4. Archive/archived-health/Labcorp.md",
     "headings": [
@@ -7518,14 +7509,14 @@
     ]
   },
   {
-    "fileName": "IIH research notes",
-    "relativePath": "4. Archive/archived-health/IIH research notes.md",
+    "fileName": "Nerve glides",
+    "relativePath": "4. Archive/archived-health/Nerve glides.md",
     "tags": [
       "z-archives/health"
     ],
     "headings": [
       {
-        "heading": "IIH research notes",
+        "heading": "Nerve glides",
         "level": 1
       }
     ]
@@ -7540,6 +7531,19 @@
     "headings": [
       {
         "heading": "Health experiment options",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "IIH research notes",
+    "relativePath": "4. Archive/archived-health/IIH research notes.md",
+    "tags": [
+      "z-archives/health"
+    ],
+    "headings": [
+      {
+        "heading": "IIH research notes",
         "level": 1
       }
     ]
@@ -8031,6 +8035,19 @@
     ]
   },
   {
+    "fileName": "Wed, Sep 9, 2020",
+    "relativePath": "4. Archive/archived-daily/Wed, Sep 9, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Wed, Sep 9, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Week of Sat, Aug 20, 2022",
     "relativePath": "4. Archive/archived-daily/Week of Sat, Aug 20, 2022.md",
     "headings": [
@@ -8053,19 +8070,6 @@
     ]
   },
   {
-    "fileName": "Wed, Sep 9, 2020",
-    "relativePath": "4. Archive/archived-daily/Wed, Sep 9, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Wed, Sep 9, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Wed, Sep 30, 2020",
     "relativePath": "4. Archive/archived-daily/Wed, Sep 30, 2020.md",
     "tags": [
@@ -8074,6 +8078,19 @@
     "headings": [
       {
         "heading": "Wed, Sep 30, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Wed, Sep 16, 2020",
+    "relativePath": "4. Archive/archived-daily/Wed, Sep 16, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Wed, Sep 16, 2020",
         "level": 1
       }
     ]
@@ -8105,19 +8122,6 @@
       {
         "heading": "[X] find and print list of baby signs",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Wed, Sep 16, 2020",
-    "relativePath": "4. Archive/archived-daily/Wed, Sep 16, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Wed, Sep 16, 2020",
-        "level": 1
       }
     ]
   },
@@ -9516,19 +9520,6 @@
     ]
   },
   {
-    "fileName": "Tue, Sep 15, 2020",
-    "relativePath": "4. Archive/archived-daily/Tue, Sep 15, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Tue, Sep 15, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Tue, Sep 1, 2020",
     "relativePath": "4. Archive/archived-daily/Tue, Sep 1, 2020.md",
     "tags": [
@@ -9537,6 +9528,19 @@
     "headings": [
       {
         "heading": "Tue, Sep 1, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Tue, Sep 15, 2020",
+    "relativePath": "4. Archive/archived-daily/Tue, Sep 15, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Tue, Sep 15, 2020",
         "level": 1
       }
     ]
@@ -9659,6 +9663,19 @@
     ]
   },
   {
+    "fileName": "Tue, May 5, 2020",
+    "relativePath": "4. Archive/archived-daily/Tue, May 5, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Tue, May 5, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Tue, Nov 2, 2021",
     "relativePath": "4. Archive/archived-daily/Tue, Nov 2, 2021.md",
     "tags": [
@@ -9685,14 +9702,14 @@
     ]
   },
   {
-    "fileName": "Tue, May 5, 2020",
-    "relativePath": "4. Archive/archived-daily/Tue, May 5, 2020.md",
+    "fileName": "Tue, May 12, 2020",
+    "relativePath": "4. Archive/archived-daily/Tue, May 12, 2020.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Tue, May 5, 2020",
+        "heading": "Tue, May 12, 2020",
         "level": 1
       }
     ]
@@ -9719,19 +9736,6 @@
     "headings": [
       {
         "heading": "Tue, May 19, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Tue, May 12, 2020",
-    "relativePath": "4. Archive/archived-daily/Tue, May 12, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Tue, May 12, 2020",
         "level": 1
       }
     ]
@@ -9931,6 +9935,10 @@
     "relativePath": "4. Archive/archived-daily/Tue, Jul 19, 2022.md"
   },
   {
+    "fileName": "Tue, Jul 12, 2022",
+    "relativePath": "4. Archive/archived-daily/Tue, Jul 12, 2022.md"
+  },
+  {
     "fileName": "Tue, Jul 14, 2020",
     "relativePath": "4. Archive/archived-daily/Tue, Jul 14, 2020.md",
     "tags": [
@@ -9942,10 +9950,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Tue, Jul 12, 2022",
-    "relativePath": "4. Archive/archived-daily/Tue, Jul 12, 2022.md"
   },
   {
     "fileName": "Tue, Jan 7, 2020",
@@ -10623,19 +10627,6 @@
     ]
   },
   {
-    "fileName": "Thu, Oct 14, 2021",
-    "relativePath": "4. Archive/archived-daily/Thu, Oct 14, 2021.md",
-    "tags": [
-      "3-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Thu, Oct 14, 2021",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Thu, Oct 1, 2020",
     "relativePath": "4. Archive/archived-daily/Thu, Oct 1, 2020.md",
     "tags": [
@@ -10644,6 +10635,19 @@
     "headings": [
       {
         "heading": "Thu, Oct 1, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Thu, Oct 14, 2021",
+    "relativePath": "4. Archive/archived-daily/Thu, Oct 14, 2021.md",
+    "tags": [
+      "3-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Thu, Oct 14, 2021",
         "level": 1
       }
     ]
@@ -10844,19 +10848,6 @@
     ]
   },
   {
-    "fileName": "Thu, Jun 11, 2020",
-    "relativePath": "4. Archive/archived-daily/Thu, Jun 11, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Thu, Jun 11, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Thu, Jun 18, 2020",
     "relativePath": "4. Archive/archived-daily/Thu, Jun 18, 2020.md",
     "tags": [
@@ -10865,6 +10856,19 @@
     "headings": [
       {
         "heading": "Thu, Jun 18, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Thu, Jun 11, 2020",
+    "relativePath": "4. Archive/archived-daily/Thu, Jun 11, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Thu, Jun 11, 2020",
         "level": 1
       }
     ]
@@ -11072,19 +11076,6 @@
     ]
   },
   {
-    "fileName": "Thu, Jan 21, 2021",
-    "relativePath": "4. Archive/archived-daily/Thu, Jan 21, 2021.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Thu, Jan 21, 2021",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Thu, Jan 2, 2020",
     "relativePath": "4. Archive/archived-daily/Thu, Jan 2, 2020.md",
     "tags": [
@@ -11093,6 +11084,19 @@
     "headings": [
       {
         "heading": "Thu, Jan 2, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Thu, Jan 21, 2021",
+    "relativePath": "4. Archive/archived-daily/Thu, Jan 21, 2021.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Thu, Jan 21, 2021",
         "level": 1
       }
     ]
@@ -11205,14 +11209,14 @@
     ]
   },
   {
-    "fileName": "Thu, Feb 25, 2021",
-    "relativePath": "4. Archive/archived-daily/Thu, Feb 25, 2021.md",
+    "fileName": "Thu, Feb 4, 2021",
+    "relativePath": "4. Archive/archived-daily/Thu, Feb 4, 2021.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Thu, Feb 25, 2021",
+        "heading": "Thu, Feb 4, 2021",
         "level": 1
       }
     ]
@@ -11231,14 +11235,14 @@
     ]
   },
   {
-    "fileName": "Thu, Feb 4, 2021",
-    "relativePath": "4. Archive/archived-daily/Thu, Feb 4, 2021.md",
+    "fileName": "Thu, Feb 25, 2021",
+    "relativePath": "4. Archive/archived-daily/Thu, Feb 25, 2021.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Thu, Feb 4, 2021",
+        "heading": "Thu, Feb 25, 2021",
         "level": 1
       }
     ]
@@ -11261,14 +11265,14 @@
     ]
   },
   {
-    "fileName": "Thu, Dec 31, 2020",
-    "relativePath": "4. Archive/archived-daily/Thu, Dec 31, 2020.md",
+    "fileName": "Thu, Feb 13, 2020",
+    "relativePath": "4. Archive/archived-daily/Thu, Feb 13, 2020.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Thu, Dec 31, 2020",
+        "heading": "Thu, Feb 13, 2020",
         "level": 1
       }
     ]
@@ -11287,14 +11291,14 @@
     ]
   },
   {
-    "fileName": "Thu, Feb 13, 2020",
-    "relativePath": "4. Archive/archived-daily/Thu, Feb 13, 2020.md",
+    "fileName": "Thu, Dec 31, 2020",
+    "relativePath": "4. Archive/archived-daily/Thu, Dec 31, 2020.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Thu, Feb 13, 2020",
+        "heading": "Thu, Dec 31, 2020",
         "level": 1
       }
     ]
@@ -11486,6 +11490,19 @@
     ]
   },
   {
+    "fileName": "Sun, Sep 6, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Sep 6, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Sep 6, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sun, Sep 27, 2020",
     "relativePath": "4. Archive/archived-daily/Sun, Sep 27, 2020.md",
     "tags": [
@@ -11507,19 +11524,6 @@
     "headings": [
       {
         "heading": "Sun, Sep 13, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sun, Sep 6, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Sep 6, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Sep 6, 2020",
         "level": 1
       }
     ]
@@ -11642,19 +11646,6 @@
     ]
   },
   {
-    "fileName": "Sun, Nov 15, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Nov 15, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Nov 15, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sun, Nov 8, 2020",
     "relativePath": "4. Archive/archived-daily/Sun, Nov 8, 2020.md",
     "tags": [
@@ -11728,6 +11719,19 @@
     "headings": [
       {
         "heading": "Sun, Nov 14, 2021",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sun, Nov 15, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Nov 15, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Nov 15, 2020",
         "level": 1
       }
     ]
@@ -11811,19 +11815,6 @@
     ]
   },
   {
-    "fileName": "Sun, Mar 29, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Mar 29, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Mar 29, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sun, Mar 22, 2020",
     "relativePath": "4. Archive/archived-daily/Sun, Mar 22, 2020.md",
     "tags": [
@@ -11832,6 +11823,19 @@
     "headings": [
       {
         "heading": "Sun, Mar 22, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sun, Mar 29, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Mar 29, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Mar 29, 2020",
         "level": 1
       }
     ]
@@ -11931,19 +11935,6 @@
     ]
   },
   {
-    "fileName": "Sun, Jul 5, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Jul 5, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Jul 5, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sun, Jun 13, 2021 todoist backups",
     "relativePath": "4. Archive/archived-daily/Sun, Jun 13, 2021 todoist backups.md",
     "tags": [
@@ -11957,6 +11948,19 @@
       {
         "heading": "View all",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Sun, Jul 5, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Jul 5, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Jul 5, 2020",
+        "level": 1
       }
     ]
   },
@@ -11982,6 +11986,19 @@
     ]
   },
   {
+    "fileName": "Sun, Jan 5, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Jan 5, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Jan 5, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sun, Jul 12, 2020",
     "relativePath": "4. Archive/archived-daily/Sun, Jul 12, 2020.md",
     "tags": [
@@ -11999,27 +12016,14 @@
     "relativePath": "4. Archive/archived-daily/Sun, Jul 10, 2022.md"
   },
   {
-    "fileName": "Sun, Jan 5, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Jan 5, 2020.md",
+    "fileName": "Sun, Jan 31, 2021",
+    "relativePath": "4. Archive/archived-daily/Sun, Jan 31, 2021.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Sun, Jan 5, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sun, Jan 26, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Jan 26, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Jan 26, 2020",
+        "heading": "Sun, Jan 31, 2021",
         "level": 1
       }
     ]
@@ -12038,14 +12042,14 @@
     ]
   },
   {
-    "fileName": "Sun, Jan 31, 2021",
-    "relativePath": "4. Archive/archived-daily/Sun, Jan 31, 2021.md",
+    "fileName": "Sun, Jan 26, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Jan 26, 2020.md",
     "tags": [
       "z-archives/1-journal"
     ],
     "headings": [
       {
-        "heading": "Sun, Jan 31, 2021",
+        "heading": "Sun, Jan 26, 2020",
         "level": 1
       }
     ]
@@ -12124,6 +12128,19 @@
     "headings": [
       {
         "heading": "Sun, Jan 17, 2021",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sun, Feb 2, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Feb 2, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Feb 2, 2020",
         "level": 1
       }
     ]
@@ -12279,19 +12296,6 @@
     ]
   },
   {
-    "fileName": "Sun, Feb 2, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Feb 2, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Feb 2, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sun, Feb 16, 2020",
     "relativePath": "4. Archive/archived-daily/Sun, Feb 16, 2020.md",
     "tags": [
@@ -12434,19 +12438,6 @@
     ]
   },
   {
-    "fileName": "Sun, Dec 13, 2020",
-    "relativePath": "4. Archive/archived-daily/Sun, Dec 13, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sun, Dec 13, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sun, Dec 15, 2019",
     "relativePath": "4. Archive/archived-daily/Sun, Dec 15, 2019.md",
     "tags": [
@@ -12455,6 +12446,19 @@
     "headings": [
       {
         "heading": "Sun, Dec 15, 2019",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sun, Dec 13, 2020",
+    "relativePath": "4. Archive/archived-daily/Sun, Dec 13, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sun, Dec 13, 2020",
         "level": 1
       }
     ]
@@ -12646,32 +12650,6 @@
     ]
   },
   {
-    "fileName": "Sat, Oct 3, 2020",
-    "relativePath": "4. Archive/archived-daily/Sat, Oct 3, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Oct 3, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sat, Jun 6, 2020",
-    "relativePath": "4. Archive/archived-daily/Sat, Jun 6, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Jun 6, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sat, Oct 31, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Oct 31, 2020.md",
     "tags": [
@@ -12746,6 +12724,19 @@
     ]
   },
   {
+    "fileName": "Sat, Oct 3, 2020",
+    "relativePath": "4. Archive/archived-daily/Sat, Oct 3, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Oct 3, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sat, Oct 24, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Oct 24, 2020.md",
     "tags": [
@@ -12754,19 +12745,6 @@
     "headings": [
       {
         "heading": "Sat, Oct 24, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sat, Oct 16, 2021",
-    "relativePath": "4. Archive/archived-daily/Sat, Oct 16, 2021.md",
-    "tags": [
-      "3-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Oct 16, 2021",
         "level": 1
       }
     ]
@@ -12811,19 +12789,6 @@
     ]
   },
   {
-    "fileName": "Sat, Mar 21, 2020",
-    "relativePath": "4. Archive/archived-daily/Sat, Mar 21, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Mar 21, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sat, Nov 7, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Nov 7, 2020.md",
     "tags": [
@@ -12832,6 +12797,19 @@
     "headings": [
       {
         "heading": "Sat, Nov 7, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sat, Oct 16, 2021",
+    "relativePath": "4. Archive/archived-daily/Sat, Oct 16, 2021.md",
+    "tags": [
+      "3-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Oct 16, 2021",
         "level": 1
       }
     ]
@@ -13089,6 +13067,19 @@
     ]
   },
   {
+    "fileName": "Sat, Mar 21, 2020",
+    "relativePath": "4. Archive/archived-daily/Sat, Mar 21, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Mar 21, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sat, Mar 14, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Mar 14, 2020.md",
     "tags": [
@@ -13155,6 +13146,19 @@
     ]
   },
   {
+    "fileName": "Sat, Jun 6, 2020",
+    "relativePath": "4. Archive/archived-daily/Sat, Jun 6, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Jun 6, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sat, Jun 27, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Jun 27, 2020.md",
     "tags": [
@@ -13168,19 +13172,6 @@
     ]
   },
   {
-    "fileName": "Sat, Jun 26, 2021 todoist backups",
-    "relativePath": "4. Archive/archived-daily/Sat, Jun 26, 2021 todoist backups.md",
-    "tags": [
-      "z-archives/reference/backups/todoist"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Jun 26, 2021 todoist backups",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Sat, Jun 20, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Jun 20, 2020.md",
     "tags": [
@@ -13189,6 +13180,19 @@
     "headings": [
       {
         "heading": "Sat, Jun 20, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sat, Jun 26, 2021 todoist backups",
+    "relativePath": "4. Archive/archived-daily/Sat, Jun 26, 2021 todoist backups.md",
+    "tags": [
+      "z-archives/reference/backups/todoist"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Jun 26, 2021 todoist backups",
         "level": 1
       }
     ]
@@ -13648,72 +13652,6 @@
     ]
   },
   {
-    "fileName": "Sat, Feb 8, 2020",
-    "relativePath": "4. Archive/archived-daily/Sat, Feb 8, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Feb 8, 2020",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Sat, Feb 27, 2021 Todoist backups",
-    "relativePath": "4. Archive/archived-daily/Sat, Feb 27, 2021 Todoist backups.md",
-    "tags": [
-      "z-archives/reference/backups/todoist"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Feb 27, 2021 Todoist backups",
-        "level": 1
-      },
-      {
-        "heading": "Daily Schedule",
-        "level": 2
-      },
-      {
-        "heading": "Future weekends",
-        "level": 2
-      },
-      {
-        "heading": "Gardening",
-        "level": 2
-      },
-      {
-        "heading": "High priority",
-        "level": 2
-      },
-      {
-        "heading": "Medium priority",
-        "level": 2
-      },
-      {
-        "heading": "Kville assisted living",
-        "level": 2
-      },
-      {
-        "heading": "Writing",
-        "level": 2
-      },
-      {
-        "heading": "Scheduled",
-        "level": 2
-      },
-      {
-        "heading": "Recurring",
-        "level": 2
-      },
-      {
-        "heading": "Someday-maybe",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Sat, Feb 29, 2020",
     "relativePath": "4. Archive/archived-daily/Sat, Feb 29, 2020.md",
     "tags": [
@@ -13771,6 +13709,19 @@
     ]
   },
   {
+    "fileName": "Sat, Feb 8, 2020",
+    "relativePath": "4. Archive/archived-daily/Sat, Feb 8, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Feb 8, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sat, Feb 27, 2021",
     "relativePath": "4. Archive/archived-daily/Sat, Feb 27, 2021.md",
     "tags": [
@@ -13780,6 +13731,59 @@
       {
         "heading": "Sat, Feb 27, 2021",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Sat, Feb 27, 2021 Todoist backups",
+    "relativePath": "4. Archive/archived-daily/Sat, Feb 27, 2021 Todoist backups.md",
+    "tags": [
+      "z-archives/reference/backups/todoist"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Feb 27, 2021 Todoist backups",
+        "level": 1
+      },
+      {
+        "heading": "Daily Schedule",
+        "level": 2
+      },
+      {
+        "heading": "Future weekends",
+        "level": 2
+      },
+      {
+        "heading": "Gardening",
+        "level": 2
+      },
+      {
+        "heading": "High priority",
+        "level": 2
+      },
+      {
+        "heading": "Medium priority",
+        "level": 2
+      },
+      {
+        "heading": "Kville assisted living",
+        "level": 2
+      },
+      {
+        "heading": "Writing",
+        "level": 2
+      },
+      {
+        "heading": "Scheduled",
+        "level": 2
+      },
+      {
+        "heading": "Recurring",
+        "level": 2
+      },
+      {
+        "heading": "Someday-maybe",
+        "level": 2
       }
     ]
   },
@@ -13915,6 +13919,19 @@
     ]
   },
   {
+    "fileName": "Sat, Dec 26, 2020",
+    "relativePath": "4. Archive/archived-daily/Sat, Dec 26, 2020.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Sat, Dec 26, 2020",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Sat, Dec 21, 2019",
     "relativePath": "4. Archive/archived-daily/Sat, Dec 21, 2019.md",
     "tags": [
@@ -13940,19 +13957,6 @@
       {
         "heading": "-Refill meds-",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Sat, Dec 26, 2020",
-    "relativePath": "4. Archive/archived-daily/Sat, Dec 26, 2020.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Sat, Dec 26, 2020",
-        "level": 1
       }
     ]
   },
@@ -16983,10 +16987,10 @@
     ]
   },
   {
-    "fileName": "2020-12-30",
-    "relativePath": "4. Archive/archived-daily/2020-12-30.md",
+    "fileName": "2021-03-01 2",
+    "relativePath": "4. Archive/archived-daily/2021-03-01 2.md",
     "tags": [
-      "z-archives/writing/nonfiction/post-ideas"
+      "z-archives"
     ],
     "headings": [
       {
@@ -16996,10 +17000,10 @@
     ]
   },
   {
-    "fileName": "2021-03-01 2",
-    "relativePath": "4. Archive/archived-daily/2021-03-01 2.md",
+    "fileName": "2020-12-30",
+    "relativePath": "4. Archive/archived-daily/2020-12-30.md",
     "tags": [
-      "z-archives"
+      "z-archives/writing/nonfiction/post-ideas"
     ],
     "headings": [
       {
@@ -17039,10 +17043,10 @@
     ]
   },
   {
-    "fileName": "2020-06-24",
-    "relativePath": "4. Archive/archived-daily/2020-06-24.md",
+    "fileName": "2020-08-04",
+    "relativePath": "4. Archive/archived-daily/2020-08-04.md",
     "tags": [
-      "z-archives/1-journal"
+      "z-archives/sj"
     ],
     "headings": [
       {
@@ -17052,10 +17056,10 @@
     ]
   },
   {
-    "fileName": "2020-08-04",
-    "relativePath": "4. Archive/archived-daily/2020-08-04.md",
+    "fileName": "2020-06-24",
+    "relativePath": "4. Archive/archived-daily/2020-06-24.md",
     "tags": [
-      "z-archives/sj"
+      "z-archives/1-journal"
     ],
     "headings": [
       {
@@ -17157,16 +17161,6 @@
     ]
   },
   {
-    "fileName": "Tea with the queen (unfinished) notes",
-    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
-    "headings": [
-      {
-        "heading": "Issues",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Muffet notes",
     "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Muffet notes.md",
     "headings": [
@@ -17188,6 +17182,16 @@
       },
       {
         "heading": "And frightened Miss Muffet away. 5",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Tea with the queen (unfinished) notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
+    "headings": [
+      {
+        "heading": "Issues",
         "level": 1
       }
     ]
@@ -17628,17 +17632,6 @@
     ]
   },
   {
-    "fileName": "Indexing software features",
-    "relativePath": "3. Resources/x477 Indexing course/Module 2/Indexing software features.md",
-    "backlinks": [
-      {
-        "fileName": "2.10 Indexing Software",
-        "link": "Indexing software features",
-        "relativePath": "3. Resources/x477 Indexing course/Module 2/2.10 Indexing Software.md"
-      }
-    ]
-  },
-  {
     "fileName": "Exercise 1 PNO lists",
     "relativePath": "3. Resources/x477 Indexing course/Module 2/Exercise 1 PNO lists.md",
     "headings": [
@@ -17657,6 +17650,17 @@
         "fileName": "2.0 - Creating a basic index",
         "link": "Exercise 1 PNO lists",
         "relativePath": "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Indexing software features",
+    "relativePath": "3. Resources/x477 Indexing course/Module 2/Indexing software features.md",
+    "backlinks": [
+      {
+        "fileName": "2.10 Indexing Software",
+        "link": "Indexing software features",
+        "relativePath": "3. Resources/x477 Indexing course/Module 2/2.10 Indexing Software.md"
       }
     ]
   },
@@ -19079,44 +19083,6 @@
     ]
   },
   {
-    "fileName": "1.2 What is an Index",
-    "relativePath": "3. Resources/x477 Indexing course/Module 1/1.2 What is an Index.md",
-    "frontmatter": {
-      "created": "2022-08-30T10:12:58 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/1-dot-2-what-is-an-index",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 158
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "1.2 What Is an Index?: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "1.2 What Is an Index?",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "1.0 Indexing Module 1",
-        "link": "1.2 What is an Index",
-        "relativePath": "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md"
-      }
-    ]
-  },
-  {
     "fileName": "1.4 Subheadings and Sub-subheadings",
     "relativePath": "3. Resources/x477 Indexing course/Module 1/1.4 Subheadings and Sub-subheadings.md",
     "frontmatter": {
@@ -19204,6 +19170,44 @@
       {
         "fileName": "1.0 Indexing Module 1",
         "link": "1.3 Main Headings",
+        "relativePath": "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md"
+      }
+    ]
+  },
+  {
+    "fileName": "1.2 What is an Index",
+    "relativePath": "3. Resources/x477 Indexing course/Module 1/1.2 What is an Index.md",
+    "frontmatter": {
+      "created": "2022-08-30T10:12:58 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/1-dot-2-what-is-an-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 158
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "1.2 What Is an Index?: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "1.2 What Is an Index?",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "1.0 Indexing Module 1",
+        "link": "1.2 What is an Index",
         "relativePath": "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md"
       }
     ]
@@ -19877,6 +19881,10 @@
     ]
   },
   {
+    "fileName": "Marketing tips collection",
+    "relativePath": "3. Resources/Indexing/Marketing tips collection.md"
+  },
+  {
     "fileName": "Online taxonomy course $295",
     "relativePath": "3. Resources/Indexing/Online taxonomy course $295.md",
     "frontmatter": {
@@ -19940,10 +19948,6 @@
     "relativePath": "3. Resources/Indexing/Misc indexing marketing notes.md"
   },
   {
-    "fileName": "Marketing tips collection",
-    "relativePath": "3. Resources/Indexing/Marketing tips collection.md"
-  },
-  {
     "fileName": "Macrex shortcut list",
     "relativePath": "3. Resources/Indexing/Macrex shortcut list.md"
   },
@@ -19956,6 +19960,10 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Indexing software development list",
+    "relativePath": "3. Resources/Indexing/Indexing software development list.md"
   },
   {
     "fileName": "Intermediate-advanced indexing workshop",
@@ -19983,10 +19991,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Indexing software development list",
-    "relativePath": "3. Resources/Indexing/Indexing software development list.md"
   },
   {
     "fileName": "Indexing people (indexers)",
@@ -20030,6 +20034,28 @@
     ]
   },
   {
+    "fileName": "Books and Articles _ American Society for Indexing",
+    "relativePath": "3. Resources/Indexing/Books and Articles _ American Society for Indexing.md",
+    "headings": [
+      {
+        "heading": "Books and Articles",
+        "level": 1
+      },
+      {
+        "heading": "<a id=\"jour\"></a>Journals",
+        "level": 2
+      },
+      {
+        "heading": "<a id=\"articles\"></a>Articles",
+        "level": 2
+      },
+      {
+        "heading": "<a id=\"books\"></a>Books",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Getting Work (module from Sylvia COates' MOOC)",
     "relativePath": "3. Resources/Indexing/Getting Work (module from Sylvia COates' MOOC).md",
     "frontmatter": {
@@ -20059,10 +20085,6 @@
         "level": 2
       }
     ]
-  },
-  {
-    "fileName": "Self-publishing world resources",
-    "relativePath": "3. Resources/Indexing/Business planning/Self-publishing world resources.md"
   },
   {
     "fileName": "___Business plan___",
@@ -20115,14 +20137,6 @@
     ]
   },
   {
-    "fileName": "Series Bibles _ Novel Words Editing",
-    "relativePath": "3. Resources/Indexing/Business planning/Series Bibles _ Novel Words Editing.md"
-  },
-  {
-    "fileName": "Notes - Business of Indexing (2013)",
-    "relativePath": "3. Resources/Indexing/Business planning/Notes - Business of Indexing (2013).md"
-  },
-  {
     "fileName": "Getting started in indexing webinar",
     "relativePath": "3. Resources/Indexing/Business planning/Getting started in indexing webinar.md",
     "headings": [
@@ -20137,26 +20151,16 @@
     ]
   },
   {
-    "fileName": "Books and Articles _ American Society for Indexing",
-    "relativePath": "3. Resources/Indexing/Books and Articles _ American Society for Indexing.md",
-    "headings": [
-      {
-        "heading": "Books and Articles",
-        "level": 1
-      },
-      {
-        "heading": "<a id=\"jour\"></a>Journals",
-        "level": 2
-      },
-      {
-        "heading": "<a id=\"articles\"></a>Articles",
-        "level": 2
-      },
-      {
-        "heading": "<a id=\"books\"></a>Books",
-        "level": 2
-      }
-    ]
+    "fileName": "Series Bibles _ Novel Words Editing",
+    "relativePath": "3. Resources/Indexing/Business planning/Series Bibles _ Novel Words Editing.md"
+  },
+  {
+    "fileName": "Self-publishing world resources",
+    "relativePath": "3. Resources/Indexing/Business planning/Self-publishing world resources.md"
+  },
+  {
+    "fileName": "Notes - Business of Indexing (2013)",
+    "relativePath": "3. Resources/Indexing/Business planning/Notes - Business of Indexing (2013).md"
   },
   {
     "fileName": "Books _ Marketing Your Indexing Services, 3rd Edit",
@@ -20368,6 +20372,10 @@
     "relativePath": "2. Areas/food/Groceries.md"
   },
   {
+    "fileName": "How to set up your own website",
+    "relativePath": "2. Areas/Web presence updates/How to set up your own website.md"
+  },
+  {
     "fileName": "noebartmess website changes",
     "relativePath": "2. Areas/Web presence updates/noebartmess website changes.md",
     "tags": [
@@ -20379,10 +20387,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "How to set up your own website",
-    "relativePath": "2. Areas/Web presence updates/How to set up your own website.md"
   },
   {
     "fileName": "Strategic - 8 - Copy",
@@ -20627,24 +20631,24 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths videos.md"
   },
   {
-    "fileName": "2022-07 strengths areas of focus",
-    "relativePath": "2. Areas/Gallup Strengths/2022-07 strengths areas of focus.md"
+    "fileName": "2022-07 Becca Syme unedited notes",
+    "relativePath": "2. Areas/Gallup Strengths/2022-07 Becca Syme unedited notes.md"
   },
   {
     "fileName": "2022-07 Possible action items - Becca Syme notes",
     "relativePath": "2. Areas/Gallup Strengths/2022-07 Possible action items - Becca Syme notes.md"
   },
   {
-    "fileName": "2022-07 Becca Syme unedited notes",
-    "relativePath": "2. Areas/Gallup Strengths/2022-07 Becca Syme unedited notes.md"
-  },
-  {
-    "fileName": "EBT baseline measure",
-    "relativePath": "2. Areas/EBT/EBT baseline measure.md"
+    "fileName": "2022-07 strengths areas of focus",
+    "relativePath": "2. Areas/Gallup Strengths/2022-07 strengths areas of focus.md"
   },
   {
     "fileName": "EBT log",
     "relativePath": "2. Areas/EBT/EBT log.md"
+  },
+  {
+    "fileName": "EBT baseline measure",
+    "relativePath": "2. Areas/EBT/EBT baseline measure.md"
   },
   {
     "fileName": "Core and survival circuits",
@@ -20677,80 +20681,6 @@
   {
     "fileName": "1) The Compassion Tool - Copy",
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
-  },
-  {
-    "fileName": "Remapping cmd-H to ctrl-H in parallels",
-    "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
-  },
-  {
-    "fileName": "4.3 Indexing specifications issues",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Indexing specifications issues.md",
-    "frontmatter": {
-      "created": "2022-09-06T15:11:33 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-3-indexing-specifications-issues",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 172
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "4.3 Indexing Specifications Issues: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "4.3 Indexing Specifications Issues",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "4.4 Scripture and locorum indexes",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.4 Scripture and locorum indexes.md",
-    "frontmatter": {
-      "created": "2022-09-06T15:12:04 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-4-scripture-and-locorum-indexes",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 171
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "4.4 Scripture and Locorum Indexes: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "4.4 Scripture and Locorum Indexes",
-        "level": 2
-      },
-      {
-        "heading": "Scripture Indexes",
-        "level": 3
-      },
-      {
-        "heading": "Locorum Indexes",
-        "level": 3
-      }
-    ]
   },
   {
     "fileName": "4.9 Special issues in indexing  names",
@@ -20988,11 +20918,11 @@
     ]
   },
   {
-    "fileName": "4.10 References for names",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.10 References for names.md",
+    "fileName": "4.4 Scripture and locorum indexes",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.4 Scripture and locorum indexes.md",
     "frontmatter": {
-      "created": "2022-09-06T15:21:11 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-10-references-for-names",
+      "created": "2022-09-06T15:12:04 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-4-scripture-and-locorum-indexes",
       "author": null,
       "position": {
         "start": {
@@ -21003,26 +20933,57 @@
         "end": {
           "line": 5,
           "col": 3,
-          "offset": 163
+          "offset": 171
         }
       }
     },
     "headings": [
       {
-        "heading": "4.10 References for Names: JOURNX477-032 Indexing: Theory and Application",
+        "heading": "4.4 Scripture and Locorum Indexes: JOURNX477-032 Indexing: Theory and Application",
         "level": 1
       },
       {
-        "heading": "4.10 References for Names",
+        "heading": "4.4 Scripture and Locorum Indexes",
         "level": 2
       },
       {
-        "heading": "Books (not an exhaustive list)",
+        "heading": "Scripture Indexes",
         "level": 3
       },
       {
-        "heading": "Online Sources",
+        "heading": "Locorum Indexes",
         "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "4.3 Indexing specifications issues",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Indexing specifications issues.md",
+    "frontmatter": {
+      "created": "2022-09-06T15:11:33 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-3-indexing-specifications-issues",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 172
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "4.3 Indexing Specifications Issues: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "4.3 Indexing Specifications Issues",
+        "level": 2
       }
     ]
   },
@@ -21074,82 +21035,6 @@
       {
         "heading": "Journals",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "4.11 Diacritics",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.11 Diacritics.md",
-    "frontmatter": {
-      "created": "2022-09-06T15:22:46 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-11-diacritics",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 153
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "4.11 Diacritics: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "4.11 Diacritics",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "4.0 Indexing Specifications",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "Module 4: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Module 4: Indexing Specifications",
-        "level": 2
-      },
-      {
-        "heading": "Learning Objectives",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Commentary",
-        "level": 3
-      },
-      {
-        "heading": "Discussion",
-        "level": 3
-      },
-      {
-        "heading": "Assignments",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Exercise 3**",
-        "level": 5
-      },
-      {
-        "heading": "**Online Research**",
-        "level": 5
       }
     ]
   },
@@ -21232,6 +21117,76 @@
     ]
   },
   {
+    "fileName": "4.11 Diacritics",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.11 Diacritics.md",
+    "frontmatter": {
+      "created": "2022-09-06T15:22:46 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-11-diacritics",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 153
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "4.11 Diacritics: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "4.11 Diacritics",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "4.10 References for names",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.10 References for names.md",
+    "frontmatter": {
+      "created": "2022-09-06T15:21:11 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-10-references-for-names",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "4.10 References for Names: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "4.10 References for Names",
+        "level": 2
+      },
+      {
+        "heading": "Books (not an exhaustive list)",
+        "level": 3
+      },
+      {
+        "heading": "Online Sources",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "4.1 Text type and audience",
     "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
     "frontmatter": {
@@ -21269,6 +21224,55 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "4.0 Indexing Specifications",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Module 4: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 4: Indexing Specifications",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Exercise 3**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "Remapping cmd-H to ctrl-H in parallels",
+    "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
   },
   {
     "fileName": "Macrex group",
@@ -22283,14 +22287,6 @@
     ]
   },
   {
-    "fileName": "Writers to research",
-    "relativePath": "1. Projects/Writer and book search/Writers to research.md"
-  },
-  {
-    "fileName": "Writer and book search notes",
-    "relativePath": "1. Projects/Writer and book search/Writer and book search notes.md"
-  },
-  {
     "fileName": "Plot-creation support with plot-construction model for writing novels",
     "relativePath": "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md",
     "tags": [
@@ -22485,6 +22481,14 @@
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "Writers to research",
+    "relativePath": "1. Projects/Writer and book search/Writers to research.md"
+  },
+  {
+    "fileName": "Writer and book search notes",
+    "relativePath": "1. Projects/Writer and book search/Writer and book search notes.md"
   },
   {
     "fileName": "Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers",
@@ -22905,6 +22909,10 @@
     ]
   },
   {
+    "fileName": "Pre-coaching form for Becca",
+    "relativePath": "1. Projects/Strengths course/Pre-coaching form for Becca.md"
+  },
+  {
     "fileName": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
     "relativePath": "1. Projects/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md",
     "headings": [
@@ -22926,6 +22934,64 @@
         "fileName": "2022-08-28",
         "link": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
         "relativePath": "daily/2022-08-28.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pre-coaching form for Susan Bischoff",
+    "relativePath": "1. Projects/Strengths course/Pre-coaching form for Susan Bischoff.md",
+    "headings": [
+      {
+        "heading": "**What is your writing background? (career, hobby, published, pre-published, etc. Number of current books, genre. Tell us anything you think we should know!)**",
+        "level": 1
+      },
+      {
+        "heading": "**What brought you into this class? What is your goal here?**",
+        "level": 1
+      },
+      {
+        "heading": "**What do you get paid to do (full-time/part-time) right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is your most significant accomplishment of the last 12 months? (could be in any arena of life)**",
+        "level": 1
+      },
+      {
+        "heading": "**What do you feel you do the best in your writing / platform right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is your biggest pain point in your writing / platform right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What are your hobbies or interests?**",
+        "level": 1
+      },
+      {
+        "heading": "**How would you describe yourself in three short phrases?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is the most important challenge you currently face?**",
+        "level": 1
+      },
+      {
+        "heading": "**What do the next ten years hold in store for you?**",
+        "level": 1
+      },
+      {
+        "heading": "**To meet your expectations, what do you hope to address in coaching?**",
+        "level": 1
+      },
+      {
+        "heading": "**Any additional comments?**",
+        "level": 1
+      },
+      {
+        "heading": "leftover notes",
+        "level": 1
       }
     ]
   },
@@ -22952,33 +23018,6 @@
     "headings": [
       {
         "heading": "What To Do Now - Development Plans and Communities - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "7.1 A Final Video from Becca",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/7.1 A Final Video from Becca.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:18:10 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419628",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "A Final Video from Becca - Final Video and Next Steps - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23038,11 +23077,11 @@
     ]
   },
   {
-    "fileName": "5.2 What to Do With Your Other Strengths",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/5.2 What to Do With Your Other Strengths.md",
+    "fileName": "7.1 A Final Video from Becca",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/7.1 A Final Video from Becca.md",
     "frontmatter": {
-      "created": "2022-09-12T17:07:03 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419624",
+      "created": "2022-09-12T17:18:10 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419628",
       "author": null,
       "position": {
         "start": {
@@ -23059,7 +23098,7 @@
     },
     "headings": [
       {
-        "heading": "What To Do With Your Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
+        "heading": "A Final Video from Becca - Final Video and Next Steps - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23092,11 +23131,11 @@
     ]
   },
   {
-    "fileName": "4.2 The First Week",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/4.2 The First Week.md",
+    "fileName": "5.2 What to Do With Your Other Strengths",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/5.2 What to Do With Your Other Strengths.md",
     "frontmatter": {
-      "created": "2022-09-12T17:06:03 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419622",
+      "created": "2022-09-12T17:07:03 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419624",
       "author": null,
       "position": {
         "start": {
@@ -23113,7 +23152,7 @@
     },
     "headings": [
       {
-        "heading": "The First Week - Sign Up for First One-on-One - Strengths For Writers (August 2022)",
+        "heading": "What To Do With Your Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23146,6 +23185,33 @@
       {
         "heading": "Downloads",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "4.2 The First Week",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/4.2 The First Week.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:06:03 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419622",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The First Week - Sign Up for First One-on-One - Strengths For Writers (August 2022)",
+        "level": 1
       }
     ]
   },
@@ -23208,33 +23274,6 @@
     ]
   },
   {
-    "fileName": "2.2 How to Utilize this information",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/2.2 How to Utilize this information.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:59 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419617",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "How To Utilize This Information - Class Framework - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "3.1 Your Top Five",
     "relativePath": "1. Projects/Strengths course/Strengths course texts/3.1 Your Top Five.md",
     "frontmatter": {
@@ -23257,6 +23296,33 @@
     "headings": [
       {
         "heading": "Your Top Five - Your Top Five - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2.2 How to Utilize this information",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/2.2 How to Utilize this information.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:59 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419617",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "How To Utilize This Information - Class Framework - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23316,15 +23382,28 @@
     ]
   },
   {
-    "fileName": "1.6 The Four Domains",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/1.6 The Four Domains.md",
+    "fileName": "1.8 Goal-setting from WBF",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/1.8 Goal-setting from WBF.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:02 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419614",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
     "headings": [
       {
-        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      },
-      {
-        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "heading": "Goal-Setting from WBF - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23357,28 +23436,15 @@
     ]
   },
   {
-    "fileName": "1.8 Goal-setting from WBF",
-    "relativePath": "1. Projects/Strengths course/Strengths course texts/1.8 Goal-setting from WBF.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:02 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419614",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
+    "fileName": "1.6 The Four Domains",
+    "relativePath": "1. Projects/Strengths course/Strengths course texts/1.6 The Four Domains.md",
     "headings": [
       {
-        "heading": "Goal-Setting from WBF - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      },
+      {
+        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
         "level": 1
       }
     ]
@@ -23437,68 +23503,6 @@
   {
     "fileName": "Strengths course bio and unused notes",
     "relativePath": "1. Projects/Strengths course/Strengths course bio and unused notes.md"
-  },
-  {
-    "fileName": "Pre-coaching form for Susan Bischoff",
-    "relativePath": "1. Projects/Strengths course/Pre-coaching form for Susan Bischoff.md",
-    "headings": [
-      {
-        "heading": "**What is your writing background? (career, hobby, published, pre-published, etc. Number of current books, genre. Tell us anything you think we should know!)**",
-        "level": 1
-      },
-      {
-        "heading": "**What brought you into this class? What is your goal here?**",
-        "level": 1
-      },
-      {
-        "heading": "**What do you get paid to do (full-time/part-time) right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is your most significant accomplishment of the last 12 months? (could be in any arena of life)**",
-        "level": 1
-      },
-      {
-        "heading": "**What do you feel you do the best in your writing / platform right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is your biggest pain point in your writing / platform right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What are your hobbies or interests?**",
-        "level": 1
-      },
-      {
-        "heading": "**How would you describe yourself in three short phrases?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is the most important challenge you currently face?**",
-        "level": 1
-      },
-      {
-        "heading": "**What do the next ten years hold in store for you?**",
-        "level": 1
-      },
-      {
-        "heading": "**To meet your expectations, what do you hope to address in coaching?**",
-        "level": 1
-      },
-      {
-        "heading": "**Any additional comments?**",
-        "level": 1
-      },
-      {
-        "heading": "leftover notes",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Pre-coaching form for Becca",
-    "relativePath": "1. Projects/Strengths course/Pre-coaching form for Becca.md"
   },
   {
     "fileName": "Pre-coaching form for Becca with add'l notes from me 1",
@@ -23665,6 +23669,32 @@
     ]
   },
   {
+    "fileName": "my notes on top 6-10 strengths (strengths class)",
+    "relativePath": "1. Projects/Strengths course/Coaching notes/my notes on top 6-10 strengths (strengths class).md",
+    "headings": [
+      {
+        "heading": "Maximizer",
+        "level": 1
+      },
+      {
+        "heading": "Futuristic",
+        "level": 1
+      },
+      {
+        "heading": "Connectedness",
+        "level": 1
+      },
+      {
+        "heading": "Individualization",
+        "level": 1
+      },
+      {
+        "heading": "Relator",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "my notes on top 5 strengths (strengths class)",
     "relativePath": "1. Projects/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
     "headings": [
@@ -23766,32 +23796,6 @@
         "fileName": "2022-08-28",
         "link": "my notes on top 5 strengths (strengths class)",
         "relativePath": "daily/2022-08-28.md"
-      }
-    ]
-  },
-  {
-    "fileName": "my notes on top 6-10 strengths (strengths class)",
-    "relativePath": "1. Projects/Strengths course/Coaching notes/my notes on top 6-10 strengths (strengths class).md",
-    "headings": [
-      {
-        "heading": "Maximizer",
-        "level": 1
-      },
-      {
-        "heading": "Futuristic",
-        "level": 1
-      },
-      {
-        "heading": "Connectedness",
-        "level": 1
-      },
-      {
-        "heading": "Individualization",
-        "level": 1
-      },
-      {
-        "heading": "Relator",
-        "level": 1
       }
     ]
   },

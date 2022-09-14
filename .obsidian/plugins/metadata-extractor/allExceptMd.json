@@ -33,54 +33,6 @@
       "relativePath": "periodic"
     },
     {
-      "name": "Marbela mystery",
-      "relativePath": "1. Projects/Marbela mystery"
-    },
-    {
-      "name": "Strengths course",
-      "relativePath": "1. Projects/Strengths course"
-    },
-    {
-      "name": "Strengths journal",
-      "relativePath": "1. Projects/Strengths journal"
-    },
-    {
-      "name": "Writer and book search",
-      "relativePath": "1. Projects/Writer and book search"
-    },
-    {
-      "name": "productivity",
-      "relativePath": "1. Projects/productivity"
-    },
-    {
-      "name": "x477 indexing course",
-      "relativePath": "1. Projects/x477 indexing course"
-    },
-    {
-      "name": "EBT",
-      "relativePath": "2. Areas/EBT"
-    },
-    {
-      "name": "Gallup Strengths",
-      "relativePath": "2. Areas/Gallup Strengths"
-    },
-    {
-      "name": "Web presence updates",
-      "relativePath": "2. Areas/Web presence updates"
-    },
-    {
-      "name": "food",
-      "relativePath": "2. Areas/food"
-    },
-    {
-      "name": "productivity",
-      "relativePath": "2. Areas/productivity"
-    },
-    {
-      "name": "reminders",
-      "relativePath": "2. Areas/reminders"
-    },
-    {
       "name": "Copyediting and developmental editing",
       "relativePath": "3. Resources/Copyediting and developmental editing"
     },
@@ -369,24 +321,52 @@
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "Coaching notes",
-      "relativePath": "1. Projects/Strengths course/Coaching notes"
+      "name": "EBT",
+      "relativePath": "2. Areas/EBT"
     },
     {
-      "name": "Strengths course texts",
-      "relativePath": "1. Projects/Strengths course/Strengths course texts"
+      "name": "Gallup Strengths",
+      "relativePath": "2. Areas/Gallup Strengths"
     },
     {
-      "name": "0. Introductory material",
-      "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
+      "name": "Web presence updates",
+      "relativePath": "2. Areas/Web presence updates"
     },
     {
-      "name": "0.5 My notes",
-      "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
+      "name": "food",
+      "relativePath": "2. Areas/food"
     },
     {
-      "name": "Module 4 - Indexing Specifications",
-      "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
+      "name": "productivity",
+      "relativePath": "2. Areas/productivity"
+    },
+    {
+      "name": "reminders",
+      "relativePath": "2. Areas/reminders"
+    },
+    {
+      "name": "Marbela mystery",
+      "relativePath": "1. Projects/Marbela mystery"
+    },
+    {
+      "name": "Strengths course",
+      "relativePath": "1. Projects/Strengths course"
+    },
+    {
+      "name": "Strengths journal",
+      "relativePath": "1. Projects/Strengths journal"
+    },
+    {
+      "name": "Writer and book search",
+      "relativePath": "1. Projects/Writer and book search"
+    },
+    {
+      "name": "productivity",
+      "relativePath": "1. Projects/productivity"
+    },
+    {
+      "name": "x477 indexing course",
+      "relativePath": "1. Projects/x477 indexing course"
     },
     {
       "name": "Business planning",
@@ -395,10 +375,6 @@
     {
       "name": "Mysteries",
       "relativePath": "3. Resources/Writing - fiction/Mysteries"
-    },
-    {
-      "name": "strengths-2022",
-      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
     },
     {
       "name": "Module 1",
@@ -445,6 +421,30 @@
       "relativePath": "4. Archive/indexing/ASI Module A"
     },
     {
+      "name": "strengths-2022",
+      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
+    },
+    {
+      "name": "Coaching notes",
+      "relativePath": "1. Projects/Strengths course/Coaching notes"
+    },
+    {
+      "name": "Strengths course texts",
+      "relativePath": "1. Projects/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "0. Introductory material",
+      "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
+    },
+    {
+      "name": "0.5 My notes",
+      "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
+    },
+    {
+      "name": "Module 4 - Indexing Specifications",
+      "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications"
+    },
+    {
       "name": "Indexing exercise 2",
       "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
     }
@@ -466,14 +466,14 @@
       "relativePath": "0. Inbox/Untitled"
     },
     {
-      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
-      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
-      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
-    },
-    {
       "name": "Progressive Summarization Cheat Sheet.pdf",
       "basename": "Progressive Summarization Cheat Sheet",
       "relativePath": "2. Areas/productivity/Progressive Summarization Cheat Sheet.pdf"
+    },
+    {
+      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
+      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
+      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     },
     {
       "name": "bluehaircropped.jpg",
