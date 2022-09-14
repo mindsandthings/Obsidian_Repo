@@ -20641,6 +20641,51 @@
     "relativePath": "1. Projects/x477 indexing course/Untitled.md"
   },
   {
+    "fileName": "4.0 Indexing Specifications",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Module 4: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 4: Indexing Specifications",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Exercise 3**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
     "fileName": "4.8 Name slash author indexes for specific text types",
     "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md",
     "frontmatter": {
@@ -21180,51 +21225,6 @@
       {
         "heading": "4.11 Diacritics",
         "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "4.0",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "Module 4: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Module 4: Indexing Specifications",
-        "level": 2
-      },
-      {
-        "heading": "Learning Objectives",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Commentary",
-        "level": 3
-      },
-      {
-        "heading": "Discussion",
-        "level": 3
-      },
-      {
-        "heading": "Assignments",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Exercise 3**",
-        "level": 5
-      },
-      {
-        "heading": "**Online Research**",
-        "level": 5
       }
     ]
   },

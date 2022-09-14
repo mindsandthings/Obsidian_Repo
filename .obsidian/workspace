@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Marbela mystery/Marbela text.md",
+            "file": "0. Inbox/Macrex notes.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Marbela mystery/Marbela text.md",
+                "file": "0. Inbox/Macrex notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Marbela mystery/Marbela text.md",
+                "file": "0. Inbox/Macrex notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Marbela mystery/Marbela text.md"
+                "file": "0. Inbox/Macrex notes.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Module discussion answer.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Tea with the queen (unfinished) notes.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.6 Identifying Metatopics and the Meaning of the Text.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.5 The Importance of Good Term Selection.md",
-    "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2/Baa baa black sheep notes.md",
+    "0. Inbox/Misc indexing stuff from Chet Chats to review.md",
     "0. Inbox/Untitled.md",
-    "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md"
+    "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md",
+    "1. Projects/Obsidian/Untitled.md",
+    "1. Projects/Obsidian/Sonke Ahrens.md",
+    "1. Projects/Obsidian/Keyboard shortcuts to review.md",
+    "1. Projects/x477 indexing course/0. Introductory material/Useful to review before turning stuff in.md",
+    "1. Projects/x477 indexing course/0. Introductory material/Syllabus Journ X477.md",
+    "periodic/Daily reminders.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.5 Poem and song indexes; musical titles.md"
   ]
 }
