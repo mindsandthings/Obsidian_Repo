@@ -3,15 +3,17 @@ Myrtle, the harmonica-playing manatee mayor who teaches kindergartners about civ
 Myrtle's student - kindergartner, too old for this world
 Myrtle's kindergarten class
 
-Leafy Sea Dragon artist - really dramatic, famous
-Marbela's boss - another octopus
-
+Mademoiselle Lifi - Leafy Sea Dragon artist - really dramatic, famous
+Marbela's boss - Paisley - another octopus. Bow askew. A little grouchy and judgmental. 
+Shark security guard - 
 
 Detective Axl Otl Holmes - 
 A starfish - guest with multiple top hats
-Shrimp - museum owner
-A School of Fish - there for the food
-An unhelpful Blobfish - just wandering by
+Mr. Shramply - museum proprietor
+A School of Fish - herring art students there for the food
+Cyrus - an unhelpful blobfish - grandfather - 
+Aria - octopus puzzle-maker's descendant 
+
 
 
 

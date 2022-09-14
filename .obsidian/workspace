@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Macrex notes.md",
+            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Macrex notes.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Macrex notes.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Macrex notes.md"
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "0. Inbox/Misc indexing stuff from Chet Chats to review.md",
-    "0. Inbox/Untitled.md",
-    "0. Inbox/Remapping cmd-H to ctrl-H in parallels.md",
-    "1. Projects/Obsidian/Untitled.md",
-    "1. Projects/Obsidian/Sonke Ahrens.md",
-    "1. Projects/Obsidian/Keyboard shortcuts to review.md",
-    "1. Projects/x477 indexing course/0. Introductory material/Useful to review before turning stuff in.md",
-    "1. Projects/x477 indexing course/0. Introductory material/Syllabus Journ X477.md",
-    "periodic/Daily reminders.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.5 Poem and song indexes; musical titles.md"
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
+    "1. Projects/x477 indexing course/Untitled.md",
+    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
+    "1. Projects/x477 indexing course/Macrex group.md",
+    "1. Projects/x477 indexing course/Epub indexes 1.0.md",
+    "1. Projects/x477 indexing course/Cindex group.md",
+    "1. Projects/Marbela mystery/Classic 12-Chapter Murder Mystery Formula.md",
+    "1. Projects/Marbela mystery/Marbela outline.md",
+    "1. Projects/Marbela mystery/Marbela character list.md",
+    "1. Projects/Marbela mystery/Julie Marbela notes - remember to incorporate.md"
   ]
 }

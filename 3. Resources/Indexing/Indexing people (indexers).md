@@ -19,6 +19,7 @@ Welcome to the group, Elizabeth! Feel free to ask questions as you work on the B
 
 Elena Gwynne - in the chet chat. finishing up a book on physical activity and disability/ableism. 
 https://indexers.ca/acadp_listings/elena-gwynne/
+http://www.quillandinkindexing.com/samples-of-my-work/samples-of-my-work-by-subject/
 
 Matthew MacLellan - indexed a book on intersection between disability/crip studies and intersex people
 https://www.matthewmaclellan.com/

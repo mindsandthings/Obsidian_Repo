@@ -2,7 +2,6 @@
 
 Inbox
 
-![](https://ssl.gstatic.com/ui/v1/icons/mail/profile_mask_2x.png)
 
 ### Group Notification <Macrex-UCB+owner@groups.io>
 

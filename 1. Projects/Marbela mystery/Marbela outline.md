@@ -1,3 +1,41 @@
+# Act One
+
+Present the crime
+
+Introduce the sleuth
+
+Offer plausible suspects
+
+Introduce crime complications
+
+Introduce private life subplot
+
+# Act Two
+
+Initial investigations and interrogations reveal clues
+
+Disappearance of one suspect
+
+Raise the stakes
+
+Development of sub plot
+
+# Act Three
+
+Reveal hidden motives of stakeholders
+
+Unsatisfying solution reached
+
+Return to overlooked clue from act one
+
+Resolution of subplot
+
+Confrontation with perpetrator
+
+Resolution
+
+
+
 # Chapter 1
 At the opening of a mural at the Augusta Puzzle Museum, the mural and the wall that it's on are found missing.
 
