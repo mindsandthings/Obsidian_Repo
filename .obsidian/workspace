@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-14-Wed.md",
+            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-14-Wed.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-14-Wed.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-14-Wed.md"
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md"
               }
             }
           },
@@ -152,15 +153,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-09-14-Wed.md",
-    "1. Projects/Strengths journal/Strengths - 6. Maximizer.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.5 Poem and song indexes; musical titles.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.12 Using software to create name slash author indexes.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.4 Scripture and locorum indexes.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Checklist of Indexing specifications issues.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.2 Determining your audience.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
-    "1. Projects/x477 indexing course/Untitled.md",
-    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
-    "1. Projects/x477 indexing course/Macrex group.md",
-    "1. Projects/x477 indexing course/Epub indexes 1.0.md",
-    "1. Projects/x477 indexing course/Cindex group.md"
+    "1. Projects/x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+    "daily/2022-09-14-Wed.md"
   ]
 }

@@ -20683,6 +20683,37 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "4.3 Checklist of Indexing specifications issues",
+    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Checklist of Indexing specifications issues.md",
+    "frontmatter": {
+      "created": "2022-09-06T15:11:33 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-3-indexing-specifications-issues",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 172
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "4.3 Indexing Specifications Issues: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "4.3 Indexing Specifications Issues",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "4.9 Special issues in indexing  names",
     "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.9 Special issues in indexing  names.md",
     "frontmatter": {
@@ -20953,37 +20984,6 @@
       {
         "heading": "Locorum Indexes",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "4.3 Indexing specifications issues",
-    "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Indexing specifications issues.md",
-    "frontmatter": {
-      "created": "2022-09-06T15:11:33 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/4-dot-3-indexing-specifications-issues",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 172
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "4.3 Indexing Specifications Issues: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "4.3 Indexing Specifications Issues",
-        "level": 2
       }
     ]
   },
