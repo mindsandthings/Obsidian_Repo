@@ -243,7 +243,7 @@ Many Cambodian and Laotian names follow the same patterns.
 
 # Geographic names
 
-
+[finish taking notes on this]
 
 
 
@@ -252,4 +252,10 @@ Many Cambodian and Laotian names follow the same patterns.
 
 
 
-Chicago: Sections 16.29-16.54; 16.62-16.67; 16.71-16.93; 16.141-16.145
+# Chicago 16.29-16.54
+
+
+# Chicago 16.62-16.67; 16.71-16.93
+
+
+# Chicago 16.141-16.145
