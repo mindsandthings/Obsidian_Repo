@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+            "file": "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+                "file": "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+                "file": "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md"
+                "file": "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+    "periodic/Daily reminders.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
     "1. Projects/x477 indexing course/0. Introductory material/Mulvany reading guide.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.12 Using software to create name slash author indexes.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.11 Diacritics.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.10 References for names.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.9 Special issues in indexing  names.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md"
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.9 Special issues in indexing  names.md"
   ]
 }
