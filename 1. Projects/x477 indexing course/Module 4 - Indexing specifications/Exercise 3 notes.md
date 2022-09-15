@@ -1,0 +1,53 @@
+Instructions are as follows:
+
+-   Indexes are to use letter-by-letter sorting.
+-   First names should be spelled out.
+-   Follow the instructions in CINDEX, MACREX, and SKY to correctly insert the necessary diacritics.
+-   Check the names using a reference such as _Webster's New Biographical Dictionary_ or _New Oxford Dictionary of English_, or online sources such as The National Library of Australia [Trove (Links to an external site.)](http://trove.nla.gov.au/), [The Library of Congress (Links to an external site.)](http://www.loc.gov/), and the [Virtual International Authority File (VIAF) (Links to an external site.)](http://viaf.org/) from OCLC, which links directly to the national catalogs of many nations. As part of the assignment, please indicate which sources you used and why you elected to use them over another source.
+-   Create two files for _each_ index: one from the indexing program (CDX, MBK) and one .rtf file.
+-   You will be turning in six separate files. Be sure to name each .rtf file by indicating the software used, your name, and the course number, like so: "your name X477 CINDEX exercise3.rtf". Then attach the six files to your assignment submission.
+
+#### Index 1: CINDEX
+
+Sultan Abdülhamid II, 210  
+	LOC: Abdülhamid II, Sultan of the Turks
+	VIAF: many results, but top is same
+	Trove: varies, but top is II, Abdülhamid, (Sultan of the Turks)
+James Truslow Adams, 49  
+	LOC: Adams, James Truslow
+	
+Lady Grizel Baillie, 88-89  
+	
+	
+Sun Ch'üan, 178-181  
+Alexis de Tocqueville, 157  
+Julien Offroy de La Mettrie, 78, 80, 83  
+Rodolfo Amadeo Lanciani, 152  
+Soga Chokuan, 173, 176  
+Martin Luther King, Jr., 45-46
+
+#### Index 2: MACREX
+
+Sun Yat-sen, 54  
+Hippolyte-Adolphe Taine, 92-93  
+Pierre Teilhard de Chardin, 218  
+Juan de Torquemada, 36,  
+François de La Mothe Le Vayer, 327  
+Johann von Lamont, 67  
+José de La Serna y Hinojosa, 318, 319  
+Otto Liman von Sanders, 67  
+Voltaire, 84
+
+#### Index 3: SKY
+
+José Arcadio Limón, 318  
+Jean de La Bruyère, 331  
+Hugues de Lionne, 29, 30, 39  
+Leonardo da Vinci, 305  
+Stanislav Kostka Neumann, 199  
+Hans Christian Ørsted, 296  
+Martín Alonso Pinzón, 127  
+Alfonso Quiñónez y Molina, 53, 75, 97  
+Julia Maesa, 100-103
+
+[Submit Exercise 3 here](https://onlinelearning.berkeley.edu/courses/1939224/assignments/26460020 "Indexing Exercise 3")
