@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
+            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md"
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md"
               }
             }
           },
@@ -153,6 +153,8 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.7 Introduction to name slash author indexes.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.6 Indexing cookbooks.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.5 Poem and song indexes; musical titles.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.12 Using software to create name slash author indexes.md",
@@ -160,8 +162,6 @@
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.4 Scripture and locorum indexes.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.3 Checklist of Indexing specifications issues.md",
     "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.2 Determining your audience.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md",
-    "1. Projects/x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
-    "daily/2022-09-14-Wed.md"
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.1 Text type and audience.md"
   ]
 }
