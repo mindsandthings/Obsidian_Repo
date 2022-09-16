@@ -302,6 +302,7 @@ See Chicago style.
 [in Anki]
 
 # Chicago 16.62-16.67; 16.71-16.93
-[do 16.56 through 16.93 and note where to start]
+[do 16.58 through 16.100 and note where to start]
 
 # Chicago 16.141-16.145
+[this is examples of different index types]
