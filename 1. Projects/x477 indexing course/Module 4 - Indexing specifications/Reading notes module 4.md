@@ -52,8 +52,6 @@ In historical or genealogical works indexers may include a womari s maiden name 
 Agee, Victoria (Powers) 
 Powers, Victoria. See Agee, Victoria
 
-==[START HERE]
-
 ###  Compound names
 Names that are composed of three or more name elements, sometimes with the last two joined by a hyphen, are compound names. 
 
@@ -79,10 +77,15 @@ With "Saint/St." the question is whether to abbreviate "St." as spelled out, a q
 ### Christian saints
 Enter under a different element of the name; see The New Catholic Encylopedia (2003) as a reference. 
 
+
+
 ### Names with "Mac," "Mc," or "M'"
 Chicago recommends letter by letter, as they appear, with contractions filed as given. 
 
 When names that sound alike may be spelled differently, a reference from one to the other may be necessary, for example "fford see also Ford" (Booth and Piggott).
+
+==[START HERE]
+
 
 ### Titles in names
 If two entries are identical, a title can be used effectively to distinguish between the two. 
@@ -114,7 +117,7 @@ Charles II, King of France
 Charles II, King of Great Britain
 
 ### Roman names
-AACR2 recommends that a Roman living before AD 476 be entered under der the part of the name that is most commonly used (22.9): 
+AACR2 recommends that a Roman living before AD 476 be entered under the part of the name that is most commonly used (22.9): 
 
 Cicero, Marcus Tullius 
 
@@ -124,7 +127,7 @@ Martianus Capella
 
 ### Obscure names
 
-Sometimes a text makes reference to an individual by only a forename or a surname. If such references are indexable and the full name cannot be ascertained, the name is entered as given in the text and further identified fied by a qualifying phrase: Sarah (Lady Jane's handmaid)
+Sometimes a text makes reference to an individual by only a forename or a surname. If such references are indexable and the full name cannot be ascertained, the name is entered as given in the text and further identified by a qualifying phrase: Sarah (Lady Jane's handmaid)
 
 ## Names with particles
 See more detailed reference sources when you have more than a handful of such names.
@@ -134,7 +137,7 @@ If a surname contains articles or prepositions or a combination of the two, the 
 
 Afrikaans: enter under the prefix (Du Plessis, Menan)
 
-Also see the helpful information provided by Cynthia Bertelsen in Issues in Cataloging Non-Western Materials: Special Problems with African Language guage Materials (1996).
+Also see the helpful information provided by Cynthia Bertelsen in Issues in Cataloging Non-Western Materials: Special Problems with African Language Materials (1996).
 
 American and English: enter under the prefix (De Peyster, Abraham)
 
@@ -245,15 +248,58 @@ Many Cambodian and Laotian names follow the same patterns.
 
 [finish taking notes on this]
 
+If a geographic feature is preceded by a preliminary expression such as "Mt." or "Lake", {{c1::index it in inverted format: Shasta, Mt. }} If it is part of a place name, {{c1::do not: Mount Vernon (VA). }}
 
+Use an xref if they will look it up in teh wrong palce. 
 
+For Cape of Good Hope, M-W's geographical dictionary posts it as Good Hope, Cape of, and provides a See from Cape of Good Hope. Keep readers' needs in mind. 
+
+In circumstances where you need to link both to a geographical feature and a place named for the geographical feature, insert a cross-reference. 
+
+When a place name begins with an article or preposition, it is part of the name; enter it under that and supply a cross-reference if needed. 
+
+Provide identifiers for geographic names as needed:  
+{{c1::  
+Los Angeles (CA)  
+Los Angeles (Chile)  
+Los Angeles County (CA)  
+}}  
+Use them consistently, e.g. always abbreviate CA as CA and not as Calif in one palce.
+
+Use M-W's geographic dictionary. More detailed can be gotten from:
+the United States Board on Geographic Names (U.S. Geological Survey, Reston, VA 22092 or http://geonames. usgs.gov/bgn.html). 
+
+The USGS Geographic Names Information Systems (http://geonames .usgs.gov) provides the standard format for U.S. place names and links to gazetteers for many other countries. Even the International Astronomical Unions Gazetteer of Planetary Nomenclature is listed. On Britain, K. G. B. Bakewell (1988, 28) states that "the standard gazetteer teer of Britain is Bartholomew Gazetteer of Britain compiled by O. Mason (Edinburgh: Bartholomew, 1977), which has about 40,000 entries compared pared with the 90,000 entries in the same publisher's earlier Gazetteer of the British Isles (Edinburgh: Bartholomew, 1970). The English Place-Name Name Society publishes separate volumes on the place names of each English county." Oliver Mason (1986) has also complied the Bartholomew Gazetteer of Places in Britain. The English Place-Name Society maintains a Web site at http://www.nottingham.ac.uk/english/research/EPNS/.
+
+## Names of organizations
+Do not invert names of organizations that are named after people (John Deere Company). Similarly, list winery and nonprofit names without inversion. 
+
+Use xrefs to direct people from more commonly used versions (PG&E) to the full versions (Pacific Gas and Electric). Similarly when a name is pronounced differently than it is spelled. 
+
+Generally, don't invert organizational names—but if you are listing a lot of orgs that start the same way it may make more sense to double-post in both inverted and uninverted format, if there are only a few locators. Or even to invert the name to pull the important portion of the name forward, to help readers who are not certain of the org's formal name. Explain in the headnote. 
+
+Corporations sometimes have more than one formal legal name, or are referred to by something other than their formal legal name. Look to the text; if the author doesn't mention another name, no cross-reference is needed. 
+
+Corporations sometimes have mergers and changes so might need qualifiers for various time periods. 
+
+Post the info under where readers will look. 
+
+## Alphabetize names in the same way the rest of the index is alphabetized. 
+Note that this may create issues with names that use spaces between initials. Avoid creating your own arrangement scheme. 
+
+## Names of works
+### Books, music, motion pictures, and artworks
+See Chicago style. 
+
+### Newspapers and periodicals
+See Chicago style. 
 
 # 206-­‐208 Chapter 8: “Special characters” (you may stop at “Layout of the Index”)  
 
 
 
 # Chicago 16.29-16.54
-
+[put in 16.27 onward]
 
 # Chicago 16.62-16.67; 16.71-16.93
 
