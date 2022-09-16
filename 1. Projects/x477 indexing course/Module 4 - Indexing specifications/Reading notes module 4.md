@@ -299,9 +299,9 @@ See Chicago style.
 
 
 # Chicago 16.29-16.54
-[put in 16.27 onward]
+[in Anki]
 
 # Chicago 16.62-16.67; 16.71-16.93
-
+[do 16.56 through 16.93 and note where to start]
 
 # Chicago 16.141-16.145
