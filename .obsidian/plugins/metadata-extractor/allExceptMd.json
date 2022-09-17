@@ -447,6 +447,10 @@
     {
       "name": "Indexing exercise 2",
       "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
+    },
+    {
+      "name": "Module 5",
+      "relativePath": "1. Projects/x477 indexing course/Module 5"
     }
   ],
   "nonMdFiles": [
@@ -489,6 +493,26 @@
       "name": "ttl2-2560x1600-1.jpg",
       "basename": "ttl2-2560x1600-1",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
+    },
+    {
+      "name": "Pasted image 20220916193915.png",
+      "basename": "Pasted image 20220916193915",
+      "relativePath": "Pasted image 20220916193915.png"
+    },
+    {
+      "name": "Pasted image 20220916194017.png",
+      "basename": "Pasted image 20220916194017",
+      "relativePath": "Pasted image 20220916194017.png"
+    },
+    {
+      "name": "Pasted image 20220916194025.png",
+      "basename": "Pasted image 20220916194025",
+      "relativePath": "Pasted image 20220916194025.png"
+    },
+    {
+      "name": "Pasted image 20220916194032.png",
+      "basename": "Pasted image 20220916194032",
+      "relativePath": "Pasted image 20220916194032.png"
     }
   ]
 }

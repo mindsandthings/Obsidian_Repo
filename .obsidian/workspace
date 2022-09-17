@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+            "file": "1. Projects/x477 indexing course/Module 5/PNO of example.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+                "file": "1. Projects/x477 indexing course/Module 5/PNO of example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+                "file": "1. Projects/x477 indexing course/Module 5/PNO of example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md"
+                "file": "1. Projects/x477 indexing course/Module 5/PNO of example.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
-    "0. Inbox/Fifi diary - Julie bday 2022.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-09-16-Fri.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-09-15-Thu.md",
-    "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md"
+    "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
+    "1. Projects/x477 indexing course/Module 5/5.6 Indexing Project 1.md",
+    "1. Projects/x477 indexing course/Module 5/Index for example.md",
+    "1. Projects/x477 indexing course/Module 5/PNO of example.md",
+    "1. Projects/x477 indexing course/Module 5/5.5 Example of the Indexing Process.md",
+    "1. Projects/x477 indexing course/Module 5/5.4 Concurrent Process of Editing and Selecting Terms.md",
+    "1. Projects/x477 indexing course/Module 5/5.3 Information Questions.md",
+    "1. Projects/x477 indexing course/Module 5/5.2 Thematic Thinking.md",
+    "1. Projects/x477 indexing course/Module 5/5.1 Introducing the Berkeley Method of Indexing.md",
+    "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md"
   ]
 }
