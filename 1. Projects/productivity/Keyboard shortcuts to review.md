@@ -8,9 +8,6 @@ Cmd-Option-T - create or edit task
 Cmd-Enter - toggle task
 
 
-# Table of contents
-Ctrl-Cmd-T to create new table of contents for a note
-
 # Shimmering Obsidian
 https://github.com/chrisgrieser/shimmering-obsidian
 on: create a new note with a specified title
@@ -34,17 +31,17 @@ append_prefix: String to insert before content appended to a note via the Alfred
 https://www.alfredapp.com/help/workflows/advanced/placeholders/#date-time
 
 # Obsidian
-Cmd-w to close active pane
+[italicized have been added to Anki]
+*Cmd-w to close active pane
 Cmd-r to close all other panes
 Ctrl-f to copy file path
 Cmd-n to create new note
 Cmd-shift-n to create note in new pane
-
-Cycle bullet/checkbox
+Ctrl-Cmd-T to create new table of contents for a note
 Cmd-d to delete paragraph
 F2 to edit file title
 Cmd-M to move file to another folder
-Cmd-shift-M to reveal active file in navigation
+Cmd-shift-M to reveal active file in navigation*ve file in navigation
 Cmd-shift-E to show file explorer
 Cmd-shift-left: focus left pane
 Cmd-shift-right: focus right pane
@@ -52,6 +49,8 @@ Move current pane to new window
 
 Navigate back: cmd-opt-[
 Navigate forward: cmd-opt-]
+
+Cycle bullet/checkbox
 
 F1: open help
 Open link under cursor in new pane: cmd-opt-enter

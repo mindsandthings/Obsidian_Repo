@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic/Weekly reminders.md",
+            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -44,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tjera[u",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Weekly reminders.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Weekly reminders.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Weekly reminders.md"
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 5/PNO of example.md",
-    "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
-    "1. Projects/x477 indexing course/Module 5/5.6 Indexing Project 1.md",
-    "1. Projects/x477 indexing course/Module 5/Index for example.md",
-    "1. Projects/x477 indexing course/Module 5/5.5 Example of the Indexing Process.md",
-    "1. Projects/x477 indexing course/Module 5/5.4 Concurrent Process of Editing and Selecting Terms.md",
-    "1. Projects/x477 indexing course/Module 5/5.3 Information Questions.md",
-    "1. Projects/x477 indexing course/Module 5/5.2 Thematic Thinking.md",
-    "1. Projects/x477 indexing course/Module 5/5.1 Introducing the Berkeley Method of Indexing.md",
-    "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md"
+    "1. Projects/productivity/Enhanced Cloze plugin.md",
+    "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
+    "daily/2022-09-17-Sat.md",
+    "periodic/Daily reminders.md",
+    "daily/2022-09-16-Fri.md",
+    "daily/2022-09-15-Thu.md",
+    "daily/2022-09-14-Wed.md",
+    "daily/2022-09-13-Tue.md",
+    "daily/2022-09-12-Mon.md",
+    "daily/2022-09-11-Sun.md"
   ]
 }

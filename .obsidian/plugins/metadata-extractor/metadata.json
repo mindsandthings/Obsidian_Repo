@@ -1,7 +1,21 @@
 [
   {
     "fileName": "Weekly reminders",
-    "relativePath": "periodic/Weekly reminders.md"
+    "relativePath": "periodic/Weekly reminders.md",
+    "headings": [
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Michael",
+        "level": 1
+      },
+      {
+        "heading": "Social",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Daily reminders",
@@ -24,6 +38,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "2022-09-17-Sat",
+    "relativePath": "daily/2022-09-17-Sat.md"
   },
   {
     "fileName": "2022-09-16-Fri",
@@ -139,6 +157,10 @@
   {
     "fileName": "2022-08-23",
     "relativePath": "daily/2022-08-23.md"
+  },
+  {
+    "fileName": "Fifi diary - Julie bday 2022",
+    "relativePath": "4. Archive/writing-julie/Fifi diary - Julie bday 2022.md"
   },
   {
     "fileName": "Potential tumblr posts",
@@ -24538,10 +24560,6 @@
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "Fifi diary - Julie bday 2022",
-    "relativePath": "0. Inbox/Fifi diary - Julie bday 2022.md"
   },
   {
     "fileName": "00-scratchpad-note",
