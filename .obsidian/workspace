@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+            "file": "daily/2022-09-17-Sat.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "daily/2022-09-17-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "daily/2022-09-17-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
+                "file": "daily/2022-09-17-Sat.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "0. Inbox/00-scratchpad-note.md",
+    "1. Projects/productivity/Keyboard shortcuts to review.md",
     "1. Projects/productivity/Enhanced Cloze plugin.md",
     "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
     "daily/2022-09-17-Sat.md",
@@ -159,8 +161,6 @@
     "daily/2022-09-16-Fri.md",
     "daily/2022-09-15-Thu.md",
     "daily/2022-09-14-Wed.md",
-    "daily/2022-09-13-Tue.md",
-    "daily/2022-09-12-Mon.md",
-    "daily/2022-09-11-Sun.md"
+    "daily/2022-09-13-Tue.md"
   ]
 }
