@@ -9,63 +9,50 @@ Instructions are as follows:
 
 #### Index 1: CINDEX
 
-Sultan Abdülhamid II, 210  
-	LOC: Abdülhamid II, Sultan of the Turks
-	VIAF: many results, but top is same
-	Trove: varies, but top is II, Abdülhamid, (Sultan of the Turks)
-James Truslow Adams, 49  
-	LOC: Adams, James Truslow
+Sultan Abdülhamid II, 210
+James Truslow Adams, 49 
 Lady Grizel Baillie, 88-89  
 Sun Ch'üan, 178-181  
-Alexis de Tocqueville, 157  
-Julien Offroy de La Mettrie, 78, 80, 83  
-Rodolfo Amadeo Lanciani, 152  
-Soga Chokuan, 173, 176  
+Alexis de Tocqueville, 157
+Julien Offroy de La Mettrie, 78, 80, 83  ==review Mulvany and Chicago for cross-posting; check country of origin's citation== ==ALSO I THINK THIS IS A TYPO==
+Rodolfo Amadeo Lanciani, 152  ==check country of origin;s citation==
+Soga Chokuan, 173, 176  ==check country of origin's citation==
 Martin Luther King, Jr., 45-46
 
 #### Index 2: MACREX
 
-Sun Yat-sen, 54  
-Hippolyte-Adolphe Taine, 92-93  
-Pierre Teilhard de Chardin, 218  
-Juan de Torquemada, 36,  
-François de La Mothe Le Vayer, 327  
-Johann von Lamont, 67  
-José de La Serna y Hinojosa, 318, 319  
-Otto Liman von Sanders, 67  
+Sun Yat-sen, 54 
+Hippolyte-Adolphe Taine, 92-93 
+Pierre Teilhard de Chardin, 218  ==review French rules==
+Juan de Torquemada, 36,  ==check country of origin's citation==
+François de La Mothe Le Vayer, 327  ==xref this one under Le Vayer==
+Johann von Lamont, 67 ==check country of origin==
+José de La Serna y Hinojosa, 318, 319  ==add a see from Hinojosa and maybe from Serna; also include the whole thing - need to raise line length==
+Otto Liman von Sanders, 67  ==I added a ref from Sanders==
 Voltaire, 84
 
 #### Index 3: SKY
 
-José Arcadio Limón, 318  
-Jean de La Bruyère, 331  
-Hugues de Lionne, 29, 30, 39  
-Leonardo da Vinci, 305  
-Stanislav Kostka Neumann, 199  
-Hans Christian Ørsted, 296  
-Martín Alonso Pinzón, 127  
+José Arcadio Limón, 318  ==add an xref fom Araadio since this breaks rules==
+Jean de La Bruyère, 331  ==check country of origin==
+Hugues de Lionne, 29, 30, 39  ==check country of origin==
+Leonardo da Vinci, 305  ==look for rule, this comma is very weird==
+Stanislav Kostka Neumann, 199  ==check on rule fo rthis nationality - do I need an xref?==
+Hans Christian Ørsted, 296  ==check country of origin==
+Martín Alonso Pinzón, 127  ==does this break a rule?==
 Alfonso Quiñónez y Molina, 53, 75, 97  
 Julia Maesa, 100-103
 
 [Submit Exercise 3 here](https://onlinelearning.berkeley.edu/courses/1939224/assignments/26460020 "Indexing Exercise 3")
-==add:
-I used VIAF (the American entries) because it allowed me to see how consistent a particular usage was across nations. When the name in the exercise didn't clearly come up in VIAF (for example Sun Ch'üan) I googled to attempt to determine who was being referred to (and in that case found Encyclopaedia Britannica listing Sun Ch'üan as the Wade-Giles spelling of Sun Quan).  
+add:
+I used VIAF because it allowed me to see how consistent a particular usage was across nations, including the US and the nation of origin. When the name in the exercise didn't clearly come up in VIAF (for example Sun Ch'üan) I googled to attempt to gather nationality and time period.  
 
-I modified the VIAF results in some instances:
-1. Omitting the "Lady" from Grizel Baillie, per Chicago Style
-2. For Sun Ch'üan, using the Wade-Giles spelling as given, rather than going with VIAF's Sun Quan, per Chicago style
-3. Omitting the title "Sultan of the Turks" under Chicago 16.37
-4. Omitted the title "Doctor" from von Lamont
+I'm assuming that the names given reflect their usage in the text, so I have used VIAF to support decisions about inversion, alphabetization, and cross-references rather than decisions about what elements to use vs omit (for example, I have retained the "Arcadio" in José Arcadio Limón). VIAF was also less reliable about Asian names, using a comma between family name and given name as though they were always initially given in Western format ("Sun, Yat-sen"; "Soka, Choguan"). Since those names were given in traditional format here, per Chicago style I have not inserted a comma. 
 
-
-
-https://archive.org/details/pdfy-VV-4_m1HVoyDFFrA/page/n601/mode/2up
-
-
-
-There are a couple things I would verify with the client, if this were a real job:
-1. Rodolfo Amedeo Lanciani's middle name is spelled differently in the given entry than in VIAF (Amadeo in the entry, Amedeo in VIAF). If it were "Amadeo" in the text, I would note to the client that it appeared to be a typo. 
-2. If it were not clear from the text who Sun Ch'üan is, I would confirm with them. 
+There are three entries I believe to contain typos. If this were a real job, I would verify with the client.  
+1. Julien Offroy de La Mettrie ==google?
+2. Rodolfo Amedeo Lanciani's middle name is spelled "Amadeo" in the assignment but "Amedeo" (with an e) in VIAF and other sources. I believe "Amadeo" is a typo, and have gone with "Amedeo" in the index. ==google?
+3. Alfonso Quiñónez y Molina: The "y" does not appear in official sources. "Alfonso Quiñónez y Molina" gets 4 hits on google; "Alfonso Quiñónez Molina" gets 12,200 hits on google. I believe the "y" is  incorrect, and have gone with "Quiñónez Molina" in the index. 
 
 
 
