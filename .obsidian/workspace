@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-17-Sat.md",
+            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-17-Sat.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-17-Sat.md",
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-17-Sat.md"
+                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md"
               }
             }
           },
@@ -152,15 +153,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
+    "daily/2022-09-17-Sat.md",
     "0. Inbox/00-scratchpad-note.md",
     "1. Projects/productivity/Keyboard shortcuts to review.md",
     "1. Projects/productivity/Enhanced Cloze plugin.md",
     "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
-    "daily/2022-09-17-Sat.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-09-16-Fri.md",
-    "daily/2022-09-15-Thu.md",
-    "daily/2022-09-14-Wed.md",
-    "daily/2022-09-13-Tue.md"
+    "periodic/Daily reminders.md"
   ]
 }
