@@ -53,7 +53,8 @@ I'm assuming that the names given reflect their usage in the text, so I have use
 There are three entries I believe to contain typos. If this were a real job, I would verify with the client.  
 1. Julien Offroy de La Mettrie: VIAF lists Offray (with an A) as preferred by both French and U.S. sources, and there are 12,700 google hits for Offroy vs 96,800 for Offray. I suspect it's a typo and have gone with Offroy in the index. 
 2. Rodolfo Amedeo Lanciani's middle name is spelled "Amadeo" in the assignment but "Amedeo" (with an e) in VIAF and other sources. I believe "Amadeo" is a typo, and have gone with "Amedeo" in the index.
-4. Alfonso Quiñónez y Molina: The "y" does not appear in official sources. "Alfonso Quiñónez y Molina" gets 4 hits on google; "Alfonso Quiñónez Molina" gets 12,200 hits on google. I believe the "y" is  incorrect, and have gone with "Quiñónez Molina" in the index. 
+3. Alfonso Quiñónez y Molina: The "y" does not appear in official sources. "Alfonso Quiñónez y Molina" gets 4 hits on google; "Alfonso Quiñónez Molina" gets 12,200 hits on google. I believe the "y" is  incorrect, and have gone with "Quiñónez Molina" in the index. 
+
 
 
 Please share some of the challenges you found in completing Exercise 3 and answer the following questions:
