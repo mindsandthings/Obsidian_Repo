@@ -55,7 +55,7 @@ I modified the VIAF results in some instances:
 1. Omitting the "Lady" from Grizel Baillie, per Chicago Style
 2. For Sun Ch'üan, using the Wade-Giles spelling as given, rather than going with VIAF's Sun Quan, per Chicago style
 3. Omitting the title "Sultan of the Turks" under Chicago 16.37
-4. 
+4. Omitted the title "Doctor" from von Lamont
 
 
 
