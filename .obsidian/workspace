@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+            "file": "0. Inbox/Food notes.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+                "file": "0. Inbox/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+                "file": "0. Inbox/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md"
+                "file": "0. Inbox/Food notes.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
-    "daily/2022-09-17-Sat.md",
+    "0. Inbox/Kraken revision notes Sep 2022.md",
+    "0. Inbox/Vision stuff.md",
     "0. Inbox/00-scratchpad-note.md",
-    "1. Projects/productivity/Keyboard shortcuts to review.md",
-    "1. Projects/productivity/Enhanced Cloze plugin.md",
+    "1. Projects/productivity/Tiago Forte - BASB notes.md",
     "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
-    "periodic/Daily reminders.md"
+    "0. Inbox/Food notes.md",
+    "periodic/Daily reminders.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
+    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md"
   ]
 }
