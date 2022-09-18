@@ -14,20 +14,20 @@ James Truslow Adams, 49
 Lady Grizel Baillie, 88-89  
 Sun Ch'üan, 178-181  
 Alexis de Tocqueville, 157
-Julien Offroy de La Mettrie, 78, 80, 83  ==review Mulvany and Chicago for cross-posting; check country of origin's citation== ==ALSO I THINK THIS IS A TYPO== 16.72 would put Offroy first
-Rodolfo Amadeo Lanciani, 152  ==check country of origin;s citation==
-Soga Chokuan, 173, 176  ==check country of origin's citation==
+Julien Offroy de La Mettrie, 78, 80, 83
+Rodolfo Amadeo Lanciani, 152  
+Soga Chokuan, 173, 176  
 Martin Luther King, Jr., 45-46
 
 #### Index 2: MACREX
 
 Sun Yat-sen, 54 
 Hippolyte-Adolphe Taine, 92-93 
-Pierre Teilhard de Chardin, 218  ==review French rules== this one is litteralyly in chicago as Teilhard de Chardin, Pierre
-Juan de Torquemada, 36,  ==check country of origin's citation==
-François de La Mothe Le Vayer, 327  ==xref this one under Le Vayer==
-Johann von Lamont, 67 ==check country of origin==
-José de La Serna y Hinojosa, 318, 319  ==add a see from Hinojosa and maybe from Serna; also include the whole thing - need to raise line length==
+Pierre Teilhard de Chardin, 218  
+Juan de Torquemada, 36,  
+François de La Mothe Le Vayer, 327  
+Johann von Lamont, 67 
+José de La Serna y Hinojosa, 318, 319  
 Otto Liman von Sanders, 67  ==I added a ref from Sanders==
 Voltaire, 84
 
@@ -50,11 +50,13 @@ I used VIAF because it allowed me to see how consistent a particular usage was a
 I'm assuming that the names given reflect their usage in the text, so I have used VIAF to support decisions about inversion, alphabetization, and cross-references rather than decisions about what elements to use vs omit (for example, I have retained the "Arcadio" in José Arcadio Limón). VIAF was also less reliable about Asian names, using a comma between family name and given name as though they were always initially given in Western format ("Sun, Yat-sen"; "Soka, Choguan"). Since those names were given in traditional format here, per Chicago style I have not inserted a comma. 
 
 There are three entries I believe to contain typos. If this were a real job, I would verify with the client.  
-1. Julien Offroy de La Mettrie ==google?
-2. Rodolfo Amedeo Lanciani's middle name is spelled "Amadeo" in the assignment but "Amedeo" (with an e) in VIAF and other sources. I believe "Amadeo" is a typo, and have gone with "Amedeo" in the index. ==google?
-3. Alfonso Quiñónez y Molina: The "y" does not appear in official sources. "Alfonso Quiñónez y Molina" gets 4 hits on google; "Alfonso Quiñónez Molina" gets 12,200 hits on google. I believe the "y" is  incorrect, and have gone with "Quiñónez Molina" in the index. 
+1. Julien Offroy de La Mettrie: VIAF lists Offray (with an A) as preferred by both French and U.S. sources, and there are 12,700 google hits for Offroy vs 96,800 for Offray. I suspect it's a typo and have gone with Offroy in the index. 
+2. Rodolfo Amedeo Lanciani's middle name is spelled "Amadeo" in the assignment but "Amedeo" (with an e) in VIAF and other sources. I believe "Amadeo" is a typo, and have gone with "Amedeo" in the index.
+4. Alfonso Quiñónez y Molina: The "y" does not appear in official sources. "Alfonso Quiñónez y Molina" gets 4 hits on google; "Alfonso Quiñónez Molina" gets 12,200 hits on google. I believe the "y" is  incorrect, and have gone with "Quiñónez Molina" in the index. 
 
 
+
+The VIAF entry for La Mothe Le Vayer appeared to indicate a lowercase le,, but on actually clicking the entry, that was untrue—
 
 
 
