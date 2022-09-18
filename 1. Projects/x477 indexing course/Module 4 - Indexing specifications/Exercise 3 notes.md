@@ -14,7 +14,7 @@ James Truslow Adams, 49
 Lady Grizel Baillie, 88-89  
 Sun Ch'üan, 178-181  
 Alexis de Tocqueville, 157
-Julien Offroy de La Mettrie, 78, 80, 83  ==review Mulvany and Chicago for cross-posting; check country of origin's citation== ==ALSO I THINK THIS IS A TYPO==
+Julien Offroy de La Mettrie, 78, 80, 83  ==review Mulvany and Chicago for cross-posting; check country of origin's citation== ==ALSO I THINK THIS IS A TYPO== 16.72 would put Offroy first
 Rodolfo Amadeo Lanciani, 152  ==check country of origin;s citation==
 Soga Chokuan, 173, 176  ==check country of origin's citation==
 Martin Luther King, Jr., 45-46
@@ -23,7 +23,7 @@ Martin Luther King, Jr., 45-46
 
 Sun Yat-sen, 54 
 Hippolyte-Adolphe Taine, 92-93 
-Pierre Teilhard de Chardin, 218  ==review French rules==
+Pierre Teilhard de Chardin, 218  ==review French rules== this one is litteralyly in chicago as Teilhard de Chardin, Pierre
 Juan de Torquemada, 36,  ==check country of origin's citation==
 François de La Mothe Le Vayer, 327  ==xref this one under Le Vayer==
 Johann von Lamont, 67 ==check country of origin==
