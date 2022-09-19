@@ -17194,6 +17194,92 @@
     ]
   },
   {
+    "fileName": "Indexing book club - Leise and history",
+    "relativePath": "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+    "headings": [
+      {
+        "heading": "Leise (2016) - Pan-granularism and specificity",
+        "level": 1
+      },
+      {
+        "heading": "Benefits of structural indexing:",
+        "level": 2
+      },
+      {
+        "heading": "Textual indexing",
+        "level": 2
+      },
+      {
+        "heading": "1. Contextual entries",
+        "level": 3
+      },
+      {
+        "heading": "2. Basic-subordinate entries:",
+        "level": 3
+      },
+      {
+        "heading": "3. superordinate-basic entries:",
+        "level": 3
+      },
+      {
+        "heading": "Pan-granular indexing process",
+        "level": 2
+      },
+      {
+        "heading": "Step 1: Metatopic entry",
+        "level": 3
+      },
+      {
+        "heading": "Step 2: Chapter entry headings",
+        "level": 3
+      },
+      {
+        "heading": "Step 3: Chapter entry subheadings",
+        "level": 3
+      },
+      {
+        "heading": "If your text lacks section headings within chapters or has non-useful titles",
+        "level": 3
+      },
+      {
+        "heading": "Time taken",
+        "level": 4
+      },
+      {
+        "heading": "Step 4: Textual indexing",
+        "level": 3
+      },
+      {
+        "heading": "Specificity:",
+        "level": 2
+      },
+      {
+        "heading": "Sassen (2013): History indexers reviewed",
+        "level": 1
+      },
+      {
+        "heading": "Results",
+        "level": 2
+      },
+      {
+        "heading": "Discussion",
+        "level": 2
+      },
+      {
+        "heading": "Chandler (1983): Indexes for local and family history: a user's view",
+        "level": 1
+      },
+      {
+        "heading": "Boehm (1978): Twenty-five years of history indexing: a practitioner's report",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Notes from indexing book group Sep 19 2022",
+    "relativePath": "3. Resources/indexing-book-group/Notes from indexing book group Sep 19 2022.md"
+  },
+  {
     "fileName": "Reading notes module 4",
     "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
     "headings": [
@@ -18489,7 +18575,7 @@
       {
         "fileName": "Ongoing resources to read",
         "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "1. Projects/x477 indexing course/0.5 My notes/Ongoing resources to read.md"
+        "relativePath": "1. Projects/x477 indexing course/Ongoing resources to read.md"
       }
     ]
   },
@@ -21545,6 +21631,29 @@
     "relativePath": "2. Areas/EBT/2) The Feelings Tool - Copy.md"
   },
   {
+    "fileName": "Ongoing resources to read",
+    "relativePath": "1. Projects/x477 indexing course/Ongoing resources to read.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "The Indexer",
+        "level": 1
+      },
+      {
+        "heading": "To review",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Successful Subheadings by Fred Leise",
+        "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
+      }
+    ]
+  },
+  {
     "fileName": "Remapping cmd-H to ctrl-H in parallels",
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
   },
@@ -22165,29 +22274,6 @@
       {
         "heading": "Informative References",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Ongoing resources to read",
-    "relativePath": "1. Projects/x477 indexing course/0.5 My notes/Ongoing resources to read.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "The Indexer",
-        "level": 1
-      },
-      {
-        "heading": "To review",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
       }
     ]
   },
@@ -24567,94 +24653,8 @@
     "relativePath": "0. Inbox/Vision stuff.md"
   },
   {
-    "fileName": "Notes from indexing book group Sep 19 2022",
-    "relativePath": "0. Inbox/Notes from indexing book group Sep 19 2022.md"
-  },
-  {
     "fileName": "Kraken revision notes Sep 2022",
     "relativePath": "0. Inbox/Kraken revision notes Sep 2022.md"
-  },
-  {
-    "fileName": "Indexing book club - Leise and history",
-    "relativePath": "0. Inbox/Indexing book club - Leise and history.md",
-    "headings": [
-      {
-        "heading": "Leise (2016) - Pan-granularism and specificity",
-        "level": 1
-      },
-      {
-        "heading": "Benefits of structural indexing:",
-        "level": 2
-      },
-      {
-        "heading": "Textual indexing",
-        "level": 2
-      },
-      {
-        "heading": "1. Contextual entries",
-        "level": 3
-      },
-      {
-        "heading": "2. Basic-subordinate entries:",
-        "level": 3
-      },
-      {
-        "heading": "3. superordinate-basic entries:",
-        "level": 3
-      },
-      {
-        "heading": "Pan-granular indexing process",
-        "level": 2
-      },
-      {
-        "heading": "Step 1: Metatopic entry",
-        "level": 3
-      },
-      {
-        "heading": "Step 2: Chapter entry headings",
-        "level": 3
-      },
-      {
-        "heading": "Step 3: Chapter entry subheadings",
-        "level": 3
-      },
-      {
-        "heading": "If your text lacks section headings within chapters or has non-useful titles",
-        "level": 3
-      },
-      {
-        "heading": "Time taken",
-        "level": 4
-      },
-      {
-        "heading": "Step 4: Textual indexing",
-        "level": 3
-      },
-      {
-        "heading": "Specificity:",
-        "level": 2
-      },
-      {
-        "heading": "Sassen (2013): History indexers reviewed",
-        "level": 1
-      },
-      {
-        "heading": "Results",
-        "level": 2
-      },
-      {
-        "heading": "Discussion",
-        "level": 2
-      },
-      {
-        "heading": "Chandler (1983): Indexes for local and family history: a user's view",
-        "level": 1
-      },
-      {
-        "heading": "Boehm (1978): Twenty-five years of history indexing: a practitioner's report",
-        "level": 1
-      }
-    ]
   },
   {
     "fileName": "Food notes",

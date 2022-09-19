@@ -42,35 +42,32 @@ Cmd-d to delete paragraph
 F2 to edit file title
 Cmd-M to move file to another folder
 Cmd-shift-M to reveal active file in navigation*ve file in navigation
-Cmd-shift-E to show file explorer
-Cmd-shift-left: focus left pane
-Cmd-shift-right: focus right pane
+*Cmd-shift-E to show file explorer
+Cmd-shift-left: focus left pane*
+*Cmd-shift-right: focus right pane
 Move current pane to new window
 
-Navigate back: cmd-opt-[
-Navigate forward: cmd-opt-]
-
-Cycle bullet/checkbox
-
+**Cycle bullet/checkbox
 F1: open help
 Open link under cursor in new pane: cmd-opt-enter
-
 Cmd-O to open quick switcher
+
 Cmd-opt-F: search and replace in current file
 Cmd-F: search current file
 Cmd-shift-F: search all files
-
 Split horizontally: cmd-opt-right
 Split vertically: cmd-opt-up
 Show starred pane: cmd-shift-8
-
 Create table of contents: cmd-ctrl-T
-
 Create or edit task: Cmd-opt-T
 Toggle task done: Cmd-enter
-
 Cmd-opt-B: toggle bullet list
-Cmd-opt-zero: toggle checkbox status
+Cmd-opt-zero: toggle* checkbox status*tus*checkbox status*tus
+
+---
+start here: 
+
+
 Cmd-opt-1: toggle numbered list
 Cmd-X: toggle comment
 Cmd-opt-p: toggle pin

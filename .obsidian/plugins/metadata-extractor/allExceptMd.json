@@ -385,14 +385,6 @@
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
     {
-      "name": "0.5 My notes",
-      "relativePath": "1. Projects/x477 indexing course/0.5 My notes"
-    },
-    {
-      "name": "Module 4 - Indexing specifications",
-      "relativePath": "1. Projects/x477 indexing course/Module 4 - Indexing specifications"
-    },
-    {
       "name": "Module 5",
       "relativePath": "1. Projects/x477 indexing course/Module 5"
     },
@@ -459,6 +451,14 @@
     {
       "name": "Indexing exercise 2",
       "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
+    },
+    {
+      "name": "indexing-book-group",
+      "relativePath": "4. Archive/indexing-book-group"
+    },
+    {
+      "name": "indexing-book-group",
+      "relativePath": "3. Resources/indexing-book-group"
     }
   ],
   "nonMdFiles": [

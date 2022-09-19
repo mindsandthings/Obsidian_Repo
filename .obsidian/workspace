@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-19-Mon.md",
+            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-19-Mon.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-19-Mon.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-19-Mon.md"
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "1. Projects/productivity/Tiago Forte - BASB notes.md",
+    "0. Inbox/Food notes.md",
+    "daily/2022-09-19-Mon.md",
     "0. Inbox/00-scratchpad-note.md",
     "0. Inbox/Kraken revision notes Sep 2022.md",
-    "0. Inbox/Food notes.md",
     "3. Resources/indexing-book-group/Notes from indexing book group Sep 19 2022.md",
     "0. Inbox/Vision stuff.md",
     "periodic/Daily reminders.md",
-    "daily/2022-09-19-Mon.md",
     "The Indexing Companion and workbook - book club.md",
-    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
-    "Vestibular migraine doctor info.md"
+    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md"
   ]
 }
