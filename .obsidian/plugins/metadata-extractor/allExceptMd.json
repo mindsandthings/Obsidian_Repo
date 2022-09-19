@@ -33,38 +33,6 @@
       "relativePath": "periodic"
     },
     {
-      "name": "Copyediting and developmental editing",
-      "relativePath": "3. Resources/Copyediting and developmental editing"
-    },
-    {
-      "name": "Indexing",
-      "relativePath": "3. Resources/Indexing"
-    },
-    {
-      "name": "Informational interviewing",
-      "relativePath": "3. Resources/Informational interviewing"
-    },
-    {
-      "name": "Technical communication",
-      "relativePath": "3. Resources/Technical communication"
-    },
-    {
-      "name": "Writing - fiction",
-      "relativePath": "3. Resources/Writing - fiction"
-    },
-    {
-      "name": "Writing and cognition",
-      "relativePath": "3. Resources/Writing and cognition"
-    },
-    {
-      "name": "kraken novel",
-      "relativePath": "3. Resources/kraken novel"
-    },
-    {
-      "name": "x477 Indexing course",
-      "relativePath": "3. Resources/x477 Indexing course"
-    },
-    {
       "name": "Marbela mystery",
       "relativePath": "1. Projects/Marbela mystery"
     },
@@ -111,6 +79,38 @@
     {
       "name": "reminders",
       "relativePath": "2. Areas/reminders"
+    },
+    {
+      "name": "Copyediting and developmental editing",
+      "relativePath": "3. Resources/Copyediting and developmental editing"
+    },
+    {
+      "name": "Indexing",
+      "relativePath": "3. Resources/Indexing"
+    },
+    {
+      "name": "Informational interviewing",
+      "relativePath": "3. Resources/Informational interviewing"
+    },
+    {
+      "name": "Technical communication",
+      "relativePath": "3. Resources/Technical communication"
+    },
+    {
+      "name": "Writing - fiction",
+      "relativePath": "3. Resources/Writing - fiction"
+    },
+    {
+      "name": "Writing and cognition",
+      "relativePath": "3. Resources/Writing and cognition"
+    },
+    {
+      "name": "kraken novel",
+      "relativePath": "3. Resources/kraken novel"
+    },
+    {
+      "name": "x477 Indexing course",
+      "relativePath": "3. Resources/x477 Indexing course"
     },
     {
       "name": "archived-daily",
@@ -373,40 +373,12 @@
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "Business planning",
-      "relativePath": "3. Resources/Indexing/Business planning"
-    },
-    {
-      "name": "Module 1",
-      "relativePath": "3. Resources/x477 Indexing course/Module 1"
-    },
-    {
-      "name": "Module 2",
-      "relativePath": "3. Resources/x477 Indexing course/Module 2"
-    },
-    {
-      "name": "Module 3 - Term Selection",
-      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
-    },
-    {
-      "name": "Module 4 - Indexing Specifications",
-      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
-    },
-    {
-      "name": "Mysteries",
-      "relativePath": "3. Resources/Writing - fiction/Mysteries"
-    },
-    {
       "name": "Coaching notes",
       "relativePath": "1. Projects/Strengths course/Coaching notes"
     },
     {
       "name": "Strengths course texts",
       "relativePath": "1. Projects/Strengths course/Strengths course texts"
-    },
-    {
-      "name": "strengths-2022",
-      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
     },
     {
       "name": "0. Introductory material",
@@ -423,6 +395,34 @@
     {
       "name": "Module 5",
       "relativePath": "1. Projects/x477 indexing course/Module 5"
+    },
+    {
+      "name": "strengths-2022",
+      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
+    },
+    {
+      "name": "Business planning",
+      "relativePath": "3. Resources/Indexing/Business planning"
+    },
+    {
+      "name": "Mysteries",
+      "relativePath": "3. Resources/Writing - fiction/Mysteries"
+    },
+    {
+      "name": "Module 1",
+      "relativePath": "3. Resources/x477 Indexing course/Module 1"
+    },
+    {
+      "name": "Module 2",
+      "relativePath": "3. Resources/x477 Indexing course/Module 2"
+    },
+    {
+      "name": "Module 3 - Term Selection",
+      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
+    },
+    {
+      "name": "Module 4 - Indexing Specifications",
+      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
     },
     {
       "name": "archived-apd-has",

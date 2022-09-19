@@ -4,10 +4,10 @@ To eat:
 * Grapefruit in indoor fridge
 * Bologna in garage fridge and indoor fridge
 * Fresh berries - where?
+* Chimichurri
 
 To make: 
 * Egg salad
-* Chimichurri (fresh parsley)
 * Japanese mayo (lemon)
 * Chicken broth (carcass/bones)
 * Avgolemono soup (fresh dill; freeze the rest)
