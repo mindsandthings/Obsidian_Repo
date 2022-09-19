@@ -9,7 +9,7 @@ Shark security guard -
 
 Detective Axl Otl Holmes - 
 A starfish - guest with multiple top hats
-Mr. Shramply - museum proprietor
+Mr. Shramply - museum proprietor. Stuffy-looking. 
 A School of Fish - herring art students there for the food
 Cyrus - an unhelpful blobfish - grandfather - 
 Aria - octopus puzzle-maker's descendant 

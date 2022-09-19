@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+            "file": "1. Projects/Marbela mystery/Marbela text.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "1. Projects/Marbela mystery/Marbela text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "1. Projects/Marbela mystery/Marbela text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
+                "file": "1. Projects/Marbela mystery/Marbela text.md"
               }
             }
           },
@@ -152,15 +153,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "1. Projects/Marbela mystery/Marbela outline.md",
+    "1. Projects/Marbela mystery/Marbela character list.md",
+    "1. Projects/Marbela mystery/Marbela text.md",
+    "1. Projects/productivity/Keyboard shortcuts to review.md",
     "1. Projects/productivity/Tiago Forte - BASB notes.md",
     "0. Inbox/Food notes.md",
     "daily/2022-09-19-Mon.md",
     "0. Inbox/00-scratchpad-note.md",
     "0. Inbox/Kraken revision notes Sep 2022.md",
-    "3. Resources/indexing-book-group/Notes from indexing book group Sep 19 2022.md",
-    "0. Inbox/Vision stuff.md",
-    "periodic/Daily reminders.md",
-    "The Indexing Companion and workbook - book club.md",
-    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md"
+    "3. Resources/indexing-book-group/Notes from indexing book group Sep 19 2022.md"
   ]
 }

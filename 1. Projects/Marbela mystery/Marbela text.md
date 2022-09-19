@@ -192,4 +192,31 @@ g. Bring Mademoiselle Lifi a reviving drink.
 
 # f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink. 
 
-Oh no! Mr. Shramply 
+Oh no! Poor Mr. Shramply. Someone had stolen his wall! Marbela felt awful for him. 
+
+He didn't look upset, though. His gaze swept across the courtyard like he expected to find the missing wall somewhere in the crowd, munching on a mussel wrap and sipping a Marbelini. 
+
+A buzz of confused worry sprang up among the gathered guests.
+
+What could Marbela do? What should she do? Paisley was having an urgent, hushed conversation with Mayor Myrtle and the guard. Mr. Shramply had stepped down into the crowd and was trying to get Aria's attention. 
+
+Everyone seemed to be ignoring Mademoiselle Lifi, who drifted, limp as seaweed, jewelry occasionally clanking in the current. 
+
+Maybe someone should bring her a refreshing drink. 
+
+Marbela grabbed her ingredients from their box beneath the catering station and quickly mixed a Marbelini. 
+
+The crowd was getting loud. Marbela heard Cyrus's name at least once and Aria's twice on her way to Mademoiselle Lifi, but she was too busy avoiding spilling the Marbelini to listen. She dodged herring art students, pushed her way past the be-hatted starfish, and emerged from the crowd. 
+
+Mademoiselle Lifi still floated, limp as before. One of her fronds was draped, seemingly accidentally but extremely artistically, above her face. Beneath the frond, her eyes were open and sharp. She was *pretending* to be passed out. 
+
+## What should Marbela do?
+
+a. Ignore it. Offer her the drink and express hope that she'll feel better soon.
+
+b. Turn and follow her gaze. Try to spot what she's looking at. 
+
+c. Say "did you see who did it?"
+
+d. Say, "oh gosh, I'm glad you're feeling better! I thought you'd passed out."
+
