@@ -160,4 +160,18 @@ From *Reviews in History*, chosen because it publishes lengthy reviews of 2-3k w
 # Chandler (1983): Indexes for local and family history: a user's view
 "Considers the quality of indexes to local history publications, and their value; the different types of indexes to materials in libraries and record offices; local news papers as source of data for local historians; the various uses of indexes to family historians; the likely effects of computers on genealogical research."
 
-## Indexes of local history publications
+[mostly just a lot of facts]
+
+"polemical indexing"
+
+# Boehm (1978): Twenty-five years of history indexing: a practitioner's report
+Reviews the history of indexing at the American Bibliographical Center, Santa Barbara, CA, and its antecedents. 
+
+1953: classification and idnexing exercises lasing nearly a year. Developed a system that would identify each abstract by subject, geography, and period. 
+
+From that came four generations of indexing systems:
+1. connventional hierarchical systems. entries on slips of paper that were alphabetized, ocllated, and subdivided through re-indexing when the # f entries on any subject became excessive. Hierarchical to 3 levels. Few cross-references. Military ranks and ittles were given. 
+2. Computer-aided decimal system. More extensive cross-referencing, more consistency in selection and application of terms and structure. They reduced the number of indexing terms and kept htem consistent from country to country to facilitate compartive research. Good classification system but away from specificity sought in indexes; many users preferred it, but it led to excessive aggregations o fnumbers. 
+	1. Got help from UC Berkeley and IBM
+	2. Coding system assigned decimal numbers in ascending order to substitute for wordy headings. The computer would look up the full headings in a table, then print it. Allowed for automatic reversal of code entries. 
+3. 

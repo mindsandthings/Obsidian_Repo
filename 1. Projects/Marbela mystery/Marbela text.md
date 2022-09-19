@@ -189,3 +189,7 @@ f. Watch someone else. (The manatee kid? The school of herring art students? The
 
 g. Bring Mademoiselle Lifi a reviving drink. 
 
+
+# f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink. 
+
+Oh no! Mr. Shramply 

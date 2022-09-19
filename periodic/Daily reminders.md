@@ -1,3 +1,6 @@
+# Health
+* 2022-09-19: wash hands every time bathroom or food prep or eat
+
 # Self
 
 - 2022-07-01: If feeling strained: we don't have to glomp together to be this person

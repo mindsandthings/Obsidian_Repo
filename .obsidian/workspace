@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+            "file": "daily/2022-09-19-Mon.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+                "file": "daily/2022-09-19-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+                "file": "daily/2022-09-19-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md"
+                "file": "daily/2022-09-19-Mon.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "periodic/Daily reminders.md",
+    "The Indexing Companion and workbook - book club.md",
     "0. Inbox/Indexing book club - Leise and history.md",
-    "0. Inbox/Kraken revision notes Sep 2022.md",
-    "1. Projects/x477 indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
-    "daily/FSA claim corrections.md",
-    "daily/2022-09-18-Sun.md",
-    "0. Inbox/Food notes.md",
-    "0. Inbox/Vision stuff.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "1. Projects/productivity/Tiago Forte - BASB notes.md",
-    "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md"
+    "Vestibular migraine doctor info.md",
+    "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
+    "1. Projects/x477 indexing course/Module 5/Example practice idnex.md",
+    "0. Inbox/Notes from indexing book group Sep 19 2022.md",
+    "1. Projects/x477 indexing course/Module 5/Example PNO.md",
+    "1. Projects/x477 indexing course/Module 5/5.5 Example of the Indexing Process.md",
+    "1. Projects/x477 indexing course/Module 5/5.6 Indexing Project 1.md"
   ]
 }
