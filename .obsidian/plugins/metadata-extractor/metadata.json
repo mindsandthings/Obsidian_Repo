@@ -44,8 +44,70 @@
     ]
   },
   {
-    "fileName": "FSA claim corrections",
-    "relativePath": "daily/FSA claim corrections.md"
+    "fileName": "daily note template",
+    "relativePath": "daily/daily note template.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
   },
   {
     "fileName": "2022-09-19-Mon",
@@ -2894,6 +2956,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "FSA claim corrections",
+    "relativePath": "4. Archive/finances-insurance/FSA claim corrections.md"
   },
   {
     "fileName": "money discussion coronavirus",
@@ -23347,6 +23413,28 @@
     ]
   },
   {
+    "fileName": "Strengths - 3. Discipline",
+    "relativePath": "1. Projects/Strengths journal/Strengths - 3. Discipline.md",
+    "headings": [
+      {
+        "heading": "Aug 3, 2022",
+        "level": 1
+      },
+      {
+        "heading": "Sat, Aug 13, 2022",
+        "level": 1
+      },
+      {
+        "heading": "Aug 2022 areas of focus",
+        "level": 1
+      },
+      {
+        "heading": "Becca video notes",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "my top 10 strengths from 2007, 2009, 2022",
     "relativePath": "1. Projects/Strengths journal/my top 10 strengths from 2007, 2009, 2022.md",
     "headings": [
@@ -23470,28 +23558,6 @@
     "fileName": "Strengths - 4. Intellection",
     "relativePath": "1. Projects/Strengths journal/Strengths - 4. Intellection.md",
     "headings": [
-      {
-        "heading": "Aug 2022 areas of focus",
-        "level": 1
-      },
-      {
-        "heading": "Becca video notes",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Strengths - 3. Strengths",
-    "relativePath": "1. Projects/Strengths journal/Strengths - 3. Strengths.md",
-    "headings": [
-      {
-        "heading": "Aug 3, 2022",
-        "level": 1
-      },
-      {
-        "heading": "Sat, Aug 13, 2022",
-        "level": 1
-      },
       {
         "heading": "Aug 2022 areas of focus",
         "level": 1
@@ -24263,10 +24329,11 @@
   {
     "fileName": "Development plan Sep 2022",
     "relativePath": "1. Projects/Strengths course/Development plan Sep 2022.md",
-    "tags": [
-      "task"
-    ],
     "headings": [
+      {
+        "heading": "Strengths development",
+        "level": 1
+      },
       {
         "heading": "Info tracking: Adopt new revision practices",
         "level": 1
@@ -24281,10 +24348,6 @@
       },
       {
         "heading": "Exposition/backstory",
-        "level": 1
-      },
-      {
-        "heading": "Strengths development",
         "level": 1
       }
     ],
@@ -24520,6 +24583,10 @@
       {
         "heading": "f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink.",
         "level": 1
+      },
+      {
+        "heading": "What should Marbela do?",
+        "level": 2
       }
     ]
   },
