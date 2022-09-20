@@ -22113,6 +22113,10 @@
     "relativePath": "3. Resources/Copyediting and developmental editing/Copyediting.md"
   },
   {
+    "fileName": "()",
+    "relativePath": "2. Areas/reminders/().md"
+  },
+  {
     "fileName": "Yearly reminders",
     "relativePath": "2. Areas/reminders/Yearly reminders.md"
   },
@@ -22572,6 +22576,20 @@
   {
     "fileName": "Remapping cmd-H to ctrl-H in parallels",
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
+  },
+  {
+    "fileName": "Module 5 readings",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
+    "headings": [
+      {
+        "heading": "Mulvany: pages 56-62",
+        "level": 1
+      },
+      {
+        "heading": "Chicago: Sections 16.101-16.131",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Module 5 discussion questions",
@@ -24718,6 +24736,10 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Intuitive Overwhelm",
+    "relativePath": "0. Inbox/Intuitive Overwhelm.md"
   },
   {
     "fileName": "Indexing software development",

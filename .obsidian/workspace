@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Indexing software development.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2b86d45d6d4d118d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects/Strengths journal/Strengths - 13 and newer.md",
+            "file": "2. Areas/reminders/Monthly reminders.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Indexing software development.md",
+                "file": "2. Areas/reminders/Monthly reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Indexing software development.md",
+                "file": "2. Areas/reminders/Monthly reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Indexing software development.md"
+                "file": "2. Areas/reminders/Monthly reminders.md"
               }
             }
           },
@@ -164,15 +152,15 @@
   },
   "active": "5667680f476efe69",
   "lastOpenFiles": [
-    "periodic/Daily reminders.md",
-    "1. Projects/Marbela mystery/Marbela text.md",
+    "0. Inbox/Intuitive Overwhelm.md",
+    "2. Areas/reminders/Monthly reminders.md",
     "1. Projects/Strengths journal/Development plan Sep 2022.md",
-    "daily/daily note template.md",
-    "1. Projects/Strengths journal/Strengths - 3. Discipline.md",
+    "2. Areas/reminders/().md",
+    "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
     "1. Projects/Strengths journal/Strengths - 13 and newer.md",
-    "1. Projects/Strengths journal/Strengths - 12. Communication.md",
-    "1. Projects/Strengths journal/Strengths - 11. Achiever.md",
-    "1. Projects/Strengths journal/my top 10 strengths from 2007, 2009, 2022.md",
-    "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
+    "1. Projects/x477 indexing course/0. Introductory material/Mulvany reading guide.md",
+    "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md",
+    "0. Inbox/Indexing software development.md",
+    "periodic/Daily reminders.md"
   ]
 }
