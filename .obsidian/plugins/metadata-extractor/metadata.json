@@ -24668,52 +24668,64 @@
     "relativePath": "1. Projects/Marbela mystery/Marbela text.md",
     "headings": [
       {
+        "heading": "Chapter 1: The mural",
+        "level": 1
+      },
+      {
         "heading": "Who should she approach first?",
-        "level": 2
+        "level": 3
       },
       {
         "heading": "e. A member of Myrtle's kindergarten class, a manatee floating off at the edge of the crowd with his nose in a book.",
-        "level": 1
+        "level": 2
       },
       {
         "heading": "Marbela has faith in her experimental drink's deliciousness, but she also knows that you have to have that interpersonal touch. How should she approach him?",
-        "level": 2
+        "level": 3
       },
       {
         "heading": "a. Connect with him. Mention where they know each other from.",
-        "level": 1
+        "level": 2
       },
       {
         "heading": "What's Marbela's pitch?",
-        "level": 2
+        "level": 3
       },
       {
         "heading": "b. Novelty. He looks like he exists in a state of existential boredom. \"It's unforgettable. Like nothing you've had before.\"",
-        "level": 1
-      },
-      {
-        "heading": "Marbela needs to get back to work. What should she say to the manatee kid first?",
         "level": 2
       },
       {
+        "heading": "Marbela needs to get back to work. What should she say to the manatee kid first?",
+        "level": 3
+      },
+      {
         "heading": "c. Invite him to get another Marbelini after the art unveiling, so she can figure out how to politely and indirectly ask how many stars he would give her.",
-        "level": 1
+        "level": 2
       },
       {
         "heading": "c. Hold tight and let Mayor Myrtle handle things.",
+        "level": 2
+      },
+      {
+        "heading": "What should Marbela do?",
+        "level": 3
+      },
+      {
+        "heading": "Chapter 2: The Detective",
         "level": 1
       },
       {
         "heading": "f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink.",
-        "level": 1
-      },
-      {
-        "heading": "What should Marbela do?",
         "level": 2
       },
       {
+        "heading": "What should Marbela do?",
+        "level": 3
+      },
+      {
         "heading": "b. Turn and follow her gaze. Try to spot what she's looking at.",
-        "level": 1
+        "level": 2
       }
     ]
   },
@@ -24745,7 +24757,61 @@
   },
   {
     "fileName": "Marbela character list",
-    "relativePath": "1. Projects/Marbela mystery/Marbela character list.md"
+    "relativePath": "1. Projects/Marbela mystery/Marbela character list.md",
+    "headings": [
+      {
+        "heading": "Marbela",
+        "level": 1
+      },
+      {
+        "heading": "Mayor Myrtle",
+        "level": 1
+      },
+      {
+        "heading": "Myrtle's student",
+        "level": 1
+      },
+      {
+        "heading": "Mademoiselle Lifi",
+        "level": 1
+      },
+      {
+        "heading": "Paisley",
+        "level": 1
+      },
+      {
+        "heading": "Security guard",
+        "level": 1
+      },
+      {
+        "heading": "A school of herrings",
+        "level": 1
+      },
+      {
+        "heading": "Mr. Shramply",
+        "level": 1
+      },
+      {
+        "heading": "Cyrus",
+        "level": 1
+      },
+      {
+        "heading": "Augusta",
+        "level": 1
+      },
+      {
+        "heading": "Aria",
+        "level": 1
+      },
+      {
+        "heading": "A starfish",
+        "level": 1
+      },
+      {
+        "heading": "Detective Axl Otl Holmes",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Julie Marbela notes - remember to incorporate",
@@ -24841,6 +24907,14 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Macrex vs Sky vs Cindex",
+    "relativePath": "0. Inbox/Macrex vs Sky vs Cindex.md"
+  },
+  {
+    "fileName": "Macrex crashing on drive letter selection",
+    "relativePath": "0. Inbox/Macrex crashing on drive letter selection.md"
   },
   {
     "fileName": "00-scratchpad-note",

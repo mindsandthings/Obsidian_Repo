@@ -1,8 +1,10 @@
+# Chapter 1: The mural
+
 The museum courtyard was packed. Manatees and minnows, seahorses and salmon, turtles and trumpetfish circulated among the reception tables, gossiping and chatting, occasionally glancing toward the great red curtains concealing the soon-to-be-revealed wall mural. 
 
 At the edge of the courtyard, Marbela gathered her courage and her catering trays. Balancing the trays on six of her arms, she tippy-toed through the crowd on her other two, her twin hearts thumping with hope. This was the day that someone would try her new invention and hopefully, hopefully, give it a five-star review on Kelp.
 
-## Who should she approach first?
+### Who should she approach first?
 
 a. A starfish with several top hats and an expensive-looking monocle. 
 b. A hungry-looking herring art student with smears of paint on his fins. 
@@ -10,7 +12,7 @@ c. The museum's proprietor, a stuffy-looking shrimp.
 d. Myrtle, the manatee mayor, who looks busy but is usually glad to see Marbela.
 e. A member of Myrtle's kindergarten class, a manatee floating off at the edge of the crowd with his nose in a book.  
 
-# e. A member of Myrtle's kindergarten class, a manatee floating off at the edge of the crowd with his nose in a book.  
+## e. A member of Myrtle's kindergarten class, a manatee floating off at the edge of the crowd with his nose in a book.  
 
 There: in the corner of the courtyard, someone she recognized. A manatee kindergartner floated lumpily, his nose in a book. 
 
@@ -30,7 +32,7 @@ A quiver of worry rippled up Marbela's arms. He was going to be a tough customer
 
 She firmed her grip on the trays and headed over. 
 
-## Marbela has faith in her experimental drink's deliciousness, but she also knows that you have to have that interpersonal touch. How should she approach him? 
+### Marbela has faith in her experimental drink's deliciousness, but she also knows that you have to have that interpersonal touch. How should she approach him? 
 
 a. Connect with him. Mention where they know each other from. 
 
@@ -41,7 +43,7 @@ c. Establish an interest in what he likes. Ask him what he's reading.
 d. Feed him. Offer him a non-experimental product first. 
 
 
-# a. Connect with him. Mention where they know each other from. 
+## a. Connect with him. Mention where they know each other from. 
 
 The kindergartner had his book out in front of him like a shield. His facial expression was the equivalent of saying in a deadpan monotone, "*Oh look, someone is coming to interrupt my reading. What a terribly surprising surprise.*" 
 
@@ -59,7 +61,7 @@ A small frown crept back on to his face. "What happened to your camera?"
 
 "It's not in the look. It's in the taste." This was the critical moment. Once he tasted it, she knew he'd be sold. She'd workshopped this drink to heck and back, making her friend Tarquin and his bandmates try every single recipe and fill out surveys on them. 
 
-## What's Marbela's pitch?
+### What's Marbela's pitch?
 
 a. Cost. Kindergartners don't get much of an allowance. "Free sample? On the house."
 
@@ -69,7 +71,7 @@ c. Metaphor. Make the unfamiliar familiar. "It's like a wall mural for your tast
 
 d. Exoticness and sophistication. "It's based on a traditional human dish that I once tasted myself."
 
-# b. Novelty. He looks like he exists in a state of existential boredom. "It's unforgettable. Like nothing you've had before."
+## b. Novelty. He looks like he exists in a state of existential boredom. "It's unforgettable. Like nothing you've had before."
 
 She tilted the tray toward him, catching the drink's surface in a cooperative glimmer of light. "The Marbelini is unforgettable. Like nothing you've had before."
 
@@ -92,7 +94,7 @@ The bottom of the ocean felt suddenly as warm and sunny as the surface. "I knew 
 The thump and screech of a microphone interrupted. Mayor Myrtle had  stepped up to a podium near the curtained wall mural. "We'll get started in just a moment. Please grab a refreshment and gather round."
 
 
-## Marbela needs to get back to work. What should she say to the manatee kid first?
+### Marbela needs to get back to work. What should she say to the manatee kid first?
 
 a. Straight-up ask him for a Kelp review. She's sure he's on board. 
 
@@ -100,7 +102,7 @@ b. Maybe she shouldn't be 100% sure he's on board to the tune of five stars. Ask
 
 c. Invite him to get another Marbelini after the art unveiling, so she can figure out how to politely and indirectly ask how many stars he would give her.  
 
-# c. Invite him to get another Marbelini after the art unveiling, so she can figure out how to politely and indirectly ask how many stars he would give her.  
+## c. Invite him to get another Marbelini after the art unveiling, so she can figure out how to politely and indirectly ask how many stars he would give her.  
 
 The catering station was about to get rushed. Marbela's boss, Paisley, would need her. No time to find out if the kid liked the Marbelini enough for five stars. 
 
@@ -146,7 +148,7 @@ c. Hold tight and let Mayor Myrtle handle things.
 d. Keep herself calm. Mix up another couple Marbelinis. 
 
 
-# c. Hold tight and let Mayor Myrtle handle things. 
+## c. Hold tight and let Mayor Myrtle handle things. 
 
 Maybe she should check inside the museum for the security guard. No, maybe she should ask somebody else to check. No, maybe she should stay here. She needed to watch the catering station for Paisley. 
 
@@ -160,7 +162,7 @@ Mademoiselle Lifi's jewelry clanked and rattled as she nodded in acknowledgment.
 
 "Mr. Shramply, the museum's proprietor—" Mayor Myrtle scanned the crowd, her gaze alighting on an elderly shrimp in an ill-fitting suit— "will now reveal the mural." 
 
-With great ceremony and a little bit of age-related shakiness, Mr. Shramply swam up to the curtain concealing the mural, and pulled the cord at its side.
+With great ceremony and a little bit of age-related shakiness, Mr. Shramply swam up to the curtain concealing the mural and pulled the cord at its side.
 
 The great red curtain slid slowly back. 
 
@@ -173,7 +175,7 @@ Someone had stolen the wall.
 "Sacre bleu! My mural!" Mademoiselle Lifi screamed, and fell over in a dramatic faint.
 
 
-What should Marbela do? 
+### What should Marbela do? 
 
 a. Watch Paisley. 
 
@@ -189,8 +191,9 @@ f. Watch someone else. (The manatee kid? The school of herring art students? The
 
 g. Bring Mademoiselle Lifi a reviving drink. 
 
+# Chapter 2: The Detective
 
-# f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink. 
+## f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink. 
 
 Oh no! Poor Mr. Shramply. Someone had stolen his wall! Marbela felt awful for him. 
 
@@ -210,7 +213,7 @@ The crowd was getting loud. Marbela heard Cyrus's name at least once and Aria's 
 
 Mademoiselle Lifi still floated, limp as before. One of her fronds was draped, seemingly accidentally but extremely artistically, above her face. Beneath the frond, her eyes were open and sharp. She was *pretending* to be passed out. 
 
-## What should Marbela do?
+### What should Marbela do?
 
 a. Ignore it. Offer her the drink and express hope that she'll feel better soon.
 
@@ -220,4 +223,39 @@ c. Say "did you see who did it?"
 
 d. Say, "oh gosh, I'm glad you're feeling better! I thought you'd passed out."
 
-# b. Turn and follow her gaze. Try to spot what she's looking at. 
+## b. Turn and follow her gaze. Try to spot what she's looking at. 
+
+Marbela followed Mademoiselle Lifi's gaze to Mr. Shramply, who appeared to be having an increasingly heated conversation with Aria. 
+
+She glanced back. Mademoiselle Lifi's eyes were closed now. 
+
+"I brought you a drink." Marbela held out the Marbelini hopefully.  
+
+Mademoiselle Lifi cracked an eye open, then snatched the drink and took a quick gulp. "It is not alcoholic. Where is the alcohol?"
+
+A little ripple of disappointment ran down Marbela's arms. She'd hoped for a more positive response. "It's for all ages." Plus Paisley's catering business didn't have an alcohol license. 
+
+"Hmmph." Mademoiselle Lifi held up the glass, inspecting the contents, then inspected Marbela through the contents. "What is your part in all this? Did you steal my mural? Did you not think it was sufficiently flattering for your ancestor?"
+
+
+## How does Marbela react? 
+
+a. With bafflement. She's a caterer. Why would she steal a mural? She's not even related to Augusta, as far as she knows. 
+
+b. With offense. She brought Lifi a drink and Lifi accused her of stealing the mural. Plus, why do people always assume all octopuses are related? 
+
+c. With polite customer service mode. She's just the caterer, and she wasn't involved in the mural, but she hopes Lifi gets her mural back. 
+
+d. With logic. How the heck does Lifi think she stole the mural? She doesn't own a construction service. And she doesn't even know what the mural was supposed to depict. 
+
+
+
+
+
+
+
+Mayor Myrtle comes over and is politely distant toward Lifi
+
+Says they're calling in Detective Holmes
+
+
