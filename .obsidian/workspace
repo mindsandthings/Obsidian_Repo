@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/health/Vision stuff.md",
+            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/health/Vision stuff.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/health/Vision stuff.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/health/Vision stuff.md"
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -150,17 +151,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "2510798b0157c93f",
+  "active": "5667680f476efe69",
   "lastOpenFiles": [
+    "daily/2022-09-05.md",
+    "1. Projects/productivity/Keyboard shortcuts to review.md",
+    "0. Inbox/Untitled 1.md",
+    "2. Areas/health/Vision stuff.md",
     "0. Inbox/00-scratchpad-note.md",
     "2. Areas/food/Food notes.md",
     "1. Projects/Kraken/Kraken revision notes Sep 2022.md",
     "0. Inbox/test.md",
     "1. Projects/Strengths journal/Intuitive Overwhelm.md",
-    "4. Archive/indexing/Indexing software development group.md",
-    "daily/2022-09-05.md",
-    "daily/2022-09-20-Tue.md",
-    "4. Archive/templates/daily note template.md",
-    "2. Areas/reminders/Monthly reminders.md"
+    "4. Archive/indexing/Indexing software development group.md"
   ]
 }
