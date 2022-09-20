@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/reminders/Monthly reminders.md",
+            "file": "2. Areas/health/Vision stuff.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Intuitive Overwhelm\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/reminders/Monthly reminders.md",
+                "file": "2. Areas/health/Vision stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/reminders/Monthly reminders.md",
+                "file": "2. Areas/health/Vision stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/reminders/Monthly reminders.md"
+                "file": "2. Areas/health/Vision stuff.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "5667680f476efe69",
+  "active": "2510798b0157c93f",
   "lastOpenFiles": [
-    "0. Inbox/Intuitive Overwhelm.md",
-    "2. Areas/reminders/Monthly reminders.md",
-    "1. Projects/Strengths journal/Development plan Sep 2022.md",
-    "2. Areas/reminders/().md",
-    "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
-    "1. Projects/Strengths journal/Strengths - 13 and newer.md",
-    "1. Projects/x477 indexing course/0. Introductory material/Mulvany reading guide.md",
-    "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md",
-    "0. Inbox/Indexing software development.md",
-    "periodic/Daily reminders.md"
+    "0. Inbox/00-scratchpad-note.md",
+    "2. Areas/food/Food notes.md",
+    "1. Projects/Kraken/Kraken revision notes Sep 2022.md",
+    "0. Inbox/test.md",
+    "1. Projects/Strengths journal/Intuitive Overwhelm.md",
+    "4. Archive/indexing/Indexing software development group.md",
+    "daily/2022-09-05.md",
+    "daily/2022-09-20-Tue.md",
+    "4. Archive/templates/daily note template.md",
+    "2. Areas/reminders/Monthly reminders.md"
   ]
 }

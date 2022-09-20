@@ -2,5 +2,5 @@
   "folder": "daily",
   "autorun": true,
   "format": "YYYY-MM-DD-ddd",
-  "template": "daily/daily note template"
+  "template": "4. Archive/templates/daily note template"
 }

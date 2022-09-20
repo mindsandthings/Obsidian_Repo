@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBook3Fill",
       "RiStarFill",
       "IbPencil",
       "IbStar",
-      "RiStickyNoteFill",
-      "RiQuestionMark"
+      "RiStickyNoteFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "1. Projects/Strengths journal": "IbPencil",
   "1. Projects/productivity": "IbStar",
   "3. Resources/Strengths course": "RiSlideshowLine",
-  "3. Resources/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill"
+  "3. Resources/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill",
+  "1. Projects/Kraken": "RiBook3Fill"
 }

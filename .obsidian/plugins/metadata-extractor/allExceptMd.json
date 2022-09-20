@@ -459,6 +459,14 @@
     {
       "name": "Strengths course texts",
       "relativePath": "3. Resources/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "Kraken",
+      "relativePath": "1. Projects/Kraken"
+    },
+    {
+      "name": "health",
+      "relativePath": "2. Areas/health"
     }
   ],
   "nonMdFiles": [

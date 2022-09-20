@@ -1,5 +1,3 @@
-
-
 Ann Arbor letter tracking
 Red/green or red/blue training glasses
 Red/green tranaglyph slide (bunny, clown, faces, airplane)

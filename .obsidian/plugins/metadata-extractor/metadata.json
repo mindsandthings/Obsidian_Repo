@@ -44,8 +44,8 @@
     ]
   },
   {
-    "fileName": "daily note template",
-    "relativePath": "daily/daily note template.md",
+    "fileName": "2022-09-20-Tue",
+    "relativePath": "daily/2022-09-20-Tue.md",
     "headings": [
       {
         "heading": "Day summary",
@@ -106,6 +106,12 @@
       {
         "heading": "Discipline",
         "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Intuitive Overwhelm",
+        "relativePath": "1. Projects/Strengths journal/Intuitive Overwhelm.md"
       }
     ]
   },
@@ -2099,6 +2105,72 @@
     ]
   },
   {
+    "fileName": "daily note template",
+    "relativePath": "4. Archive/templates/daily note template.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Python advice",
     "relativePath": "4. Archive/tech stuff/Python advice.md",
     "tags": [
@@ -2855,6 +2927,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Indexing software development group",
+    "relativePath": "4. Archive/indexing/Indexing software development group.md"
   },
   {
     "fileName": "Course - getting started",
@@ -22113,6 +22189,10 @@
     "relativePath": "3. Resources/Copyediting and developmental editing/Copyediting.md"
   },
   {
+    "fileName": "Vision stuff",
+    "relativePath": "2. Areas/health/Vision stuff.md"
+  },
+  {
     "fileName": "()",
     "relativePath": "2. Areas/reminders/().md"
   },
@@ -22234,6 +22314,16 @@
   {
     "fileName": "Brainstorming pacing activities",
     "relativePath": "2. Areas/productivity/Brainstorming pacing activities.md"
+  },
+  {
+    "fileName": "Food notes",
+    "relativePath": "2. Areas/food/Food notes.md",
+    "headings": [
+      {
+        "heading": "Sat, Sep 17, 2022 order",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Groceries",
@@ -22549,6 +22639,10 @@
   {
     "fileName": "2) The Feelings Tool - Copy",
     "relativePath": "2. Areas/EBT/2) The Feelings Tool - Copy.md"
+  },
+  {
+    "fileName": "Kraken revision notes Sep 2022",
+    "relativePath": "1. Projects/Kraken/Kraken revision notes Sep 2022.md"
   },
   {
     "fileName": "Ongoing resources to read",
@@ -24281,6 +24375,17 @@
     ]
   },
   {
+    "fileName": "Intuitive Overwhelm",
+    "relativePath": "1. Projects/Strengths journal/Intuitive Overwhelm.md",
+    "backlinks": [
+      {
+        "fileName": "2022-09-20-Tue",
+        "link": "Intuitive Overwhelm",
+        "relativePath": "daily/2022-09-20-Tue.md"
+      }
+    ]
+  },
+  {
     "fileName": "Development plan Sep 2022",
     "relativePath": "1. Projects/Strengths journal/Development plan Sep 2022.md",
     "headings": [
@@ -24734,36 +24839,6 @@
       {
         "heading": "Share this:",
         "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Intuitive Overwhelm",
-    "relativePath": "0. Inbox/Intuitive Overwhelm.md"
-  },
-  {
-    "fileName": "Indexing software development",
-    "relativePath": "0. Inbox/Indexing software development.md"
-  },
-  {
-    "fileName": "test",
-    "relativePath": "0. Inbox/test.md"
-  },
-  {
-    "fileName": "Vision stuff",
-    "relativePath": "0. Inbox/Vision stuff.md"
-  },
-  {
-    "fileName": "Kraken revision notes Sep 2022",
-    "relativePath": "0. Inbox/Kraken revision notes Sep 2022.md"
-  },
-  {
-    "fileName": "Food notes",
-    "relativePath": "0. Inbox/Food notes.md",
-    "headings": [
-      {
-        "heading": "Sat, Sep 17, 2022 order",
-        "level": 1
       }
     ]
   },
