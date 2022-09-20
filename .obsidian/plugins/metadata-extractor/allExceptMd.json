@@ -37,10 +37,6 @@
       "relativePath": "1. Projects/Marbela mystery"
     },
     {
-      "name": "Strengths course",
-      "relativePath": "1. Projects/Strengths course"
-    },
-    {
       "name": "Strengths journal",
       "relativePath": "1. Projects/Strengths journal"
     },
@@ -373,14 +369,6 @@
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "Coaching notes",
-      "relativePath": "1. Projects/Strengths course/Coaching notes"
-    },
-    {
-      "name": "Strengths course texts",
-      "relativePath": "1. Projects/Strengths course/Strengths course texts"
-    },
-    {
       "name": "0. Introductory material",
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
@@ -459,29 +447,21 @@
     {
       "name": "indexing-book-group",
       "relativePath": "3. Resources/indexing-book-group"
+    },
+    {
+      "name": "Strengths course",
+      "relativePath": "3. Resources/Strengths course"
+    },
+    {
+      "name": "Coaching notes",
+      "relativePath": "3. Resources/Strengths course/Coaching notes"
+    },
+    {
+      "name": "Strengths course texts",
+      "relativePath": "3. Resources/Strengths course/Strengths course texts"
     }
   ],
   "nonMdFiles": [
-    {
-      "name": "Pasted image 20220916193915.png",
-      "basename": "Pasted image 20220916193915",
-      "relativePath": "Pasted image 20220916193915.png"
-    },
-    {
-      "name": "Pasted image 20220916194017.png",
-      "basename": "Pasted image 20220916194017",
-      "relativePath": "Pasted image 20220916194017.png"
-    },
-    {
-      "name": "Pasted image 20220916194025.png",
-      "basename": "Pasted image 20220916194025",
-      "relativePath": "Pasted image 20220916194025.png"
-    },
-    {
-      "name": "Pasted image 20220916194032.png",
-      "basename": "Pasted image 20220916194032",
-      "relativePath": "Pasted image 20220916194032.png"
-    },
     {
       "name": "Center for Healing Shame - Resources, Webinars, Re.html",
       "basename": "Center for Healing Shame - Resources, Webinars, Re",
@@ -521,6 +501,26 @@
       "name": "ttl2-2560x1600-1.jpg",
       "basename": "ttl2-2560x1600-1",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
+    },
+    {
+      "name": "Pasted image 20220916194032.png",
+      "basename": "Pasted image 20220916194032",
+      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194032.png"
+    },
+    {
+      "name": "Pasted image 20220916193915.png",
+      "basename": "Pasted image 20220916193915",
+      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916193915.png"
+    },
+    {
+      "name": "Pasted image 20220916194017.png",
+      "basename": "Pasted image 20220916194017",
+      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194017.png"
+    },
+    {
+      "name": "Pasted image 20220916194025.png",
+      "basename": "Pasted image 20220916194025",
+      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194025.png"
     }
   ]
 }

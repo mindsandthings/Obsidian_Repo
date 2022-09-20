@@ -220,3 +220,4 @@ c. Say "did you see who did it?"
 
 d. Say, "oh gosh, I'm glad you're feeling better! I thought you'd passed out."
 
+# b. Turn and follow her gaze. Try to spot what she's looking at. 
