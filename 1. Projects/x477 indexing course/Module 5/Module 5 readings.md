@@ -4,7 +4,7 @@
 at “Interpreting the Publisher’s Instructions”)  
 
  
-
+[In Anki]
 
 # Chicago: Sections 16.101-16.131
 
