@@ -209,15 +209,6 @@
       "key": "-"
     }
   ],
-  "window:toggle-always-on-top": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "quick-explorer:go-next": [
     {
       "modifiers": [
@@ -270,6 +261,16 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "window:toggle-always-on-top": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "X"
     }
   ]
 }

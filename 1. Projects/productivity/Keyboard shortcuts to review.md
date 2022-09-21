@@ -86,26 +86,20 @@ Toggle task done: Cmd-enter
 Cmd-opt-B: toggle bullet list
 Cmd-opt-zero: toggle* checkbox status
 
-
----
-start here: 
-
-
 Cmd-opt-1: toggle numbered list
-Cmd-X: toggle comment
 Cmd-opt-p: toggle pin
 Cmd-opt-equals: toggle highlight
 Cmd-right: toggle right sidebar
 Cmd-left: toggle left sidebar
-
 Toggle strikethrough: cmd-opt-dash
-
 Ctrl-Cmd-Z: toggle window always on top
 Undo close pane: Cmd-shift-T
 
 ⌘P   to open palette, 
 
-⌘⌥⌃
+
+-------
+start here: 
 
 # Alfred:
 conv 8in ft

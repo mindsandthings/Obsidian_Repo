@@ -44,6 +44,72 @@
     ]
   },
   {
+    "fileName": "2022-09-21-Wed",
+    "relativePath": "daily/2022-09-21-Wed.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-20-Tue",
     "relativePath": "daily/2022-09-20-Tue.md",
     "headings": [
@@ -254,6 +320,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Julie on Fifi reception",
+    "relativePath": "4. Archive/writing-julie/Julie on Fifi reception.md"
   },
   {
     "fileName": "Fifi diary - Julie bday 2022",
@@ -2927,6 +2997,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Macrex vs Sky vs Cindex",
+    "relativePath": "4. Archive/indexing/Macrex vs Sky vs Cindex.md"
   },
   {
     "fileName": "Indexing software development group",
@@ -6966,6 +7040,28 @@
       {
         "heading": "2019 winter holiday presents lists (Me and M)",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "GP lab results bloodwork Wed, Sep 21, 2022",
+    "relativePath": "4. Archive/archived-health/GP lab results bloodwork Wed, Sep 21, 2022.md",
+    "headings": [
+      {
+        "heading": "CBC WITH AUTO DIFFERENTIAL - Details",
+        "level": 1
+      },
+      {
+        "heading": "Study Result",
+        "level": 2
+      },
+      {
+        "heading": "Narrative",
+        "level": 3
+      },
+      {
+        "heading": "Component Results",
+        "level": 2
       }
     ]
   },
@@ -24917,12 +25013,8 @@
     ]
   },
   {
-    "fileName": "Julie on Fifi reception",
-    "relativePath": "0. Inbox/Julie on Fifi reception.md"
-  },
-  {
-    "fileName": "Macrex vs Sky vs Cindex",
-    "relativePath": "0. Inbox/Macrex vs Sky vs Cindex.md"
+    "fileName": "Indexing checklists",
+    "relativePath": "0. Inbox/Indexing checklists.md"
   },
   {
     "fileName": "Macrex crashing on drive letter selection",
