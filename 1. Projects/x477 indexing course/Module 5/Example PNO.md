@@ -67,6 +67,8 @@ medical errors management, identifying types of medical errors, 7-8
 sentinel events, defining, 7  
 
 
+
+
 adverse events, in hospitalized patients, 8_t_  
 close calls (or near misses), 8  
 errors of commission, 8  
