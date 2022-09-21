@@ -249,6 +249,13 @@ c. With polite customer service mode. She's just the caterer, and she wasn't inv
 d. With logic. How the heck does Lifi think she stole the mural? She doesn't own a construction service. And she doesn't even know what the mural was supposed to depict. 
 
 
+> [!NOTE] Title
+> I love how you created the imagery of her arms rippling with disappointment. It makes my mind feel the picture. Good job Liz
+
+# A mixture between a and d!
+
+
+
 
 
 
