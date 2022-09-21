@@ -20,10 +20,11 @@ health care team, _See also_ nurses; physicians
 medical errors, _See also_ adverse events  
 mortality. _See_ death  
 nurses, _See also_ health care team  
-physicians, _See also_ health care team  
+physicians, _See also_ health care team 
+
+
 _To Err is Human: Building a Safer Health System_ report  
                      (IOM). _See_ IOM report (1999)  
-
 death, medical errors as leading cause of, 1-2  
 IOM (Institute of Medicine), 1  
 IOM report (1999), on medical errors findings in, 1  
@@ -43,7 +44,7 @@ _Crossing the Quality Chasm: A New System for the 21st Century_
                      report (IOM), 3  
 death, IOM report (1999) on medical errors and, 3_t_  
 DHS (Department of Health Services) \[U.S.\], 3  
-IOM report (1999), on medical errors findings in, 3_t_  
+IOM report (1999), on medical errors findings in, 3_t_ 
 IOM report (2001), 3  
 JCAHO (Joint Commission on the Accreditation of  
                  Healthcare Organizations), 3  
