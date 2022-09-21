@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+            "file": "1. Projects/x477 indexing course/Module 5/Example PNO.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "1. Projects/x477 indexing course/Module 5/Example PNO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
+                "file": "1. Projects/x477 indexing course/Module 5/Example PNO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
+                "file": "1. Projects/x477 indexing course/Module 5/Example PNO.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/productivity/Keyboard shortcuts to review.md",
     "1. Projects/Marbela mystery/Marbela character list.md",
     "2. Areas/reminders/Monthly reminders.md",
     "4. Archive/archived-health/GP lab results bloodwork Wed, Sep 21, 2022.md",
@@ -161,7 +162,6 @@
     "0. Inbox/Indexing checklists.md",
     "0. Inbox/Macrex crashing on drive letter selection.md",
     "4. Archive/writing-julie/Fifi diary - Julie bday 2022.md",
-    "4. Archive/writing-julie/Julie on Fifi reception.md",
-    "4. Archive/indexing/Macrex vs Sky vs Cindex.md"
+    "4. Archive/writing-julie/Julie on Fifi reception.md"
   ]
 }

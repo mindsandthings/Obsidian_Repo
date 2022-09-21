@@ -21,16 +21,17 @@ medical errors, _See also_ adverse events
 mortality. _See_ death  
 nurses, _See also_ health care team  
 physicians, _See also_ health care team  
-
-
 _To Err is Human: Building a Safer Health System_ report  
                      (IOM). _See_ IOM report (1999)  
+
 death, medical errors as leading cause of, 1-2  
 IOM (Institute of Medicine), 1  
 IOM report (1999), on medical errors findings in, 1  
 medical errors  
    increasing concerns about, 1  
    as leading cause of death, 1-2  
+
+
 death, top 10 causes of, 2t  
 IOM report (1999)  
    increased awareness following, 2  
