@@ -1,7 +1,7 @@
 
 https://canvas.instructure.com/courses/70807/discussion_topics/541329
 
-[DO NOT QUOTE. she also says: I prefer my other comments on this thread be kept here. I have to maintain a good relationship with all three software vendors and heaven forbid it one of them should read sometime taken out of context and want to scold me for that! I let all three of them review the Software Solutions article prior to being printed so I'm very careful about what I say publicly :-). Seriously, I'm happy to discuss anything but am cautious about keeping things in context. All three of these programs are excellent and of great value to the indexing community.]
+==[**DO NOT QUOTE**. she also says: I prefer my other comments on this thread be kept here. I have to maintain a good relationship with all three software vendors and heaven forbid it one of them should read sometime taken out of context and want to scold me for that! I let all three of them review the Software Solutions article prior to being printed so I'm very careful about what I say publicly :-). Seriously, I'm happy to discuss anything but am cautious about keeping things in context. All three of these programs are excellent and of great value to the indexing community.]
 
 Sylvia Coates
 Feb 26, 2012 Feb 26, 2012 at 2:31pm
