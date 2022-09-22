@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Thinking Strengths notes.md",
+            "file": "0. Inbox/endonasal cranial release.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Thinking Strengths notes.md",
+                "file": "0. Inbox/endonasal cranial release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Thinking Strengths notes.md",
+                "file": "0. Inbox/endonasal cranial release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Thinking Strengths notes.md"
+                "file": "0. Inbox/endonasal cranial release.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "0. Inbox/Thinking Strengths notes.md",
     "0. Inbox/Macrex videos notes.md",
     "1. Projects/Marbela mystery/Marbela text.md",
     "1. Projects/x477 indexing course/Module 5/Example PNO.md",
@@ -161,7 +162,6 @@
     "2. Areas/reminders/Monthly reminders.md",
     "4. Archive/archived-health/GP lab results bloodwork Wed, Sep 21, 2022.md",
     "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-09-21-Wed.md",
-    "0. Inbox/Indexing checklists.md"
+    "daily/2022-09-21-Wed.md"
   ]
 }
