@@ -44,6 +44,72 @@
     ]
   },
   {
+    "fileName": "2022-09-22-Thu",
+    "relativePath": "daily/2022-09-22-Thu.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-21-Wed",
     "relativePath": "daily/2022-09-21-Wed.md",
     "headings": [
@@ -2997,6 +3063,14 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Macrex videos notes",
+    "relativePath": "4. Archive/indexing/Macrex videos notes.md"
+  },
+  {
+    "fileName": "Macrex crashing on drive letter selection",
+    "relativePath": "4. Archive/indexing/Macrex crashing on drive letter selection.md"
   },
   {
     "fileName": "Macrex vs Sky vs Cindex",
@@ -22285,6 +22359,14 @@
     "relativePath": "3. Resources/Copyediting and developmental editing/Copyediting.md"
   },
   {
+    "fileName": "Perrin technique",
+    "relativePath": "2. Areas/health/Perrin technique.md"
+  },
+  {
+    "fileName": "endonasal cranial release",
+    "relativePath": "2. Areas/health/endonasal cranial release.md"
+  },
+  {
     "fileName": "Vision stuff",
     "relativePath": "2. Areas/health/Vision stuff.md"
   },
@@ -24471,6 +24553,10 @@
     ]
   },
   {
+    "fileName": "Thinking Strengths notes",
+    "relativePath": "1. Projects/Strengths journal/Thinking Strengths notes.md"
+  },
+  {
     "fileName": "Intuitive Overwhelm",
     "relativePath": "1. Projects/Strengths journal/Intuitive Overwhelm.md",
     "backlinks": [
@@ -25017,20 +25103,8 @@
     ]
   },
   {
-    "fileName": "Thinking Strengths notes",
-    "relativePath": "0. Inbox/Thinking Strengths notes.md"
-  },
-  {
-    "fileName": "Macrex videos notes",
-    "relativePath": "0. Inbox/Macrex videos notes.md"
-  },
-  {
     "fileName": "Indexing checklists",
     "relativePath": "0. Inbox/Indexing checklists.md"
-  },
-  {
-    "fileName": "Macrex crashing on drive letter selection",
-    "relativePath": "0. Inbox/Macrex crashing on drive letter selection.md"
   },
   {
     "fileName": "00-scratchpad-note",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/endonasal cranial release.md",
+            "file": "daily/2022-09-22-Thu.md",
             "mode": "source",
             "source": false
           }
@@ -70,12 +70,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/endonasal cranial release.md",
+                "file": "daily/2022-09-22-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/endonasal cranial release.md",
+                "file": "daily/2022-09-22-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/endonasal cranial release.md"
+                "file": "daily/2022-09-22-Thu.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "0. Inbox/Thinking Strengths notes.md",
-    "0. Inbox/Macrex videos notes.md",
+    "1. Projects/Strengths journal/Thinking Strengths notes.md",
+    "0. Inbox/Indexing checklists.md",
+    "4. Archive/indexing/Macrex crashing on drive letter selection.md",
+    "daily/2022-09-22-Thu.md",
+    "2. Areas/health/Perrin technique.md",
+    "2. Areas/health/endonasal cranial release.md",
+    "4. Archive/indexing/Macrex videos notes.md",
     "1. Projects/Marbela mystery/Marbela text.md",
     "1. Projects/x477 indexing course/Module 5/Example PNO.md",
-    "1. Projects/productivity/Keyboard shortcuts to review.md",
-    "1. Projects/Marbela mystery/Marbela character list.md",
-    "2. Areas/reminders/Monthly reminders.md",
-    "4. Archive/archived-health/GP lab results bloodwork Wed, Sep 21, 2022.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-09-21-Wed.md"
+    "1. Projects/productivity/Keyboard shortcuts to review.md"
   ]
 }
