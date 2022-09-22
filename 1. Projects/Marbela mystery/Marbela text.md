@@ -255,6 +255,7 @@ d. With logic. How the heck does Lifi think she stole the mural? She doesn't own
 # A mixture between a and d!
 
 
+"Steal your mural?" Marbela repeated. 
 
 
 
