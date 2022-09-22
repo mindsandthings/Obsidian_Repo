@@ -254,9 +254,38 @@ d. With logic. How the heck does Lifi think she stole the mural? She doesn't own
 
 # A mixture between a and d!
 
+"Why would I steal your mural?" Marbela was baffled. "My apartment already *has* walls."
 
-"Steal your mural?" Marbela repeated. 
+Mademoiselle Lifi lowered the glass and squinted at Marbela, a glint in her eye like she thought she'd caught Marbela in a lie. "You could be building a second apartment."
 
+"But there's only one of me."
+
+With a quick flip of her fins, Mademoiselle Lifi tossed half of the Marbelini back. "Then you stole it for revenge."
+
+This was getting more and more confusing. "I didn't steal it for revenge."
+
+"Then why did you steal it?"
+
+"I didn't steal it at all!" Marbela waved her arms, distressed. "I couldn't steal it! I can't steal an entire wall! I'd need a—a forklift, or something. I'm a catering assistant! I don't even own the van, it's Paisley's!" She saw the glint in Mademoiselle Lifi's eyes again and hurried to catch up. "And before you ask, Paisley didn't steal it either! And neither of us are related to Octavia."
+
+Wait. Was that true? Marbela wasn't related to to Octavia, at least not any more than any random two octopuses were related to each other, as far as she knew. She *was* related to Paisley; they were fourth cousins. But that didn't mean Paisley couldn't be related to Octavia. 
+
+Could Paisley have stolen the mural? 
+
+
+### What does Marbela think?
+
+a. ....maybe?
+
+b. No, that's ridiculous. Paisley? An art thief? 
+
+c. Possibly, but she really really hopes not. 
+
+d. Oh man. Maybe she'd better try to check the van for evidence. 
+
+e. Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
+
+f. Even if Paisley's related to Octavia, there's no reason for her to have stolen the mural.
 
 
 
