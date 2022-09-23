@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-22-Thu.md",
+            "file": "periodic/Daily reminders.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-22-Thu.md",
+                "file": "periodic/Daily reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-22-Thu.md",
+                "file": "periodic/Daily reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-22-Thu.md"
+                "file": "periodic/Daily reminders.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 5/5.6 Indexing Project 1.md",
+    "daily/2022-09-22-Thu.md",
     "1. Projects/Strengths journal/Thinking Strengths notes.md",
     "0. Inbox/Indexing checklists.md",
     "4. Archive/indexing/Macrex crashing on drive letter selection.md",
-    "daily/2022-09-22-Thu.md",
     "2. Areas/health/Perrin technique.md",
     "2. Areas/health/endonasal cranial release.md",
     "4. Archive/indexing/Macrex videos notes.md",
     "1. Projects/Marbela mystery/Marbela text.md",
-    "1. Projects/x477 indexing course/Module 5/Example PNO.md",
-    "1. Projects/productivity/Keyboard shortcuts to review.md"
+    "1. Projects/x477 indexing course/Module 5/Example PNO.md"
   ]
 }
