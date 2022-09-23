@@ -15,6 +15,7 @@ to main
 Welcome to the group, Elizabeth! Feel free to ask questions as you work on the Berkeley course and get established as an indexer.
 
 
+
 # Chet Chats
 
 Elena Gwynne - in the chet chat. finishing up a book on physical activity and disability/ableism. 
@@ -40,3 +41,11 @@ https://www.linkedin.com/in/doug-easton-703a531a/
 Carolyn ? 
 doing her first index since 1996
 
+# Berkeley  class
+
+## Kimberly Hayes
+student - working on marketing
+Since I'm just starting out, I know it'll take a while to get regular work, so I'll focus on indexing in the fall/winter and continue to work for the Cubs during baseball season
+
+## Mercedes Brian
+Age 64
