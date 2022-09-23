@@ -467,6 +467,10 @@
     {
       "name": "health",
       "relativePath": "2. Areas/health"
+    },
+    {
+      "name": "kindle-notes",
+      "relativePath": "4. Archive/kindle-notes"
     }
   ],
   "nonMdFiles": [
