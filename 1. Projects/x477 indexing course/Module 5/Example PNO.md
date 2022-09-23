@@ -21,8 +21,6 @@ medical errors, _See also_ adverse events
 mortality. _See_ death  
 nurses, _See also_ health care team  
 physicians, _See also_ health care team 
-
-
 _To Err is Human: Building a Safer Health System_ report  
                      (IOM). _See_ IOM report (1999)  
 death, medical errors as leading cause of, 1-2  
@@ -31,15 +29,12 @@ IOM report (1999), on medical errors findings in, 1
 medical errors  
    increasing concerns about, 1  
    as leading cause of death, 1-2  
-
-
 death, top 10 causes of, 2t  
 IOM report (1999)  
    increased awareness following, 2  
    on medical errors findings in, 2  
    recommendations of, 2-3  
 medical errors, impact of, 2 
-
 _Crossing the Quality Chasm: A New System for the 21st Century_  
                      report (IOM), 3  
 death, IOM report (1999) on medical errors and, 3_t_  
@@ -55,9 +50,6 @@ patient safety, JCAHO requirements for, 3-4
 regulatory agencies, 3-4  
 reporting medical errors, states requiring mandatory, 3  
 U.S. Department of Health and Human Services, 3  
-
-
-
 JCAHO (Joint Commission on the Accreditation of  
                   Healthcare Organizations)  
    reporting requirements by, 7  
@@ -65,10 +57,6 @@ JCAHO (Joint Commission on the Accreditation of
 medical errors classifications, sentinel events, 7  
 medical errors management, identifying types of medical errors, 7-8  
 sentinel events, defining, 7  
-
-
-
-
 adverse events, in hospitalized patients, 8_t_  
 close calls (or near misses), 8  
 errors of commission, 8  
