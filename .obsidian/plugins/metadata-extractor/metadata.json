@@ -44,6 +44,72 @@
     ]
   },
   {
+    "fileName": "2022-09-23-Fri",
+    "relativePath": "daily/2022-09-23-Fri.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-22-Thu",
     "relativePath": "daily/2022-09-22-Thu.md",
     "headings": [
@@ -21910,6 +21976,10 @@
     "relativePath": "3. Resources/Informational interviewing/Cae info interviewing notes.md"
   },
   {
+    "fileName": "Marketing Indexing advice - on lists",
+    "relativePath": "3. Resources/Indexing/Marketing Indexing advice - on lists.md"
+  },
+  {
     "fileName": "Websites of certified indexers",
     "relativePath": "3. Resources/Indexing/Websites of certified indexers.md",
     "frontmatter": {
@@ -22109,6 +22179,18 @@
       {
         "heading": "Chet Chats",
         "level": 1
+      },
+      {
+        "heading": "Berkeley  class",
+        "level": 1
+      },
+      {
+        "heading": "Kimberly Hayes",
+        "level": 2
+      },
+      {
+        "heading": "Mercedes Brian",
+        "level": 2
       }
     ]
   },
@@ -22850,32 +22932,8 @@
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
   },
   {
-    "fileName": "Module 5 readings",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
-    "headings": [
-      {
-        "heading": "Mulvany: pages 56-62",
-        "level": 1
-      },
-      {
-        "heading": "Chicago: Sections 16.101-16.131",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Module 5 discussion questions",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
-    "headings": [
-      {
-        "heading": "Module 5 Discussion: Full Index Challenges",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Example practice idnex",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Example practice idnex.md",
+    "fileName": "Example practice index",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Example practice index.md",
     "frontmatter": {
       "created": "2022-09-16T19:46:15 (UTC -07:00)",
       "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/index-for-medical-error-prevention-patient-safety",
@@ -22901,6 +22959,30 @@
       {
         "heading": "Index for _Medical Error Prevention: Patient Safety_",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Module 5 readings",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
+    "headings": [
+      {
+        "heading": "Mulvany: pages 56-62",
+        "level": 1
+      },
+      {
+        "heading": "Chicago: Sections 16.101-16.131",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Module 5 discussion questions",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
+    "headings": [
+      {
+        "heading": "Module 5 Discussion: Full Index Challenges",
+        "level": 1
       }
     ]
   },

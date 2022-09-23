@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
+            "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/Example - my notes.md"
+                "file": "1. Projects/productivity/Keyboard shortcuts to review.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
     "1. Projects/x477 indexing course/Module 5/Example PNO.md",
     "1. Projects/x477 indexing course/Module 5/Example practice index.md",
     "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
@@ -160,7 +161,6 @@
     "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194025.png",
     "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194017.png",
     "1. Projects/x477 indexing course/Module 5/Pasted image 20220916193915.png",
-    "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
     "1. Projects/x477 indexing course/0. Introductory material/Syllabus Journ X477.md"
   ]
 }

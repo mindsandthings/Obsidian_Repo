@@ -98,9 +98,6 @@ Undo close pane: Cmd-shift-T
 ⌘P   to open palette, 
 
 
--------
-start here: 
-
 # Alfred:
 conv 8in ft
 emoji: e 
