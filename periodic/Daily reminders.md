@@ -23,3 +23,5 @@
 # Goals
 
 * 2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
+how to interrupt less? calm down, breathe, wait.
+don't suck up too much, ok?
