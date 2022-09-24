@@ -41,3 +41,26 @@ You have to always assume that, until proven otherwise, any given note won’t n
 Distilling makes our ideas small and compact, so we can load them up into our minds with minimal effort. — location: [1739](kindle://book?action=open&asin=B09LVVN9L3&location=1739) ^ref-62730
 
 ---
+
+you are trying to place a note or file not only where it will be useful, but where it will be useful the soonest. Organizing by *where it is going*. 
+
+
+Layer 1: not the entire article, just a few key excerpts
+Layer 2: bolded points
+Layer 3: highlighting
+Layer 4: (rare): executive summary with a few bullet points summarizing the article in my own words
+
+Rule of thumb: each layer of highlighting should include no more than 10-20 percent of the previous layer. 
+
+Rule of thumb: every time you "touch" a note, make it a little more discoverable for your future self. 
+
+Highlight when you're getting ready to create something. 
+
+Don't make highlighting difficult: highlight based on intuition, not analysis/interpretation/categorization. 
+
+"You have to always assume that, until proven otherwise, any given note won’t necessarily ever be useful. You have no idea what your future self will need, want, or be working on. This assumption forces you to be conservative in the time you spend summarizing notes, doing so only when it’s virtually guaranteed that it will be worth it.
+
+Forte, Tiago. Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential (p. 139). Atria Books. Kindle Edition. "
+
+"The true test of whether a note you've created is discoverable is whether you can get the gist of it at a glance." (in under 30 seconds)
+
