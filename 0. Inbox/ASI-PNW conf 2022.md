@@ -35,6 +35,12 @@ Big indexes, use a see. but she prefers to minimize so reader doesn't have to ru
 Do Mi: I don't like reversals and avoid whenever possible. Sometimes this is possible by making a noun phrase: Catholic Church, usury prohibitions.
 
 
+Judi Gibbs: I look at ways to put hooks into the index and still do it professionally [to pull in potential readers who might buy the book]
+
+
+![[Pasted image 20220924110409.png]]
+![[Pasted image 20220924110420.png]]
+
 
 
 
