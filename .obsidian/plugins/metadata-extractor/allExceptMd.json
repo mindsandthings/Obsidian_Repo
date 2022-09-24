@@ -471,6 +471,14 @@
     {
       "name": "kindle-notes",
       "relativePath": "4. Archive/kindle-notes"
+    },
+    {
+      "name": "images",
+      "relativePath": "4. Archive/images"
+    },
+    {
+      "name": "indexing-people",
+      "relativePath": "3. Resources/indexing-people"
     }
   ],
   "nonMdFiles": [
@@ -535,34 +543,34 @@
       "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194025.png"
     },
     {
+      "name": "Pasted image 20220924110420.png",
+      "basename": "Pasted image 20220924110420",
+      "relativePath": "4. Archive/images/Pasted image 20220924110420.png"
+    },
+    {
       "name": "Pasted image 20220921094055.png",
       "basename": "Pasted image 20220921094055",
-      "relativePath": "Pasted image 20220921094055.png"
+      "relativePath": "4. Archive/images/Pasted image 20220921094055.png"
     },
     {
       "name": "Pasted image 20220921094134.png",
       "basename": "Pasted image 20220921094134",
-      "relativePath": "Pasted image 20220921094134.png"
+      "relativePath": "4. Archive/images/Pasted image 20220921094134.png"
     },
     {
       "name": "Pasted image 20220924101351.png",
       "basename": "Pasted image 20220924101351",
-      "relativePath": "Pasted image 20220924101351.png"
+      "relativePath": "4. Archive/images/Pasted image 20220924101351.png"
     },
     {
       "name": "Pasted image 20220924101404.png",
       "basename": "Pasted image 20220924101404",
-      "relativePath": "Pasted image 20220924101404.png"
+      "relativePath": "4. Archive/images/Pasted image 20220924101404.png"
     },
     {
       "name": "Pasted image 20220924110409.png",
       "basename": "Pasted image 20220924110409",
-      "relativePath": "Pasted image 20220924110409.png"
-    },
-    {
-      "name": "Pasted image 20220924110420.png",
-      "basename": "Pasted image 20220924110420",
-      "relativePath": "Pasted image 20220924110420.png"
+      "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
     }
   ]
 }

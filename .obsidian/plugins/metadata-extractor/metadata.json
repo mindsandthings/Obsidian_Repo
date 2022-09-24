@@ -44,6 +44,72 @@
     ]
   },
   {
+    "fileName": "2022-09-24-Sat",
+    "relativePath": "daily/2022-09-24-Sat.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Goals",
+        "level": 1
+      },
+      {
+        "heading": "Strengths",
+        "level": 1
+      },
+      {
+        "heading": "Input",
+        "level": 2
+      },
+      {
+        "heading": "Strategic",
+        "level": 2
+      },
+      {
+        "heading": "Learner",
+        "level": 2
+      },
+      {
+        "heading": "Intellection",
+        "level": 2
+      },
+      {
+        "heading": "Responsibility",
+        "level": 2
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Discipline",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-23-Fri",
     "relativePath": "daily/2022-09-23-Fri.md",
     "headings": [
@@ -20277,6 +20343,50 @@
     ]
   },
   {
+    "fileName": "ASI-PNW conf 2022",
+    "relativePath": "3. Resources/indexing-people/ASI-PNW conf 2022.md",
+    "headings": [
+      {
+        "heading": "People I know or should know",
+        "level": 1
+      },
+      {
+        "heading": "Cynthia",
+        "level": 1
+      },
+      {
+        "heading": "acronyms etc:",
+        "level": 2
+      },
+      {
+        "heading": "Google",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Indexing people (indexers)",
+    "relativePath": "3. Resources/indexing-people/Indexing people (indexers).md",
+    "headings": [
+      {
+        "heading": "Chet Chats",
+        "level": 1
+      },
+      {
+        "heading": "Berkeley  class",
+        "level": 1
+      },
+      {
+        "heading": "Kimberly Hayes",
+        "level": 2
+      },
+      {
+        "heading": "Mercedes Brian",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
     "relativePath": "3. Resources/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md",
     "headings": [
@@ -24882,28 +24992,6 @@
     "relativePath": "3. Resources/Indexing/Indexing software development list.md"
   },
   {
-    "fileName": "Indexing people (indexers)",
-    "relativePath": "3. Resources/Indexing/Indexing people (indexers).md",
-    "headings": [
-      {
-        "heading": "Chet Chats",
-        "level": 1
-      },
-      {
-        "heading": "Berkeley  class",
-        "level": 1
-      },
-      {
-        "heading": "Kimberly Hayes",
-        "level": 2
-      },
-      {
-        "heading": "Mercedes Brian",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Indexing learning plan",
     "relativePath": "3. Resources/Indexing/Indexing learning plan.md"
   },
@@ -25614,6 +25702,10 @@
     "relativePath": "1. Projects/Kraken/Kraken revision notes Sep 2022.md"
   },
   {
+    "fileName": "Indexing thoughts",
+    "relativePath": "1. Projects/x477 indexing course/Indexing thoughts.md"
+  },
+  {
     "fileName": "Ongoing resources to read",
     "relativePath": "1. Projects/x477 indexing course/Ongoing resources to read.md",
     "tags": [
@@ -25639,6 +25731,18 @@
   {
     "fileName": "Remapping cmd-H to ctrl-H in parallels",
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
+  },
+  {
+    "fileName": "WNV notes and to-do's",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md"
+  },
+  {
+    "fileName": "Sky Index - Shortcuts",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Sky Index - Shortcuts.md"
+  },
+  {
+    "fileName": "Indexing checklists",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/Indexing checklists.md"
   },
   {
     "fileName": "Example practice index",
@@ -27892,40 +27996,6 @@
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "ASI-PNW conf 2022",
-    "relativePath": "0. Inbox/ASI-PNW conf 2022.md",
-    "headings": [
-      {
-        "heading": "People I know or should know",
-        "level": 1
-      },
-      {
-        "heading": "Cynthia",
-        "level": 1
-      },
-      {
-        "heading": "acronyms etc:",
-        "level": 2
-      },
-      {
-        "heading": "Google",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "WNV notes and to-do's",
-    "relativePath": "0. Inbox/WNV notes and to-do's.md"
-  },
-  {
-    "fileName": "Sky Index - Shortcuts",
-    "relativePath": "0. Inbox/Sky Index - Shortcuts.md"
-  },
-  {
-    "fileName": "Indexing checklists",
-    "relativePath": "0. Inbox/Indexing checklists.md"
   },
   {
     "fileName": "00-scratchpad-note",
