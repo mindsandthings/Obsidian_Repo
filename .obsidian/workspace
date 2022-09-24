@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/ASI-PNW conf 2022.md",
+            "file": "0. Inbox/Indexing thoughts.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/ASI-PNW conf 2022.md",
+                "file": "0. Inbox/Indexing thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/ASI-PNW conf 2022.md",
+                "file": "0. Inbox/Indexing thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/ASI-PNW conf 2022.md"
+                "file": "0. Inbox/Indexing thoughts.md"
               }
             }
           },
@@ -153,8 +152,8 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "0. Inbox/WNV notes and to-do's.md",
     "0. Inbox/ASI-PNW conf 2022.md",
+    "0. Inbox/WNV notes and to-do's.md",
     "2. Areas/food/Food notes.md",
     "periodic/Weekly reminders.md",
     "periodic/Daily reminders.md",

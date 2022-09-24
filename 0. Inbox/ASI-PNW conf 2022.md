@@ -37,6 +37,22 @@ Do Mi: I don't like reversals and avoid whenever possible. Sometimes this is pos
 
 Judi Gibbs: I look at ways to put hooks into the index and still do it professionally [to pull in potential readers who might buy the book]
 
+__How to specify yourself__ 
+
+Cynthia says "I'm a generalist but I don't do Western philosophy or law. But I do alternative medicine"
+
+Lisa Sorenson - background in chemistry - Berkeley student
+
+Do Mi: you need familiarity with the terms and the general structure of the field, but you don't need the same level that the writer does
+
+Do Mi is also a generalist like Cynthia
+
+Carolyn Weaver: when starting out, emphasize ones you're most comfortable with, although her best / most fun indexes have been ones she didn't know about. 
+
+Amber Dedereck: if you're seeing out scholarly work, try to get on an editor's list at the first contact, so you don't have to constantly market. 
+
+Education and low-level textbooks tend to be the easiest and quickest to do. 
+
 
 ![[Pasted image 20220924110409.png]]
 ![[Pasted image 20220924110420.png]]
