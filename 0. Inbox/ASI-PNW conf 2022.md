@@ -26,6 +26,16 @@ Big indexes, use a see. but she prefers to minimize so reader doesn't have to ru
 
 "Always two points of entry" - for each item
 
+# Google
+"Google gave me the courage to break the rules" - looking at list of top 100 searches, people don't enter in indexing format
+
+[I mean, obviously they don't, they're not trained to enter information in the same way they'll look for it. If they were entering stuff for other peopl eot find they might put the most standardzied part first.]
+
+
+Do Mi: I don't like reversals and avoid whenever possible. Sometimes this is possible by making a noun phrase: Catholic Church, usury prohibitions.
+
+
+
 
 
 
