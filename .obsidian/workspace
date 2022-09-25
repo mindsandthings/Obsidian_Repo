@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-25-Sun.md",
+            "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-25-Sun.md",
+                "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-25-Sun.md",
+                "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-25-Sun.md"
+                "file": "2. Areas/internal/Sun, Sep 25, 2022.md"
               }
             }
           },
@@ -152,11 +153,11 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "daily/2022-09-25-Sun.md",
     "daily/2022-09-05.md",
     "periodic/Daily reminders.md",
     "periodic/Weekly reminders.md",
     "3. Resources/Strengths journal/Development plan Sep 2022.md",
-    "daily/2022-09-25-Sun.md",
     "daily/2022-09-24-Sat.md",
     "3. Resources/Strengths journal/Strengths - 5. Responsibility.md",
     "4. Archive/templates/daily note template.md",
