@@ -1,10 +1,14 @@
-# Fri, Aug 5, 2022
+# Journaling
 
-I am trying to be selective and careful and not overcommit, and will need to do that moving forward with OSS volunteerign if I do that.
+## Sun, Sep 25, 2022
+Need to be careful; joining new circles and don't want to overwhelm. Feels like committing to doing things for people makes me more likely to do the same in other areas of life too. Also don't want to overwhelm or intimidate people by taking things too seriously and being too responsible. 
 
-In writing, I'm trying not to overshedule myself.
+## Fri, Aug 5, 2022
 
-# Mon, Aug 15, 2022
+I am trying to be selective and careful and not overcommit, and will need to do that moving forward with OSS volunteering if I do that.
+
+In writing, I'm trying not to overschedule myself.
+
 
 # Aug 2022 areas of focus
 

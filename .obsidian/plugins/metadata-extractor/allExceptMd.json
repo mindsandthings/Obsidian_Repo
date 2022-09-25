@@ -33,18 +33,6 @@
       "relativePath": "periodic"
     },
     {
-      "name": "Marbela mystery",
-      "relativePath": "1. Projects/Marbela mystery"
-    },
-    {
-      "name": "Strengths journal",
-      "relativePath": "1. Projects/Strengths journal"
-    },
-    {
-      "name": "Writer and book search",
-      "relativePath": "1. Projects/Writer and book search"
-    },
-    {
       "name": "productivity",
       "relativePath": "1. Projects/productivity"
     },
@@ -461,10 +449,6 @@
       "relativePath": "3. Resources/Strengths course/Strengths course texts"
     },
     {
-      "name": "Kraken",
-      "relativePath": "1. Projects/Kraken"
-    },
-    {
       "name": "health",
       "relativePath": "2. Areas/health"
     },
@@ -479,6 +463,22 @@
     {
       "name": "indexing-people",
       "relativePath": "3. Resources/indexing-people"
+    },
+    {
+      "name": "Strengths journal",
+      "relativePath": "3. Resources/Strengths journal"
+    },
+    {
+      "name": "analyze writers",
+      "relativePath": "1. Projects/analyze writers"
+    },
+    {
+      "name": "kraken",
+      "relativePath": "1. Projects/kraken"
+    },
+    {
+      "name": "marbela mystery",
+      "relativePath": "1. Projects/marbela mystery"
     }
   ],
   "nonMdFiles": [
@@ -496,11 +496,6 @@
       "name": "Untitled",
       "basename": "Untitled",
       "relativePath": "0. Inbox/Untitled"
-    },
-    {
-      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
-      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
-      "relativePath": "1. Projects/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     },
     {
       "name": "Progressive Summarization Cheat Sheet.pdf",
@@ -571,6 +566,11 @@
       "name": "Pasted image 20220924110409.png",
       "basename": "Pasted image 20220924110409",
       "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
+    },
+    {
+      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
+      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
+      "relativePath": "3. Resources/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     }
   ]
 }

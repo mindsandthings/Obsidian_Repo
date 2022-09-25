@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/food/Food notes.md",
+            "file": "daily/2022-09-25-Sun.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-09-25-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-09-25-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "daily/2022-09-25-Sun.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "1. Projects/Strengths journal/Strengths - 4. Intellection.md",
-    "1. Projects/Strengths journal/Strengths - 13 and newer.md",
-    "1. Projects/Strengths journal/Strengths - 1. Input.md",
-    "1. Projects/Strengths journal/Strengths - 2. Strategic.md",
-    "periodic/Weekly reminders.md",
+    "daily/2022-09-05.md",
     "periodic/Daily reminders.md",
+    "periodic/Weekly reminders.md",
+    "3. Resources/Strengths journal/Development plan Sep 2022.md",
+    "daily/2022-09-25-Sun.md",
     "daily/2022-09-24-Sat.md",
-    "daily/2022-09-23-Fri.md",
-    "daily/2022-09-22-Thu.md",
-    "daily/2022-09-21-Wed.md"
+    "3. Resources/Strengths journal/Strengths - 5. Responsibility.md",
+    "4. Archive/templates/daily note template.md",
+    "2. Areas/food/Food notes.md",
+    "3. Resources/Strengths journal/Strengths - 4. Intellection.md"
   ]
 }

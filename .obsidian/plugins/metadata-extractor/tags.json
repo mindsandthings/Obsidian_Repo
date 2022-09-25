@@ -9,10 +9,10 @@
       "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
       "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md",
       "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md",
+      "1. Projects/marbela mystery/Cohen - Writing the Cozy Mystery.md",
       "1. Projects/x477 indexing course/Ongoing resources to read.md",
       "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md",
-      "1. Projects/x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
-      "1. Projects/Marbela mystery/Cohen - Writing the Cozy Mystery.md"
+      "1. Projects/x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md"
     ]
   },
   {
@@ -232,8 +232,8 @@
     "tagCount": 3,
     "relativePaths": [
       "4. Archive/writing business/Marketing in competition with fandom.md",
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md",
-      "1. Projects/Writer and book search/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
     ]
   },
   {
@@ -1812,6 +1812,49 @@
     ]
   },
   {
+    "tag": "novel",
+    "tagCount": 2,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
+    ]
+  },
+  {
+    "tag": "plot",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "creativity",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "support",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "plot-construction",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "model",
+    "tagCount": 1,
+    "relativePaths": [
+      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
     "tag": "os",
     "tagCount": 2,
     "relativePaths": [
@@ -1921,49 +1964,6 @@
     "tagCount": 1,
     "relativePaths": [
       "1. Projects/productivity/Keyboard shortcuts to review.md"
-    ]
-  },
-  {
-    "tag": "novel",
-    "tagCount": 2,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md",
-      "1. Projects/Writer and book search/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
-    ]
-  },
-  {
-    "tag": "plot",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "creativity",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "support",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "plot-construction",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "model",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/Writer and book search/Plot-creation support with plot-construction model for writing novels.md"
     ]
   }
 ]

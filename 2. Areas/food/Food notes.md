@@ -1,17 +1,12 @@
-# Sat, Sep 17, 2022 order
+# Sun, Sep 25, 2022
 To eat:
-* Grapefruit in indoor fridge
-* Bologna in garage fridge and indoor fridge
+* Bologna 
+* Raspberries
 * Chimichurri
 
-
-# Sat, Sep 24, 2022
-
-salmon 
-
-bananas 12
-celery
-1 lemon
-potato chips
-sardines (get a few)
-blue/rasp/blackberries (1 of whatever's cheapest)
+To cook:
+* Salmon
+* Vegan chorizo
+* 1 lemon
+* Someday, make spaghetti with fake beef
+* 

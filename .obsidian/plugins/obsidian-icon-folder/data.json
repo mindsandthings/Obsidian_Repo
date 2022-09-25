@@ -26,18 +26,18 @@
   "2. Areas": "RiGlobeFill",
   "3. Resources": "RiArchiveDrawerFill",
   "1. Projects/x477 indexing course": "RiComputerFill",
-  "1. Projects/Writer and book search/Writers to research.md": "RiListCheck",
-  "1. Projects/Marbela mystery": "RiQuestionMark",
   "0. Inbox/00-scratchpad-note.md": "RiStickyNoteFill",
   "daily": "RiCalendar2Line",
   "3. Resources/x477 Indexing course/Module 1/0.1 Reading notes - Module 1.md": "RiPencilFill",
   "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md": "RiCheckboxFill",
   "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md": "RiCheckboxBlankFill",
   "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md": "RiPencilFill",
-  "1. Projects/Strengths journal": "IbPencil",
   "1. Projects/productivity": "IbStar",
   "3. Resources/Strengths course": "RiSlideshowLine",
   "3. Resources/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill",
-  "1. Projects/Kraken": "RiBook3Fill",
-  "1. Projects/Writer and book search": "RiBookLine"
+  "3. Resources/Strengths journal": "IbPencil",
+  "1. Projects/analyze writers": "RiBookLine",
+  "1. Projects/analyze writers/Writers to research.md": "RiListCheck",
+  "1. Projects/kraken": "RiBook3Fill",
+  "1. Projects/marbela mystery": "RiQuestionMark"
 }
