@@ -365,10 +365,6 @@
       "relativePath": "1. Projects/x477 indexing course/Module 5"
     },
     {
-      "name": "strengths-2022",
-      "relativePath": "2. Areas/Gallup Strengths/strengths-2022"
-    },
-    {
       "name": "Business planning",
       "relativePath": "3. Resources/Indexing/Business planning"
     },
@@ -483,6 +479,10 @@
     {
       "name": "internal",
       "relativePath": "2. Areas/internal"
+    },
+    {
+      "name": "strengths-2022",
+      "relativePath": "3. Resources/Strengths journal/strengths-2022"
     }
   ],
   "nonMdFiles": [

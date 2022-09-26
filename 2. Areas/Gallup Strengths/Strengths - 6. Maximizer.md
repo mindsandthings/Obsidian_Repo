@@ -1,4 +1,6 @@
-# Aug 2022 areas of focus
+# Maximizer
+
+
 
 # Becca video notes
 

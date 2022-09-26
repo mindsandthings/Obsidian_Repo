@@ -1,10 +1,15 @@
-**Mon, Aug 1, 2022**
+
+
+## Mon, Sep 26, 2022
+I'm very tired today, so it's hard to focus. My head feels swollen, and I feel burned out on input - I don't want to take anything in, or do anythign more; I just want to rest. I think it might be learner time, at most. 
+
+## Mon, Aug 1, 2022
 
 Working on feeding this via learning indexing. Today I learned some more about vision therapy exercises - the sticking point there was that it took so many tries to find decent info. Last night I also tried a demo of a new game (Cult of the Lamb) and although I don't plan to continue playing, even just trying and seeing new things made me feel better.
 
 I've also gotten Joplin working so I can save stuff more easily, and am trying to be conscious of when I ought to save stuff.
 
-**Thu, Aug 11, 2022**
+## Thu, Aug 11, 2022
 
 My issue is: most people don't want help. They have their own knowledge and priorities and value their sense of self-sufficiency. More than that, they don't want \*connections\*, often not in general and specifically with someone who thinks they have something to offer. They will even experience it as an aggression or an insult, as a shaming attempt. Input is not a helpful thing; it is a dominance attempt. 
 

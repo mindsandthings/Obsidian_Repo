@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/marbela mystery/Marbela text.md",
+            "file": "2. Areas/food/Food notes.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "346fdaab487df30f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -152,15 +160,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "1. Projects/marbela mystery/Marbela outline.md",
-    "1. Projects/marbela mystery/Marbela character list.md",
-    "1. Projects/marbela mystery/Marbela text.md",
-    "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
-    "daily/2022-09-25-Sun.md",
-    "daily/2022-09-05.md",
-    "periodic/Daily reminders.md",
-    "periodic/Weekly reminders.md",
-    "3. Resources/Strengths journal/Development plan Sep 2022.md",
-    "daily/2022-09-24-Sat.md"
+    "daily/2022-09-26-Mon.md",
+    "2. Areas/Gallup Strengths/Strengths - 1. Input.md",
+    "3. Resources/Strengths journal/strengths-2022/Input - 1 - Copy.md",
+    "2. Areas/Gallup Strengths/Strengths - 6. Maximizer.md",
+    "3. Resources/Strengths journal/2022-07 Possible action items - Becca Syme notes.md",
+    "3. Resources/Strengths journal/Strengths videos.md",
+    "3. Resources/Strengths journal/2022-07 Becca Syme unedited notes.md",
+    "3. Resources/Strengths journal/strengths-2022/Connectedness - 6 - Copy - Copy.md",
+    "3. Resources/Strengths journal/strengths-2022/Deliberative - 10 - Copy.md",
+    "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md"
   ]
 }
