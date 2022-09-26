@@ -14,6 +14,8 @@ Leafy Sea Dragon artist - really dramatic, famous. Was pretending to be passed o
 # Paisley 
 Marbela's boss at the catering company. Another octopus. Bow askew. A little grouchy and judgmental. 
 
+Secret: dating the security guard. 
+
 # Security guard
 A hammerhead shark. Was inside the museum with Paisley when the mural was revealed to have been stolen. 
 

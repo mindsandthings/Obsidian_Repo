@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
+            "file": "1. Projects/marbela mystery/Marbela text.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
+                "file": "1. Projects/marbela mystery/Marbela text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/internal/Sun, Sep 25, 2022.md",
+                "file": "1. Projects/marbela mystery/Marbela text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/internal/Sun, Sep 25, 2022.md"
+                "file": "1. Projects/marbela mystery/Marbela text.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/marbela mystery/Marbela outline.md",
+    "1. Projects/marbela mystery/Marbela character list.md",
+    "1. Projects/marbela mystery/Marbela text.md",
+    "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
     "daily/2022-09-25-Sun.md",
     "daily/2022-09-05.md",
     "periodic/Daily reminders.md",
     "periodic/Weekly reminders.md",
     "3. Resources/Strengths journal/Development plan Sep 2022.md",
-    "daily/2022-09-24-Sat.md",
-    "3. Resources/Strengths journal/Strengths - 5. Responsibility.md",
-    "4. Archive/templates/daily note template.md",
-    "2. Areas/food/Food notes.md",
-    "3. Resources/Strengths journal/Strengths - 4. Intellection.md"
+    "daily/2022-09-24-Sat.md"
   ]
 }

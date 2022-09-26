@@ -288,11 +288,49 @@ e. Oh no. Maybe she's better try to check the van for evidence...and hide it if 
 f. Even if Paisley's related to Octavia, there's no reason for her to have stolen the mural.
 
 
+# e. Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
 
+Marbela's head spun. Mademoiselle Lifi receded along with the courtyard's din, leaving Marbela alone with nothing to keep her company but the increasingly insistent thought that maybe Paisley really had stolen the mural. 
 
+Paisley had been extra grouchy and distant recently. Marbela had thought she was just working too late and not getting enough sleep, but maybe she was mixed up in something. Like art theft. 
 
-Mayor Myrtle comes over and is politely distant toward Lifi
+She'd known Paisley since they'd both been kids together. Paisley was like an older sister to her. A grumpy, reticent older sister, but still. This was awful. 
 
-Says they're calling in Detective Holmes
+"You look unwell." The glint in Mademoiselle Lifi's eye was that of a hunter who'd spotted her prey. "Is something wrong with this 'Paisley'?"
+
+"No!" Marbela felt her skin trying to shift colors, to give away the lie. Her stomach was complaining about the spiced anemone she'd nibbled on while setting up and her arms were twitchy. "Excuse me." She grabbed the mostly-empty Marbelini glass and fled. 
+
+Back through the buzzing, gossiping crowd. Back to the catering station. Back to the van. 
+
+She cracked open the back door, the sound of the latch barely audible over her hearts' tandem drumroll. 
+
+Paisley had loaded the van that morning. Marbela had met her at the courtyard and helped her unload it. She would have noticed if there had been a stolen, mural-covered wall in there. Right?
+
+The back of the van held two extra crates of paper goods, a first-aid kit,  and nothing else. Nothing but a few crumpled pieces of paper.  
+
+Marbela picked one up and smoothed it out. 
+
+It was a parking ticket dated 2am that morning. When Paisley should have been in bed, sleeping, with her van legally parked outside. 
+
+She picked up another paper, and a third. Both parking tickets. One was from two weeks ago and one was from last week and all of them were in the middle of the night. 
+
+A sound behind her made her jump. She turned, whipping the papers out of sight. 
+
+"Can I have my drink now?" It was the manatee kid, looking less bored than usual. "And a snack too? They're calling in Detective Inspector Holmes and we're all supposed to stay here and it might take hours." He frowned at her. "Why are you trying to hide parking tickets behind your back?"
+
+## What's Marbela's hasty response?
+
+a. "What parking tickets?"
+
+b. "They're not things kids are supposed to see!"
+
+c. "They're not mine!"
+
+d. "Never mind the parking tickets, they're calling in who?"
+
+e. "They're not parking tickets."
+
+f. "I don't want anybody to get in trouble."
+
 
 

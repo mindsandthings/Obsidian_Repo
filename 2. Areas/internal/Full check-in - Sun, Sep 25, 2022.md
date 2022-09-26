@@ -86,9 +86,43 @@ We're making another try of it, basically. Of getting back into the world, but i
 
 ## Do you want to come back? And see what we can make of a life with these new ways of interacting. 
 
-Megynn: yes
-NoaPQ: yes
+### Those who want to join in planning stuff: 
+
+Ricky
+Megynn
+Gaia
+Sunshine
+Ivvy
+Sun
+Cicada
+Night
+Daye
+Current
+Zooey
+Me-kid
+Mason (old Jamie?)
+theoriesofminds
+Noa PQ
+N. 
+Sable
+
+Bluebird - take care of but don't make participate
+Jackson - talk to, but don't make participate
+
+### Part of us (part of Current probably)
+📆Original Elizabeth (she/her) - I am back. I'm you. 
+🌕Noe (Noeta; she/her) - part of us now
+📕Chant (she/her) - may be part of us now
+Harbor (they/them; system resource) - part of us
+Maeyin (he/him) - part of us
+🎁Rain (it/its) - is part of us
+
+### Those who don't want to join:
+See Scrivener's System events (2022) log. 
 
 
 
+# Agenda for Sep meeting
 
+Who to run mtgs
+What do we want to be on agenda, to discuss
