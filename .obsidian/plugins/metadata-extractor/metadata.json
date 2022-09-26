@@ -14,6 +14,10 @@
       {
         "heading": "Social",
         "level": 1
+      },
+      {
+        "heading": "Work",
+        "level": 1
       }
     ]
   },
@@ -3166,6 +3170,10 @@
       {
         "heading": "Highlights",
         "level": 2
+      },
+      {
+        "heading": "Intermediate packets",
+        "level": 1
       }
     ]
   },
@@ -26730,6 +26738,10 @@
     ]
   },
   {
+    "fileName": "Sky Index - Shortcuts",
+    "relativePath": "1. Projects/x477 indexing course/Sky Index - Shortcuts.md"
+  },
+  {
     "fileName": "Indexing thoughts",
     "relativePath": "1. Projects/x477 indexing course/Indexing thoughts.md"
   },
@@ -26761,12 +26773,12 @@
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
   },
   {
-    "fileName": "WNV notes and to-do's",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md"
+    "fileName": "mine",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/mine.md"
   },
   {
-    "fileName": "Sky Index - Shortcuts",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Sky Index - Shortcuts.md"
+    "fileName": "WNV notes and to-do's",
+    "relativePath": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md"
   },
   {
     "fileName": "Indexing checklists",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md",
+            "file": "1. Projects/x477 indexing course/Module 5/Example practice index.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md",
+                "file": "1. Projects/x477 indexing course/Module 5/Example practice index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md",
+                "file": "1. Projects/x477 indexing course/Module 5/Example practice index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md"
+                "file": "1. Projects/x477 indexing course/Module 5/Example practice index.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 5/Indexing checklists.md",
+    "1. Projects/x477 indexing course/Module 5/mine.md",
+    "1. Projects/x477 indexing course/Module 5/Example practice index.md",
+    "1. Projects/x477 indexing course/Module 5/Example - my notes.md",
     "1. Projects/x477 indexing course/Sky Index - Shortcuts.md",
     "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md",
     "4. Archive/kindle-notes/Forte-Building a Second Brain.md",
     "periodic/Weekly reminders.md",
     "daily/2022-09-05.md",
-    "4. Archive/kindle-notes/Syme-Dear Writer, Youre Doing It Wrong.md",
-    "4. Archive/kindle-notes/Syme-Dear Writer, Are You In Burnout.md",
-    "4. Archive/kindle-notes/Syme-Bischoff-Dear Writer, Are You Intuitive.md",
-    "4. Archive/kindle-notes/Greene-Elffers-The 48 Laws of Power.md",
-    "4. Archive/kindle-notes/French-The Secret Place.md"
+    "4. Archive/kindle-notes/Syme-Dear Writer, Youre Doing It Wrong.md"
   ]
 }
