@@ -18,7 +18,9 @@
 - remember, it's not okay to get angry. no one ever does anything bad.
 - don't cook for eric and allie - they don't eat it
 
-
+# Work
+* Save outtakes to specific outtakes file
+* 
 
 
 
