@@ -333,4 +333,27 @@ e. "They're not parking tickets."
 f. "I don't want anybody to get in trouble."
 
  
+# "What parking tickets? Never mind the parking tickets, they're calling in who?"
+
+Marbela's hearts started up a new drumroll. She shoved the parking tickets a little further behind her back. "What parking tickets?" 
+
+The kid pointed with the flipper not holding the *Wikipedia Jones* book. "Those ones. They're sticking up behind your head." *Adults*, his tone said, *I just can't believe them*. 
+
+The blush started at her face and ran down her arms like it was trying to set the evidence on fire for her. She hastily crumpled the tickets into a ball. "Never mind the parking tickets. They're calling in who?"
+
+He gave her a long look, then appeared to decide to drop it. "Detective Inspector Axl Otl Holmes. He's a real detective." The last two words came out both awed and slightly strangled, like he was making a last-ditch failed attempt to keep from sounding impressed. 
+
+"Marbela!" Paisley came around the van, looking worried. She'd fixed her bow and it was on straight, although one corner was now creased. "I just need to, uh, check something. In the van."
+
+She had to be looking for the parking tickets. She knew Detective Inspector Holmes was coming and she didn't want to get caught. 
+
+# Marbela's still holding the crumpled parking tickets. What should she say?
+
+a. "It's okay, I took care of it."
+
+b. "Paisley, we have to talk."
+
+c. Don't bring it up in front of the kid. Step aside and let Paisley look. 
+
+d. Use the secret language they used as kids to say a and b. 
 

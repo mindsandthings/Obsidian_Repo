@@ -361,10 +361,6 @@
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
     {
-      "name": "Module 5",
-      "relativePath": "1. Projects/x477 indexing course/Module 5"
-    },
-    {
       "name": "Business planning",
       "relativePath": "3. Resources/Indexing/Business planning"
     },
@@ -483,6 +479,14 @@
     {
       "name": "strengths-2022",
       "relativePath": "3. Resources/Strengths journal/strengths-2022"
+    },
+    {
+      "name": "Module 5",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5"
+    },
+    {
+      "name": "Module 6",
+      "relativePath": "1. Projects/x477 indexing course/Module 6"
     }
   ],
   "nonMdFiles": [
@@ -522,26 +526,6 @@
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
     },
     {
-      "name": "Pasted image 20220916194032.png",
-      "basename": "Pasted image 20220916194032",
-      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194032.png"
-    },
-    {
-      "name": "Pasted image 20220916193915.png",
-      "basename": "Pasted image 20220916193915",
-      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916193915.png"
-    },
-    {
-      "name": "Pasted image 20220916194017.png",
-      "basename": "Pasted image 20220916194017",
-      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194017.png"
-    },
-    {
-      "name": "Pasted image 20220916194025.png",
-      "basename": "Pasted image 20220916194025",
-      "relativePath": "1. Projects/x477 indexing course/Module 5/Pasted image 20220916194025.png"
-    },
-    {
       "name": "Pasted image 20220924110420.png",
       "basename": "Pasted image 20220924110420",
       "relativePath": "4. Archive/images/Pasted image 20220924110420.png"
@@ -575,6 +559,26 @@
       "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
       "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
       "relativePath": "3. Resources/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
+    },
+    {
+      "name": "Pasted image 20220916194032.png",
+      "basename": "Pasted image 20220916194032",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5/Pasted image 20220916194032.png"
+    },
+    {
+      "name": "Pasted image 20220916193915.png",
+      "basename": "Pasted image 20220916193915",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5/Pasted image 20220916193915.png"
+    },
+    {
+      "name": "Pasted image 20220916194017.png",
+      "basename": "Pasted image 20220916194017",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5/Pasted image 20220916194017.png"
+    },
+    {
+      "name": "Pasted image 20220916194025.png",
+      "basename": "Pasted image 20220916194025",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5/Pasted image 20220916194025.png"
     }
   ]
 }

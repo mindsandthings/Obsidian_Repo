@@ -21646,6 +21646,367 @@
     "relativePath": "3. Resources/indexing-book-group/Notes from indexing book group Sep 19 2022.md"
   },
   {
+    "fileName": "mine",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/mine.md"
+  },
+  {
+    "fileName": "WNV notes and to-do's",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/WNV notes and to-do's.md"
+  },
+  {
+    "fileName": "Indexing checklists",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Indexing checklists.md"
+  },
+  {
+    "fileName": "Example practice index",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Example practice index.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:46:15 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/index-for-medical-error-prevention-patient-safety",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 183
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Index for Medical Error Prevention: Patient Safety: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Index for _Medical Error Prevention: Patient Safety_",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Module 5 readings",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Module 5 readings.md",
+    "headings": [
+      {
+        "heading": "Mulvany: pages 56-62",
+        "level": 1
+      },
+      {
+        "heading": "Chicago: Sections 16.101-16.131",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Module 5 discussion questions",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Module 5 discussion questions.md",
+    "headings": [
+      {
+        "heading": "Module 5 Discussion: Full Index Challenges",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Example PNO",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Example PNO.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:45:26 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/pno-of-medical-error-prevention-patient-safety-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 186
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "PNO of Medical Error Prevention: Patient Safety Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "PNO of _Medical Error Prevention: Patient Safety_ Index",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Example - my notes",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/Example - my notes.md"
+  },
+  {
+    "fileName": "5.6 Indexing Project 1",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.6 Indexing Project 1.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:47:14 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-6-indexing-project-1?module_item_id=89811903",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 184
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.6 Indexing Project 1: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.6 Indexing Project 1",
+        "level": 2
+      },
+      {
+        "heading": "Parting Words before You Start Your Assignment",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "5.5 Example of the Indexing Process",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.5 Example of the Indexing Process.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:44:18 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-5-example-of-the-indexing-process?module_item_id=89811901",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 197
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.5 Example of the Indexing Process: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.5 Example of the Indexing Process",
+        "level": 2
+      },
+      {
+        "heading": "The Text",
+        "level": 3
+      },
+      {
+        "heading": "The PNO List",
+        "level": 3
+      },
+      {
+        "heading": "The Index",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "5.4 Concurrent Process of Editing and Selecting Terms",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.4 Concurrent Process of Editing and Selecting Terms.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:39:58 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-4-concurrent-process-of-selecting-and-editing-terms?module_item_id=89811899",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 215
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.4 Concurrent Process of Selecting and Editing Terms: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.4 Concurrent Process of Selecting and Editing Terms",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "5.3 Information Questions",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.3 Information Questions.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:39:30 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-3-information-questions?module_item_id=89811897",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 187
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.3 Information Questions: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.3 Information Questions",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "5.2 Thematic Thinking",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.2 Thematic Thinking.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:38:51 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-2-thematic-thinking?module_item_id=89811895",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 183
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.2 Thematic Thinking: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.2 Thematic Thinking",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "5.1 Introducing the Berkeley Method of Indexing",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.1 Introducing the Berkeley Method of Indexing.md",
+    "frontmatter": {
+      "created": "2022-09-16T19:38:24 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-1-introducing-the-berkeley-method-of-indexing?module_item_id=89811893",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 209
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "5.1 Introducing the Berkeley Method of Indexing: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "5.1 Introducing the Berkeley Method of Indexing",
+        "level": 2
+      },
+      {
+        "heading": "Providing an Indexing Formula Dilemma",
+        "level": 3
+      },
+      {
+        "heading": "How about an Indexing Methodology?",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "5.0 Writing a Full-Length Index",
+    "relativePath": "3. Resources/x477 Indexing course/Module 5/5.0 Writing a Full-Length Index.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Module 5: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 5: Writing a Full-Length Index",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Project 1**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      },
+      {
+        "heading": "**Reminder: Your Course End Date**",
+        "level": 5
+      }
+    ]
+  },
+  {
     "fileName": "Reading notes module 4",
     "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Reading notes module 4.md",
     "headings": [
@@ -26169,6 +26530,10 @@
       {
         "heading": "What's Marbela's hasty response?",
         "level": 2
+      },
+      {
+        "heading": "\"What parking tickets? Never mind the parking tickets, they're calling in who?\"",
+        "level": 1
       }
     ]
   },
@@ -26738,6 +27103,10 @@
     ]
   },
   {
+    "fileName": "Untitled",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/Untitled.md"
+  },
+  {
     "fileName": "Sky Index - Shortcuts",
     "relativePath": "1. Projects/x477 indexing course/Sky Index - Shortcuts.md"
   },
@@ -26771,367 +27140,6 @@
   {
     "fileName": "Remapping cmd-H to ctrl-H in parallels",
     "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
-  },
-  {
-    "fileName": "mine",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/mine.md"
-  },
-  {
-    "fileName": "WNV notes and to-do's",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/WNV notes and to-do's.md"
-  },
-  {
-    "fileName": "Indexing checklists",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Indexing checklists.md"
-  },
-  {
-    "fileName": "Example practice index",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Example practice index.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:46:15 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/index-for-medical-error-prevention-patient-safety",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 183
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Index for Medical Error Prevention: Patient Safety: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Index for _Medical Error Prevention: Patient Safety_",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Module 5 readings",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 readings.md",
-    "headings": [
-      {
-        "heading": "Mulvany: pages 56-62",
-        "level": 1
-      },
-      {
-        "heading": "Chicago: Sections 16.101-16.131",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Module 5 discussion questions",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Module 5 discussion questions.md",
-    "headings": [
-      {
-        "heading": "Module 5 Discussion: Full Index Challenges",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Example PNO",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Example PNO.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:45:26 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/pno-of-medical-error-prevention-patient-safety-index",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 186
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "PNO of Medical Error Prevention: Patient Safety Index: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "PNO of _Medical Error Prevention: Patient Safety_ Index",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Example - my notes",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/Example - my notes.md"
-  },
-  {
-    "fileName": "5.6 Indexing Project 1",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.6 Indexing Project 1.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:47:14 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-6-indexing-project-1?module_item_id=89811903",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 184
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.6 Indexing Project 1: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.6 Indexing Project 1",
-        "level": 2
-      },
-      {
-        "heading": "Parting Words before You Start Your Assignment",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "5.5 Example of the Indexing Process",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.5 Example of the Indexing Process.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:44:18 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-5-example-of-the-indexing-process?module_item_id=89811901",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 197
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.5 Example of the Indexing Process: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.5 Example of the Indexing Process",
-        "level": 2
-      },
-      {
-        "heading": "The Text",
-        "level": 3
-      },
-      {
-        "heading": "The PNO List",
-        "level": 3
-      },
-      {
-        "heading": "The Index",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "5.4 Concurrent Process of Editing and Selecting Terms",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.4 Concurrent Process of Editing and Selecting Terms.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:39:58 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-4-concurrent-process-of-selecting-and-editing-terms?module_item_id=89811899",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 215
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.4 Concurrent Process of Selecting and Editing Terms: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.4 Concurrent Process of Selecting and Editing Terms",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "5.3 Information Questions",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.3 Information Questions.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:39:30 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-3-information-questions?module_item_id=89811897",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 187
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.3 Information Questions: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.3 Information Questions",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "5.2 Thematic Thinking",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.2 Thematic Thinking.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:38:51 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-2-thematic-thinking?module_item_id=89811895",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 183
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.2 Thematic Thinking: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.2 Thematic Thinking",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "5.1 Introducing the Berkeley Method of Indexing",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.1 Introducing the Berkeley Method of Indexing.md",
-    "frontmatter": {
-      "created": "2022-09-16T19:38:24 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/5-dot-1-introducing-the-berkeley-method-of-indexing?module_item_id=89811893",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 209
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "5.1 Introducing the Berkeley Method of Indexing: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "5.1 Introducing the Berkeley Method of Indexing",
-        "level": 2
-      },
-      {
-        "heading": "Providing an Indexing Formula Dilemma",
-        "level": 3
-      },
-      {
-        "heading": "How about an Indexing Methodology?",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "5.0 Writing a Full-Length Index",
-    "relativePath": "1. Projects/x477 indexing course/Module 5/5.0 Writing a Full-Length Index.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "Module 5: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Module 5: Writing a Full-Length Index",
-        "level": 2
-      },
-      {
-        "heading": "Learning Objectives",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Commentary",
-        "level": 3
-      },
-      {
-        "heading": "Discussion",
-        "level": 3
-      },
-      {
-        "heading": "Assignments",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Project 1**",
-        "level": 5
-      },
-      {
-        "heading": "**Online Research**",
-        "level": 5
-      },
-      {
-        "heading": "**Reminder: Your Course End Date**",
-        "level": 5
-      }
-    ]
   },
   {
     "fileName": "Macrex group",
