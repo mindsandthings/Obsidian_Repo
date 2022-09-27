@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic/Daily reminders.md",
+            "file": "0. Inbox/The Curious Absence of Masculine Pride and Competition.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "0. Inbox/The Curious Absence of Masculine Pride and Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "0. Inbox/The Curious Absence of Masculine Pride and Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Daily reminders.md"
+                "file": "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "periodic/Untitled.md",
+    "periodic/Daily reminders.md",
     "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
     "daily/2022-09-05.md",
     "1. Projects/x477 indexing course/Module 6/Untitled.md",
@@ -171,8 +173,6 @@
     "3. Resources/x477 Indexing course/Module 5/5.6 Indexing Project 1.md",
     "3. Resources/x477 Indexing course/Module 5/Module 5 discussion questions.md",
     "3. Resources/x477 Indexing course/Module 5/Example practice index.md",
-    "3. Resources/x477 Indexing course/Module 5/Example PNO.md",
-    "3. Resources/x477 Indexing course/Module 5/Example - my notes.md",
-    "3. Resources/x477 Indexing course/Module 5/Indexing checklists.md"
+    "3. Resources/x477 Indexing course/Module 5/Example PNO.md"
   ]
 }
