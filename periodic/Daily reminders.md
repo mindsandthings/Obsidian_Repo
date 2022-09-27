@@ -14,7 +14,8 @@
 # Socialization/job
 * Wed, Sep 14, 2022: I would like to close out conversations with people, to make sure they feel heard. I would also like to not take up too much space or time wrapping somethign up. I would like to reply to people when they ask me a question, even if it's late.
 * remember to socialize more with your fellow students and other non-leaders 
-
+* how to interrupt less? calm down, breathe, wait.
+* don't suck up too much, ok?
 
 # Michael
 
@@ -23,5 +24,3 @@
 # Goals
 
 * 2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
-how to interrupt less? calm down, breathe, wait.
-don't suck up too much, ok?
