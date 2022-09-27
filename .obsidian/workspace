@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/marbela mystery/Marbela text.md",
+            "file": "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
             "mode": "source",
             "source": false
           }
@@ -19,8 +19,12 @@
         "id": "346fdaab487df30f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md"
+                "file": "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md"
               }
             }
           },
@@ -158,17 +162,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "25dbe3913c0c29c1",
+  "active": "346fdaab487df30f",
   "lastOpenFiles": [
+    "daily/2022-09-05.md",
+    "2. Areas/internal/Full check-in - Sun, Sep 25, 2022.md",
     "1. Projects/x477 indexing course/Module 6/Untitled.md",
+    "1. Projects/marbela mystery/Marbela text.md",
     "3. Resources/x477 Indexing course/Module 5/5.6 Indexing Project 1.md",
     "3. Resources/x477 Indexing course/Module 5/Module 5 discussion questions.md",
     "3. Resources/x477 Indexing course/Module 5/Example practice index.md",
     "3. Resources/x477 Indexing course/Module 5/Example PNO.md",
     "3. Resources/x477 Indexing course/Module 5/Example - my notes.md",
-    "3. Resources/x477 Indexing course/Module 5/Indexing checklists.md",
-    "3. Resources/x477 Indexing course/Module 5/mine.md",
-    "1. Projects/x477 indexing course/Sky Index - Shortcuts.md",
-    "3. Resources/x477 Indexing course/Module 5/WNV notes and to-do's.md"
+    "3. Resources/x477 Indexing course/Module 5/Indexing checklists.md"
   ]
 }

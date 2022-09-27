@@ -126,3 +126,6 @@ See Scrivener's System events (2022) log.
 
 Who to run mtgs
 What do we want to be on agenda, to discuss
+
+Gaia running mtg
+
