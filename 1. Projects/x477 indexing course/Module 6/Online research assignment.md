@@ -6,13 +6,9 @@
 Independent contractors 
 
 
-The company can specify the work to be produced (the index and its format) but can't specify how I produce it. For example, they can specify a style guide the finished work must comply with, but they cannot prohibit me from working on the index at 4 a.m. while wearing pajamas and eating peanut butter from a jar with a spoon. 
-
+1. A company does not have behavioral control over an independent contractor: the company can specify the work to be produced (the index and its format) but can't specify how an independent contractor produces it. For example, they can specify a style guide my finished index must comply with, but they cannot prohibit me from working on the index at 4 a.m. at home while wearing pajamas and eating peanut butter from a jar with a spoon. 
+2. A company does not have financial control over an independent contractor: 
 Similarly, they can't specify my work process. For example, the number of processes I do or don't make through the material to be indexed is up to me, not to the company. 
-
-
-
-
 
 
 1.  [Behavioral](https://www.irs.gov/businesses/small-businesses-self-employed/behavioral-control "Behavioral Control"): Does the company control or have the right to control what the worker does and how the worker does his or her job?

@@ -26538,6 +26538,48 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "Index edit checklist",
+    "relativePath": "1. Projects/x477 indexing course/Index edit checklist.md",
+    "headings": [
+      {
+        "heading": "Editing and Proofreading an Index",
+        "level": 3
+      },
+      {
+        "heading": "Before You Begin",
+        "level": 3
+      },
+      {
+        "heading": "While You're Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Main Heading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Subheading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Cross-Reference Issues",
+        "level": 4
+      },
+      {
+        "heading": "Double-Posting Issues",
+        "level": 4
+      },
+      {
+        "heading": "General Editorial Issues to Keep an Eye On as You Go",
+        "level": 4
+      },
+      {
+        "heading": "When You've Completed the Index Structure",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Epub indexes 1.0",
     "relativePath": "1. Projects/x477 indexing course/Epub indexes 1.0.md",
     "frontmatter": {

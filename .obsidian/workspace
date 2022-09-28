@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+            "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md"
+                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
+    "1. Projects/x477 indexing course/Module 6/Online research assignment.md",
+    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
+    "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
+    "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
+    "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
+    "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+    "1. Projects/x477 indexing course/Index edit checklist.md",
     "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
-    "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md",
-    "1. Projects/x477 indexing course/Module 6/6.7 - Receiving Page Proofs.md",
-    "1. Projects/x477 indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
-    "1. Projects/x477 indexing course/Module 6/6.5 - Arranging Due Dates.md",
-    "1. Projects/x477 indexing course/Module 6/6.4 - Indexing Specifications.md",
-    "1. Projects/x477 indexing course/Module 6/6.3 - Agreeing to a Fee Structure.md",
-    "1. Projects/x477 indexing course/Module 6/6.2 - Receiving the Indexing Request.md",
-    "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
-    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
+    "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md"
   ]
 }
