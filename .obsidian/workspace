@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-09-28-Wed.md",
+            "file": "0. Inbox/Windows modifications.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-09-28-Wed.md",
+                "file": "0. Inbox/Windows modifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-09-28-Wed.md",
+                "file": "0. Inbox/Windows modifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-09-28-Wed.md"
+                "file": "0. Inbox/Windows modifications.md"
               }
             }
           },
