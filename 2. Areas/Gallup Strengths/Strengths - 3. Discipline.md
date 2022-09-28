@@ -1,10 +1,15 @@
-# Aug 3, 2022
+# Journal
+## Wed, Sep 28, 2022
+Still not sure if this is me! Will change in Oct. Wondering if this may be less urgent/necessary with vision improvements. 
+
+
+## Aug 3, 2022
 
 Controlled planning and routines:
 
 I work to develop a daily routine that will work for me. In writing, I try to make sure that my creative proliferation of thoughts gets narrowed and implemented by creating a routine and a plan for how I will work it into the outline.
 
-# Sat, Aug 13, 2022
+## Sat, Aug 13, 2022
 
 This strength is really suffering this week. Health hits it, and then it entirely fucks me up.
 

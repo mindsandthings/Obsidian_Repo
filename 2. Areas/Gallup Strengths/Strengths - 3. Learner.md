@@ -1,3 +1,9 @@
+# Journal
+## Wed, Sep 28, 2022
+Indexing course going very well. Enjoying it. 
+
+
+
 # Aug 2022 areas of focus
 
 Take at least one new class each year; do time-limited classes so it's easier to leave (unless it's a group of people).

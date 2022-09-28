@@ -1,3 +1,8 @@
+# Journal entries
+## Wed, Sep 28, 2022
+I feel like I'm doing much better with this one, now that I have indexing. 
+
+
 # Notes from Becca video
 
 https://www.youtube.com/watch?v=UX9FHlBqF-Q

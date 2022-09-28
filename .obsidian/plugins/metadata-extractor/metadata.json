@@ -3990,6 +3990,42 @@
     ]
   },
   {
+    "fileName": "The Curious Absence of Masculine Pride and Competition",
+    "relativePath": "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+    "tags": [
+      "writing",
+      "maggie",
+      "rambles",
+      "ofmd",
+      "meta",
+      "long",
+      "post"
+    ],
+    "frontmatter": {
+      "created": "2022-09-27T12:08:08 (UTC -07:00)",
+      "source": "https://avelera.tumblr.com/post/686704431510716416/the-curious-absence-of-masculine-pride-and",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 211
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The Curious Absence of Masculine Pride and...",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "unused PubQ stuff",
     "relativePath": "4. Archive/validating/unused PubQ stuff.md",
     "tags": [
@@ -26226,6 +26262,14 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 8. Connectedness.md",
     "headings": [
       {
+        "heading": "Journaling",
+        "level": 1
+      },
+      {
+        "heading": "Wed, Sep 28, 2022",
+        "level": 2
+      },
+      {
         "heading": "Sat, Aug 6, 2022",
         "level": 2
       },
@@ -26247,6 +26291,14 @@
     "fileName": "Strengths - 7. Futuristic",
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 7. Futuristic.md",
     "headings": [
+      {
+        "heading": "Journal entries",
+        "level": 1
+      },
+      {
+        "heading": "Wed, Sep 28, 2022",
+        "level": 2
+      },
       {
         "heading": "Notes from Becca video",
         "level": 1
@@ -26328,6 +26380,14 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 3. Learner.md",
     "headings": [
       {
+        "heading": "Journal",
+        "level": 1
+      },
+      {
+        "heading": "Wed, Sep 28, 2022",
+        "level": 2
+      },
+      {
         "heading": "Aug 2022 areas of focus",
         "level": 1
       },
@@ -26350,12 +26410,20 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 3. Discipline.md",
     "headings": [
       {
-        "heading": "Aug 3, 2022",
+        "heading": "Journal",
         "level": 1
       },
       {
+        "heading": "Wed, Sep 28, 2022",
+        "level": 2
+      },
+      {
+        "heading": "Aug 3, 2022",
+        "level": 2
+      },
+      {
         "heading": "Sat, Aug 13, 2022",
-        "level": 1
+        "level": 2
       },
       {
         "heading": "Aug 2022 areas of focus",
@@ -26450,6 +26518,10 @@
   {
     "fileName": "2) The Feelings Tool - Copy",
     "relativePath": "2. Areas/EBT/2) The Feelings Tool - Copy.md"
+  },
+  {
+    "fileName": "Michael email",
+    "relativePath": "1. Projects/Michael research/Michael email.md"
   },
   {
     "fileName": "Marbela text",
@@ -28879,42 +28951,6 @@
       },
       {
         "heading": "Alfred:",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "The Curious Absence of Masculine Pride and Competition",
-    "relativePath": "0. Inbox/The Curious Absence of Masculine Pride and Competition.md",
-    "tags": [
-      "writing",
-      "maggie",
-      "rambles",
-      "ofmd",
-      "meta",
-      "long",
-      "post"
-    ],
-    "frontmatter": {
-      "created": "2022-09-27T12:08:08 (UTC -07:00)",
-      "source": "https://avelera.tumblr.com/post/686704431510716416/the-curious-absence-of-masculine-pride-and",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 211
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "The Curious Absence of Masculine Pride and...",
         "level": 1
       }
     ]

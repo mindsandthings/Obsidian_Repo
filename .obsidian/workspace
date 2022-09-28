@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+            "file": "daily/2022-09-28-Wed.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+                "file": "daily/2022-09-28-Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+                "file": "daily/2022-09-28-Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/indexing-book-group/Indexing book club - Leise and history.md"
+                "file": "daily/2022-09-28-Wed.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "1. Projects/Michael research/Michael email.md",
-    "0. Inbox/The Curious Absence of Masculine Pride and Competition.md",
-    "periodic/Daily reminders.md",
+    "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
     "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
-    "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
-    "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
-    "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
-    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
-    "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md",
-    "1. Projects/x477 indexing course/Module 6/6.7 - Receiving Page Proofs.md"
+    "2. Areas/Gallup Strengths/Strengths - 3. Learner.md",
+    "2. Areas/Gallup Strengths/Strengths - 3. Discipline.md",
+    "2. Areas/Gallup Strengths/Strengths - 8. Connectedness.md",
+    "2. Areas/Gallup Strengths/Strengths - 7. Futuristic.md",
+    "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+    "1. Projects/Michael research/Michael email.md",
+    "periodic/Daily reminders.md"
   ]
 }

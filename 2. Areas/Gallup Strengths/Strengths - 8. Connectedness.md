@@ -1,3 +1,8 @@
+# Journaling
+## Wed, Sep 28, 2022
+Working on this for networking with indexing - looking for common causes among people related to software that I could potentially write an article addressing. 
+
+
 ## Sat, Aug 6, 2022
 
 Connections are important but also very stressful. Other people sometimes react like I'm being presumptive if I try to find a connection. This one is also stressful because connections are what makes writing intensely difficult! I suspect I need some support here specifically for that—the combo of needing to get the connections right and difficulty keeping track of all them. Another issue is fitting associations together in a linear way.

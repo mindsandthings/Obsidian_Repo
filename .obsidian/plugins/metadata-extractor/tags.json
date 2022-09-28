@@ -233,9 +233,9 @@
     "tagCount": 4,
     "relativePaths": [
       "4. Archive/writing business/Marketing in competition with fandom.md",
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
       "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md",
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
+      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
     ]
   },
   {
@@ -339,6 +339,49 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/vertical heterophoria/Vertical heterophoria.md"
+    ]
+  },
+  {
+    "tag": "maggie",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "rambles",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "ofmd",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "meta",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "long",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "post",
+    "tagCount": 25,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
     ]
   },
   {
@@ -1260,14 +1303,6 @@
     ]
   },
   {
-    "tag": "post",
-    "tagCount": 25,
-    "relativePaths": [
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md",
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
     "tag": "dryad",
     "tagCount": 24,
     "relativePaths": [
@@ -1967,41 +2002,6 @@
     "tagCount": 1,
     "relativePaths": [
       "1. Projects/productivity/Keyboard shortcuts to review.md"
-    ]
-  },
-  {
-    "tag": "maggie",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "rambles",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "ofmd",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "meta",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "long",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/The Curious Absence of Masculine Pride and Competition.md"
     ]
   }
 ]
