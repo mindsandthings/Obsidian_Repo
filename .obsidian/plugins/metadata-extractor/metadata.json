@@ -27111,6 +27111,224 @@
     ]
   },
   {
+    "fileName": "6.12 - Indexing Exercise 4",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:50:58 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-12-indexing-exercise-4",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 162
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.12 Indexing Exercise 4: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "6.11 - Delivering the Index",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:50:44 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-11-delivering-the-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.11 Delivering the Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.11 Delivering the Index",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.10 - Editing and Proofing the Index",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:46:11 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-10-editing-and-proofing-the-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 173
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.10 Editing and Proofing the Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.10 Editing and Proofing the Index",
+        "level": 2
+      },
+      {
+        "heading": "Editing and Proofreading an Index",
+        "level": 3
+      },
+      {
+        "heading": "Before You Begin",
+        "level": 3
+      },
+      {
+        "heading": "While You're Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Main Heading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Subheading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Cross-Reference Issues",
+        "level": 4
+      },
+      {
+        "heading": "Double-Posting Issues",
+        "level": 4
+      },
+      {
+        "heading": "General Editorial Issues to Keep an Eye On as You Go",
+        "level": 4
+      },
+      {
+        "heading": "When You've Completed the Index Structure",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "6.9 - Indexing the Text",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:45:56 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-9-indexing-the-text",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.9 Indexing the Text: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.9 Indexing the Text",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.8 - Estimating Index Size",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:42:39 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-8-estimating-index-size",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.8 Estimating Index Size: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.8 Estimating Index Size",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.7 - Receiving Page Proofs",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/6.7 - Receiving Page Proofs.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:41:37 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-7-receiving-page-proofs",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.7 Receiving Page Proofs: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.7 Receiving Page Proofs",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Type of Relationship",
     "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Type of Relationship.md",
     "frontmatter": {
