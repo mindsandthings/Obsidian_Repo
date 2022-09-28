@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
+            "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
+                "file": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
+    "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md",
+    "1. Projects/x477 indexing course/Module 6/6.7 - Receiving Page Proofs.md",
+    "1. Projects/x477 indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
+    "1. Projects/x477 indexing course/Module 6/6.5 - Arranging Due Dates.md",
+    "1. Projects/x477 indexing course/Module 6/6.4 - Indexing Specifications.md",
+    "1. Projects/x477 indexing course/Module 6/6.3 - Agreeing to a Fee Structure.md",
+    "1. Projects/x477 indexing course/Module 6/6.2 - Receiving the Indexing Request.md",
     "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
-    "0. Inbox/Windows modifications.md",
-    "daily/2022-09-28-Wed.md",
-    "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
-    "2. Areas/Gallup Strengths/Strengths - 3. Learner.md",
-    "2. Areas/Gallup Strengths/Strengths - 3. Discipline.md",
-    "2. Areas/Gallup Strengths/Strengths - 8. Connectedness.md",
-    "2. Areas/Gallup Strengths/Strengths - 7. Futuristic.md",
-    "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
-    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md"
+    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
   ]
 }
