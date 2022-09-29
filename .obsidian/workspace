@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
+            "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
+                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
+                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md"
+                "file": "0. Inbox/Indexing Book club Oct 3 2022.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "0. Inbox/00-scratchpad-note.md",
+    "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
     "2. Areas/Gallup Strengths/Strengths - 9. Individualization.md",
     "daily/2022-09-29-Thu.md",
     "2. Areas/food/Food notes.md",
@@ -159,8 +161,6 @@
     "4. Archive/validating/conservative christian tendencies in socjus spaces.md",
     "periodic/Daily reminders.md",
     "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
-    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
-    "1. Projects/x477 indexing course/Module 6/Online research assignment.md",
-    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
+    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
   ]
 }
