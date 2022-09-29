@@ -1,12 +1,9 @@
 # Sun, Sep 25, 2022
 To eat:
 * Bologna 
-* Raspberries
-* Chimichurri
 
 To cook:
-* Salmon
 * Vegan chorizo
-* 1 lemon
+* 1 lemon - for lentils
 * Someday, make spaghetti with fake beef
 * 

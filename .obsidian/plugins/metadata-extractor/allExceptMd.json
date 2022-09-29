@@ -45,16 +45,8 @@
       "relativePath": "1. Projects/kraken"
     },
     {
-      "name": "analyze writers",
-      "relativePath": "1. Projects/analyze writers"
-    },
-    {
       "name": "marbela mystery",
       "relativePath": "1. Projects/marbela mystery"
-    },
-    {
-      "name": "productivity",
-      "relativePath": "1. Projects/productivity"
     },
     {
       "name": "x477 indexing course",
@@ -499,6 +491,18 @@
     {
       "name": "Indexing exercise 2",
       "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
+    },
+    {
+      "name": "work-setup",
+      "relativePath": "4. Archive/work-setup"
+    },
+    {
+      "name": "productivity",
+      "relativePath": "3. Resources/productivity"
+    },
+    {
+      "name": "analyze writers",
+      "relativePath": "4. Archive/analyze writers"
     }
   ],
   "nonMdFiles": [

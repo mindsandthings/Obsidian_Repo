@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic/Daily reminders.md",
+            "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Daily reminders.md"
+                "file": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "2. Areas/Gallup Strengths/Strengths - 9. Individualization.md",
+    "daily/2022-09-29-Thu.md",
+    "2. Areas/food/Food notes.md",
+    "1. Projects/x477 indexing course/Indexing to review.md",
+    "4. Archive/validating/conservative christian tendencies in socjus spaces.md",
+    "periodic/Daily reminders.md",
     "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
     "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
     "1. Projects/x477 indexing course/Module 6/Online research assignment.md",
-    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
-    "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
-    "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
-    "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
-    "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
-    "1. Projects/x477 indexing course/Index edit checklist.md",
-    "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md"
+    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
   ]
 }

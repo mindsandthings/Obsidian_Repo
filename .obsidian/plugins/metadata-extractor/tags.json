@@ -17,6 +17,59 @@
     ]
   },
   {
+    "tag": "novel",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
+    ]
+  },
+  {
+    "tag": "writing",
+    "tagCount": 4,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md",
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+      "4. Archive/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "plot",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "creativity",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "support",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "plot-construction",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
+    "tag": "model",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+    ]
+  },
+  {
     "tag": "z-archives",
     "tagCount": 735,
     "relativePaths": [
@@ -112,16 +165,6 @@
       "4. Archive/cw-pubq/CW survey answers leftover.md",
       "4. Archive/archived-health/archived-apd-has/Video chat posts.md",
       "4. Archive/archived-daily/2020-12-30.md"
-    ]
-  },
-  {
-    "tag": "writing",
-    "tagCount": 4,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
-      "4. Archive/writing business/Marketing in competition with fandom.md",
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
     ]
   },
   {
@@ -1853,155 +1896,112 @@
     "tag": "os",
     "tagCount": 2,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "x",
     "tagCount": 2,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "daily",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "osxdaily",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "apple",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "mac",
     "tagCount": 3,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "iphone",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "ipad",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "macos",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "ios",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "ipados",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "tips",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "tricks",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "tutorials",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "news",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Typing accents on the Mac.md"
+      "3. Resources/productivity/Typing accents on the Mac.md"
     ]
   },
   {
     "tag": "foobar",
     "tagCount": 1,
     "relativePaths": [
-      "1. Projects/productivity/Keyboard shortcuts to review.md"
-    ]
-  },
-  {
-    "tag": "novel",
-    "tagCount": 2,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-      "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
-    ]
-  },
-  {
-    "tag": "plot",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "creativity",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "support",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "plot-construction",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
-    ]
-  },
-  {
-    "tag": "model",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md"
+      "3. Resources/productivity/Keyboard shortcuts to review.md"
     ]
   }
 ]

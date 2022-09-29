@@ -1,3 +1,8 @@
+# Journal
+## Thu, Sep 29, 2022
+Thought a great deal recently. But with head feeling swollen, now don't feel inspired to. 
+
+
 # Aug 2022 areas of focus
 
 Set aside a few minutes every day to collect your thoughts. This reflection time will energize you, and your thinking will become sharper and more effective.

@@ -1,6 +1,11 @@
+# Journal
+## Thu, Sep 29, 2022
+Showing up in my frustration with healthcare: my body is specific, and malfunctions in specific ways, and is not identical to bodies that are not malfunctioning. 
+
+
 # Aug 2022 areas of focus
 
-# Becca video notes
+## Becca video notes
 
 https://www.youtube.com/watch?v=sG-t239t1go
 

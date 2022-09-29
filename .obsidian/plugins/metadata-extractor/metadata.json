@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-09-29-Thu",
+    "relativePath": "daily/2022-09-29-Thu.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-14-Wed",
     "relativePath": "daily/2022-09-14-Wed.md"
   },
@@ -569,6 +587,392 @@
     "relativePath": "periodic/Untitled.md"
   },
   {
+    "fileName": "Writers to research",
+    "relativePath": "4. Archive/analyze writers/Writers to research.md"
+  },
+  {
+    "fileName": "Writer and book search notes",
+    "relativePath": "4. Archive/analyze writers/Writer and book search notes.md"
+  },
+  {
+    "fileName": "Plot-creation support with plot-construction model for writing novels",
+    "relativePath": "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+    "tags": [
+      "novel",
+      "writing",
+      "plot",
+      "creativity",
+      "support",
+      "plot-construction",
+      "model"
+    ],
+    "frontmatter": {
+      "created": "2022-09-02T15:59:26 (UTC -07:00)",
+      "source": "https://www.tandfonline.com/doi/full/10.1080/24751839.2018.1531232",
+      "author": "Tomoko  Kojiri",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 217
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Full article: Plot-creation support with plot-construction model for writing novels",
+        "level": 1
+      },
+      {
+        "heading": "1\\. Introduction",
+        "level": 2
+      },
+      {
+        "heading": "2\\. Plot-construction model",
+        "level": 2
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "3\\. Plot-creation support",
+        "level": 2
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 1. Form of plot nodes.**",
+        "level": 3
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 2. Form of story nodes.**",
+        "level": 3
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 3. Form of setting.**",
+        "level": 3
+      },
+      {
+        "heading": "4\\. Prototype system",
+        "level": 2
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "5\\. Evaluation",
+        "level": 2
+      },
+      {
+        "heading": "5.1. Experiment 1",
+        "level": 3
+      },
+      {
+        "heading": "5.1.1. Experimental setting",
+        "level": 4
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 4. Questionnaire items.**",
+        "level": 3
+      },
+      {
+        "heading": "5.1.2. Results",
+        "level": 4
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 5. Questionnaire results.**",
+        "level": 3
+      },
+      {
+        "heading": "5.2. Experiment 2",
+        "level": 3
+      },
+      {
+        "heading": "5.2.1. Experimental setting",
+        "level": 4
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 6. Questionnaire items.**",
+        "level": 3
+      },
+      {
+        "heading": "5.2.2. Results",
+        "level": 4
+      },
+      {
+        "heading": "Published online:",
+        "level": 6
+      },
+      {
+        "heading": "**Table 7. Questionnaire results.**",
+        "level": 3
+      },
+      {
+        "heading": "5.3. Discussion",
+        "level": 3
+      },
+      {
+        "heading": "5.3.1. ‘What Format of the plot is necessary for representing a novel?’",
+        "level": 4
+      },
+      {
+        "heading": "5.3.2. ‘What kinds of ideas does an author need to derive in creating the plot and what supports are effective at inducing these ideas?’",
+        "level": 4
+      },
+      {
+        "heading": "6\\. Conclusion",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers",
+    "relativePath": "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md",
+    "tags": [
+      "novel",
+      "writing"
+    ],
+    "frontmatter": {
+      "created": "2022-09-02T16:01:52 (UTC -07:00)",
+      "source": "https://www.jstage.jst.go.jp/article/itel/1/1/1_1.1.Reg.p005/_article",
+      "author": "Content from these authors",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 184
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "# Evolutionary Construction of Stories that Combine Several Plot Lines",
+    "relativePath": "4. Archive/analyze writers/# Evolutionary Construction of Stories that Combine Several Plot Lines.md",
+    "frontmatter": {
+      "created": "2022-09-02T16:07:25 (UTC -07:00)",
+      "source": "https://link.springer.com/chapter/10.1007/978-3-031-03789-4_5",
+      "author": "Gervás, Pablo, Concepción, Eugenio, Méndez, Gonzalo",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 188
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Evolutionary Construction of Stories that Combine Several Plot Lines | SpringerLink",
+        "level": 1
+      },
+      {
+        "heading": "Abstract",
+        "level": 2
+      },
+      {
+        "heading": "Keywords",
+        "level": 3
+      },
+      {
+        "heading": "1 Introduction",
+        "level": 2
+      },
+      {
+        "heading": "2 Related Work",
+        "level": 2
+      },
+      {
+        "heading": "2.1 Plot Line Combination",
+        "level": 3
+      },
+      {
+        "heading": "2.2 Computational Metrics for Stories",
+        "level": 3
+      },
+      {
+        "heading": "2.3 Evolutionary Construction of Narratives",
+        "level": 3
+      },
+      {
+        "heading": "3 An Evolutionary Multiplot Story Composer",
+        "level": 2
+      },
+      {
+        "heading": "3.1 The Knowledge Resources",
+        "level": 3
+      },
+      {
+        "heading": "3.2 Character Fusion and Discourse Planning",
+        "level": 3
+      },
+      {
+        "heading": "3.3 Representing Multiplot Stories for Evolutionary Construction",
+        "level": 3
+      },
+      {
+        "heading": "3.4 Constructing an Initial Population",
+        "level": 3
+      },
+      {
+        "heading": "3.5 Evolutionary Operators",
+        "level": 3
+      },
+      {
+        "heading": "3.6 Fitness Functions",
+        "level": 3
+      },
+      {
+        "heading": "4 Discussion",
+        "level": 2
+      },
+      {
+        "heading": "4.1 Results",
+        "level": 3
+      },
+      {
+        "heading": "4.2 Relation with Previous Work",
+        "level": 3
+      },
+      {
+        "heading": "5 Conclusions",
+        "level": 2
+      },
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "References",
+        "level": 2
+      },
+      {
+        "heading": "Author information",
+        "level": 2
+      },
+      {
+        "heading": "Authors and Affiliations",
+        "level": 3
+      },
+      {
+        "heading": "Corresponding author",
+        "level": 3
+      },
+      {
+        "heading": "Editor information",
+        "level": 2
+      },
+      {
+        "heading": "Editors and Affiliations",
+        "level": 3
+      },
+      {
+        "heading": "Rights and permissions",
+        "level": 2
+      },
+      {
+        "heading": "Copyright information",
+        "level": 2
+      },
+      {
+        "heading": "About this paper",
+        "level": 2
+      },
+      {
+        "heading": "Cite this paper",
+        "level": 3
+      },
+      {
+        "heading": "Download citation",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Windows modifications",
+    "relativePath": "4. Archive/work-setup/Windows modifications.md"
+  },
+  {
     "fileName": "Weight record",
     "relativePath": "4. Archive/tracking/Weight record.md",
     "headings": [
@@ -682,6 +1086,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "conservative christian tendencies in socjus spaces",
+    "relativePath": "4. Archive/validating/conservative christian tendencies in socjus spaces.md"
   },
   {
     "fileName": "The Curious Absence of Masculine Pride and Competition",
@@ -20397,6 +20805,198 @@
     ]
   },
   {
+    "fileName": "Sonke Ahrens - how to take smart notes",
+    "relativePath": "3. Resources/productivity/Sonke Ahrens - how to take smart notes.md"
+  },
+  {
+    "fileName": "Stuff I could potentially automate",
+    "relativePath": "3. Resources/productivity/Stuff I could potentially automate.md"
+  },
+  {
+    "fileName": "Typing accents on the Mac",
+    "relativePath": "3. Resources/productivity/Typing accents on the Mac.md",
+    "tags": [
+      "os",
+      "x",
+      "daily",
+      "osxdaily",
+      "apple",
+      "mac",
+      "iphone",
+      "ipad",
+      "macos",
+      "ios",
+      "ipados",
+      "tips",
+      "tricks",
+      "tutorials",
+      "news"
+    ],
+    "frontmatter": {
+      "created": "2022-09-01T12:23:27 (UTC -07:00)",
+      "source": "https://osxdaily.com/2017/03/22/type-accents-mac-easy/",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 228
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "How to Type Accents on Mac the Easy Way",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Tiago Forte - BASB notes",
+    "relativePath": "3. Resources/productivity/Tiago Forte - BASB notes.md"
+  },
+  {
+    "fileName": "Scrivener to export as multimarkdown and import",
+    "relativePath": "3. Resources/productivity/Scrivener to export as multimarkdown and import.md"
+  },
+  {
+    "fileName": "New practices to remember",
+    "relativePath": "3. Resources/productivity/New practices to remember.md"
+  },
+  {
+    "fileName": "Life areas and projects - Aug 29 2022",
+    "relativePath": "3. Resources/productivity/Life areas and projects - Aug 29 2022.md",
+    "headings": [
+      {
+        "heading": "System/pl",
+        "level": 1
+      },
+      {
+        "heading": "EBT",
+        "level": 1
+      },
+      {
+        "heading": "ASL",
+        "level": 1
+      },
+      {
+        "heading": "Productivity development [active]",
+        "level": 1
+      },
+      {
+        "heading": "Bass [suspended]",
+        "level": 1
+      },
+      {
+        "heading": "Job [in progress]",
+        "level": 1
+      },
+      {
+        "heading": "Strengths development [review after course]",
+        "level": 1
+      },
+      {
+        "heading": "Novel [in process]",
+        "level": 1
+      },
+      {
+        "heading": "Marbela story [focus on this]",
+        "level": 1
+      },
+      {
+        "heading": "Vision therapy [in progress]",
+        "level": 1
+      },
+      {
+        "heading": "Kitchen island [in progress]",
+        "level": 1
+      },
+      {
+        "heading": "Gardening [in progress]",
+        "level": 1
+      },
+      {
+        "heading": "Socializing",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Development plan Sep 2022",
+        "relativePath": "3. Resources/Strengths journal/Development plan Sep 2022.md"
+      },
+      {
+        "link": "Development plan Sep 2022",
+        "relativePath": "3. Resources/Strengths journal/Development plan Sep 2022.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Keyboard shortcuts to review",
+    "relativePath": "3. Resources/productivity/Keyboard shortcuts to review.md",
+    "tags": [
+      "foobar"
+    ],
+    "headings": [
+      {
+        "heading": "Mac",
+        "level": 1
+      },
+      {
+        "heading": "Tasks",
+        "level": 1
+      },
+      {
+        "heading": "Shimmering Obsidian",
+        "level": 1
+      },
+      {
+        "heading": "Obsidian-alfred",
+        "level": 2
+      },
+      {
+        "heading": "Obsidian",
+        "level": 1
+      },
+      {
+        "heading": "Alfred:",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Effective learning - 20 rules of formulating knowledge (Wozniak 1999)",
+    "relativePath": "3. Resources/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
+    "frontmatter": {
+      "created": "2022-09-06T21:41:28 (UTC -07:00)",
+      "source": "moz-extension://4a44f143-36dc-460e-82ac-d53473232f72/",
+      "author": "Dr Piotr Wozniak, February, 1999 (updated)",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 171
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "SuperMemo.com",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "ASI-PNW conf 2022",
     "relativePath": "3. Resources/indexing-people/ASI-PNW conf 2022.md",
     "headings": [
@@ -24515,12 +25115,12 @@
       {
         "fileName": "Life areas and projects - Aug 29 2022",
         "link": "Development plan Sep 2022",
-        "relativePath": "1. Projects/productivity/Life areas and projects - Aug 29 2022.md"
+        "relativePath": "3. Resources/productivity/Life areas and projects - Aug 29 2022.md"
       },
       {
         "fileName": "Life areas and projects - Aug 29 2022",
         "link": "Development plan Sep 2022",
-        "relativePath": "1. Projects/productivity/Life areas and projects - Aug 29 2022.md"
+        "relativePath": "3. Resources/productivity/Life areas and projects - Aug 29 2022.md"
       }
     ]
   },
@@ -26083,12 +26683,20 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 9. Individualization.md",
     "headings": [
       {
+        "heading": "Journal",
+        "level": 1
+      },
+      {
+        "heading": "Thu, Sep 29, 2022",
+        "level": 2
+      },
+      {
         "heading": "Aug 2022 areas of focus",
         "level": 1
       },
       {
         "heading": "Becca video notes",
-        "level": 1
+        "level": 2
       }
     ]
   },
@@ -26192,6 +26800,14 @@
     "fileName": "Strengths - 4. Intellection",
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
     "headings": [
+      {
+        "heading": "Journal",
+        "level": 1
+      },
+      {
+        "heading": "Thu, Sep 29, 2022",
+        "level": 2
+      },
       {
         "heading": "Aug 2022 areas of focus",
         "level": 1
@@ -26536,6 +27152,10 @@
   {
     "fileName": "1) The Compassion Tool - Copy",
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
+  },
+  {
+    "fileName": "Indexing to review",
+    "relativePath": "1. Projects/x477 indexing course/Indexing to review.md"
   },
   {
     "fileName": "Index edit checklist",
@@ -28161,198 +28781,6 @@
     ]
   },
   {
-    "fileName": "Sonke Ahrens - how to take smart notes",
-    "relativePath": "1. Projects/productivity/Sonke Ahrens - how to take smart notes.md"
-  },
-  {
-    "fileName": "Stuff I could potentially automate",
-    "relativePath": "1. Projects/productivity/Stuff I could potentially automate.md"
-  },
-  {
-    "fileName": "Typing accents on the Mac",
-    "relativePath": "1. Projects/productivity/Typing accents on the Mac.md",
-    "tags": [
-      "os",
-      "x",
-      "daily",
-      "osxdaily",
-      "apple",
-      "mac",
-      "iphone",
-      "ipad",
-      "macos",
-      "ios",
-      "ipados",
-      "tips",
-      "tricks",
-      "tutorials",
-      "news"
-    ],
-    "frontmatter": {
-      "created": "2022-09-01T12:23:27 (UTC -07:00)",
-      "source": "https://osxdaily.com/2017/03/22/type-accents-mac-easy/",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 228
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "How to Type Accents on Mac the Easy Way",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Tiago Forte - BASB notes",
-    "relativePath": "1. Projects/productivity/Tiago Forte - BASB notes.md"
-  },
-  {
-    "fileName": "Scrivener to export as multimarkdown and import",
-    "relativePath": "1. Projects/productivity/Scrivener to export as multimarkdown and import.md"
-  },
-  {
-    "fileName": "New practices to remember",
-    "relativePath": "1. Projects/productivity/New practices to remember.md"
-  },
-  {
-    "fileName": "Life areas and projects - Aug 29 2022",
-    "relativePath": "1. Projects/productivity/Life areas and projects - Aug 29 2022.md",
-    "headings": [
-      {
-        "heading": "System/pl",
-        "level": 1
-      },
-      {
-        "heading": "EBT",
-        "level": 1
-      },
-      {
-        "heading": "ASL",
-        "level": 1
-      },
-      {
-        "heading": "Productivity development [active]",
-        "level": 1
-      },
-      {
-        "heading": "Bass [suspended]",
-        "level": 1
-      },
-      {
-        "heading": "Job [in progress]",
-        "level": 1
-      },
-      {
-        "heading": "Strengths development [review after course]",
-        "level": 1
-      },
-      {
-        "heading": "Novel [in process]",
-        "level": 1
-      },
-      {
-        "heading": "Marbela story [focus on this]",
-        "level": 1
-      },
-      {
-        "heading": "Vision therapy [in progress]",
-        "level": 1
-      },
-      {
-        "heading": "Kitchen island [in progress]",
-        "level": 1
-      },
-      {
-        "heading": "Gardening [in progress]",
-        "level": 1
-      },
-      {
-        "heading": "Socializing",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Development plan Sep 2022",
-        "relativePath": "3. Resources/Strengths journal/Development plan Sep 2022.md"
-      },
-      {
-        "link": "Development plan Sep 2022",
-        "relativePath": "3. Resources/Strengths journal/Development plan Sep 2022.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Keyboard shortcuts to review",
-    "relativePath": "1. Projects/productivity/Keyboard shortcuts to review.md",
-    "tags": [
-      "foobar"
-    ],
-    "headings": [
-      {
-        "heading": "Mac",
-        "level": 1
-      },
-      {
-        "heading": "Tasks",
-        "level": 1
-      },
-      {
-        "heading": "Shimmering Obsidian",
-        "level": 1
-      },
-      {
-        "heading": "Obsidian-alfred",
-        "level": 2
-      },
-      {
-        "heading": "Obsidian",
-        "level": 1
-      },
-      {
-        "heading": "Alfred:",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Effective learning - 20 rules of formulating knowledge (Wozniak 1999)",
-    "relativePath": "1. Projects/productivity/Effective learning - 20 rules of formulating knowledge (Wozniak 1999).md",
-    "frontmatter": {
-      "created": "2022-09-06T21:41:28 (UTC -07:00)",
-      "source": "moz-extension://4a44f143-36dc-460e-82ac-d53473232f72/",
-      "author": "Dr Piotr Wozniak, February, 1999 (updated)",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 171
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "SuperMemo.com",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Marbela text",
     "relativePath": "1. Projects/marbela mystery/Marbela text.md",
     "headings": [
@@ -28626,388 +29054,6 @@
     ]
   },
   {
-    "fileName": "Writers to research",
-    "relativePath": "1. Projects/analyze writers/Writers to research.md"
-  },
-  {
-    "fileName": "Writer and book search notes",
-    "relativePath": "1. Projects/analyze writers/Writer and book search notes.md"
-  },
-  {
-    "fileName": "Plot-creation support with plot-construction model for writing novels",
-    "relativePath": "1. Projects/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-    "tags": [
-      "novel",
-      "writing",
-      "plot",
-      "creativity",
-      "support",
-      "plot-construction",
-      "model"
-    ],
-    "frontmatter": {
-      "created": "2022-09-02T15:59:26 (UTC -07:00)",
-      "source": "https://www.tandfonline.com/doi/full/10.1080/24751839.2018.1531232",
-      "author": "Tomoko  Kojiri",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 217
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Full article: Plot-creation support with plot-construction model for writing novels",
-        "level": 1
-      },
-      {
-        "heading": "1\\. Introduction",
-        "level": 2
-      },
-      {
-        "heading": "2\\. Plot-construction model",
-        "level": 2
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "3\\. Plot-creation support",
-        "level": 2
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 1. Form of plot nodes.**",
-        "level": 3
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 2. Form of story nodes.**",
-        "level": 3
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 3. Form of setting.**",
-        "level": 3
-      },
-      {
-        "heading": "4\\. Prototype system",
-        "level": 2
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "5\\. Evaluation",
-        "level": 2
-      },
-      {
-        "heading": "5.1. Experiment 1",
-        "level": 3
-      },
-      {
-        "heading": "5.1.1. Experimental setting",
-        "level": 4
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 4. Questionnaire items.**",
-        "level": 3
-      },
-      {
-        "heading": "5.1.2. Results",
-        "level": 4
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 5. Questionnaire results.**",
-        "level": 3
-      },
-      {
-        "heading": "5.2. Experiment 2",
-        "level": 3
-      },
-      {
-        "heading": "5.2.1. Experimental setting",
-        "level": 4
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 6. Questionnaire items.**",
-        "level": 3
-      },
-      {
-        "heading": "5.2.2. Results",
-        "level": 4
-      },
-      {
-        "heading": "Published online:",
-        "level": 6
-      },
-      {
-        "heading": "**Table 7. Questionnaire results.**",
-        "level": 3
-      },
-      {
-        "heading": "5.3. Discussion",
-        "level": 3
-      },
-      {
-        "heading": "5.3.1. ‘What Format of the plot is necessary for representing a novel?’",
-        "level": 4
-      },
-      {
-        "heading": "5.3.2. ‘What kinds of ideas does an author need to derive in creating the plot and what supports are effective at inducing these ideas?’",
-        "level": 4
-      },
-      {
-        "heading": "6\\. Conclusion",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers",
-    "relativePath": "1. Projects/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md",
-    "tags": [
-      "novel",
-      "writing"
-    ],
-    "frontmatter": {
-      "created": "2022-09-02T16:01:52 (UTC -07:00)",
-      "source": "https://www.jstage.jst.go.jp/article/itel/1/1/1_1.1.Reg.p005/_article",
-      "author": "Content from these authors",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 184
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "# Evolutionary Construction of Stories that Combine Several Plot Lines",
-    "relativePath": "1. Projects/analyze writers/# Evolutionary Construction of Stories that Combine Several Plot Lines.md",
-    "frontmatter": {
-      "created": "2022-09-02T16:07:25 (UTC -07:00)",
-      "source": "https://link.springer.com/chapter/10.1007/978-3-031-03789-4_5",
-      "author": "Gervás, Pablo, Concepción, Eugenio, Méndez, Gonzalo",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 188
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Evolutionary Construction of Stories that Combine Several Plot Lines | SpringerLink",
-        "level": 1
-      },
-      {
-        "heading": "Abstract",
-        "level": 2
-      },
-      {
-        "heading": "Keywords",
-        "level": 3
-      },
-      {
-        "heading": "1 Introduction",
-        "level": 2
-      },
-      {
-        "heading": "2 Related Work",
-        "level": 2
-      },
-      {
-        "heading": "2.1 Plot Line Combination",
-        "level": 3
-      },
-      {
-        "heading": "2.2 Computational Metrics for Stories",
-        "level": 3
-      },
-      {
-        "heading": "2.3 Evolutionary Construction of Narratives",
-        "level": 3
-      },
-      {
-        "heading": "3 An Evolutionary Multiplot Story Composer",
-        "level": 2
-      },
-      {
-        "heading": "3.1 The Knowledge Resources",
-        "level": 3
-      },
-      {
-        "heading": "3.2 Character Fusion and Discourse Planning",
-        "level": 3
-      },
-      {
-        "heading": "3.3 Representing Multiplot Stories for Evolutionary Construction",
-        "level": 3
-      },
-      {
-        "heading": "3.4 Constructing an Initial Population",
-        "level": 3
-      },
-      {
-        "heading": "3.5 Evolutionary Operators",
-        "level": 3
-      },
-      {
-        "heading": "3.6 Fitness Functions",
-        "level": 3
-      },
-      {
-        "heading": "4 Discussion",
-        "level": 2
-      },
-      {
-        "heading": "4.1 Results",
-        "level": 3
-      },
-      {
-        "heading": "4.2 Relation with Previous Work",
-        "level": 3
-      },
-      {
-        "heading": "5 Conclusions",
-        "level": 2
-      },
-      {
-        "heading": "Notes",
-        "level": 2
-      },
-      {
-        "heading": "References",
-        "level": 2
-      },
-      {
-        "heading": "Author information",
-        "level": 2
-      },
-      {
-        "heading": "Authors and Affiliations",
-        "level": 3
-      },
-      {
-        "heading": "Corresponding author",
-        "level": 3
-      },
-      {
-        "heading": "Editor information",
-        "level": 2
-      },
-      {
-        "heading": "Editors and Affiliations",
-        "level": 3
-      },
-      {
-        "heading": "Rights and permissions",
-        "level": 2
-      },
-      {
-        "heading": "Copyright information",
-        "level": 2
-      },
-      {
-        "heading": "About this paper",
-        "level": 2
-      },
-      {
-        "heading": "Cite this paper",
-        "level": 3
-      },
-      {
-        "heading": "Download citation",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Kraken revision notes Sep 2022",
     "relativePath": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
   },
@@ -29040,10 +29086,6 @@
         "level": 2
       }
     ]
-  },
-  {
-    "fileName": "Windows modifications",
-    "relativePath": "0. Inbox/Windows modifications.md"
   },
   {
     "fileName": "00-scratchpad-note",
