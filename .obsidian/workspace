@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
+            "file": "periodic/Daily reminders.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
+                "file": "periodic/Daily reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
+                "file": "periodic/Daily reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md"
+                "file": "periodic/Daily reminders.md"
               }
             }
           },
@@ -152,6 +153,7 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
     "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md",
     "1. Projects/x477 indexing course/Module 6/Online research assignment.md",
     "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
@@ -160,7 +162,6 @@
     "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
     "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
     "1. Projects/x477 indexing course/Index edit checklist.md",
-    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
     "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md"
   ]
 }

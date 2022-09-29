@@ -1,6 +1,7 @@
 {
-  "theme": "system",
+  "theme": "obsidian",
   "cssTheme": "Minimal",
   "baseFontSize": 19,
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": []
 }
