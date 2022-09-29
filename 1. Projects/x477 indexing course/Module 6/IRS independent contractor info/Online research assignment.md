@@ -6,9 +6,10 @@
 Independent contractors 
 
 
-1. A company does not have behavioral control over an independent contractor: the company can specify the work to be produced (the index and its format) but can't specify how an independent contractor produces it. For example, they can specify a style guide my finished index must comply with, but they cannot prohibit me from working on the index at 4 a.m. at home while wearing pajamas and eating peanut butter from a jar with a spoon. 
-2. A company does not have financial control over an independent contractor: 
-Similarly, they can't specify my work process. For example, the number of processes I do or don't make through the material to be indexed is up to me, not to the company. 
+1. A business does not have behavioral control over an independent contractor: the company can specify the work to be produced (the index and its format) but can't specify when, where, or how an independent contractor does the work. For example, they can specify a style guide a finished index must comply with, but they cannot prohibit an independent contractor from working on the index at 4 a.m. at home while wearing pajamas and eating peanut butter from a jar with a spoon. 
+2. A business does not have financial control over an independent contractor. For example, they can't prevent an independent contractor from advertising their services to other businesses or authors. 
+3. An independent contractor has the possibility of incurring a loss. For example, if an indexer's home office and equipment is destroyed in a catastrophic event and not insured, the indexer takes the loss, not the business whose index they were working on.  
+4. Independent contractors are hired for a specific project or period, while employees can also be hired for a relationship that will continue indefinitely. 
 
 
 1.  [Behavioral](https://www.irs.gov/businesses/small-businesses-self-employed/behavioral-control "Behavioral Control"): Does the company control or have the right to control what the worker does and how the worker does his or her job?

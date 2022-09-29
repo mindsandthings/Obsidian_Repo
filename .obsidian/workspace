@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+            "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "301aeed8346ab328",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+                "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+                "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md"
+                "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md"
               }
             }
           },
@@ -152,15 +164,15 @@
   },
   "active": "25dbe3913c0c29c1",
   "lastOpenFiles": [
-    "0. Inbox/00-scratchpad-note.md",
-    "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
-    "2. Areas/Gallup Strengths/Strengths - 9. Individualization.md",
-    "daily/2022-09-29-Thu.md",
-    "2. Areas/food/Food notes.md",
-    "1. Projects/x477 indexing course/Indexing to review.md",
-    "4. Archive/validating/conservative christian tendencies in socjus spaces.md",
-    "periodic/Daily reminders.md",
-    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
-    "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Type of Relationship.md",
+    "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
+    "1. Projects/x477 indexing course/Module 6/6.1 Indexing Project Process - An Overview.md",
+    "1. Projects/x477 indexing course/Module 6/6.2 - Receiving the Indexing Request.md",
+    "1. Projects/x477 indexing course/Module 6/6.3 - Agreeing to a Fee Structure.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Independent Contractor (Self-Employed) or Employee - Internal Revenue Service.md",
+    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
   ]
 }

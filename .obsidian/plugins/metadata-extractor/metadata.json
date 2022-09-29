@@ -27516,10 +27516,6 @@
     ]
   },
   {
-    "fileName": "Online research assignment",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/Online research assignment.md"
-  },
-  {
     "fileName": "Mulvany readings - Module 6",
     "relativePath": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
     "headings": [
@@ -27540,6 +27536,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Online research assignment",
+    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md"
   },
   {
     "fileName": "Type of Relationship",
@@ -29084,6 +29084,24 @@
       {
         "heading": "[BrainLink Pro](https://neurosky.com/)",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Indexing Book club Oct 3 2022",
+    "relativePath": "0. Inbox/Indexing Book club Oct 3 2022.md",
+    "headings": [
+      {
+        "heading": "Linked Data and Music (Kelly 2015)",
+        "level": 1
+      },
+      {
+        "heading": "Visual Indexes (Russell & Dearnley, 2017)",
+        "level": 1
+      },
+      {
+        "heading": "Dearnley (2015): Words and pictures - indexing art books: some practical experience",
+        "level": 1
       }
     ]
   },
