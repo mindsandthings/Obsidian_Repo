@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+            "file": "2. Areas/Gallup Strengths/Strengths - 10. Relator.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
+            "file": "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+                "file": "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md",
+                "file": "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Indexing Book club Oct 3 2022.md"
+                "file": "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
               }
             }
           },
@@ -162,17 +162,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "25dbe3913c0c29c1",
+  "active": "301aeed8346ab328",
   "lastOpenFiles": [
-    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
-    "1. Projects/x477 indexing course/Cindex group.md",
-    "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
-    "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
-    "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
+    "2. Areas/Gallup Strengths/Strengths - 10. Relator.md",
+    "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
     "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
-    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
-    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Type of Relationship.md"
+    "2. Areas/Gallup Strengths/Strengths - 5. Responsibility.md",
+    "0. Inbox/00-scratchpad-note.md",
+    "4. Archive/validating/Chavisory - left wing spaces becoming right wing.md",
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+    "periodic/Daily reminders.md",
+    "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
+    "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md"
   ]
 }

@@ -13,3 +13,6 @@ Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe 
 need to get in a story about B's magic school classmates somewhere
 
 The Bellflower-autonomy-Courts thread needs to connect with the Bellflower-autonomy-Lily thread. 
+
+Madison and Lily: they have a specific portal preprogrammed to open up back here, so why not just wait? Or: they don't and were hoping for a random one. Or: they're planning to go around starside to a known route to the top (super dangerous if I want Flyer to need the butterflies for this! but Lily has kraken poison). Maybe Bellflower has got repellent for whatever will attack them starside? And Flyer didn't
+

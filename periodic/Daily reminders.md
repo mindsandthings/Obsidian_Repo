@@ -16,6 +16,8 @@
 * remember to socialize more with your fellow students and other non-leaders 
 * how to interrupt less? calm down, breathe, wait.
 * don't suck up too much, ok?
+* participate more on indexers lists
+* keep an eye out for local indexers to network with
 
 # Michael
 

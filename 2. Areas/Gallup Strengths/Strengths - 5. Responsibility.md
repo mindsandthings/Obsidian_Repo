@@ -1,4 +1,6 @@
 # Journaling
+## Fri, Sep 30, 2022
+Feels like being careful with responsibility is cutting myself off from people, but also that cutting myself off from people (by carefully not doing things that could make them feel indebted to me) is something I'm actively trying to do for safety's sake. 
 
 ## Sun, Sep 25, 2022
 Need to be careful; joining new circles and don't want to overwhelm. Feels like committing to doing things for people makes me more likely to do the same in other areas of life too. Also don't want to overwhelm or intimidate people by taking things too seriously and being too responsible. 
