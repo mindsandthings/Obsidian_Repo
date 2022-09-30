@@ -27184,6 +27184,610 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "8.5 Enhancing the Indexing Process - Macrex",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.5 Enhancing the Indexing Process - Macrex.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:12:08 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-5-enhancing-the-indexing-process-macrex",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 179
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.5 Enhancing the Indexing Process: MACREX: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.5 Enhancing the Indexing Process: MACREX",
+        "level": 2
+      },
+      {
+        "heading": "Sheila M. Ryan: Writing an Index in MACREX",
+        "level": 3
+      },
+      {
+        "heading": "Text Orientation and File Setup",
+        "level": 4
+      },
+      {
+        "heading": "Writing the Index",
+        "level": 4
+      },
+      {
+        "heading": "Editing the Index",
+        "level": 4
+      },
+      {
+        "heading": "Step By Step: Loading Definition Files and Creating an .RTF File in Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Finalizing the Index",
+        "level": 4
+      },
+      {
+        "heading": "Overall Thoughts on Macrex",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "8.4 Enhancing the Indexing Process - CINDEX",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.4 Enhancing the Indexing Process - CINDEX.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:07:03 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-4-enhancing-the-indexing-process-cindex",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 179
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.4 Enhancing the Indexing Process: CINDEX: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.4 Enhancing the Indexing Process: CINDEX",
+        "level": 2
+      },
+      {
+        "heading": "Lucie Haskins: How I Use CINDEX in My Indexing Process",
+        "level": 3
+      },
+      {
+        "heading": "1\\. Create CINDEX Files Based on Client Specifications",
+        "level": 4
+      },
+      {
+        "heading": "2\\. Familiarize Myself with the Text and Entering Placeholder Terms into CINDEX.",
+        "level": 4
+      },
+      {
+        "heading": "3\\. Enter Index Terms One Chapter at a Time",
+        "level": 4
+      },
+      {
+        "heading": "**Macro Level First**",
+        "level": 5
+      },
+      {
+        "heading": "**Micro Level Next**",
+        "level": 5
+      },
+      {
+        "heading": "4\\. Repeat Step 3 for Each Additional Chapter",
+        "level": 4
+      },
+      {
+        "heading": "5\\. Edit as I Go, and Final Editing",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "8.3 Marketing and Building a Client Base",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.3 Marketing and Building a Client Base.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:03:35 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-3-marketing-and-building-a-client-base",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 178
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.3 Marketing and Building a Client Base: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.3 Marketing and Building a Client Base",
+        "level": 2
+      },
+      {
+        "heading": "Some Useful Websites for Marketing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Links",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/Links.md"
+  },
+  {
+    "fileName": "8.2 Tax ID Information",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.2 Tax ID Information.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:57:30 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-2-tax-id-information",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.2 Tax ID Information: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.2 Tax ID Information",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "8.1 Mentoring, Apprenticeships, and Subcontracting",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.1 Mentoring, Apprenticeships, and Subcontracting.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:55:09 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-1-mentoring-apprenticeships-and-subcontracting",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 186
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.1 Mentoring, Apprenticeships, and Subcontracting: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.1 Mentoring, Apprenticeships, and Subcontracting",
+        "level": 2
+      },
+      {
+        "heading": "Mentoring",
+        "level": 3
+      },
+      {
+        "heading": "Apprenticeships",
+        "level": 3
+      },
+      {
+        "heading": "Subcontracting",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "8.0 Putting It All Together",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.0 Putting It All Together.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:54:29 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-8?module_item_id=89811957",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 166
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 8: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 8: Putting It All Together",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Project 3**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "Module 7 Dicussion - Indexing Apprpoach",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:52:38 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/discussion_topics/10736076",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 154
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 7 Discussion: Indexing Approach",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "7.6 Indexing Project 2",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
+    "tags": [
+      "task"
+    ],
+    "frontmatter": {
+      "created": "2022-09-30T12:50:57 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-6-indexing-project-2",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.6 Indexing Project 2: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.6 Indexing Project 2",
+        "level": 2
+      },
+      {
+        "heading": "Full-Page Repagination",
+        "level": 3
+      },
+      {
+        "heading": "Partial-Page Reflow",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "7.5 Home Office Issues",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.5 Home Office Issues.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:50:37 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-5-home-office-issues",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.5 Home Office Issues: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.5 Home Office Issues",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "7.4 Indexing Expert C (Macrex)",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.4 Indexing Expert C (Macrex).md",
+    "frontmatter": {
+      "created": "2022-09-30T12:47:52 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-4-indexing-expert-c",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.4 Indexing Expert C: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.4 Indexing Expert C",
+        "level": 2
+      },
+      {
+        "heading": "Entering",
+        "level": 3
+      },
+      {
+        "heading": "Editing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "7.3 Indexing Expert B (Cindex)",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.3 Indexing Expert B (Cindex).md",
+    "frontmatter": {
+      "created": "2022-09-30T12:45:06 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-3-indexing-expert-b",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.3 Indexing Expert B: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.3 Indexing Expert B",
+        "level": 2
+      },
+      {
+        "heading": "Writing the Index",
+        "level": 3
+      },
+      {
+        "heading": "Editing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "7.2 Indexing Expert A (Sky)",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.2 Indexing Expert A (Sky).md",
+    "frontmatter": {
+      "created": "2022-09-30T12:38:55 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-2-indexing-expert-a",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.2 Indexing Expert A: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.2 Indexing Expert A",
+        "level": 2
+      },
+      {
+        "heading": "Term Entry",
+        "level": 3
+      },
+      {
+        "heading": "Editing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "7.0 Developing Your Own Process and Style",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
+    "tags": [
+      "task"
+    ],
+    "frontmatter": {
+      "created": "2022-09-30T12:35:53 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-7?module_item_id=89811939",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 166
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 7: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 7: Developing Your Own Process and Style",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Project 2**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "7.1 The individuality of the indexing process",
+    "relativePath": "1. Projects/x477 indexing course/Module 7/7.1 The individuality of the indexing process.md",
+    "frontmatter": {
+      "created": "2022-09-30T12:36:29 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/7-dot-1-the-individuality-of-the-indexing-process",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 183
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "7.1 The Individuality of the Indexing Process: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "7.1 The Individuality of the Indexing Process",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Indexing to review",
     "relativePath": "1. Projects/x477 indexing course/Indexing to review.md"
   },
