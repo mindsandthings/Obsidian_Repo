@@ -27184,6 +27184,203 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "10.4 Database Indexing",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/10.4 Database Indexing.md",
+    "frontmatter": {
+      "created": "2022-09-30T15:14:22 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/10-dot-4-database-indexing",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "10.4 Database Indexing: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "10.4 Database Indexing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "10.3 The Process of Creating a Controlled Vocabulary",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/10.3 The Process of Creating a Controlled Vocabulary.md",
+    "frontmatter": {
+      "created": "2022-09-30T15:11:30 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/10-dot-3-the-process-of-creating-a-controlled-vocabulary",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 190
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "10.3 The Process of Creating a Controlled Vocabulary: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "10.3 The Process of Creating a Controlled Vocabulary",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "10.2 Types, Formats, and Uses of Controlled Vocabularies",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/10.2 Types, Formats, and Uses of Controlled Vocabularies.md",
+    "frontmatter": {
+      "created": "2022-09-30T15:07:49 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/10-dot-2-types-formats-and-uses-of-controlled-vocabularies",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 192
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "10.2 Types, Formats, and Uses of Controlled Vocabularies: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "10.2 Types, Formats, and Uses of Controlled Vocabularies",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "10.1 Controlled Vocabularies - Finding and Organizing Infomration",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/10.1 Controlled Vocabularies - Finding and Organizing Infomration.md",
+    "frontmatter": {
+      "created": "2022-09-30T15:06:35 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/10-dot-1-controlled-vocabularies-finding-and-organizing-information",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 201
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "10.1 Controlled Vocabularies: Finding and Organizing Information: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "10.1 Controlled Vocabularies: Finding and Organizing Information",
+        "level": 2
+      },
+      {
+        "heading": "About Controlled Vocabularies",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Module 10 Course Discussion",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/Module 10 Course Discussion.md",
+    "headings": [
+      {
+        "heading": "Module 10 Discussion: Course Review",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "10.0 Controlled Vocabularies and Database Indexing",
+    "relativePath": "1. Projects/x477 indexing course/Module 10/10.0 Controlled Vocabularies and Database Indexing.md",
+    "frontmatter": {
+      "created": "2022-09-30T15:04:44 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-10?module_item_id=89812003",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 167
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 10: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 10: Controlled Vocabularies and Database Indexing",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Exercise 6: Creating a Thesaurus**",
+        "level": 5
+      },
+      {
+        "heading": "Course Evaluation",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "9.11 E-books, A New Frontier for Indexers",
     "relativePath": "1. Projects/x477 indexing course/Module 9/9.11 E-books, A New Frontier for Indexers.md",
     "frontmatter": {
@@ -30551,6 +30748,10 @@
       },
       {
         "heading": "Dearnley (2015): Words and pictures - indexing art books: some practical experience",
+        "level": 1
+      },
+      {
+        "heading": "Stewart (2015): Pictures into Words",
         "level": 1
       }
     ]
