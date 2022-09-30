@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "25dbe3913c0c29c1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Areas/Gallup Strengths/Strengths - 10. Relator.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "301aeed8346ab328",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
+            "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 411,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
+                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
+                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md"
+                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md"
               }
             }
           },
@@ -164,15 +153,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "2. Areas/Gallup Strengths/Strengths - 10. Relator.md",
+    "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
+    "1. Projects/x477 indexing course/Module 9/9.11 E-books, A New Frontier for Indexers.md",
+    "1. Projects/x477 indexing course/Module 9/9.10 Paragraph ID Locators.md",
+    "1. Projects/x477 indexing course/Module 9/9.9 Embedded Indexing with IndexManager.md",
+    "1. Projects/x477 indexing course/Module 9/9.8 Embedded Indexing with InDesign.md",
+    "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
     "1. Projects/x477 indexing course/Module 9/9.6 Creating a Web Index.md",
     "1. Projects/x477 indexing course/Module 9/9.5 Setting Fees for Embedded Indexing.md",
-    "1. Projects/x477 indexing course/Module 9/9.4 A Quick Look at Indexing in Frame Maker.md",
-    "1. Projects/x477 indexing course/Module 9/9.3 Embedded Indexing Using Frame Maker.md",
-    "1. Projects/x477 indexing course/Module 9/9.2 Indexing Exercise 5.md",
-    "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
-    "1. Projects/x477 indexing course/Module 9/9.0 Embedded Indexing, Indexing a Website.md",
-    "1. Projects/x477 indexing course/Module 8/Module 8 Discussion.md",
-    "1. Projects/x477 indexing course/Module 8/8.7 Indexing Project 3.md",
-    "1. Projects/x477 indexing course/Module 8/8.6 Enhancing the Indexing Process - SKY.md"
+    "1. Projects/x477 indexing course/Module 9/9.4 A Quick Look at Indexing in Frame Maker.md"
   ]
 }

@@ -27184,6 +27184,526 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "9.11 E-books, A New Frontier for Indexers",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.11 E-books, A New Frontier for Indexers.md",
+    "frontmatter": {
+      "created": "2022-09-30T14:42:55 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-11-e-books-a-new-frontier-for-indexers",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 178
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.11 E-books, A New Frontier for Indexers: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.11 E-books, A New Frontier for Indexers",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "9.10 Paragraph ID Locators",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.10 Paragraph ID Locators.md",
+    "frontmatter": {
+      "created": "2022-09-30T14:42:14 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-10-paragraph-id-locators",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.10 Paragraph ID Locators: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.10 Paragraph ID Locators, An Alternative to Embedded Indexing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "9.9 Embedded Indexing with IndexManager",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.9 Embedded Indexing with IndexManager.md",
+    "frontmatter": {
+      "created": "2022-09-30T14:39:44 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-9-embedded-indexing-with-index-manager",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 178
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.9 Embedded Indexing with Index-Manager: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.9 Embedded Indexing with Index-Manager",
+        "level": 2
+      },
+      {
+        "heading": "Index-Manager Tutorial",
+        "level": 2
+      },
+      {
+        "heading": "**Requirements for this tutorial**",
+        "level": 3
+      },
+      {
+        "heading": "**Back up your files**",
+        "level": 3
+      },
+      {
+        "heading": "**A quick note about files**",
+        "level": 3
+      },
+      {
+        "heading": "**Install Index-Manager**",
+        "level": 3
+      },
+      {
+        "heading": "**Open Index-Manager**",
+        "level": 3
+      },
+      {
+        "heading": "**Licensing information**",
+        "level": 3
+      },
+      {
+        "heading": "**Index-Manager’s opening screen**",
+        "level": 3
+      },
+      {
+        "heading": "**Creating a project**",
+        "level": 3
+      },
+      {
+        "heading": "**Exploring the interface window**",
+        "level": 3
+      },
+      {
+        "heading": "**Reviewing the Word file’s text in the interface**",
+        "level": 3
+      },
+      {
+        "heading": "**Arranging the parts of your interface window**",
+        "level": 3
+      },
+      {
+        "heading": "**Index panel display**",
+        "level": 3
+      },
+      {
+        "heading": "**Examining existing entries**",
+        "level": 3
+      },
+      {
+        "heading": "**Making new entries**",
+        "level": 3
+      },
+      {
+        "heading": "**Forcing the sort**",
+        "level": 3
+      },
+      {
+        "heading": "**More about creating entries**",
+        "level": 3
+      },
+      {
+        "heading": "**Deleting entries**",
+        "level": 3
+      },
+      {
+        "heading": "**Cross references**",
+        "level": 3
+      },
+      {
+        "heading": "**Page ranging**",
+        "level": 3
+      },
+      {
+        "heading": "**Exporting the index**",
+        "level": 3
+      },
+      {
+        "heading": "**Close Index-Manager**",
+        "level": 3
+      },
+      {
+        "heading": "**Finding all the files that Index-Manager has created**",
+        "level": 3
+      },
+      {
+        "heading": "**Checking the index in Word**",
+        "level": 3
+      },
+      {
+        "heading": "**Revising the index**",
+        "level": 3
+      },
+      {
+        "heading": "**Loading the Right Click Menu**",
+        "level": 3
+      },
+      {
+        "heading": "**The Word List panel**",
+        "level": 3
+      },
+      {
+        "heading": "**Depth of indexing**",
+        "level": 3
+      },
+      {
+        "heading": "**Re-export the index**",
+        "level": 3
+      },
+      {
+        "heading": "**Close Index-Manager**",
+        "level": 3
+      },
+      {
+        "heading": "**Checking the final index**",
+        "level": 3
+      },
+      {
+        "heading": "**Explore further**",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "9.8 Embedded Indexing with InDesign",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.8 Embedded Indexing with InDesign.md",
+    "frontmatter": {
+      "created": "2022-09-30T14:34:22 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-8-embedded-indexing-with-indesign",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 173
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.8 Embedded Indexing with InDesign: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.8 Embedded Indexing with InDesign",
+        "level": 2
+      },
+      {
+        "heading": "Indexing Considerations",
+        "level": 3
+      },
+      {
+        "heading": "Index Entry Placement",
+        "level": 4
+      },
+      {
+        "heading": "Accidental Changes to Content",
+        "level": 4
+      },
+      {
+        "heading": "InDesign File Organization",
+        "level": 3
+      },
+      {
+        "heading": "Book File",
+        "level": 4
+      },
+      {
+        "heading": "Chapter Files",
+        "level": 4
+      },
+      {
+        "heading": "Index File",
+        "level": 4
+      },
+      {
+        "heading": "InDesign Components",
+        "level": 3
+      },
+      {
+        "heading": "Workspaces",
+        "level": 4
+      },
+      {
+        "heading": "Text Frame Concept",
+        "level": 4
+      },
+      {
+        "heading": "Typical Indexing Process",
+        "level": 3
+      },
+      {
+        "heading": "Step 2. Index Content of Book",
+        "level": 4
+      },
+      {
+        "heading": "Step 3. Generate Index",
+        "level": 4
+      },
+      {
+        "heading": "KPS Plugins",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "9.7 Embedded Indexing with DEXEmbed and WordEmbed",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
+    "frontmatter": {
+      "created": "2022-09-30T14:03:26 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-7-embedded-indexing-with-dexembed-and-wordembed",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 187
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.7 Embedded Indexing with DEXembed and WordEmbed: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.7 Embedded Indexing with DEXembed and WordEmbed",
+        "level": 2
+      },
+      {
+        "heading": "How Do DEXEmbed and WordEmbed Work?",
+        "level": 3
+      },
+      {
+        "heading": "Why Would I Want to Use Them?",
+        "level": 3
+      },
+      {
+        "heading": "DEXEmbed and WordEmbed Embedding Process",
+        "level": 3
+      },
+      {
+        "heading": "Step 1. Index \"as usual\" in C/M/S Software",
+        "level": 4
+      },
+      {
+        "heading": "**Defining and Using \"Locators\" with DEXembed**",
+        "level": 5
+      },
+      {
+        "heading": "**Defining and Using \"Locators\" with WordEmbed**",
+        "level": 5
+      },
+      {
+        "heading": "**Differences between the Two Approaches**",
+        "level": 5
+      },
+      {
+        "heading": "Step 2. Save Index File for Import",
+        "level": 4
+      },
+      {
+        "heading": "Step 3. Import Index into Word Documents",
+        "level": 4
+      },
+      {
+        "heading": "Step 4. Remove Temporary Locators",
+        "level": 4
+      },
+      {
+        "heading": "Step 5. Generate MS Word Index",
+        "level": 4
+      },
+      {
+        "heading": "Learning Curve",
+        "level": 4
+      },
+      {
+        "heading": "Real World Clients",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "9.6 Creating a Web Index",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.6 Creating a Web Index.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:55:18 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-6-creating-a-web-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 162
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.6 Creating a Web Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.6 Creating a Web Index",
+        "level": 2
+      },
+      {
+        "heading": "Creating a Web Index Using MACREX",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "9.5 Setting Fees for Embedded Indexing",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.5 Setting Fees for Embedded Indexing.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:53:02 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-5-setting-fees-for-embedded-indexing",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 176
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.5 Setting Fees for Embedded Indexing: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.5 Setting Fees for Embedded Indexing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "9.4 A Quick Look at Indexing in Frame Maker",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.4 A Quick Look at Indexing in Frame Maker.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:47:52 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-4-a-quick-look-at-indexing-in-framemaker",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 180
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.4 A Quick Look at Indexing in FrameMaker: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.4 A Quick Look at Indexing in FrameMaker",
+        "level": 2
+      },
+      {
+        "heading": "Introduction",
+        "level": 3
+      },
+      {
+        "heading": "Marker Box",
+        "level": 3
+      },
+      {
+        "heading": "Finding Markers in the Text",
+        "level": 3
+      },
+      {
+        "heading": "Special Building Blocks",
+        "level": 3
+      },
+      {
+        "heading": "Conditional Text",
+        "level": 3
+      },
+      {
+        "heading": "Conditional Text Example",
+        "level": 3
+      },
+      {
+        "heading": "Generating the Index",
+        "level": 3
+      },
+      {
+        "heading": "Editing the Index",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "9.3 Embedded Indexing Using Frame Maker",
     "relativePath": "1. Projects/x477 indexing course/Module 9/9.3 Embedded Indexing Using Frame Maker.md",
     "frontmatter": {

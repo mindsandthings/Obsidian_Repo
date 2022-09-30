@@ -8,3 +8,7 @@ Visual indexes exist.
 
 # Dearnley (2015): Words and pictures - indexing art books: some practical experience
 
+
+
+
+# Stewart (2015): Pictures into Words
