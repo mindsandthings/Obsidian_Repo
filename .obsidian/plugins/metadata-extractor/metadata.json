@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-09-30-Fri",
+    "relativePath": "daily/2022-09-30-Fri.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-29-Thu",
     "relativePath": "daily/2022-09-29-Thu.md",
     "headings": [
@@ -26929,8 +26947,12 @@
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 10. Relator.md",
     "headings": [
       {
-        "heading": "Tue, Aug 9, 2022",
+        "heading": "Journal",
         "level": 1
+      },
+      {
+        "heading": "Fri, Sep 30, 2022",
+        "level": 2
       },
       {
         "heading": "Aug 2022 areas of focus",
