@@ -12,3 +12,4 @@ Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe 
 
 need to get in a story about B's magic school classmates somewhere
 
+The Bellflower-autonomy-Courts thread needs to connect with the Bellflower-autonomy-Lily thread. 
