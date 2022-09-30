@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
+            "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
+                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
+                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md"
+                "file": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 9/9.6 Creating a Web Index.md",
+    "1. Projects/x477 indexing course/Module 9/9.5 Setting Fees for Embedded Indexing.md",
+    "1. Projects/x477 indexing course/Module 9/9.4 A Quick Look at Indexing in Frame Maker.md",
+    "1. Projects/x477 indexing course/Module 9/9.3 Embedded Indexing Using Frame Maker.md",
+    "1. Projects/x477 indexing course/Module 9/9.2 Indexing Exercise 5.md",
+    "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
     "1. Projects/x477 indexing course/Module 9/9.0 Embedded Indexing, Indexing a Website.md",
     "1. Projects/x477 indexing course/Module 8/Module 8 Discussion.md",
     "1. Projects/x477 indexing course/Module 8/8.7 Indexing Project 3.md",
-    "1. Projects/x477 indexing course/Module 8/8.6 Enhancing the Indexing Process - SKY.md",
-    "1. Projects/x477 indexing course/Module 8/8.5 Enhancing the Indexing Process - Macrex.md",
-    "1. Projects/x477 indexing course/Module 8/8.4 Enhancing the Indexing Process - CINDEX.md",
-    "1. Projects/x477 indexing course/Module 8/8.3 Marketing and Building a Client Base.md",
-    "1. Projects/x477 indexing course/Module 8/8.2 Tax ID Information.md",
-    "1. Projects/x477 indexing course/Module 8/Links.md",
-    "1. Projects/x477 indexing course/Module 8/8.1 Mentoring, Apprenticeships, and Subcontracting.md"
+    "1. Projects/x477 indexing course/Module 8/8.6 Enhancing the Indexing Process - SKY.md"
   ]
 }

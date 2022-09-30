@@ -27184,6 +27184,302 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "9.3 Embedded Indexing Using Frame Maker",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.3 Embedded Indexing Using Frame Maker.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:38:21 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-3-embedded-indexing-using-framemaker",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 176
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.3 Embedded Indexing Using FrameMaker: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.3 Embedded Indexing Using FrameMaker",
+        "level": 2
+      },
+      {
+        "heading": "Creating an Embedded Index",
+        "level": 3
+      },
+      {
+        "heading": "Background",
+        "level": 4
+      },
+      {
+        "heading": "Writing the Index",
+        "level": 4
+      },
+      {
+        "heading": "Editing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "9.2 Indexing Exercise 5",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.2 Indexing Exercise 5.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:35:43 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-2-indexing-exercise-5",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 161
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.2 Indexing Exercise 5: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.2 Indexing Exercise 5",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "9.1 Embedded Indexing Using Word",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.1 Embedded Indexing Using Word.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:23:59 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-1-embedded-indexing-using-word",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 170
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "9.1 Embedded Indexing Using Word: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "9.1 Embedded Indexing Using Word",
+        "level": 2
+      },
+      {
+        "heading": "Embedded Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Specifications",
+        "level": 4
+      },
+      {
+        "heading": "The Process",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "9.0 Embedded Indexing, Indexing a Website",
+    "relativePath": "1. Projects/x477 indexing course/Module 9/9.0 Embedded Indexing, Indexing a Website.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:23:07 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-9?module_item_id=89811979",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 166
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 9: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 9: Embedded Indexing; Indexing a Website",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Exercise 5**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "Module 8 Discussion",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/Module 8 Discussion.md",
+    "headings": [
+      {
+        "heading": "Module 8 Discussion: Project 3 - Challenges of the 3rd Index Assignment",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "8.7 Indexing Project 3",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.7 Indexing Project 3.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:18:53 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-7-indexing-project-3",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 160
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.7 Indexing Project 3: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.7 Indexing Project 3",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "8.6 Enhancing the Indexing Process - SKY",
+    "relativePath": "1. Projects/x477 indexing course/Module 8/8.6 Enhancing the Indexing Process - SKY.md",
+    "frontmatter": {
+      "created": "2022-09-30T13:16:49 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/8-dot-6-enhancing-the-indexing-process-sky",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 176
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "8.6 Enhancing the Indexing Process: SKY: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "8.6 Enhancing the Indexing Process: SKY",
+        "level": 2
+      },
+      {
+        "heading": "John Bealle: How I Use SKY Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Entering Index Data",
+        "level": 4
+      },
+      {
+        "heading": "**Ordering Entries**",
+        "level": 5
+      },
+      {
+        "heading": "**Entering an Already-Existing Term**",
+        "level": 5
+      },
+      {
+        "heading": "**Creating New Entries from Old Ones**",
+        "level": 5
+      },
+      {
+        "heading": "Function Keys -- A Powerhouse of Functionality",
+        "level": 4
+      },
+      {
+        "heading": "Editing the Index",
+        "level": 4
+      },
+      {
+        "heading": "**Unanalyzed Locators**",
+        "level": 5
+      },
+      {
+        "heading": "**Too Few Subheadings**",
+        "level": 5
+      },
+      {
+        "heading": "Error Scan and Proofreading",
+        "level": 4
+      },
+      {
+        "heading": "Formatting the Index",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "8.5 Enhancing the Indexing Process - Macrex",
     "relativePath": "1. Projects/x477 indexing course/Module 8/8.5 Enhancing the Indexing Process - Macrex.md",
     "frontmatter": {
