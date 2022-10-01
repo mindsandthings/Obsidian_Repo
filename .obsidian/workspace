@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Archived physical therapy exercises.md",
+            "file": "daily/2022-09-30-Fri.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Archived physical therapy exercises.md",
+                "file": "daily/2022-09-30-Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Archived physical therapy exercises.md",
+                "file": "daily/2022-09-30-Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Archived physical therapy exercises.md"
+                "file": "daily/2022-09-30-Fri.md"
               }
             }
           },
@@ -153,14 +153,14 @@
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
     "periodic/Daily reminders.md",
-    "periodic/Weekly reminders 1.md",
-    "periodic/Untitled.md",
-    "periodic/Yearly reminders.md",
     "periodic/Monthly reminders.md",
-    "periodic/Quarterly reminders.md",
-    "periodic/Weekly reminders.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "1. Projects/x477 indexing course/Module 10/10.6 A Last Word.md",
-    "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md"
+    "daily/2022-09-30-Fri.md",
+    "daily/2022-09-29-Thu.md",
+    "daily/2022-09-28-Wed.md",
+    "daily/2022-09-26-Mon.md",
+    "daily/2022-09-25-Sun.md",
+    "daily/2022-09-24-Sat.md",
+    "2. Areas/Gallup Strengths/Strengths - 12. Communication.md",
+    "2. Areas/Gallup Strengths/Strengths - 11. Achiever.md"
   ]
 }

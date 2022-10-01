@@ -1,4 +1,10 @@
-# Mon, Aug 8, 2022
+# Journal
+
+
+
+
+
+
 
 # Aug 2022 areas of focus
 
