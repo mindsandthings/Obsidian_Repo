@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+            "file": "periodic/Daily reminders.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "periodic/Daily reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "periodic/Daily reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
+                "file": "periodic/Daily reminders.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "periodic/Weekly reminders 1.md",
+    "periodic/Untitled.md",
+    "periodic/Yearly reminders.md",
+    "periodic/Monthly reminders.md",
+    "periodic/Quarterly reminders.md",
+    "periodic/Weekly reminders.md",
+    "periodic/Daily reminders.md",
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/x477 indexing course/Module 10/10.6 A Last Word.md",
-    "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md",
-    "1. Projects/x477 indexing course/Module 10/10.4 Database Indexing.md",
-    "1. Projects/x477 indexing course/Module 10/10.3 The Process of Creating a Controlled Vocabulary.md",
-    "1. Projects/x477 indexing course/Module 10/10.2 Types, Formats, and Uses of Controlled Vocabularies.md",
-    "1. Projects/x477 indexing course/Module 10/10.1 Controlled Vocabularies - Finding and Organizing Infomration.md",
-    "1. Projects/x477 indexing course/Module 10/Module 10 Course Discussion.md",
-    "1. Projects/x477 indexing course/Module 10/10.0 Controlled Vocabularies and Database Indexing.md",
-    "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
-    "2. Areas/Gallup Strengths/Strengths - 10. Relator.md"
+    "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md"
   ]
 }
