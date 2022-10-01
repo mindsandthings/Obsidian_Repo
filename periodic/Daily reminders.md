@@ -19,6 +19,7 @@
 * don't suck up too much, ok?
 * participate more on indexers lists
 * keep an eye out for local indexers to network with
+* I would like to continue out conversations without suddenly dropping out in chat
 
 # Michael
 
