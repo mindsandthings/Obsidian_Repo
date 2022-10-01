@@ -20,4 +20,6 @@ change Lily to Spider Lily?
 
 **Where is the thread about Chrys suspecting Madison? 
 
+Lily characterization uneven
+
 
