@@ -553,6 +553,24 @@
     "relativePath": "daily/2022-08-23.md"
   },
   {
+    "fileName": "Yearly reminders",
+    "relativePath": "periodic/Yearly reminders.md"
+  },
+  {
+    "fileName": "Quarterly reminders",
+    "relativePath": "periodic/Quarterly reminders.md"
+  },
+  {
+    "fileName": "Monthly reminders",
+    "relativePath": "periodic/Monthly reminders.md",
+    "headings": [
+      {
+        "heading": "Retired",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Weekly reminders",
     "relativePath": "periodic/Weekly reminders.md",
     "headings": [
@@ -599,10 +617,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Untitled",
-    "relativePath": "periodic/Untitled.md"
   },
   {
     "fileName": "Writers to research",
@@ -27003,26 +27017,6 @@
   {
     "fileName": "Groceries",
     "relativePath": "2. Areas/food/Groceries.md"
-  },
-  {
-    "fileName": "Yearly reminders",
-    "relativePath": "2. Areas/reminders/Yearly reminders.md"
-  },
-  {
-    "fileName": "Weekly reminders",
-    "relativePath": "2. Areas/reminders/Weekly reminders.md"
-  },
-  {
-    "fileName": "Quarterly reminders",
-    "relativePath": "2. Areas/reminders/Quarterly reminders.md"
-  },
-  {
-    "fileName": "Monthly reminders",
-    "relativePath": "2. Areas/reminders/Monthly reminders.md"
-  },
-  {
-    "fileName": "()",
-    "relativePath": "2. Areas/reminders/().md"
   },
   {
     "fileName": "Full check-in - Sun, Sep 25, 2022",

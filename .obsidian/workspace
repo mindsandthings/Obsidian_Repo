@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic/Daily reminders.md",
+            "file": "0. Inbox/Archived physical therapy exercises.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "0. Inbox/Archived physical therapy exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "0. Inbox/Archived physical therapy exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Daily reminders.md"
+                "file": "0. Inbox/Archived physical therapy exercises.md"
               }
             }
           },
@@ -152,13 +152,13 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "periodic/Daily reminders.md",
     "periodic/Weekly reminders 1.md",
     "periodic/Untitled.md",
     "periodic/Yearly reminders.md",
     "periodic/Monthly reminders.md",
     "periodic/Quarterly reminders.md",
     "periodic/Weekly reminders.md",
-    "periodic/Daily reminders.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/x477 indexing course/Module 10/10.6 A Last Word.md",
     "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md"
