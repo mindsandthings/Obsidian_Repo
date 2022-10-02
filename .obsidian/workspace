@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-10-01-Sat.md",
+            "file": "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-01-Sat.md",
+                "file": "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-01-Sat.md",
+                "file": "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-01-Sat.md"
+                "file": "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "2510798b0157c93f",
+  "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "daily/2022-10-02-Sun.md",
+    "4. Archive/validating/Autistic masking.md",
+    "2. Areas/food/Food notes.md",
+    "1. Projects/marbela mystery/Marbela text.md",
+    "periodic/Daily reminders.md",
+    "daily/2022-10-01-Sat.md",
     "0. Inbox/00-scratchpad-note.md",
     "4. Archive/validating/My anon ask to Chavisory re purity culture.md",
     "4. Archive/validating/Villain discourse late 00s early 2010s tumblr.md",
-    "periodic/Daily reminders.md",
-    "daily/Locked Tomb.md",
-    "daily/2022-09-30-Fri.md",
-    "periodic/Monthly reminders.md",
-    "daily/2022-09-29-Thu.md",
-    "daily/2022-09-28-Wed.md",
-    "daily/2022-09-26-Mon.md"
+    "daily/Locked Tomb.md"
   ]
 }
