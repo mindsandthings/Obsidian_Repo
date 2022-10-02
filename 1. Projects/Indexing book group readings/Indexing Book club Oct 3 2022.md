@@ -21,3 +21,5 @@ Visual indexes exist.
 "The distribution of subject terms by facets is shown in Table 2 and Figure 4. The facet G1, the kind of person or thing, had the greatest number of subjects (82). The specific facets of ‘where?’ (S3) and ‘who?’ (S1) were the next largest, with 43 and 40 respectively. While one indexer mentioned four subjects relating to the abstract ‘what?’ (A2), he indicated he probably would not use them when assigning final subject headings. The ‘who?’ facets (S1, G1) with a total of"
 
 
+
+
