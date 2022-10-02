@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Villain discourse late 00s early 2010s tumblr.md",
+            "file": "daily/2022-10-01-Sat.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Villain discourse late 00s early 2010s tumblr.md",
+                "file": "daily/2022-10-01-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Villain discourse late 00s early 2010s tumblr.md",
+                "file": "daily/2022-10-01-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Villain discourse late 00s early 2010s tumblr.md"
+                "file": "daily/2022-10-01-Sat.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "301aeed8346ab328",
+  "active": "2510798b0157c93f",
   "lastOpenFiles": [
     "0. Inbox/00-scratchpad-note.md",
+    "4. Archive/validating/My anon ask to Chavisory re purity culture.md",
+    "4. Archive/validating/Villain discourse late 00s early 2010s tumblr.md",
     "periodic/Daily reminders.md",
     "daily/Locked Tomb.md",
     "daily/2022-09-30-Fri.md",
     "periodic/Monthly reminders.md",
     "daily/2022-09-29-Thu.md",
     "daily/2022-09-28-Wed.md",
-    "daily/2022-09-26-Mon.md",
-    "daily/2022-09-25-Sun.md",
-    "daily/2022-09-24-Sat.md"
+    "daily/2022-09-26-Mon.md"
   ]
 }

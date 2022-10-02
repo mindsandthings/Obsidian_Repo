@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-10-01-Sat",
+    "relativePath": "daily/2022-10-01-Sat.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Locked Tomb",
     "relativePath": "daily/Locked Tomb.md",
     "headings": [
@@ -1128,6 +1146,14 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Villain discourse late 00s early 2010s tumblr",
+    "relativePath": "4. Archive/validating/Villain discourse late 00s early 2010s tumblr.md"
+  },
+  {
+    "fileName": "My anon ask to Chavisory re purity culture",
+    "relativePath": "4. Archive/validating/My anon ask to Chavisory re purity culture.md"
   },
   {
     "fileName": "Chavisory - left wing spaces becoming right wing",
@@ -30825,10 +30851,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Villain discourse late 00s early 2010s tumblr",
-    "relativePath": "0. Inbox/Villain discourse late 00s early 2010s tumblr.md"
   },
   {
     "fileName": "00-scratchpad-note",
