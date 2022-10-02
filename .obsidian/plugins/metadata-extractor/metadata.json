@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-10-02-Sun",
+    "relativePath": "daily/2022-10-02-Sun.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-01-Sat",
     "relativePath": "daily/2022-10-01-Sat.md",
     "headings": [
@@ -1143,6 +1161,36 @@
     "headings": [
       {
         "heading": "Potential tumblr posts",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Autistic masking",
+    "relativePath": "4. Archive/validating/Autistic masking.md",
+    "tags": [
+      "actuallyautistic"
+    ],
+    "frontmatter": {
+      "created": "2022-10-02T10:58:21 (UTC -07:00)",
+      "source": "https://butts-bouncing-on-the-beltway.tumblr.com/post/696955373548077056",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Made My Day • I was talking to a client today about \"how to...",
         "level": 1
       }
     ]
@@ -26973,6 +27021,10 @@
       {
         "heading": "Journal",
         "level": 1
+      },
+      {
+        "heading": "Sun, Oct 2, 2022",
+        "level": 2
       },
       {
         "heading": "Aug 2022 areas of focus",
