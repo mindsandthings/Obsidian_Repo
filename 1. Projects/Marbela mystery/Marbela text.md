@@ -347,7 +347,7 @@ He gave her a long look, then appeared to decide to drop it. "Detective Inspecto
 
 She had to be looking for the parking tickets. She knew Detective Inspector Holmes was coming and she didn't want to get caught. 
 
-# Marbela's still holding the crumpled parking tickets. What should she say?
+## Marbela's still holding the crumpled parking tickets. What should she say?
 
 a. "It's okay, I took care of it."
 
@@ -356,4 +356,36 @@ b. "Paisley, we have to talk."
 c. Don't bring it up in front of the kid. Step aside and let Paisley look. 
 
 d. Use the secret language they used as kids to say a and b. 
+
+
+# "Paisley, we have to talk."
+
+Paisley jetted around Marbela, looking into the van. Marbela ducked back in front of her. "Paisley, we have to talk." 
+
+"Ohhhhh," the manatee kid said, eyes wide. "Are you in trouble?"
+
+"No." They both said it at the same time, Paisley even more firmly than Marbela. 
+
+Marbela looked at Paisley. Paisley looked at Marbela, then past her and down, toward the van's empty floor. 
+
+"She's holding the parking tickets behind her back," the manatee kid said helpfully. 
+
+Paisley whipped around to look at him, her bow sliding askew for the second time that day. Her gaze snapped back to Marbela. She did *not* look happy. "Okay, both of you, in the van."
+
+## How does Marbela respond?
+
+a. "Paisley, you can't kidnap us! That'll make it even worse!"
+
+b. "Paisley, he's six! He can't get in someone else's van without his parents' permission!"
+
+c. "Why should we get in the van?"
+
+d. "Paisley, I just want to *talk* to you."
+
+e. "Paisley, I'm trying to help."
+
+f. "Paisley, we're trying to help."
+
+
+
 

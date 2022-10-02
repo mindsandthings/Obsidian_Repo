@@ -196,7 +196,8 @@ it combines guided meditation with neurofeedback games and executive function (m
 
 ## What is their return policy?
 
-
+FocusCalm has a 30 day money back guarantee for the headband. If you purchased a lifetime subscription, this will be refunded along with the price of the headband. 
+[you initiate the app refund through google or apple though]
 
 ## What does the device actually sense? (if they don't make it obvious, don't go digging, just report that it's not obvious)  
 
@@ -206,37 +207,20 @@ EEG. Does not do heart rate or motion/sleep tracking.
 
 Substantive, maybe more so than others given that they seem to be aware they have competitors.
 
-
-https://focuscalm.com/pages/focuscalm-vs-muse
-https://focuscalm.com/pages/focuscalm-vs-mendi
+However: they say they have research under review and have published white papers, but they don't link to any of it, which makes me skeptical. 
 
 ## Has anyone posted/published any interesting blog posts about it?   
-  
+
+I could not find any. 
 
 ## Would you be interested in trying it?  
 
 Potentially! They want a separately purchased account for each user (on top of the band purchase), although they have monthly options available as well as yearly and lifetime. 
 
     
-##   [BrainLink Pro](https://neurosky.com/)
+#   [BrainLink Pro](https://neurosky.com/)
 
-## Is it available for consumers to purchase? (check this first; if not you can skip that device)
-
-## What mental or physical state(s) does the feedback direct you towards? In particular, differentiating between relaxation and focus. 
-  
-## Do they have an app ecosystem? Can their app do more than one thing?  
-
-## What is their return policy?
-
-## What does the device actually sense? (if they don't make it obvious, don't go digging, just report that it's not obvious)  
-  
-## Without delving into the science, what feeling do you get from the site? Substantive or scammy?  
-
-  
-## Has anyone posted/published any interesting blog posts about it?   
-  
-
-## Would you be interested in trying it?  
+Their website isn't loading properly, their Amazon link is dead, and their blog hasn't been updated in a couple years. I suspect they are defunct, but I can still look into them if you would like. 
 
 
 
