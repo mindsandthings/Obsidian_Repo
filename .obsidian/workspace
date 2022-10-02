@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
+            "file": "1. Projects/Michael research/Michael email.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
+                "file": "1. Projects/Michael research/Michael email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
+                "file": "1. Projects/Michael research/Michael email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md"
+                "file": "1. Projects/Michael research/Michael email.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
     "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
     "daily/2022-10-02-Sun.md",
     "4. Archive/validating/Autistic masking.md",
@@ -160,7 +161,6 @@
     "periodic/Daily reminders.md",
     "daily/2022-10-01-Sat.md",
     "0. Inbox/00-scratchpad-note.md",
-    "4. Archive/validating/My anon ask to Chavisory re purity culture.md",
-    "4. Archive/validating/Villain discourse late 00s early 2010s tumblr.md"
+    "4. Archive/validating/My anon ask to Chavisory re purity culture.md"
   ]
 }
