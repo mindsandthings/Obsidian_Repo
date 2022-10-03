@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
+            "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
+                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
+                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md"
+                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
     "1. Projects/x477 indexing course/Module 7/7.5 Home Office Issues.md",
     "1. Projects/x477 indexing course/Module 7/7.4 Indexing Expert C (Macrex).md",
     "1. Projects/x477 indexing course/Module 7/7.3 Indexing Expert B (Cindex).md",
@@ -161,7 +162,6 @@
     "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
     "1. Projects/x477 indexing course/Module 10/10.6 A Last Word.md",
     "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md",
-    "1. Projects/x477 indexing course/Module 10/10.4 Database Indexing.md",
-    "1. Projects/x477 indexing course/Module 10/10.3 The Process of Creating a Controlled Vocabulary.md"
+    "1. Projects/x477 indexing course/Module 10/10.4 Database Indexing.md"
   ]
 }
