@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/marbela mystery/Marbela text.md",
+            "file": "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md"
+                "file": "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "1. Projects/marbela mystery/Classic 12-Chapter Murder Mystery Formula.md",
+    "1. Projects/marbela mystery/Marbela text.md",
     "1. Projects/Michael research/Michael email.md",
     "1. Projects/Michael research/().md",
     "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
@@ -159,8 +161,6 @@
     "daily/2022-10-02-Sun.md",
     "4. Archive/validating/Autistic masking.md",
     "2. Areas/food/Food notes.md",
-    "1. Projects/marbela mystery/Marbela text.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-10-01-Sat.md"
+    "periodic/Daily reminders.md"
   ]
 }
