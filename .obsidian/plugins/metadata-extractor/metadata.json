@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-10-03-Mon",
+    "relativePath": "daily/2022-10-03-Mon.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-02-Sun",
     "relativePath": "daily/2022-10-02-Sun.md",
     "headings": [
@@ -1161,6 +1179,67 @@
     "headings": [
       {
         "heading": "Potential tumblr posts",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "We're all a little X",
+    "relativePath": "4. Archive/validating/We're all a little X.md",
+    "tags": [
+      "normie",
+      "science",
+      "how",
+      "to",
+      "people"
+    ],
+    "frontmatter": {
+      "created": "2022-10-03T09:23:32 (UTC -07:00)",
+      "source": "https://soulvomit.tumblr.com/post/697035620620582912/placeholder-about-were-all-a-litte-x-and-how",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 201
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "this is my soul's vomit repository — Placeholder about \"we're all a litte [x]\" and how...",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "ADHD as more socially othering than autism sometimes",
+    "relativePath": "4. Archive/validating/ADHD as more socially othering than autism sometimes.md",
+    "frontmatter": {
+      "created": "2022-10-03T09:25:38 (UTC -07:00)",
+      "source": "https://soulvomit.tumblr.com/post/696950848383860736/a-weird-thought-ive-had-lately-wrt-female",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 170
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "this is my soul's vomit repository — A weird thought I’ve had lately, wrt female...",
         "level": 1
       }
     ]
@@ -26993,6 +27072,10 @@
         "level": 1
       },
       {
+        "heading": "Mon, Oct 3, 2022",
+        "level": 2
+      },
+      {
         "heading": "Wed, Sep 28, 2022",
         "level": 2
       },
@@ -31134,67 +31217,6 @@
       },
       {
         "heading": "Stewart (2015): Pictures into Words",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "ADHD as more socially othering than autism sometimes",
-    "relativePath": "0. Inbox/ADHD as more socially othering than autism sometimes.md",
-    "frontmatter": {
-      "created": "2022-10-03T09:25:38 (UTC -07:00)",
-      "source": "https://soulvomit.tumblr.com/post/696950848383860736/a-weird-thought-ive-had-lately-wrt-female",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 170
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "this is my soul's vomit repository — A weird thought I’ve had lately, wrt female...",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "We're all a little X",
-    "relativePath": "0. Inbox/We're all a little X.md",
-    "tags": [
-      "normie",
-      "science",
-      "how",
-      "to",
-      "people"
-    ],
-    "frontmatter": {
-      "created": "2022-10-03T09:23:32 (UTC -07:00)",
-      "source": "https://soulvomit.tumblr.com/post/697035620620582912/placeholder-about-were-all-a-litte-x-and-how",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 201
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "this is my soul's vomit repository — Placeholder about \"we're all a litte [x]\" and how...",
         "level": 1
       }
     ]

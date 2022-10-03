@@ -170,6 +170,42 @@
     ]
   },
   {
+    "tag": "normie",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/validating/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "science",
+    "tagCount": 25,
+    "relativePaths": [
+      "4. Archive/validating/We're all a little X.md",
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
+    ]
+  },
+  {
+    "tag": "how",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/validating/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "to",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "people",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/We're all a little X.md"
+    ]
+  },
+  {
     "tag": "actuallyautistic",
     "tagCount": 1,
     "relativePaths": [
@@ -1416,14 +1452,6 @@
     ]
   },
   {
-    "tag": "science",
-    "tagCount": 25,
-    "relativePaths": [
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md",
-      "0. Inbox/We're all a little X.md"
-    ]
-  },
-  {
     "tag": "dark",
     "tagCount": 24,
     "relativePaths": [
@@ -2012,34 +2040,6 @@
     "tagCount": 1,
     "relativePaths": [
       "3. Resources/productivity/Keyboard shortcuts to review.md"
-    ]
-  },
-  {
-    "tag": "normie",
-    "tagCount": 2,
-    "relativePaths": [
-      "0. Inbox/We're all a little X.md"
-    ]
-  },
-  {
-    "tag": "how",
-    "tagCount": 2,
-    "relativePaths": [
-      "0. Inbox/We're all a little X.md"
-    ]
-  },
-  {
-    "tag": "to",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/We're all a little X.md"
-    ]
-  },
-  {
-    "tag": "people",
-    "tagCount": 1,
-    "relativePaths": [
-      "0. Inbox/We're all a little X.md"
     ]
   }
 ]
