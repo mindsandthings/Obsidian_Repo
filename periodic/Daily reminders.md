@@ -29,3 +29,5 @@
 # Goals
 
 * ~~2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
+
+I would like to do more Indian cooking, but it will be a big project.

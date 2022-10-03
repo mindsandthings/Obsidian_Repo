@@ -1,4 +1,9 @@
 # Journal
+
+
+## Mon, Oct 3, 2022
+Today I need to raise Becca pledge and watch that video maybe. See if Discipien helps. Doing same way helps but also. more recently been doign it more ad hoc. 
+
 ## Wed, Sep 28, 2022
 Still not sure if this is me! Will change in Oct. Wondering if this may be less urgent/necessary with vision improvements. 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/ADHD as more socially othering than autism sometimes.md",
+            "file": "daily/2022-10-03-Mon.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/ADHD as more socially othering than autism sometimes.md",
+                "file": "daily/2022-10-03-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/ADHD as more socially othering than autism sometimes.md",
+                "file": "daily/2022-10-03-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/ADHD as more socially othering than autism sometimes.md"
+                "file": "daily/2022-10-03-Mon.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
-    "0. Inbox/We're all a little X.md",
+    "2. Areas/Gallup Strengths/Strengths - 3. Discipline.md",
+    "4. Archive/validating/ADHD as more socially othering than autism sometimes.md",
+    "4. Archive/validating/We're all a little X.md",
     "periodic/Daily reminders.md",
     "2. Areas/food/Food notes.md",
     "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",
     "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md",
     "1. Projects/marbela mystery/Classic 12-Chapter Murder Mystery Formula.md",
     "1. Projects/marbela mystery/Marbela text.md",
-    "1. Projects/Michael research/Michael email.md",
-    "1. Projects/Michael research/().md",
-    "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md"
+    "1. Projects/Michael research/Michael email.md"
   ]
 }
