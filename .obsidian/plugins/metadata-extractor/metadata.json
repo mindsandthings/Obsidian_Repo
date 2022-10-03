@@ -28723,7 +28723,17 @@
   },
   {
     "fileName": "Indexing proejct 2 errata",
-    "relativePath": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md"
+    "relativePath": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
+    "headings": [
+      {
+        "heading": "L. M. Andersson's name typo'd as L. A.:",
+        "level": 1
+      },
+      {
+        "heading": "Update to publication year",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Module 7 Dicussion - Indexing Apprpoach",

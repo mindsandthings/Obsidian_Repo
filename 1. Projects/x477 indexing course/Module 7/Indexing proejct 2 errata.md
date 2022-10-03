@@ -28,4 +28,5 @@ This has now been published, and should be 2005 with page numbers etc added (in 
 Pearson, C. M., Andersson, L. M., & Porath, C. L. (2005). Workplace Incivility. In S. Fox, & P. Spector (Eds.), Counterproductive Work Behaviour: Investigations of Actors and Targets (pp. 177-200). Washington DC: American Psychological Association.  
 http://dx.doi.org/10.1037/10893-008
 
+[does full title need to be included??]
 
