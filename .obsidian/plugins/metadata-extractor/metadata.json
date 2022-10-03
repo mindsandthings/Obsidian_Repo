@@ -30576,6 +30576,36 @@
     ]
   },
   {
+    "fileName": "Marbela - Classic 12-Chapter Murder Mystery Formula 1",
+    "relativePath": "1. Projects/marbela mystery/Marbela - Classic 12-Chapter Murder Mystery Formula 1.md",
+    "headings": [
+      {
+        "heading": "The Classic 12-Chapter Mystery Formula",
+        "level": 1
+      },
+      {
+        "heading": "Act I",
+        "level": 1
+      },
+      {
+        "heading": "Act II",
+        "level": 1
+      },
+      {
+        "heading": "Act III",
+        "level": 2
+      },
+      {
+        "heading": "Act IV",
+        "level": 2
+      },
+      {
+        "heading": "Share this:",
+        "level": 3
+      }
+    ]
+  },
+  {
     "fileName": "Marbela text",
     "relativePath": "1. Projects/marbela mystery/Marbela text.md",
     "headings": [
@@ -30859,10 +30889,6 @@
   {
     "fileName": "Kraken revision notes Sep 2022",
     "relativePath": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
-  },
-  {
-    "fileName": "()",
-    "relativePath": "1. Projects/Michael research/().md"
   },
   {
     "fileName": "Michael email",

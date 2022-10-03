@@ -10,7 +10,6 @@ Visual indexes exist.
 
 Lots of small widely varied issues
 
-
 # Stewart (2015): Pictures into Words
 "The art historian Erwin Panofsky (1955) developed a method to analyse images combining both their objective and interpretive aspects. Panofsky distinguished three levels of subject matter or meaning, which he called pre-iconographical description (objects or events), iconographical analysis (themes), and iconographical interpretation (meaning)."
 
