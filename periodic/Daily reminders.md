@@ -20,6 +20,7 @@
 * participate more on indexers lists
 * keep an eye out for local indexers to network with
 * I would like to continue out conversations without suddenly dropping out in chat
+* don't be a kid or a young student - be an adult coming in from another field
 
 # Michael
 
@@ -27,4 +28,4 @@
 
 # Goals
 
-* 2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
+* ~~2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment

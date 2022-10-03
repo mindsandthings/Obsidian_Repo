@@ -1417,9 +1417,10 @@
   },
   {
     "tag": "science",
-    "tagCount": 24,
+    "tagCount": 25,
     "relativePaths": [
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md",
+      "0. Inbox/We're all a little X.md"
     ]
   },
   {
@@ -2011,6 +2012,34 @@
     "tagCount": 1,
     "relativePaths": [
       "3. Resources/productivity/Keyboard shortcuts to review.md"
+    ]
+  },
+  {
+    "tag": "normie",
+    "tagCount": 2,
+    "relativePaths": [
+      "0. Inbox/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "how",
+    "tagCount": 2,
+    "relativePaths": [
+      "0. Inbox/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "to",
+    "tagCount": 1,
+    "relativePaths": [
+      "0. Inbox/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "people",
+    "tagCount": 1,
+    "relativePaths": [
+      "0. Inbox/We're all a little X.md"
     ]
   }
 ]
