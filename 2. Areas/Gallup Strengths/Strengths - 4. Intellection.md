@@ -1,4 +1,9 @@
 # Journal
+
+
+## Tue, Oct 4, 2022
+Remember feeling enthusiastic about this when indexing was presenting me with lots of new concepts, but now I feel very eh. I think I need a high rate of input to feed Intellection. 
+
 ## Thu, Sep 29, 2022
 Thought a great deal recently. But with head feeling swollen, now don't feel inspired to. 
 

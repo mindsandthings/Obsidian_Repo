@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
+            "file": "daily/2022-10-04-Tue.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
-    "collapsed": true
+    "width": 411
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
+                "file": "daily/2022-10-04-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
+                "file": "daily/2022-10-04-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md"
+                "file": "daily/2022-10-04-Tue.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "2. Areas/Gallup Strengths/Strengths - 8. Connectedness.md",
+    "2. Areas/Gallup Strengths/Strengths - 4. Intellection.md",
+    "1. Projects/x477 indexing course/Module 7/7.2 Indexing Expert A (Sky).md",
+    "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
     "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
     "1. Projects/x477 indexing course/Module 7/7.5 Home Office Issues.md",
     "1. Projects/x477 indexing course/Module 7/7.4 Indexing Expert C (Macrex).md",
     "1. Projects/x477 indexing course/Module 7/7.3 Indexing Expert B (Cindex).md",
-    "1. Projects/x477 indexing course/Module 7/7.2 Indexing Expert A (Sky).md",
     "1. Projects/x477 indexing course/Module 7/7.1 The individuality of the indexing process.md",
-    "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
-    "1. Projects/x477 indexing course/Module 10/10.6 A Last Word.md",
-    "1. Projects/x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md",
-    "1. Projects/x477 indexing course/Module 10/10.4 Database Indexing.md"
+    "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md"
   ]
 }
