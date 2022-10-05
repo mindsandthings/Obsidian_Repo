@@ -405,10 +405,6 @@
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
     {
-      "name": "Module 6",
-      "relativePath": "1. Projects/x477 indexing course/Module 6"
-    },
-    {
       "name": "Coaching notes",
       "relativePath": "3. Resources/Strengths course/Coaching notes"
     },
@@ -481,10 +477,6 @@
       "relativePath": "4. Archive/indexing/ASI Module A"
     },
     {
-      "name": "IRS independent contractor info",
-      "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info"
-    },
-    {
       "name": "Indexing exercise 2",
       "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection/Indexing exercise 2"
     },
@@ -515,6 +507,14 @@
     {
       "name": "Module 10",
       "relativePath": "1. Projects/x477 indexing course/Module 10"
+    },
+    {
+      "name": "Module 6",
+      "relativePath": "3. Resources/x477 Indexing course/Module 6"
+    },
+    {
+      "name": "IRS independent contractor info",
+      "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info"
     }
   ],
   "nonMdFiles": [

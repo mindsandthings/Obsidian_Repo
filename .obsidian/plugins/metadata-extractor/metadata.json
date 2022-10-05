@@ -21280,6 +21280,772 @@
     ]
   },
   {
+    "fileName": "Mulvany readings - Module 6",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/Mulvany readings - Module 6.md",
+    "headings": [
+      {
+        "heading": "23-­‐25 Chapter 2: First 3 pages (you may stop at “The Writing Process and the Index”)",
+        "level": 1
+      },
+      {
+        "heading": "28-­‐42 Chapter 2: “Who Should Prepare the Index?” to end of chapter",
+        "level": 1
+      },
+      {
+        "heading": "69-­‐73 Chapter 3: “Estimating the Size of an Index” to end of chapter",
+        "level": 1
+      },
+      {
+        "heading": "221-­‐241 All of Chapter 9",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Online research assignment",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Online research assignment.md"
+  },
+  {
+    "fileName": "Type of Relationship",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Type of Relationship.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:21:22 (UTC -07:00)",
+      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/type-of-relationship",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 158
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Type of Relationship | Internal Revenue Service",
+        "level": 1
+      },
+      {
+        "heading": "Written Contracts",
+        "level": 2
+      },
+      {
+        "heading": "Employee Benefits",
+        "level": 2
+      },
+      {
+        "heading": "Permanency of the Relationship",
+        "level": 2
+      },
+      {
+        "heading": "Services Provided as Key Activity of the Business",
+        "level": 2
+      },
+      {
+        "heading": "Related Topics",
+        "level": 3
+      },
+      {
+        "heading": "Publications",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Independent Contractor (Self-Employed) or Employee - Internal Revenue Service",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Independent Contractor (Self-Employed) or Employee - Internal Revenue Service.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:19:00 (UTC -07:00)",
+      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 186
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Independent Contractor (Self-Employed) or Employee? | Internal Revenue Service",
+        "level": 1
+      },
+      {
+        "heading": "Select the Scenario that Applies to You:",
+        "level": 2
+      },
+      {
+        "heading": "[](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)Determining Whether the Individuals Providing Services are Employees or Independent Contractors",
+        "level": 2
+      },
+      {
+        "heading": "Common Law Rules",
+        "level": 2
+      },
+      {
+        "heading": "Form SS-8",
+        "level": 2
+      },
+      {
+        "heading": "Employment Tax Obligations",
+        "level": 2
+      },
+      {
+        "heading": "Employment Tax Guidelines",
+        "level": 2
+      },
+      {
+        "heading": "Misclassification of Employees",
+        "level": 2
+      },
+      {
+        "heading": "Consequences of Treating an Employee as an Independent Contractor",
+        "level": 3
+      },
+      {
+        "heading": "Relief Provisions",
+        "level": 3
+      },
+      {
+        "heading": "Misclassified Workers Can File Social Security Tax Form",
+        "level": 3
+      },
+      {
+        "heading": "Voluntary Classification Settlement Program",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Financial Control",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Financial Control.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:21:07 (UTC -07:00)",
+      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/financial-control",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 155
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Financial Control | Internal Revenue Service",
+        "level": 1
+      },
+      {
+        "heading": "Significant investment",
+        "level": 2
+      },
+      {
+        "heading": "Unreimbursed expenses",
+        "level": 2
+      },
+      {
+        "heading": "Opportunity for profit or loss",
+        "level": 2
+      },
+      {
+        "heading": "Services available to the market",
+        "level": 2
+      },
+      {
+        "heading": "Method of payment",
+        "level": 2
+      },
+      {
+        "heading": "Related Topics",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Behavioral Control",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:20:31 (UTC -07:00)",
+      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/behavioral-control",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 156
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Behavioral Control | Internal Revenue Service",
+        "level": 1
+      },
+      {
+        "heading": "Types of Instructions Given",
+        "level": 2
+      },
+      {
+        "heading": "Degree of Instruction",
+        "level": 2
+      },
+      {
+        "heading": "Evaluation System",
+        "level": 2
+      },
+      {
+        "heading": "Training",
+        "level": 2
+      },
+      {
+        "heading": "Related Topics",
+        "level": 3
+      },
+      {
+        "heading": "Publications",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Discussion assignment",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/Discussion assignment.md",
+    "headings": [
+      {
+        "heading": "Module 6 Discussion: Work Experience",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "6.9 - Indexing the Text",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.9 - Indexing the Text.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:45:56 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-9-indexing-the-text",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.9 Indexing the Text: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.9 Indexing the Text",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.8 - Estimating Index Size",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.8 - Estimating Index Size.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:42:39 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-8-estimating-index-size",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.8 Estimating Index Size: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.8 Estimating Index Size",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.7 - Receiving Page Proofs",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.7 - Receiving Page Proofs.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:41:37 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-7-receiving-page-proofs",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.7 Receiving Page Proofs: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.7 Receiving Page Proofs",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.6 - Complying with IRS Independent Contractor Criteria",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:17:50 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-6-complying-with-irs-independent-contractor-criteria",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 192
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.6 Complying with IRS Independent Contractor Criteria: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.6 Complying with IRS Independent Contractor Criteria",
+        "level": 2
+      },
+      {
+        "heading": "Online Research Assignment",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "6.5 - Arranging Due Dates",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.5 - Arranging Due Dates.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:17:14 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-5-arranging-due-dates",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 161
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.5 Arranging Due Dates: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.5 Arranging Due Dates",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.4 - Indexing Specifications",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.4 - Indexing Specifications.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:15:42 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-4-indexing-specifications",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 165
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.4 Indexing Specifications: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.4 Indexing Specifications",
+        "level": 2
+      },
+      {
+        "heading": "Princeton University Press",
+        "level": 3
+      },
+      {
+        "heading": "Jossey-Bass",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "6.3 - Agreeing to a Fee Structure",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.3 - Agreeing to a Fee Structure.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:11:13 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-3-agreeing-to-a-fee-structure",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 169
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.3 Agreeing to a Fee Structure: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.3 Agreeing to a Fee Structure",
+        "level": 2
+      },
+      {
+        "heading": "Per Page",
+        "level": 3
+      },
+      {
+        "heading": "Per Hour",
+        "level": 3
+      },
+      {
+        "heading": "Per Project",
+        "level": 3
+      },
+      {
+        "heading": "Per Entry",
+        "level": 3
+      },
+      {
+        "heading": "Per Word",
+        "level": 3
+      },
+      {
+        "heading": "Conclusion",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "6.2 - Receiving the Indexing Request",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.2 - Receiving the Indexing Request.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:10:01 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-2-receiving-the-indexing-request",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 172
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.2 Receiving the Indexing Request: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.2 Receiving the Indexing Request",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.12 - Indexing Exercise 4",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.12 - Indexing Exercise 4.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:50:58 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-12-indexing-exercise-4",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 162
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.12 Indexing Exercise 4: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "6.11 - Delivering the Index",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.11 - Delivering the Index.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:50:44 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-11-delivering-the-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 163
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.11 Delivering the Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.11 Delivering the Index",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.10 - Editing and Proofing the Index",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:46:11 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-10-editing-and-proofing-the-index",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 173
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.10 Editing and Proofing the Index: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.10 Editing and Proofing the Index",
+        "level": 2
+      },
+      {
+        "heading": "Editing and Proofreading an Index",
+        "level": 3
+      },
+      {
+        "heading": "Before You Begin",
+        "level": 3
+      },
+      {
+        "heading": "While You're Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Main Heading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Subheading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Cross-Reference Issues",
+        "level": 4
+      },
+      {
+        "heading": "Double-Posting Issues",
+        "level": 4
+      },
+      {
+        "heading": "General Editorial Issues to Keep an Eye On as You Go",
+        "level": 4
+      },
+      {
+        "heading": "When You've Completed the Index Structure",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "6.1 Indexing Project Process - An Overview",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.1 Indexing Project Process - An Overview.md",
+    "frontmatter": {
+      "created": "2022-09-27T13:01:59 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-1-indexing-project-process-an-overview#",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 179
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "6.1 Indexing Project Process: An Overview: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "6.1 Indexing Project Process: An Overview",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "6.0 - The Business of Indexing",
+    "relativePath": "3. Resources/x477 Indexing course/Module 6/6.0 - The Business of Indexing.md",
+    "tags": [
+      "task"
+    ],
+    "frontmatter": {
+      "created": "2022-09-27T12:59:04 (UTC -07:00)",
+      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-6?module_item_id=89811909",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 166
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Module 6: JOURNX477-032 Indexing: Theory and Application",
+        "level": 1
+      },
+      {
+        "heading": "Module 6: The Business of Indexing",
+        "level": 2
+      },
+      {
+        "heading": "Learning Objectives",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Commentary",
+        "level": 3
+      },
+      {
+        "heading": "Discussion",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Live Chat**",
+        "level": 5
+      },
+      {
+        "heading": "Assignments",
+        "level": 3
+      },
+      {
+        "heading": "**Indexing Exercise 4**",
+        "level": 5
+      },
+      {
+        "heading": "**Online Research**",
+        "level": 5
+      }
+    ]
+  },
+  {
     "fileName": "WNV notes and to-do's",
     "relativePath": "3. Resources/x477 Indexing course/Module 5/WNV notes and to-do's.md"
   },
@@ -29444,772 +30210,6 @@
       {
         "link": "Successful Subheadings by Fred Leise",
         "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Mulvany readings - Module 6",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
-    "headings": [
-      {
-        "heading": "23-­‐25 Chapter 2: First 3 pages (you may stop at “The Writing Process and the Index”)",
-        "level": 1
-      },
-      {
-        "heading": "28-­‐42 Chapter 2: “Who Should Prepare the Index?” to end of chapter",
-        "level": 1
-      },
-      {
-        "heading": "69-­‐73 Chapter 3: “Estimating the Size of an Index” to end of chapter",
-        "level": 1
-      },
-      {
-        "heading": "221-­‐241 All of Chapter 9",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Online research assignment",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md"
-  },
-  {
-    "fileName": "Type of Relationship",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Type of Relationship.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:21:22 (UTC -07:00)",
-      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/type-of-relationship",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 158
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Type of Relationship | Internal Revenue Service",
-        "level": 1
-      },
-      {
-        "heading": "Written Contracts",
-        "level": 2
-      },
-      {
-        "heading": "Employee Benefits",
-        "level": 2
-      },
-      {
-        "heading": "Permanency of the Relationship",
-        "level": 2
-      },
-      {
-        "heading": "Services Provided as Key Activity of the Business",
-        "level": 2
-      },
-      {
-        "heading": "Related Topics",
-        "level": 3
-      },
-      {
-        "heading": "Publications",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Independent Contractor (Self-Employed) or Employee - Internal Revenue Service",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Independent Contractor (Self-Employed) or Employee - Internal Revenue Service.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:19:00 (UTC -07:00)",
-      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 186
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Independent Contractor (Self-Employed) or Employee? | Internal Revenue Service",
-        "level": 1
-      },
-      {
-        "heading": "Select the Scenario that Applies to You:",
-        "level": 2
-      },
-      {
-        "heading": "[](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)Determining Whether the Individuals Providing Services are Employees or Independent Contractors",
-        "level": 2
-      },
-      {
-        "heading": "Common Law Rules",
-        "level": 2
-      },
-      {
-        "heading": "Form SS-8",
-        "level": 2
-      },
-      {
-        "heading": "Employment Tax Obligations",
-        "level": 2
-      },
-      {
-        "heading": "Employment Tax Guidelines",
-        "level": 2
-      },
-      {
-        "heading": "Misclassification of Employees",
-        "level": 2
-      },
-      {
-        "heading": "Consequences of Treating an Employee as an Independent Contractor",
-        "level": 3
-      },
-      {
-        "heading": "Relief Provisions",
-        "level": 3
-      },
-      {
-        "heading": "Misclassified Workers Can File Social Security Tax Form",
-        "level": 3
-      },
-      {
-        "heading": "Voluntary Classification Settlement Program",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Financial Control",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Financial Control.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:21:07 (UTC -07:00)",
-      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/financial-control",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 155
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Financial Control | Internal Revenue Service",
-        "level": 1
-      },
-      {
-        "heading": "Significant investment",
-        "level": 2
-      },
-      {
-        "heading": "Unreimbursed expenses",
-        "level": 2
-      },
-      {
-        "heading": "Opportunity for profit or loss",
-        "level": 2
-      },
-      {
-        "heading": "Services available to the market",
-        "level": 2
-      },
-      {
-        "heading": "Method of payment",
-        "level": 2
-      },
-      {
-        "heading": "Related Topics",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Behavioral Control",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:20:31 (UTC -07:00)",
-      "source": "https://www.irs.gov/businesses/small-businesses-self-employed/behavioral-control",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 156
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Behavioral Control | Internal Revenue Service",
-        "level": 1
-      },
-      {
-        "heading": "Types of Instructions Given",
-        "level": 2
-      },
-      {
-        "heading": "Degree of Instruction",
-        "level": 2
-      },
-      {
-        "heading": "Evaluation System",
-        "level": 2
-      },
-      {
-        "heading": "Training",
-        "level": 2
-      },
-      {
-        "heading": "Related Topics",
-        "level": 3
-      },
-      {
-        "heading": "Publications",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Discussion assignment",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
-    "headings": [
-      {
-        "heading": "Module 6 Discussion: Work Experience",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "6.9 - Indexing the Text",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:45:56 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-9-indexing-the-text",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 159
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.9 Indexing the Text: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.9 Indexing the Text",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.8 - Estimating Index Size",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.8 - Estimating Index Size.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:42:39 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-8-estimating-index-size",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 163
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.8 Estimating Index Size: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.8 Estimating Index Size",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.7 - Receiving Page Proofs",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.7 - Receiving Page Proofs.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:41:37 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-7-receiving-page-proofs",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 163
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.7 Receiving Page Proofs: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.7 Receiving Page Proofs",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.6 - Complying with IRS Independent Contractor Criteria",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:17:50 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-6-complying-with-irs-independent-contractor-criteria",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 192
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.6 Complying with IRS Independent Contractor Criteria: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.6 Complying with IRS Independent Contractor Criteria",
-        "level": 2
-      },
-      {
-        "heading": "Online Research Assignment",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "6.5 - Arranging Due Dates",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.5 - Arranging Due Dates.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:17:14 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-5-arranging-due-dates",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 161
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.5 Arranging Due Dates: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.5 Arranging Due Dates",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.4 - Indexing Specifications",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.4 - Indexing Specifications.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:15:42 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-4-indexing-specifications",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 165
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.4 Indexing Specifications: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.4 Indexing Specifications",
-        "level": 2
-      },
-      {
-        "heading": "Princeton University Press",
-        "level": 3
-      },
-      {
-        "heading": "Jossey-Bass",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "6.3 - Agreeing to a Fee Structure",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.3 - Agreeing to a Fee Structure.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:11:13 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-3-agreeing-to-a-fee-structure",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 169
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.3 Agreeing to a Fee Structure: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.3 Agreeing to a Fee Structure",
-        "level": 2
-      },
-      {
-        "heading": "Per Page",
-        "level": 3
-      },
-      {
-        "heading": "Per Hour",
-        "level": 3
-      },
-      {
-        "heading": "Per Project",
-        "level": 3
-      },
-      {
-        "heading": "Per Entry",
-        "level": 3
-      },
-      {
-        "heading": "Per Word",
-        "level": 3
-      },
-      {
-        "heading": "Conclusion",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "6.2 - Receiving the Indexing Request",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.2 - Receiving the Indexing Request.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:10:01 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-2-receiving-the-indexing-request",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 172
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.2 Receiving the Indexing Request: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.2 Receiving the Indexing Request",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.12 - Indexing Exercise 4",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:50:58 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-12-indexing-exercise-4",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 162
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.12 Indexing Exercise 4: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "6.11 - Delivering the Index",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:50:44 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-11-delivering-the-index",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 163
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.11 Delivering the Index: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.11 Delivering the Index",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.10 - Editing and Proofing the Index",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:46:11 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-10-editing-and-proofing-the-index",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 173
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.10 Editing and Proofing the Index: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.10 Editing and Proofing the Index",
-        "level": 2
-      },
-      {
-        "heading": "Editing and Proofreading an Index",
-        "level": 3
-      },
-      {
-        "heading": "Before You Begin",
-        "level": 3
-      },
-      {
-        "heading": "While You're Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Main Heading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Subheading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Cross-Reference Issues",
-        "level": 4
-      },
-      {
-        "heading": "Double-Posting Issues",
-        "level": 4
-      },
-      {
-        "heading": "General Editorial Issues to Keep an Eye On as You Go",
-        "level": 4
-      },
-      {
-        "heading": "When You've Completed the Index Structure",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "6.1 Indexing Project Process - An Overview",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.1 Indexing Project Process - An Overview.md",
-    "frontmatter": {
-      "created": "2022-09-27T13:01:59 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/6-dot-1-indexing-project-process-an-overview#",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 179
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "6.1 Indexing Project Process: An Overview: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "6.1 Indexing Project Process: An Overview",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "6.0 - The Business of Indexing",
-    "relativePath": "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
-    "tags": [
-      "task"
-    ],
-    "frontmatter": {
-      "created": "2022-09-27T12:59:04 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/module-6?module_item_id=89811909",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 166
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Module 6: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "Module 6: The Business of Indexing",
-        "level": 2
-      },
-      {
-        "heading": "Learning Objectives",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Commentary",
-        "level": 3
-      },
-      {
-        "heading": "Discussion",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Live Chat**",
-        "level": 5
-      },
-      {
-        "heading": "Assignments",
-        "level": 3
-      },
-      {
-        "heading": "**Indexing Exercise 4**",
-        "level": 5
-      },
-      {
-        "heading": "**Online Research**",
-        "level": 5
       }
     ]
   },
