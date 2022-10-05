@@ -10,6 +10,7 @@ Bellflower is aware that her mother was targeting Aimee and other interns, and s
 -- was Flyer responsible for ensuring the invader died? or would he have died anyway?affects B's thoughts about her in the final scene. 
 -- how does B feel about the prospect of having portals for short-range travel??? she'd find the lowered effort appealing, but miss the journey. 
 -- B on the people with prohibited talents: she wasn't going to think of them as *her* people, but....
+-- B needs to also be worried about the manual hurting whoever gets it!!!
 
 
 
