@@ -11,7 +11,6 @@ Click on the Reply box, below, to post your message. When you are responding to 
 -----
 
 
-
-1. I have substantial experience working without supervision and meeting deadlines, both during graduate school and while working as a data manager. I have been writing from home for a number of years, and have developed routines that help me stay on task without needing external supervision. 
-2. I have a wide variety of writing experience, including academic writing and essays for lay audiences, and also nonfiction editing experience. This helps me better understand authorial goals, perspectives, and anxieties, which will help me both market myself to, and communicate effectively with, both authors and editors. 
-3. My writing, data management, and tech-related work have all required a level of detail orientation similar to that required to write and proof an index. This level of detail orientation is also helpful when doing complex, unfamiliar tasks for the first time, such as setting up a business.  
+1. I have met deadlines and worked without or with minimal supervision, during graduate school, as a data manager, and in volunteer work.    
+2. I have a wide variety of writing experience (academic writing, essays, technical support documents) as well as some editing experience, which will help me communicate more effectively with authors and editors.   
+3. My writing, data management, and tech-related work have all involved a level of detail orientation similar to that involved in constructing indexes. This level of detail orientation is also helpful when doing complex, unfamiliar tasks for the first time, such as setting up a business.

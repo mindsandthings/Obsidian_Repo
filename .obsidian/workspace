@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/DEI pandemic.md",
+            "file": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/DEI pandemic.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/DEI pandemic.md",
+                "file": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/DEI pandemic.md"
+                "file": "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
-    "daily/2022-10-05-Wed.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-10-04-Tue.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
-    "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
-    "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
-    "1. Projects/x477 indexing course/Module 6/6.9 - Indexing the Text.md",
     "1. Projects/x477 indexing course/Module 6/Discussion assignment.md",
-    "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md"
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Independent Contractor (Self-Employed) or Employee - Internal Revenue Service.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
+    "1. Projects/x477 indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
+    "1. Projects/x477 indexing course/Module 6/6.5 - Arranging Due Dates.md",
+    "1. Projects/x477 indexing course/Module 6/6.0 - The Business of Indexing.md",
+    "1. Projects/x477 indexing course/Module 6/IRS independent contractor info/Type of Relationship.md",
+    "4. Archive/kindle-notes/Burnett-Evans-Designing Your Life.md",
+    "0. Inbox/DEI pandemic.md"
   ]
 }
