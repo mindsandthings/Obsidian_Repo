@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+            "file": "daily/2022-10-04-Tue.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "daily/2022-10-04-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "daily/2022-10-04-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
+                "file": "daily/2022-10-04-Tue.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "301aeed8346ab328",
   "lastOpenFiles": [
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
     "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
     "1. Projects/x477 indexing course/Module 6/6.10 - Editing and Proofing the Index.md",
@@ -160,7 +161,6 @@
     "1. Projects/x477 indexing course/Module 6/6.12 - Indexing Exercise 4.md",
     "1. Projects/x477 indexing course/Module 6/Mulvany readings - Module 6.md",
     "1. Projects/x477 indexing course/Module 6/6.11 - Delivering the Index.md",
-    "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
-    "daily/2022-10-04-Tue.md"
+    "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md"
   ]
 }
