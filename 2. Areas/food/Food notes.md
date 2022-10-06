@@ -4,6 +4,9 @@ To eat:
 * 2 grapefruit
 * Vegan chorizo with eggs and spinach
 * Frozen chicken nuggets
+* Seaweed salad
+* Half and half
+* 
 
 To cook:
 * Vegan chorizo

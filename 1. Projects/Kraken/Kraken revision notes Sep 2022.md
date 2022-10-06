@@ -14,6 +14,9 @@ Bellflower is aware that her mother was targeting Aimee and other interns, and s
 -- What does B think about Hyacinth and his relation to his job? work this in earlier. 
 
 
+play up butterflies being mental static / tinnitus reduction for Aimee
+
+
 
 
 Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
@@ -31,3 +34,50 @@ change Lily to Spider Lily?
 Lily characterization uneven
 
 
+-----
+
+  
+
+  
+
+Faerie Court Holdings, Inc., the IP holder for both the parks and the children's series
+
+  
+
+Series based on aesthetics of Court 
+
+  
+
+Aimee focused on series because she knows she can't afford to go see the Courts
+
+  
+
+Aimee also follows the official Court instagrams. 
+
+  
+
+The early books - the good ones - all went out of print
+
+  
+
+How does Aimee know Madison might be a fan? 
+
+  
+
+FPANYR:
+
+-- luxurious descriptions of clothing - a very visual, knowledgeable writer, and a highly skilled illustrator and cover artist
+
+-- slightly stilted dialogue and cheesy plot but great voice actors. high action, lots of fights and fashion. usually highlighting one or more aspects that are basically attractions. also Court famous animals. 
+
+-- chapter books
+
+-- main 2 princesses, but also (not real) "cousins" from other realms
+
+-- early books high quality, one person's project. later got more popular and by committee but a few were still really good, and descriptions remained amazing
+
+-- reflect moral lessons of faerie culture - favor debt balance, wars, ecosystem management, spellworkers and exploitation, magic talents and exploitation, very advanced consent culture (ask before touching anyone - prohibited talents), taboos against creche mining, the dangers of neuromagic, demons, dangers of looting, vegetarianism
+
+-- need to settle on some princess names
+
+--

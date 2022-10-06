@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Fremont Doctor Board Certified in vision therapy.md",
+            "file": "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Fremont Doctor Board Certified in vision therapy.md",
+                "file": "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Fremont Doctor Board Certified in vision therapy.md",
+                "file": "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Fremont Doctor Board Certified in vision therapy.md"
+                "file": "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "301aeed8346ab328",
+  "active": "2510798b0157c93f",
   "lastOpenFiles": [
+    "4. Archive/validating/DEI pandemic.md",
+    "2. Areas/food/Food notes.md",
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+    "4. Archive/archived-health/City Optometry Bathroom Code.md",
+    "2. Areas/food/Folder purpose.md",
+    "periodic/Daily reminders.md",
+    "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md",
     "1. Projects/x477 indexing course/0. Introductory material/Useful to review before turning stuff in.md",
     "3. Resources/x477 Indexing course/Module 6/6.0 - The Business of Indexing.md",
-    "3. Resources/x477 Indexing course/Module 6/6.12 - Indexing Exercise 4.md",
-    "3. Resources/x477 Indexing course/Module 6/Discussion assignment.md",
-    "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Online research assignment.md",
-    "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Independent Contractor (Self-Employed) or Employee - Internal Revenue Service.md",
-    "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Behavioral Control.md",
-    "3. Resources/x477 Indexing course/Module 6/6.6 - Complying with IRS Independent Contractor Criteria.md",
-    "3. Resources/x477 Indexing course/Module 6/6.5 - Arranging Due Dates.md",
-    "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info/Type of Relationship.md"
+    "3. Resources/x477 Indexing course/Module 6/6.12 - Indexing Exercise 4.md"
   ]
 }

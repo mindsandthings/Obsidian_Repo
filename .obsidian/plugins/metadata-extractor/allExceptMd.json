@@ -81,16 +81,8 @@
       "relativePath": "3. Resources/Informational interviewing"
     },
     {
-      "name": "Strengths course",
-      "relativePath": "3. Resources/Strengths course"
-    },
-    {
       "name": "Indexing",
       "relativePath": "3. Resources/Indexing"
-    },
-    {
-      "name": "Technical communication",
-      "relativePath": "3. Resources/Technical communication"
     },
     {
       "name": "Strengths journal",
@@ -405,14 +397,6 @@
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
     },
     {
-      "name": "Coaching notes",
-      "relativePath": "3. Resources/Strengths course/Coaching notes"
-    },
-    {
-      "name": "Strengths course texts",
-      "relativePath": "3. Resources/Strengths course/Strengths course texts"
-    },
-    {
       "name": "strengths-2022",
       "relativePath": "3. Resources/Strengths journal/strengths-2022"
     },
@@ -515,6 +499,34 @@
     {
       "name": "IRS independent contractor info",
       "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info"
+    },
+    {
+      "name": "5. People",
+      "relativePath": "5. People"
+    },
+    {
+      "name": "6. North Star",
+      "relativePath": "6. North Star"
+    },
+    {
+      "name": "health",
+      "relativePath": "3. Resources/health"
+    },
+    {
+      "name": "Strengths course",
+      "relativePath": "4. Archive/Strengths course"
+    },
+    {
+      "name": "Coaching notes",
+      "relativePath": "4. Archive/Strengths course/Coaching notes"
+    },
+    {
+      "name": "Strengths course texts",
+      "relativePath": "4. Archive/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "Technical communication",
+      "relativePath": "4. Archive/Technical communication"
     }
   ],
   "nonMdFiles": [
