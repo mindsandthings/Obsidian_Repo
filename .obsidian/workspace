@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "a234e3d2527a3d07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0. Inbox/Ninth House explanations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-06-Thu.md",
+                "file": "0. Inbox/Ninth House explanations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-06-Thu.md",
+                "file": "0. Inbox/Ninth House explanations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-06-Thu.md"
+                "file": "0. Inbox/Ninth House explanations.md"
               }
             }
           },
@@ -150,8 +162,10 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "301aeed8346ab328",
+  "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "0. Inbox/Untitled 1.md",
+    "daily/2022-10-06-Thu.md",
     "2. Areas/Gallup Strengths/Strengths - 1. Input.md",
     "2. Areas/Gallup Strengths/Strengths - 6. Maximizer.md",
     "2. Areas/Gallup Strengths/Strengths - 5. Responsibility.md",
@@ -159,8 +173,6 @@
     "4. Archive/validating/DEI pandemic.md",
     "2. Areas/food/Food notes.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "4. Archive/archived-health/City Optometry Bathroom Code.md",
-    "2. Areas/food/Folder purpose.md",
-    "periodic/Daily reminders.md"
+    "4. Archive/archived-health/City Optometry Bathroom Code.md"
   ]
 }

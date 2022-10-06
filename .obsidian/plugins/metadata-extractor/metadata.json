@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-10-06-Thu",
+    "relativePath": "daily/2022-10-06-Thu.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-05-Wed",
     "relativePath": "daily/2022-10-05-Wed.md",
     "headings": [
@@ -27792,6 +27810,10 @@
         "level": 1
       },
       {
+        "heading": "Thu, Oct 6, 2022",
+        "level": 2
+      },
+      {
         "heading": "Fri, Sep 30, 2022",
         "level": 2
       },
@@ -27975,6 +27997,14 @@
     "fileName": "Strengths - 1. Input",
     "relativePath": "2. Areas/Gallup Strengths/Strengths - 1. Input.md",
     "headings": [
+      {
+        "heading": "Journal",
+        "level": 1
+      },
+      {
+        "heading": "Thu, Oct 6, 2022",
+        "level": 2
+      },
       {
         "heading": "Mon, Sep 26, 2022",
         "level": 2
@@ -31290,6 +31320,14 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Ninth House explanations",
+    "relativePath": "0. Inbox/Ninth House explanations.md"
+  },
+  {
+    "fileName": "Untitled 1",
+    "relativePath": "0. Inbox/Untitled 1.md"
   },
   {
     "fileName": "00-scratchpad-note",
