@@ -386,6 +386,47 @@ e. "Paisley, I'm trying to help."
 
 f. "Paisley, we're trying to help."
 
+# "Paisley, he's six! He can't get in someone else's van without his parents' permission!" "Paisley, I just want to *talk* to you."
+
+That was a terrible idea. "Paisley, he's six! He can't get in someone else's van without his parents' permission!" 
+
+The look on Paisley's face said that she had not considered this, that she was embarrassed for not thinking about it, and that she was annoyed at Marbela for pointing it out. "Go around the side then. I don't want people to see us arguing."
+
+Marbela shuffled around the van to the side not facing the crowd, trying to angle herself so that the crumpled parking tickets stayed hidden behind her back. 
+
+The kid followed her. "Can I have my snack and drink now?"
+
+"Maybe in a minute?" Marbela hedged. She raised her voice a little. "Paisley, I just want to *talk* to you."
+
+The van's back door thumped shut. Paisley came around the side of the van. "Marbela." She gritted her beak in irritation with a sound like gravel scraping gravel, and shoved her bow back to level. "My private life is mine. Give me back the tickets."
+
+Marbela opened her mouth to say that yes, Paisley's private life was hers but stealing public art would make it public. 
+
+"Hello!" It was a bombastic, expansive voice, the kind of voice that came from someone who knew for certain that everything was about them, and who was making sure to speak loudly enough to wake anyone who might be sleeping or possibly even dead.  
+
+Marbela looked up. Behind Paisley floated a pale lavender axolotl, a rumpled tweed cap perched between his feathery external gills and a huge magnifying glass in his right hand. He raised it to his eye and blinked at Marbela. "I—" the word was audibly bolded, underlined, and italicized— "am Detective Inspector Axl Otl Holmes. Has anyone here seen any clues?"
+
+## How should Marbela respond?
+
+a. "No! No clues here!"
+
+b. "I'll start looking!"
+
+c. "Yes! I think they're on the other side of the courtyard!"
+
+d. Don't say anything. Let Paisley handle it. 
+
+e. Look pleadingly at the manatee kid to try to convince him not to say anything. 
 
 
+
+
+
+# next
+Describe Axl Otl 
+
+The sudden tension around Paisley's eyes said *caught.* Marbela was pretty sure her eyes were doing the same thing. 
+
+kid demands marbelini and snack
+marbela mixes up
 

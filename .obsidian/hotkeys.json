@@ -263,16 +263,7 @@
       "key": "B"
     }
   ],
-  "window:toggle-always-on-top": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "X"
-    }
-  ],
+  "window:toggle-always-on-top": [],
   "daily-notes": [
     {
       "modifiers": [
@@ -280,6 +271,16 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "obsidian-electron-window-tweaker:ewt-toggle-on-top": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "X"
     }
   ]
 }

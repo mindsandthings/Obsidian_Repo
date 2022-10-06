@@ -20,5 +20,6 @@
   "obsidian-zotero-desktop-connector",
   "obsidian-kindle-plugin",
   "obsidian-style-settings",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-electron-window-tweaker"
 ]

@@ -1,0 +1,1 @@
+Do Muldowney protocol. If it triggers headaches again, look for alternate weightlifting exercises. 

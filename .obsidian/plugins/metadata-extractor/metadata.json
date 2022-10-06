@@ -1,5 +1,259 @@
 [
   {
+    "fileName": "Make indexing money",
+    "relativePath": "6. North Star/Make indexing money.md",
+    "headings": [
+      {
+        "heading": "Make a timeline",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Make indexing money",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Improve my time management and self regulation skills",
+    "relativePath": "6. North Star/Improve my time management and self regulation skills.md",
+    "headings": [
+      {
+        "heading": "Thu, Oct 6, 2022",
+        "level": 1
+      },
+      {
+        "heading": "Future",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Improve my time management and self regulation skills",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Develop and document indexing processes",
+    "relativePath": "6. North Star/Develop and document indexing processes.md",
+    "headings": [
+      {
+        "heading": "Collate processes",
+        "level": 1
+      },
+      {
+        "heading": "Features to learn: go through manuals",
+        "level": 1
+      },
+      {
+        "heading": "Making notes",
+        "level": 2
+      },
+      {
+        "heading": "How do I add hidden text?",
+        "level": 3
+      },
+      {
+        "heading": "Can I add a hidden field?",
+        "level": 3
+      },
+      {
+        "heading": "Labeling entries",
+        "level": 2
+      },
+      {
+        "heading": "How are labels displayed in each software?",
+        "level": 3
+      },
+      {
+        "heading": "Can I apply multiple labels to one entry?",
+        "level": 3
+      },
+      {
+        "heading": "Grouping entries",
+        "level": 2
+      },
+      {
+        "heading": "What is the process to do a complex search for each software? How many steps?",
+        "level": 3
+      },
+      {
+        "heading": "How easy/hard to search by locator range?",
+        "level": 3
+      },
+      {
+        "heading": "Can I show/hide based on labels?",
+        "level": 3
+      },
+      {
+        "heading": "How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?",
+        "level": 3
+      },
+      {
+        "heading": "Is the search lost when I go to another screen?",
+        "level": 3
+      },
+      {
+        "heading": "\"I want this topic and its parent topics but not its sister topics\"",
+        "level": 3
+      },
+      {
+        "heading": "Merging separate indexes",
+        "level": 2
+      },
+      {
+        "heading": "Try different indexing protocols",
+        "level": 1
+      },
+      {
+        "heading": "Try printing out a pdf and doing Do Mi's tickboxes",
+        "level": 2
+      },
+      {
+        "heading": "Mark some main headings for \"keep filling out\" or \"probably only local\"",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Develop and document indexing processes",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Be stronger and have muscles to live in my body",
+    "relativePath": "6. North Star/Be stronger and have muscles to live in my body.md",
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Be stronger and have muscles to live in my body",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Address vision, headache, pain, and cognition issues",
+    "relativePath": "6. North Star/Address vision, headache, pain, and cognition issues.md",
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Address vision, headache, pain, and cognition issues",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Do something meaningful with my writing",
+    "relativePath": "6. North Star/Do something meaningful with my writing.md",
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Do something meaningful with my writing",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Improve writing craft",
+    "relativePath": "6. North Star/Improve writing craft.md",
+    "headings": [
+      {
+        "heading": "Learn literary techniques",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Improve writing craft",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
+    "fileName": "0. Goals 2022-2023",
+    "relativePath": "6. North Star/0. Goals 2022-2023.md",
+    "headings": [
+      {
+        "heading": "Writing",
+        "level": 1
+      },
+      {
+        "heading": "Indexing",
+        "level": 1
+      },
+      {
+        "heading": "Social",
+        "level": 1
+      },
+      {
+        "heading": "Time, goals, space, and body",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Complete novel",
+        "relativePath": "6. North Star/Complete novel.md"
+      },
+      {
+        "link": "Improve writing craft",
+        "relativePath": "6. North Star/Improve writing craft.md"
+      },
+      {
+        "link": "Do something meaningful with my writing",
+        "relativePath": "6. North Star/Do something meaningful with my writing.md"
+      },
+      {
+        "link": "Make indexing money",
+        "relativePath": "6. North Star/Make indexing money.md"
+      },
+      {
+        "link": "Develop and document indexing processes",
+        "relativePath": "6. North Star/Develop and document indexing processes.md"
+      },
+      {
+        "link": "Make social connections I enjoy deepening"
+      },
+      {
+        "link": "Improve my time management and self regulation skills",
+        "relativePath": "6. North Star/Improve my time management and self regulation skills.md"
+      },
+      {
+        "link": "food-purchasing habits that get me interesting food",
+        "displayText": "Develop sustainable cooking/food-purchasing habits that get me interesting food"
+      },
+      {
+        "link": "Improve my indoor and outdoor living space"
+      },
+      {
+        "link": "Address vision, headache, pain, and cognition issues",
+        "relativePath": "6. North Star/Address vision, headache, pain, and cognition issues.md"
+      },
+      {
+        "link": "Be stronger and have muscles to live in my body",
+        "relativePath": "6. North Star/Be stronger and have muscles to live in my body.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Complete novel",
+    "relativePath": "6. North Star/Complete novel.md",
+    "backlinks": [
+      {
+        "fileName": "0. Goals 2022-2023",
+        "link": "Complete novel",
+        "relativePath": "6. North Star/0. Goals 2022-2023.md"
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-06-Thu",
     "relativePath": "daily/2022-10-06-Thu.md",
     "headings": [
@@ -30887,6 +31141,18 @@
       {
         "heading": "How does Marbela respond?",
         "level": 2
+      },
+      {
+        "heading": "\"Paisley, he's six! He can't get in someone else's van without his parents' permission!\" \"Paisley, I just want to *talk* to you.\"",
+        "level": 1
+      },
+      {
+        "heading": "How should Marbela respond?",
+        "level": 2
+      },
+      {
+        "heading": "next",
+        "level": 1
       }
     ]
   },
@@ -31068,6 +31334,10 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Kraken revision process",
+    "relativePath": "1. Projects/kraken/Kraken revision process.md"
   },
   {
     "fileName": "Kraken revision notes Sep 2022",
@@ -31322,12 +31592,12 @@
     ]
   },
   {
-    "fileName": "Ninth House explanations",
-    "relativePath": "0. Inbox/Ninth House explanations.md"
+    "fileName": "Design Your Life notes",
+    "relativePath": "0. Inbox/Design Your Life notes.md"
   },
   {
-    "fileName": "Untitled 1",
-    "relativePath": "0. Inbox/Untitled 1.md"
+    "fileName": "Ninth House explanations",
+    "relativePath": "0. Inbox/Ninth House explanations.md"
   },
   {
     "fileName": "00-scratchpad-note",
