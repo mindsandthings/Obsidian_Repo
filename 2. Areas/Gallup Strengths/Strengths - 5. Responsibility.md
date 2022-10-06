@@ -1,4 +1,9 @@
 # Journaling
+
+
+## Thu, Oct 6, 2022
+Time for a cleanout of my plans and to-do's so I can meaningfully commit to things. 
+
 ## Fri, Sep 30, 2022
 Feels like being careful with responsibility is cutting myself off from people, but also that cutting myself off from people (by carefully not doing things that could make them feel indebted to me) is something I'm actively trying to do for safety's sake. 
 

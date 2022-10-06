@@ -1,3 +1,9 @@
+# Journal
+
+
+
+## Thu, Oct 6, 2022
+Feeling burned out on input again tbh. Have taken in too much, but am not strategically processing it in a disciplined way. It needs boxes to get slotted into. 
 
 
 ## Mon, Sep 26, 2022
