@@ -1,5 +1,8 @@
 # Journal
 
+## Fri, Oct 7, 2022
+Not sure what to do here. Feeling a little less burned out, but still pretty tired. Feel a lot of resistance to stuff I don't want to do. Maybe glasses will help. 
+
 ## Sun, Oct 2, 2022
 This actually just feels mind numbingly draining, not fun. I'm very tired and want there to be less need to use strategic. 
 

@@ -1,15 +1,6 @@
 
 https://www.reddit.com/r/TheNinthHouse/comments/xexlgf/comment/iopvk0k/?utm_medium=android_app&utm_source=share&context=3
-
-[
-
-![User avatar](https://styles.redditmedia.com/t5_10es2k/styles/profileIcon_snood8efc20c-b7f5-44a9-b85d-b16cf9a31923-headshot.png?width=256&height=256&crop=256:256,smart&s=9424365e0ffe2a08430eb175306835590a5e2d67)
-
-
-
-
-
-](https://www.reddit.com/user/Jubi38/)
+(https://www.reddit.com/user/Jubi38/)
 
 level 1
 

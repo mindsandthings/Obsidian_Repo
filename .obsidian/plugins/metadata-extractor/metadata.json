@@ -254,6 +254,24 @@
     ]
   },
   {
+    "fileName": "2022-10-07-Fri",
+    "relativePath": "daily/2022-10-07-Fri.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-06-Thu",
     "relativePath": "daily/2022-10-06-Thu.md",
     "headings": [
@@ -1975,6 +1993,10 @@
         "relativePath": "daily/2022-08-28.md"
       }
     ]
+  },
+  {
+    "fileName": "Ninth House explanations",
+    "relativePath": "4. Archive/analyze writers/Ninth House explanations.md"
   },
   {
     "fileName": "Writers to research",
@@ -22314,6 +22336,10 @@
     "relativePath": "3. Resources/health/Fremont Doctor Board Certified in vision therapy.md"
   },
   {
+    "fileName": "Design Your Life notes",
+    "relativePath": "3. Resources/productivity/Design Your Life notes.md"
+  },
+  {
     "fileName": "Sonke Ahrens - how to take smart notes",
     "relativePath": "3. Resources/productivity/Sonke Ahrens - how to take smart notes.md"
   },
@@ -28200,6 +28226,10 @@
         "level": 1
       },
       {
+        "heading": "Fri, Oct 7, 2022",
+        "level": 2
+      },
+      {
         "heading": "Sun, Oct 2, 2022",
         "level": 2
       },
@@ -31590,14 +31620,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Design Your Life notes",
-    "relativePath": "0. Inbox/Design Your Life notes.md"
-  },
-  {
-    "fileName": "Ninth House explanations",
-    "relativePath": "0. Inbox/Ninth House explanations.md"
   },
   {
     "fileName": "00-scratchpad-note",

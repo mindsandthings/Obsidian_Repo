@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+            "file": "2. Areas/food/Food notes.md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379,
-    "collapsed": true
+    "width": 379
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "daily/2022-10-07-Fri.md",
+    "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
+    "4. Archive/analyze writers/Ninth House explanations.md",
+    "3. Resources/productivity/Design Your Life notes.md",
+    "periodic/Daily reminders.md",
+    "6. North Star/0. Goals 2022-2023.md",
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/kraken/Kraken revision process.md",
     "1. Projects/marbela mystery/Marbela text.md",
-    "1. Projects/marbela mystery/Marbela character list.md",
-    "6. North Star/Make indexing money.md",
-    "6. North Star/0. Goals 2022-2023.md",
-    "6. North Star/Develop and document indexing processes.md",
-    "6. North Star/Improve writing craft.md",
-    "6. North Star/Learn literary techniques.md",
-    "6. North Star/Improve my time management and self regulation skills.md",
-    "6. North Star/Be stronger and have muscles to live in my body.md"
+    "1. Projects/marbela mystery/Marbela character list.md"
   ]
 }
