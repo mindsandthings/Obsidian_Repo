@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/food/Food notes.md",
+            "file": "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 281
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "daily/2022-10-07-Fri.md",
-    "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
-    "4. Archive/analyze writers/Ninth House explanations.md",
-    "3. Resources/productivity/Design Your Life notes.md",
-    "periodic/Daily reminders.md",
-    "6. North Star/0. Goals 2022-2023.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "1. Projects/kraken/Kraken revision process.md",
-    "1. Projects/marbela mystery/Marbela text.md",
-    "1. Projects/marbela mystery/Marbela character list.md"
+    "3. Resources/x477 Indexing course/Module 6/Do Mi's master project checklist v8.md",
+    "1. Projects/x477 indexing course/0. Introductory material/Mulvany reading guide.md",
+    "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
+    "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md",
+    "3. Resources/indexing-book-group/Indexing book club - Leise and history.md",
+    "3. Resources/Indexing/Websites of certified indexers.md",
+    "3. Resources/Indexing/The Accidental Taxonomist - notes.md",
+    "3. Resources/Indexing/Taxonomy resources.md",
+    "3. Resources/Indexing/Some indexers use Keyboard Maestro for macros on Mac.md",
+    "3. Resources/Indexing/Self-publishing community locating notes.md"
   ]
 }
