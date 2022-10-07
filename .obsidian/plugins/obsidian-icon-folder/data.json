@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCheckboxFill",
       "RiCompass3Line",
       "RiMapPinUserFill",
       "RiBookLine",
-      "RiBook3Fill",
-      "RiStarFill"
+      "RiBook3Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "5. People": "RiMapPinUserFill",
   "6. North Star": "RiCompass3Line",
   "4. Archive/Strengths course": "RiSlideshowLine",
-  "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill"
+  "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill",
+  "1. Projects/x477 indexing course/Index edit checklist.md": "RiCheckboxFill"
 }

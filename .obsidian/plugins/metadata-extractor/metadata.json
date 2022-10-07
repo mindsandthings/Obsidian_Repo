@@ -22164,8 +22164,16 @@
         "level": 3
       },
       {
-        "heading": "Can I add a hidden field?",
-        "level": 3
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
       },
       {
         "heading": "Labeling entries",
@@ -22194,6 +22202,10 @@
       {
         "heading": "Can I show/hide based on labels?",
         "level": 3
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
       },
       {
         "heading": "How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?",
@@ -23572,7 +23584,7 @@
     "relativePath": "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md",
     "headings": [
       {
-        "heading": "Talking wiht publisher",
+        "heading": "Talking with publisher",
         "level": 1
       },
       {
