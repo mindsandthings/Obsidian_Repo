@@ -1,3 +1,9 @@
+
+
+What does Lily tell Madison???
+
+give Aimee an employee ID tattoo
+
 should blood play a role in the favor tokens? 
 
 I'd like to do a better job of the Aimee-Madison dynamic
