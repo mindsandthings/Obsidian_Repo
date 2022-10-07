@@ -1,3 +1,22 @@
+# Talking wiht publisher
+
+
+1.  Are main headings or only proper nouns to be capitalized?
+2.  What is the cross-reference format?
+3.  What is the page locator format?
+4.  How will display material (tables, illustrations, photographs, maps, figures) be treated?
+5.  How will footnotes or endnotes be designated in the index?
+6.  Consider subheading levels -- will there be one level of subheadings or two levels, using sub-subheadings?
+7.  What sorting order will be used: letter-by-letter or word-by-word?
+8.  What index structure format will be used: run-in, indented, or blended style?
+9.  Will there be a letter heading or extra space between alphabetic groups in the index?
+10.  How much space is available for the index? Are there any space limitations that the indexer needs to be aware of for the project? (We'll discuss this important issue in a later module.)
+11.  Are there any other special considerations for the index? For example: British or U.S. English spelling and punctuation? Special formatting of any kind (author names, titles, definitions in bold, diacritics)? What will be the treatment of function words in main headings: are they to be ignored in the sort or inverted?
+    
+    _A Tale of Two Cities_ (Dickens)  
+    _Tale of Two Cities, A_ (Dickens)
+    
+12.  Delivery of index: is e-mail attachment of an RTF file expected? If not, what type of file does the editor require? Are there any special coding requirements for the file, including any for diacritics (accent marks)?
 
 
 
@@ -26,6 +45,7 @@ Check the publisher's style sheet and confirm:
 e.g., what main heading may be followed by a who subentry; "who" main heading may be followed by a "what" subentry
 
 1. Index subtopics under the main topic, and as their own main heading
+2. Doublecheck the locator when entering the entry
 
 1. Write an entry
 	1. Is the keyword the first word? 
@@ -34,13 +54,18 @@ e.g., what main heading may be followed by a who subentry; "who" main heading ma
 	4. Where else might readers look for it? Create *See* entries instead of doubleposting. 
 2. Main headings are primary access points for readers. Subheadings present related aspects of the main headings broken down for easier access by the reader.
 
-What is this about? Am I catching the themes?
+What is this about? Am I catching the named themes and relationships? Are there implicit themes/relationships I'm missing? 
+
+Omit "A", "an", and "the" whenever possible incl from subheadings
 
 Parallel construction
 Grammatical relationships without inversions and with the keyword first
 Noun or noun phrase
 Avoid inversions when possible
 Avoid articles, prepositions, and conjunctions when possible (include only when necessary for meaning)
+Do not make the main heading an adjective in subentry construction (e.g., not "hair: color")
+Reflect the author's terms
+Avoid overanalysis (a subheading or two for every locator)
 
 -   All of the main topics are listed in the index as main headings.
 
@@ -144,6 +169,23 @@ Check for parallel construction
 
 Main headings must be nouns or noun phrases
 
+Check for orphaned subheadings
+
+Refine terms for main headings
+
+Check the metatopic entry
+
+Check RTF formatting - make it super plain
+
+In editing: 
+
+1. Refine the terms for main headings and prepare suitable cross-references
+2. Decide what to treat as a main entry vs sub-entry: where will readers look first? 
+3. If main headings have too many locators, break them up into subentries. 
+4. Subheadings should be concise and informative as possible and begin with a keyword, and omit articles whenever possible. 
+5. Check to ensure all cross-references match the edited headings. 
+
+
 - [ ]  Verify double-postings, etc.
 - [ ]  Spellcheck
 - [ ]  Quick RTF with word processor
@@ -152,3 +194,23 @@ Main headings must be nouns or noun phrases
 - [ ]  Delete entries without locators
 - [ ]  Check highest page number
 - [ ]  Check lowest page number
+
+
+#### CMOS Index Editing Checklist
+
+Index- editing checklist. Editing an index requires some or all of the following steps, not necessarily in the order given here. Note that it is not  necessary to check every heading and every locator against the work—  which would take forever— but it is necessary to read the index carefully  and to refer to the latest version of the page proofs from time to time.  
+
+1. Check headings— in both the main entries and subentries— for alphabetical  order.  
+2. Check the spelling, capitalization, and font (i.e., italics or roman) of each  heading, consulting the page proofs if in doubt. 
+3. Check punctuation— commas, colons, semicolons, en dashes, etc.— for proper  style and consistency (see 16.94– 100).  
+4. Check cross- references to make sure they go somewhere and that headings  match (see 16.21). Make sure they are needed; if only a few locators are involved, substitute these for the see reference (see 16.16). Ensure that the placement of all cross- references within entries is consistent.  
+5. Add cross- references you believe are necessary.  
+6. Check to make sure there are no false locators such as “193– 93” or “12102”  (and figure out whether these may be the product of a typo) and make sure the  locators to each main heading and subheading are in ascending order.  
+7. Check subentries for consistency of order, whether alphabetical or chronological. See 16.68– 70.  
+8. If some entries seem overanalyzed (many subentries with only one locator  or, worse, with the same locator), try to combine some of them if it can be  done without sacrificing their usefulness. If subheadings are more elaborately  worded than necessary, try to simplify them.  
+9. If awkward or unnecessary sub- subentries appear, correct them by adding appropriate repeated subentries or by adjusting punctuation (see 16.27, 16.28).  
+10. Look for long strings of unanalyzed locators and break them up, if possible,  with subentries (see 16.10, 16.129).  
+11. Evaluate the accuracy of locators by a random check of five to ten entries. If  more than one error shows up, consult the author or the indexer; every locator  may have to be rechecked.  
+12. If the index needs trimming, delete any entries (and cross- references thereto) that you know from your work on the book are trivial, such as references to  persons or places used only as examples of something. But be careful. You may offend someone or let yourself in for a lot of work. A handful of unnecessary  entries, if they are very short, will not mar an otherwise good index.  
+
+The University of Chicago Press Editorial Staff. Indexes (p. 46-47). University of Chicago Press. Kindle Edition. 
