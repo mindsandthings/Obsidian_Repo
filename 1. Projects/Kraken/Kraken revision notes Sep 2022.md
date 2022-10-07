@@ -1,5 +1,8 @@
 should blood play a role in the favor tokens? 
 
+I'd like to do a better job of the Aimee-Madison dynamic
+
+
 -- do I need to add back in arcs for the secondary characters? (yes)
 -- I dropped the "B wants to solve the ghost girl mystery with the wisdom of age" thread. Do I want to take it back up?
 -- more focus on Summerstart festival, show it throughout
