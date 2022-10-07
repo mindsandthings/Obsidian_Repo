@@ -1,4 +1,4 @@
-# Talking wiht publisher
+# Talking with publisher
 
 
 1.  Are main headings or only proper nouns to be capitalized?
