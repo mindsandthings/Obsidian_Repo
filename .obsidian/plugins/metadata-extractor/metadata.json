@@ -22196,6 +22196,10 @@
         "level": 3
       },
       {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
         "heading": "How easy/hard to search by locator range?",
         "level": 3
       },
@@ -22204,7 +22208,15 @@
         "level": 3
       },
       {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
         "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
         "level": 4
       },
       {
@@ -22222,6 +22234,10 @@
       {
         "heading": "Merging separate indexes",
         "level": 2
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
       },
       {
         "heading": "Try different indexing protocols",
@@ -31689,6 +31705,13 @@
         "heading": "Stewart (2015): Pictures into Words",
         "level": 1
       }
+    ]
+  },
+  {
+    "fileName": "Getting back into thee index (advice)",
+    "relativePath": "0. Inbox/Getting back into thee index (advice).md",
+    "tags": [
+      "s"
     ]
   },
   {

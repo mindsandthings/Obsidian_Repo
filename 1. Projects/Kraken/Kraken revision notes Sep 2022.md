@@ -1,6 +1,18 @@
 
 
-What does Lily tell Madison???
+
+
+
+#### What does Lily tell Madison
+Madison needs to know enough about the vault key to figure out she can use it to open the vault. Lily was planning to use her to get through the field, which is especially bad for talented faeries. 
+
+So Lily tells her they're after a treasure the Courts have locked up that will provide an unlimited power source, and that the Courts are using it to prevent competitors. Lily has not told Madison she's working for the magic schools. 
+
+
+-----
+
+Do I want to make the components iron/magnetite/something like that? 
+
 
 give Aimee an employee ID tattoo
 
@@ -13,6 +25,8 @@ I'd like to do a better job of the Aimee-Madison dynamic
 -- I dropped the "B wants to solve the ghost girl mystery with the wisdom of age" thread. Do I want to take it back up?
 -- more focus on Summerstart festival, show it throughout
 -- can I get the reception scene to do more, backstory-wise?
+
+
 -- Hyacinth and the portal project still feel underdeveloped
 -- so do B's thoughts on them while she's in the basements
 -- maybe make a list of continuity touchstones? The summer start festival, Aimee's faeriesonas/humansonas, something for Bellflower? 
@@ -26,9 +40,6 @@ Bellflower is aware that her mother was targeting Aimee and other interns, and s
 
 
 play up butterflies being mental static / tinnitus reduction for Aimee
-
-
-
 
 Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
 
