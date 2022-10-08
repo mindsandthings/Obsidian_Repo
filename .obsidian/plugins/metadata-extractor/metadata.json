@@ -66,6 +66,24 @@
     ]
   },
   {
+    "fileName": "2022-10-08-Sat",
+    "relativePath": "daily/2022-10-08-Sat.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-09-30-Fri",
     "relativePath": "daily/2022-09-30-Fri.md",
     "headings": [
@@ -27417,6 +27435,33 @@
     ]
   },
   {
+    "fileName": "Can We Hope to Understand Color as the Greeks Saw It?",
+    "relativePath": "3. Resources/kraken novel/Can We Hope to Understand Color as the Greeks Saw It?.md",
+    "frontmatter": {
+      "created": "2022-10-08T14:06:56 (UTC -07:00)",
+      "source": "https://aeon.co/essays/can-we-hope-to-understand-how-the-greeks-saw-their-world",
+      "author": "Maria Michela Sassi",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 174
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Can we hope to understand how the Greeks saw their world? | Aeon Essays",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "White doe fairy tale",
     "relativePath": "3. Resources/kraken novel/White doe fairy tale.md",
     "frontmatter": {
@@ -27604,6 +27649,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Potassium iodide (Russia)",
+    "relativePath": "3. Resources/health/Potassium iodide (Russia).md"
   },
   {
     "fileName": "Fremont Doctor Board Certified in vision therapy",
@@ -28483,6 +28532,24 @@
       },
       {
         "heading": "Agenda for Sep meeting",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "IIH, lymph buildup, and nerve damage",
+    "relativePath": "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
+    "headings": [
+      {
+        "heading": "Can lymph buildup cause IIH?",
+        "level": 1
+      },
+      {
+        "heading": "Can lymph buildup cause cranial nerve damage?",
+        "level": 1
+      },
+      {
+        "heading": "Can skull bones in wrong place cause IIH?",
         "level": 1
       }
     ]
@@ -31714,8 +31781,8 @@
     ]
   },
   {
-    "fileName": "Getting back into thee index (advice)",
-    "relativePath": "0. Inbox/Getting back into thee index (advice).md",
+    "fileName": "Getting back into the index (advice)",
+    "relativePath": "0. Inbox/Getting back into the index (advice).md",
     "tags": [
       "s"
     ]

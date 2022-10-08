@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas/food/Food notes.md",
+            "file": "daily/2022-10-08-Sat.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-10-08-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-10-08-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "daily/2022-10-08-Sat.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "0. Inbox/Getting back into the index (advice).md",
+    "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
+    "3. Resources/kraken novel/Can We Hope to Understand Color as the Greeks Saw It?.md",
+    "3. Resources/health/Potassium iodide (Russia).md",
+    "periodic/Daily reminders.md",
+    "2. Areas/food/Food notes.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/kraken/Kraken revision process.md",
     "1. Projects/marbela mystery/Classic 12-Chapter Murder Mystery Formula.md",
-    "0. Inbox/Getting back into thee index (advice).md",
-    "0. Inbox/00-scratchpad-note.md",
-    "6. North Star/Develop and document indexing processes.md",
-    "6. North Star/0. Goals 2022-2023.md",
-    "6. North Star/Make indexing money.md",
-    "1. Projects/x477 indexing course/Index edit checklist.md",
-    "3. Resources/x477 Indexing course/Module 6/Editing and proofreading indexes.md"
+    "0. Inbox/00-scratchpad-note.md"
   ]
 }
