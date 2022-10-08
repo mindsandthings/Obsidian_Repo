@@ -252,7 +252,7 @@ d. With logic. How the heck does Lifi think she stole the mural? She doesn't own
 > [!NOTE] Title
 > I love how you created the imagery of her arms rippling with disappointment. It makes my mind feel the picture. Good job Liz
 
-# A mixture between a and d!
+## A mixture between a and d!
 
 "Why would I steal your mural?" Marbela was baffled. "My apartment already *has* walls."
 
@@ -288,7 +288,7 @@ e. Oh no. Maybe she's better try to check the van for evidence...and hide it if 
 f. Even if Paisley's related to Octavia, there's no reason for her to have stolen the mural.
 
 
-# e. Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
+## e. Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
 
 Marbela's head spun. Mademoiselle Lifi receded along with the courtyard's din, leaving Marbela alone with nothing to keep her company but the increasingly insistent thought that maybe Paisley really had stolen the mural. 
 
@@ -318,7 +318,7 @@ A sound behind her made her jump. She turned, whipping the papers out of sight.
 
 "Can I have my drink now?" It was the manatee kid, looking less bored than usual. "And a snack too? They're calling in Detective Inspector Holmes and we're all supposed to stay here and it might take hours." He frowned at her. "Why are you trying to hide parking tickets behind your back?"
 
-## What's Marbela's hasty response?
+### What's Marbela's hasty response?
 
 a. "What parking tickets?"
 
@@ -333,7 +333,7 @@ e. "They're not parking tickets."
 f. "I don't want anybody to get in trouble."
 
  
-# "What parking tickets? Never mind the parking tickets, they're calling in who?"
+## "What parking tickets? Never mind the parking tickets, they're calling in who?"
 
 Marbela's hearts started up a new drumroll. She shoved the parking tickets a little further behind her back. "What parking tickets?" 
 
@@ -358,7 +358,7 @@ c. Don't bring it up in front of the kid. Step aside and let Paisley look.
 d. Use the secret language they used as kids to say a and b. 
 
 
-# "Paisley, we have to talk."
+## "Paisley, we have to talk."
 
 Paisley jetted around Marbela, looking into the van. Marbela ducked back in front of her. "Paisley, we have to talk." 
 
@@ -372,7 +372,7 @@ Marbela looked at Paisley. Paisley looked at Marbela, then past her and down, to
 
 Paisley whipped around to look at him, her bow sliding askew for the second time that day. Her gaze snapped back to Marbela. She did *not* look happy. "Okay, both of you, in the van."
 
-## How does Marbela respond?
+### How does Marbela respond?
 
 a. "Paisley, you can't kidnap us! That'll make it even worse!"
 
@@ -386,7 +386,7 @@ e. "Paisley, I'm trying to help."
 
 f. "Paisley, we're trying to help."
 
-# "Paisley, he's six! He can't get in someone else's van without his parents' permission!" "Paisley, I just want to *talk* to you."
+## "Paisley, he's six! He can't get in someone else's van without his parents' permission!" "Paisley, I just want to *talk* to you."
 
 That was a terrible idea. "Paisley, he's six! He can't get in someone else's van without his parents' permission!" 
 
@@ -418,7 +418,7 @@ d. Don't say anything. Let Paisley handle it.
 
 e. Look pleadingly at the manatee kid to try to convince him not to say anything. 
 
-# "No! No clues here!" Look pleadingly at the manatee kid to try to convince him not to say anything. 
+## "No! No clues here!" Look pleadingly at the manatee kid to try to convince him not to say anything. 
 
 "No! No clues here!" Marbela's voice came out in a squeak. The parking tickets crinkled in her anxious grip. 
 
@@ -442,7 +442,7 @@ Marbela felt her grip loosen around the parking tickets. Paisley blinked like sh
 
 "Okay." The manatee's eyes were on the retreating DI Holmes. He turned back to Marbela. "You better get me my snack and drink so I can go be his assistant, because he's sure not solving this on his own." 
 
-## What are Marbela's priorities? Put them in order.
+### What are Marbela's priorities? Put them in order.
 
 a. Make the snack and drink. 
 
