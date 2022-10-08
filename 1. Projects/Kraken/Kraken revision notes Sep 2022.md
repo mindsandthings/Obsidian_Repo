@@ -13,6 +13,9 @@ So Lily tells her they're after a treasure the Courts have locked up that will p
 
 Do I want to make the components iron/magnetite/something like that? 
 
+Turn it back to a rabbit? 
+
+what does FPA say about talents / prohibited talents? 
 
 give Aimee an employee ID tattoo
 

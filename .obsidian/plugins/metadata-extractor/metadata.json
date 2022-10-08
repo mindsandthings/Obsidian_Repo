@@ -31457,7 +31457,13 @@
   },
   {
     "fileName": "Kraken revision notes Sep 2022",
-    "relativePath": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
+    "relativePath": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+    "headings": [
+      {
+        "heading": "What does Lily tell Madison",
+        "level": 4
+      }
+    ]
   },
   {
     "fileName": "Michael email",
