@@ -418,15 +418,39 @@ d. Don't say anything. Let Paisley handle it.
 
 e. Look pleadingly at the manatee kid to try to convince him not to say anything. 
 
+# "No! No clues here!" Look pleadingly at the manatee kid to try to convince him not to say anything. 
+
+"No! No clues here!" Marbela's voice came out in a squeak. The parking tickets crinkled in her anxious grip. 
+
+Paisley's shoulders were tense, her eyes squinty, like she wanted to say "I'm not with my younger cousin here" and was trying to hold back until they'd actually been accused. 
+
+Near her, the manatee kid gave Marbela an incredulous look. 
+
+Marbela returned it with a look of desperate pleading. *Please don't get my probably-art-thief cousin in trouble. I'll make you a million Marbelinis.*
+
+"Oh gosh." The manatee kid clasped his flippers under his chin, eyes wide and innocent. "I haven't seen any clues. Maybe if I had my snack and my drink—" he emphasized the last bit loudly and clearly— "I could help look for clues somewhere else."
+
+They stood in a frozen tableau. Marbela fought to keep from involuntarily crinkling the parking tickets any further. Paisley's eyes had narrowed into why-do-I-always-have-to-be-the-street-smart-one slits. The manatee kid looked like he was competing for sainthood. 
+
+DI Holmes regarded them all through the magnifying glass. He blinked, once. 
+
+"There's a clue over there." The manatee pointed toward the hole in the museum's wall, where Myrtle and half the crowd were gathered. "There's scratch marks on the wall where somebody chipped out the mortar."
+
+DI Holmes blinked again, then smiled. "Good lad! Very helpful! Perhaps after your snack you could come be my assistant." Without waiting for a response, he blundered off in the direction of the mural.  
+
+Marbela felt her grip loosen around the parking tickets. Paisley blinked like she wasn't sure what had just happened. 
+
+"Okay." The manatee's eyes were on the retreating DI Holmes. He turned back to Marbela. "You better get me my snack and drink so I can go be his assistant, because he's sure not solving this on his own." 
+
+## What are Marbela's priorities? Put them in order.
+
+a. Make the snack and drink. 
+
+b. Actually talk to Paisley. 
+
+c. Go with the manatee kid to help DI Holmes off Paisley's scent. 
+
+d. Hide the parking tickets. 
 
 
-
-
-# next
-Describe Axl Otl 
-
-The sudden tension around Paisley's eyes said *caught.* Marbela was pretty sure her eyes were doing the same thing. 
-
-kid demands marbelini and snack
-marbela mixes up
 

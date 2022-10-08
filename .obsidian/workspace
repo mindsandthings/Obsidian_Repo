@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-10-08-Sat.md",
+            "file": "1. Projects/marbela mystery/Marbela text.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 281,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-08-Sat.md",
+                "file": "1. Projects/marbela mystery/Marbela text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-08-Sat.md",
+                "file": "1. Projects/marbela mystery/Marbela text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-08-Sat.md"
+                "file": "1. Projects/marbela mystery/Marbela text.md"
               }
             }
           },
@@ -152,6 +153,7 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "daily/2022-10-08-Sat.md",
     "daily/2022-10-07-Fri.md",
     "daily/2022-10-06-Thu.md",
     "daily/2022-10-05-Wed.md",
@@ -159,7 +161,6 @@
     "daily/2022-10-03-Mon.md",
     "daily/2022-10-02-Sun.md",
     "daily/2022-10-01-Sat.md",
-    "daily/2022-10-08-Sat.md",
     "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
     "periodic/Weekly reminders.md"
   ]
