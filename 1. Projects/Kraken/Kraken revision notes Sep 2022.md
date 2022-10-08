@@ -15,6 +15,8 @@ Do I want to make the components iron/magnetite/something like that?
 
 Turn it back to a rabbit? 
 
+Nail down dates for Lily bringing the device through, and Lily poisoning the kraken. 
+
 what does FPA say about talents / prohibited talents? 
 
 give Aimee an employee ID tattoo
