@@ -1,5 +1,6 @@
 
 
+When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
 
 
 
