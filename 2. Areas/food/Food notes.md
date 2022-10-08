@@ -1,6 +1,6 @@
 # Sun, Sep 25, 2022
 To eat:
-* 2 grapefruit
+* 1 grapefruit
 * Vegan chorizo with eggs and spinach
 * Frozen chicken nuggets
 * Half and half
