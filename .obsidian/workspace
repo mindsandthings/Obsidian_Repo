@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/marbela mystery/Marbela text.md",
+            "file": "0. Inbox/Getting back into the index (advice).md",
             "mode": "source",
             "source": false
           }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "right": {
     "id": "0be297204598c66b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "0. Inbox/Getting back into the index (advice).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "0. Inbox/Getting back into the index (advice).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md"
+                "file": "0. Inbox/Getting back into the index (advice).md"
               }
             }
           },
@@ -153,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "0. Inbox/Parallels license.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
     "1. Projects/marbela mystery/Marbela text.md",
+    "0. Inbox/Parallels license.md",
     "daily/2022-10-08-Sat.md",
     "daily/2022-10-07-Fri.md",
     "daily/2022-10-06-Thu.md",
     "daily/2022-10-05-Wed.md",
     "daily/2022-10-04-Tue.md",
-    "daily/2022-10-03-Mon.md",
-    "daily/2022-10-02-Sun.md",
-    "daily/2022-10-01-Sat.md"
+    "daily/2022-10-03-Mon.md"
   ]
 }

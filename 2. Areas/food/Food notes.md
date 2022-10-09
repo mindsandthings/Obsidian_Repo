@@ -4,7 +4,8 @@ To eat:
 * Vegan chorizo with eggs and spinach
 * Frozen chicken nuggets
 * Half and half
-* 
+* Tomato
+* Donut
 
 To cook:
 * Vegan chorizo
