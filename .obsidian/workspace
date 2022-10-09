@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Getting back into the index (advice).md",
+            "file": "0. Inbox/High-dose thiamine.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neutrophils",
+                "query": "thiamin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Getting back into the index (advice).md",
+                "file": "0. Inbox/High-dose thiamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Getting back into the index (advice).md",
+                "file": "0. Inbox/High-dose thiamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Getting back into the index (advice).md"
+                "file": "0. Inbox/High-dose thiamine.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
+    "2. Areas/food/The Five Fatal Myths of Indexing.md",
     "2. Areas/food/Food notes.md",
+    "0. Inbox/Getting back into the index (advice).md",
     "periodic/Daily reminders.md",
     "1. Projects/marbela mystery/Marbela text.md",
     "0. Inbox/Parallels license.md",
     "daily/2022-10-08-Sat.md",
     "daily/2022-10-07-Fri.md",
-    "daily/2022-10-06-Thu.md",
-    "daily/2022-10-05-Wed.md",
-    "daily/2022-10-04-Tue.md",
-    "daily/2022-10-03-Mon.md"
+    "daily/2022-10-06-Thu.md"
   ]
 }
