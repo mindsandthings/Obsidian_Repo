@@ -1,5 +1,6 @@
 # Journaling
-
+## Mon, Oct 10, 2022
+Can't believe it's time for this already. I think I'm doing pretty well on responsibility actually. 
 
 ## Thu, Oct 6, 2022
 Time for a cleanout of my plans and to-do's so I can meaningfully commit to things. 

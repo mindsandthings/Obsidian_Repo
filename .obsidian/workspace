@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
+            "file": "daily/2022-10-10-Mon.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
+                "file": "daily/2022-10-10-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
+                "file": "daily/2022-10-10-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md"
+                "file": "daily/2022-10-10-Mon.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "2. Areas/Gallup Strengths/Strengths - 5. Responsibility.md",
+    "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
     "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
     "0. Inbox/Getting back into the index (advice).md",
     "3. Resources/Stars game.md",
@@ -159,8 +161,6 @@
     "2. Areas/health/High-dose thiamine.md",
     "1. Projects/Garden/Gardening planning.md",
     "periodic/Daily reminders.md",
-    "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
-    "4. Archive/archived-health/IIH research notes.md",
-    "daily/2022-10-10-Mon.md"
+    "2. Areas/health/IIH, lymph buildup, and nerve damage.md"
   ]
 }

@@ -1,5 +1,23 @@
 [
   {
+    "fileName": "2022-10-10-Mon",
+    "relativePath": "daily/2022-10-10-Mon.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-06-Thu",
     "relativePath": "daily/2022-10-06-Thu.md",
     "headings": [
@@ -1950,6 +1968,36 @@
       {
         "heading": "Craft article",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Parallels license",
+    "relativePath": "4. Archive/licenses-passwords/Parallels license.md",
+    "headings": [
+      {
+        "heading": "Your purchase documents",
+        "level": 1
+      },
+      {
+        "heading": "Your payment",
+        "level": 1
+      },
+      {
+        "heading": "Cleverbridge reference number",
+        "level": 2
+      },
+      {
+        "heading": "Support information",
+        "level": 1
+      },
+      {
+        "heading": "Technical & product support",
+        "level": 2
+      },
+      {
+        "heading": "Payment & order support",
+        "level": 2
       }
     ]
   },
@@ -22382,6 +22430,10 @@
     ]
   },
   {
+    "fileName": "Stars game",
+    "relativePath": "3. Resources/Stars game.md"
+  },
+  {
     "fileName": "ASI-PNW conf 2022",
     "relativePath": "3. Resources/indexing-people/ASI-PNW conf 2022.md",
     "headings": [
@@ -28439,6 +28491,10 @@
         "level": 1
       },
       {
+        "heading": "Mon, Oct 10, 2022",
+        "level": 2
+      },
+      {
         "heading": "Thu, Oct 6, 2022",
         "level": 2
       },
@@ -28619,6 +28675,40 @@
       {
         "heading": "Becca video notes",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "High-dose thiamine",
+    "relativePath": "2. Areas/health/High-dose thiamine.md",
+    "headings": [
+      {
+        "heading": "Could High-Dose Thiamine (B-1) Help with ME/CFS, Fibromyalgia, and the Neurological Complications of Ehlers-Danlos Syndrome? - Health Rising",
+        "level": 1
+      },
+      {
+        "heading": "**Study Results**",
+        "level": 2
+      },
+      {
+        "heading": "**Why might thiamine reduce fatigue?**",
+        "level": 2
+      },
+      {
+        "heading": "**Could high-dose thiamine help people with ME/CFS, Fibromyalgia, or EDS?**",
+        "level": 2
+      },
+      {
+        "heading": "The Gist",
+        "level": 4
+      },
+      {
+        "heading": "**Cautions and Limitations**",
+        "level": 2
+      },
+      {
+        "heading": "**About the Author**",
+        "level": 2
       }
     ]
   },
@@ -31879,76 +31969,8 @@
     ]
   },
   {
-    "fileName": "Parallels license",
-    "relativePath": "0. Inbox/Parallels license.md",
-    "headings": [
-      {
-        "heading": "Your purchase documents",
-        "level": 1
-      },
-      {
-        "heading": "Your payment",
-        "level": 1
-      },
-      {
-        "heading": "Cleverbridge reference number",
-        "level": 2
-      },
-      {
-        "heading": "Support information",
-        "level": 1
-      },
-      {
-        "heading": "Technical & product support",
-        "level": 2
-      },
-      {
-        "heading": "Payment & order support",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "00-scratchpad-note",
     "relativePath": "0. Inbox/00-scratchpad-note.md"
-  },
-  {
-    "fileName": "Stars game",
-    "relativePath": "0. Inbox/Stars game.md"
-  },
-  {
-    "fileName": "High-dose thiamine",
-    "relativePath": "0. Inbox/High-dose thiamine.md",
-    "headings": [
-      {
-        "heading": "Could High-Dose Thiamine (B-1) Help with ME/CFS, Fibromyalgia, and the Neurological Complications of Ehlers-Danlos Syndrome? - Health Rising",
-        "level": 1
-      },
-      {
-        "heading": "**Study Results**",
-        "level": 2
-      },
-      {
-        "heading": "**Why might thiamine reduce fatigue?**",
-        "level": 2
-      },
-      {
-        "heading": "**Could high-dose thiamine help people with ME/CFS, Fibromyalgia, or EDS?**",
-        "level": 2
-      },
-      {
-        "heading": "The Gist",
-        "level": 4
-      },
-      {
-        "heading": "**Cautions and Limitations**",
-        "level": 2
-      },
-      {
-        "heading": "**About the Author**",
-        "level": 2
-      }
-    ]
   },
   {
     "fileName": "Getting back into the index (advice)",
