@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-10-10-Mon.md",
+            "file": "periodic/Daily reminders.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-10-Mon.md",
+                "file": "periodic/Daily reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-10-Mon.md",
+                "file": "periodic/Daily reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-10-Mon.md"
+                "file": "periodic/Daily reminders.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "daily/2022-10-10-Mon.md",
     "2. Areas/Gallup Strengths/Strengths - 5. Responsibility.md",
     "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
     "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
@@ -160,7 +161,6 @@
     "4. Archive/licenses-passwords/Parallels license.md",
     "2. Areas/health/High-dose thiamine.md",
     "1. Projects/Garden/Gardening planning.md",
-    "periodic/Daily reminders.md",
-    "2. Areas/health/IIH, lymph buildup, and nerve damage.md"
+    "periodic/Daily reminders.md"
   ]
 }

@@ -33,3 +33,7 @@
 * ~~2022-08-20: dedicate the hour after lunch to obsidian/alfred/etc productivity establishment
 
 I would like to do more Indian cooking, but it will be a big project.
+
+Mon, Oct 10, 2022 I offered to help Allie paint outdoor storage containers
+
+
