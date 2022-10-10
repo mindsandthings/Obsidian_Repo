@@ -539,6 +539,10 @@
     {
       "name": "Condiment",
       "relativePath": "1. Projects/Condiment"
+    },
+    {
+      "name": "Garden",
+      "relativePath": "1. Projects/Garden"
     }
   ],
   "nonMdFiles": [
