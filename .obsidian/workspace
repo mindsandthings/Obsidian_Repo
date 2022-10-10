@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Garden/Gardening planning.md",
+            "file": "3. Resources/Margie Lawson notes/Top 20 RDs.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thiamin",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Garden/Gardening planning.md",
+                "file": "3. Resources/Margie Lawson notes/Top 20 RDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Garden/Gardening planning.md",
+                "file": "3. Resources/Margie Lawson notes/Top 20 RDs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Garden/Gardening planning.md"
+                "file": "3. Resources/Margie Lawson notes/Top 20 RDs.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "2510798b0157c93f",
+  "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "1. Projects/Garden/Raised beds.md",
-    "1. Projects/Condiment/Condiment research for Michael present.md",
-    "0. Inbox/Stars game.md",
-    "0. Inbox/High-dose thiamine.md",
-    "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
-    "2. Areas/food/The Five Fatal Myths of Indexing.md",
-    "2. Areas/food/Food notes.md",
-    "0. Inbox/Getting back into the index (advice).md",
-    "periodic/Daily reminders.md",
-    "1. Projects/marbela mystery/Marbela text.md"
+    "3. Resources/Margie Lawson notes/Structures list.md",
+    "3. Resources/Margie Lawson notes/Margie’s Five D Decision Tree for YELLOW.md",
+    "3. Resources/Margie Lawson notes/Margie techniques full list.md",
+    "3. Resources/Margie Lawson notes/Margie scene checklists.md",
+    "3. Resources/Margie Lawson notes/Margie scene checklist.md",
+    "3. Resources/Margie Lawson notes/Invisible Tattoos.md",
+    "3. Resources/Margie Lawson notes/Getting Subtext on the Page  Dialogue Cues and Body Language.md",
+    "3. Resources/Margie Lawson notes/Frame It, Build It.md",
+    "3. Resources/Margie Lawson notes/20-point opening checklist-1.md",
+    "daily/2022-09-05.md"
   ]
 }
