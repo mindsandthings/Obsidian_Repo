@@ -28662,6 +28662,20 @@
     "relativePath": "2. Areas/EBT/1) The Compassion Tool - Copy.md"
   },
   {
+    "fileName": "Condiment research for Michael present",
+    "relativePath": "1. Projects/Condiment/Condiment research for Michael present.md",
+    "headings": [
+      {
+        "heading": "Chimichurri variations",
+        "level": 3
+      },
+      {
+        "heading": "Optional add-ins and variations",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "Sky Index - Shortcuts",
     "relativePath": "1. Projects/x477 indexing course/Sky Index - Shortcuts.md"
   },
@@ -31801,20 +31815,6 @@
       {
         "heading": "Stewart (2015): Pictures into Words",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Condiment research for Michael present",
-    "relativePath": "0. Inbox/Condiment research for Michael present.md",
-    "headings": [
-      {
-        "heading": "Chimichurri variations",
-        "level": 3
-      },
-      {
-        "heading": "Optional add-ins and variations",
-        "level": 4
       }
     ]
   },

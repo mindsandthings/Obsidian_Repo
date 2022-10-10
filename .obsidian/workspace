@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Condiment/Condiment research for Michael present.md",
+            "file": "0. Inbox/Gardening planning.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Condiment/Condiment research for Michael present.md",
+                "file": "0. Inbox/Gardening planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/Condiment/Condiment research for Michael present.md",
+                "file": "0. Inbox/Gardening planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/Condiment/Condiment research for Michael present.md"
+                "file": "0. Inbox/Gardening planning.md"
               }
             }
           },
@@ -150,8 +150,10 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "2510798b0157c93f",
+  "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "0. Inbox/Raised beds.md",
+    "1. Projects/Condiment/Condiment research for Michael present.md",
     "0. Inbox/Stars game.md",
     "0. Inbox/High-dose thiamine.md",
     "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
@@ -159,8 +161,6 @@
     "2. Areas/food/Food notes.md",
     "0. Inbox/Getting back into the index (advice).md",
     "periodic/Daily reminders.md",
-    "1. Projects/marbela mystery/Marbela text.md",
-    "0. Inbox/Parallels license.md",
-    "daily/2022-10-08-Sat.md"
+    "1. Projects/marbela mystery/Marbela text.md"
   ]
 }
