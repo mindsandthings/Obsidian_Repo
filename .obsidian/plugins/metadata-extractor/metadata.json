@@ -6455,10 +6455,6 @@
     ]
   },
   {
-    "fileName": "Macrex videos notes",
-    "relativePath": "4. Archive/indexing/Macrex videos notes.md"
-  },
-  {
     "fileName": "Macrex vs Sky vs Cindex",
     "relativePath": "4. Archive/indexing/Macrex vs Sky vs Cindex.md"
   },
@@ -25996,7 +25992,7 @@
       {
         "fileName": "Ongoing resources to read",
         "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "1. Projects/x477 indexing course/Ongoing resources to read.md"
+        "relativePath": "1. Projects/Develop and document indexing processes/Ongoing resources to read.md"
       }
     ]
   },
@@ -27626,6 +27622,10 @@
     "relativePath": "3. Resources/Writing and cognition/Fiction is not optimization for a universal reader.md"
   },
   {
+    "fileName": "Indexing thoughts",
+    "relativePath": "3. Resources/Indexing/Indexing thoughts.md"
+  },
+  {
     "fileName": "Macrex shortcut list",
     "relativePath": "3. Resources/Indexing/Macrex shortcut list.md"
   },
@@ -28834,10 +28834,6 @@
     ]
   },
   {
-    "fileName": "Sky Index - Shortcuts",
-    "relativePath": "1. Projects/x477 indexing course/Sky Index - Shortcuts.md"
-  },
-  {
     "fileName": "9.7 Embedded Indexing with DEXEmbed and WordEmbed",
     "relativePath": "1. Projects/x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md",
     "frontmatter": {
@@ -29862,41 +29858,6 @@
     ]
   },
   {
-    "fileName": "Indexing to review",
-    "relativePath": "1. Projects/x477 indexing course/Indexing to review.md"
-  },
-  {
-    "fileName": "Remapping cmd-H to ctrl-H in parallels",
-    "relativePath": "1. Projects/x477 indexing course/Remapping cmd-H to ctrl-H in parallels.md"
-  },
-  {
-    "fileName": "Ongoing resources to read",
-    "relativePath": "1. Projects/x477 indexing course/Ongoing resources to read.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "The Indexer",
-        "level": 1
-      },
-      {
-        "heading": "To review",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Indexing thoughts",
-    "relativePath": "1. Projects/x477 indexing course/Indexing thoughts.md"
-  },
-  {
     "fileName": "Module 8 Discussion",
     "relativePath": "1. Projects/x477 indexing course/Module 8/Module 8 Discussion.md",
     "headings": [
@@ -30307,48 +30268,6 @@
     ]
   },
   {
-    "fileName": "Index edit checklist",
-    "relativePath": "1. Projects/x477 indexing course/Index edit checklist.md",
-    "headings": [
-      {
-        "heading": "Editing and Proofreading an Index",
-        "level": 3
-      },
-      {
-        "heading": "Before You Begin",
-        "level": 3
-      },
-      {
-        "heading": "While You're Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Main Heading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Subheading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Cross-Reference Issues",
-        "level": 4
-      },
-      {
-        "heading": "Double-Posting Issues",
-        "level": 4
-      },
-      {
-        "heading": "General Editorial Issues to Keep an Eye On as You Go",
-        "level": 4
-      },
-      {
-        "heading": "When You've Completed the Index Structure",
-        "level": 3
-      }
-    ]
-  },
-  {
     "fileName": "Module 10 Course Discussion",
     "relativePath": "1. Projects/x477 indexing course/Module 10/Module 10 Course Discussion.md",
     "headings": [
@@ -30606,309 +30525,6 @@
         "level": 4
       }
     ]
-  },
-  {
-    "fileName": "Macrex group",
-    "relativePath": "1. Projects/x477 indexing course/Macrex group.md",
-    "headings": [
-      {
-        "heading": "[Macrex-UCB] Welcome to Macrex-UCB@groups.io",
-        "level": 2
-      },
-      {
-        "heading": "Group Notification <Macrex-UCB+owner@groups.io>",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Epub indexes 1.0",
-    "relativePath": "1. Projects/x477 indexing course/Epub indexes 1.0.md",
-    "frontmatter": {
-      "created": "2022-08-31T14:35:08 (UTC -07:00)",
-      "source": "https://idpf.org/epub/idx/",
-      "author": "Luc Audrain, Hachette Livre",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 129
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "EPUB Indexes 1.0",
-        "level": 1
-      },
-      {
-        "heading": "Status of this Document",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s1 \"Link here\") 1 Overview",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s1.1 \"Link here\") 1.1 Purpose and Scope",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s1.2 \"Link here\") 1.2 Terminology",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s1.3 \"Link here\") 1.3 Conformance Statements",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#sec-typography \"Link here\") 1.4 Typographic Conventions",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "caution",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2 \"Link here\") 2 Indexes Definition",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.1 \"Link here\") 2.1 Introduction",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2 \"Link here\") 2.2 Content Documents and Components",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.1 \"Link here\") 2.2.1 Index, Index Head Notes",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.2 \"Link here\") 2.2.2 Index Groups",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.3 \"Link here\") 2.2.3 Entries and Terms",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.4 \"Link here\") 2.2.4 Locators",
-        "level": 4
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.5 \"Link here\") 2.2.5 Locator Ranges",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.6 \"Link here\") 2.2.6 Locator Target Structural Semantics",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.7 \"Link here\") 2.2.7 Cross-references",
-        "level": 4
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.8 \"Link here\") 2.2.8 Term Categories and Generic Cross-Reference Targets",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.8.1 \"Link here\") 2.2.8.1 Overview",
-        "level": 5
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.8.2 \"Link here\") 2.2.8.2 Navigating to Term Categories",
-        "level": 5
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.2.9 \"Link here\") 2.2.9 Punctuation and Lead-In Words",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.3 \"Link here\") 2.3 Identification of an Index",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.3.1 \"Link here\") 2.3.1 Identification of a Publication Containing Only Index(es)",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.3.2 \"Link here\") 2.3.2 Identification of Index Content Document(s)",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.3.2.1 \"Link here\") 2.3.2.1 Single-File Index(es)",
-        "level": 5
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.3.2.2 \"Link here\") 2.3.2.2 Multi-File Index(es) and the `collection` Element",
-        "level": 5
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.4 \"Link here\") 2.4 The Navigation Document",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.4.1 \"Link here\") 2.4.1 General Recommendations",
-        "level": 4
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s2.4.2 \"Link here\") 2.4.2 Term Categories Support",
-        "level": 4
-      },
-      {
-        "heading": "note",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s3 \"Link here\") 3 Conformance Criteria",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s3.1 \"Link here\") 3.1 Content Conformance",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#s3.2 \"Link here\") 3.2 Reading System Conformance",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#Appb \"Link here\") Appendix B. Examples",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#B.1 \"Link here\") B.1 Simplest possible index",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#B.2 \"Link here\") B.2 Full example",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#B.3 \"Link here\") B.3 Sample style sheet",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#Appc \"Link here\") Appendix C. Reading System Implementation Suggestions",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.1 \"Link here\") C.1 General Reading System Features Relative to Indexes",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.2 \"Link here\") C.2 Search Parameters",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.3 \"Link here\") C.3 Index Term Search",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.4 \"Link here\") C.4 Index Locator Search",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.5 \"Link here\") C.5 Highlighting of Locator Ranges",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.6 \"Link here\") C.6 Filtering of Indexes",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.7 \"Link here\") C.7 Provision of Additional Information about Locator Targets",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.8 \"Link here\") C.8 Enhancements to Term Categories and Generic Cross-Reference Targets",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#C.9 \"Link here\") C.9 Improved Index Navigation",
-        "level": 3
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#Appd \"Link here\") Appendix D. Alphabetical list of epub:types defined in this specification",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#acknowledgements \"Link here\") Appendix F. Acknowledgements and Contributors",
-        "level": 2
-      },
-      {
-        "heading": "[›](https://idpf.org/epub/idx/#references \"Link here\") References",
-        "level": 2
-      },
-      {
-        "heading": "Informative References",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Cindex group",
-    "relativePath": "1. Projects/x477 indexing course/Cindex group.md",
-    "headings": [
-      {
-        "heading": "[cindexusers] Welcome to cindexusers@groups.io",
-        "level": 2
-      },
-      {
-        "heading": "Group Notification <cindexusers+owner@groups.io>",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Useful to review before turning stuff in",
-    "relativePath": "1. Projects/x477 indexing course/0. Introductory material/Useful to review before turning stuff in.md"
   },
   {
     "fileName": "Syllabus Journ X477",
@@ -31955,6 +31571,132 @@
     ]
   },
   {
+    "fileName": "Macrex videos notes",
+    "relativePath": "1. Projects/Develop and document indexing processes/Macrex videos notes.md"
+  },
+  {
+    "fileName": "Remapping cmd-H to ctrl-H in parallels",
+    "relativePath": "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md"
+  },
+  {
+    "fileName": "Useful to review before turning stuff in",
+    "relativePath": "1. Projects/Develop and document indexing processes/Useful to review before turning stuff in.md"
+  },
+  {
+    "fileName": "Indexing to review",
+    "relativePath": "1. Projects/Develop and document indexing processes/Indexing to review.md"
+  },
+  {
+    "fileName": "Ongoing resources to read",
+    "relativePath": "1. Projects/Develop and document indexing processes/Ongoing resources to read.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "The Indexer",
+        "level": 1
+      },
+      {
+        "heading": "To review",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Successful Subheadings by Fred Leise",
+        "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sky Index - Shortcuts",
+    "relativePath": "1. Projects/Develop and document indexing processes/Sky Index - Shortcuts.md"
+  },
+  {
+    "fileName": "Index edit checklist",
+    "relativePath": "1. Projects/Develop and document indexing processes/Index edit checklist.md",
+    "headings": [
+      {
+        "heading": "1. Check publisher's stylesheet and set up index",
+        "level": 3
+      },
+      {
+        "heading": "2. Start indexing",
+        "level": 3
+      },
+      {
+        "heading": "While You're Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Main Heading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Subheading Issues",
+        "level": 4
+      },
+      {
+        "heading": "Cross-Reference Issues",
+        "level": 4
+      },
+      {
+        "heading": "Double-Posting Issues",
+        "level": 4
+      },
+      {
+        "heading": "General Editorial Issues to Keep an Eye On as You Go",
+        "level": 4
+      },
+      {
+        "heading": "When You've Completed the Index Structure",
+        "level": 3
+      },
+      {
+        "heading": "3. Editing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Getting back into the index (advice)",
+    "relativePath": "1. Projects/Develop and document indexing processes/Getting back into the index (advice).md",
+    "tags": [
+      "s"
+    ],
+    "headings": [
+      {
+        "heading": "Elena Gwynne",
+        "level": 4
+      },
+      {
+        "heading": "Amber DeDerick",
+        "level": 4
+      },
+      {
+        "heading": "Do Mi Stauber",
+        "level": 4
+      },
+      {
+        "heading": "Matthew MacLellan",
+        "level": 4
+      },
+      {
+        "heading": "Cynthia",
+        "level": 4
+      },
+      {
+        "heading": "Note on Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Charles Newman",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "Condiment research for Michael present",
     "relativePath": "1. Projects/Condiment/Condiment research for Michael present.md",
     "headings": [
@@ -31971,12 +31713,5 @@
   {
     "fileName": "00-scratchpad-note",
     "relativePath": "0. Inbox/00-scratchpad-note.md"
-  },
-  {
-    "fileName": "Getting back into the index (advice)",
-    "relativePath": "0. Inbox/Getting back into the index (advice).md",
-    "tags": [
-      "s"
-    ]
   }
 ]

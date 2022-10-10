@@ -1,6 +1,5 @@
 
 - [ ] #task Newcomers book in Kindle
-- [ ] #task _Facing the Text: Content and Structure in Book Indexing_ by Do Mi Stauber is available through [Domistauberindexing.com (Links to an external site.)](http://www.domistauberindexing.com/). The focus of this book is term selection and index structure. (decide whether to purchase now, or in the future)
 - [ ] #task _[Indexing from A to Z (Links to an external site.)](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Indexing+from+A+to+Z+by+Hans+Wellisch)_ by Hans Wellisch is an excellent reference providing an overview of indexing. (review for utility; maybe reread later) 
 
 

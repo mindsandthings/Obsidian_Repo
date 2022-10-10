@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic/Daily reminders.md",
+            "file": "6. North Star/0. Goals 2022-2023.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "6. North Star/0. Goals 2022-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Daily reminders.md",
+                "file": "6. North Star/0. Goals 2022-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Daily reminders.md"
+                "file": "6. North Star/0. Goals 2022-2023.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "daily/2022-10-10-Mon.md",
-    "2. Areas/Gallup Strengths/Strengths - 5. Responsibility.md",
-    "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
-    "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
-    "0. Inbox/Getting back into the index (advice).md",
-    "3. Resources/Stars game.md",
-    "4. Archive/licenses-passwords/Parallels license.md",
-    "2. Areas/health/High-dose thiamine.md",
-    "1. Projects/Garden/Gardening planning.md",
-    "periodic/Daily reminders.md"
+    "6. North Star/Make indexing money.md",
+    "6. North Star/0. Goals 2022-2023.md",
+    "1. Projects/Develop and document indexing processes/Getting back into the index (advice).md",
+    "1. Projects/Develop and document indexing processes/Indexing resources to read and review.md",
+    "1. Projects/Develop and document indexing processes/Index edit checklist.md",
+    "1. Projects/Develop and document indexing processes/Shortcuts - Sky Index.md",
+    "1. Projects/Develop and document indexing processes/Shortcuts - Macrex.md",
+    "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md",
+    "1. Projects/Develop and document indexing processes/Indexing to review.md",
+    "1. Projects/Develop and document indexing processes/Useful to review before turning stuff in.md"
   ]
 }
