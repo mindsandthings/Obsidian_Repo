@@ -2,7 +2,6 @@
 * 2022-09-19: wash hands every time bathroom or food prep or eat
 * Sat, Oct 1, 2022 remember, I tried lowering famotidine to 1/2 again
 * no reading in bed
-* Fri, Oct 7, 2022 try cutting out mayo
 * 
 
 # Self

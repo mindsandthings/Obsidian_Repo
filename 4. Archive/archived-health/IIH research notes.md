@@ -1,3 +1,5 @@
+
+
 # IIH research notes
 
 For all you folks who have had both a lumbar puncture and an intracranial pressure bolt test (admittedly, a small set), what was your opening pressure and what was the range of your ICP bolt pressures? How long between each measurement?
