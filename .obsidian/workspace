@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/High-dose thiamine.md",
+            "file": "0. Inbox/Condiment research for Michael present.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/High-dose thiamine.md",
+                "file": "0. Inbox/Condiment research for Michael present.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/High-dose thiamine.md",
+                "file": "0. Inbox/Condiment research for Michael present.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/High-dose thiamine.md"
+                "file": "0. Inbox/Condiment research for Michael present.md"
               }
             }
           },
@@ -152,6 +152,8 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "0. Inbox/Stars game.md",
+    "0. Inbox/High-dose thiamine.md",
     "2. Areas/health/IIH, lymph buildup, and nerve damage.md",
     "2. Areas/food/The Five Fatal Myths of Indexing.md",
     "2. Areas/food/Food notes.md",
@@ -159,8 +161,6 @@
     "periodic/Daily reminders.md",
     "1. Projects/marbela mystery/Marbela text.md",
     "0. Inbox/Parallels license.md",
-    "daily/2022-10-08-Sat.md",
-    "daily/2022-10-07-Fri.md",
-    "daily/2022-10-06-Thu.md"
+    "daily/2022-10-08-Sat.md"
   ]
 }
