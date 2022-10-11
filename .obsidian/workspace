@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/marbela mystery/Marbela text.md",
+            "file": "2. Areas/food/Food notes.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/marbela mystery/Marbela text.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "1. Projects/marbela mystery/Marbela text.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "6. North Star/0. Goals 2022-2023.md",
     "6. North Star/Make indexing money.md",
@@ -160,7 +161,6 @@
     "1. Projects/Develop and document indexing processes/Index edit checklist.md",
     "1. Projects/Develop and document indexing processes/Shortcuts - Sky Index.md",
     "1. Projects/Develop and document indexing processes/Shortcuts - Macrex.md",
-    "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md",
-    "1. Projects/Develop and document indexing processes/Indexing to review.md"
+    "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md"
   ]
 }
