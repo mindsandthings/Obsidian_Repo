@@ -1,5 +1,7 @@
 # Journal
 
+## Tue, Oct 11, 2022
+Having abdominal cramps from period and not feeling very learn-y. Would like to be though. 
 
 
 ## Thu, Oct 6, 2022

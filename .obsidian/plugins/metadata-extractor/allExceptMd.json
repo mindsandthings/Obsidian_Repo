@@ -5,10 +5,6 @@
       "relativePath": "/"
     },
     {
-      "name": "0. Inbox",
-      "relativePath": "0. Inbox"
-    },
-    {
       "name": "1. Projects",
       "relativePath": "1. Projects"
     },
@@ -29,8 +25,8 @@
       "relativePath": "6. North Star"
     },
     {
-      "name": "periodic",
-      "relativePath": "periodic"
+      "name": "0. Inbox",
+      "relativePath": "0. Inbox"
     },
     {
       "name": "4. Archive",
@@ -41,44 +37,44 @@
       "relativePath": "daily"
     },
     {
+      "name": "periodic",
+      "relativePath": "periodic"
+    },
+    {
       "name": "Condiment",
       "relativePath": "1. Projects/Condiment"
-    },
-    {
-      "name": "Develop and document indexing processes",
-      "relativePath": "1. Projects/Develop and document indexing processes"
-    },
-    {
-      "name": "Michael research",
-      "relativePath": "1. Projects/Michael research"
-    },
-    {
-      "name": "kraken",
-      "relativePath": "1. Projects/kraken"
-    },
-    {
-      "name": "marbela mystery",
-      "relativePath": "1. Projects/marbela mystery"
-    },
-    {
-      "name": "x477 indexing course",
-      "relativePath": "1. Projects/x477 indexing course"
     },
     {
       "name": "Indexing book group readings",
       "relativePath": "1. Projects/Indexing book group readings"
     },
     {
-      "name": "Web presence updates",
-      "relativePath": "2. Areas/Web presence updates"
+      "name": "Michael research",
+      "relativePath": "1. Projects/Michael research"
+    },
+    {
+      "name": "Develop and document indexing processes",
+      "relativePath": "1. Projects/Develop and document indexing processes"
     },
     {
       "name": "Garden",
       "relativePath": "1. Projects/Garden"
     },
     {
+      "name": "x477 indexing course",
+      "relativePath": "1. Projects/x477 indexing course"
+    },
+    {
+      "name": "marbela mystery",
+      "relativePath": "1. Projects/marbela mystery"
+    },
+    {
       "name": "EBT",
       "relativePath": "2. Areas/EBT"
+    },
+    {
+      "name": "Web presence updates",
+      "relativePath": "2. Areas/Web presence updates"
     },
     {
       "name": "health",
@@ -89,56 +85,52 @@
       "relativePath": "2. Areas/Gallup Strengths"
     },
     {
-      "name": "productivity",
-      "relativePath": "2. Areas/productivity"
-    },
-    {
       "name": "food",
       "relativePath": "2. Areas/food"
     },
     {
-      "name": "Informational interviewing",
-      "relativePath": "3. Resources/Informational interviewing"
-    },
-    {
-      "name": "Margie Lawson notes",
-      "relativePath": "3. Resources/Margie Lawson notes"
+      "name": "productivity",
+      "relativePath": "2. Areas/productivity"
     },
     {
       "name": "Copyediting and developmental editing",
       "relativePath": "3. Resources/Copyediting and developmental editing"
     },
     {
-      "name": "Indexing",
-      "relativePath": "3. Resources/Indexing"
-    },
-    {
-      "name": "Writing and cognition",
-      "relativePath": "3. Resources/Writing and cognition"
-    },
-    {
-      "name": "health",
-      "relativePath": "3. Resources/health"
-    },
-    {
-      "name": "indexing-book-group",
-      "relativePath": "3. Resources/indexing-book-group"
-    },
-    {
-      "name": "Strengths journal",
-      "relativePath": "3. Resources/Strengths journal"
-    },
-    {
-      "name": "kraken novel",
-      "relativePath": "3. Resources/kraken novel"
+      "name": "Informational interviewing",
+      "relativePath": "3. Resources/Informational interviewing"
     },
     {
       "name": "internal",
       "relativePath": "2. Areas/internal"
     },
     {
-      "name": "x477 Indexing course",
-      "relativePath": "3. Resources/x477 Indexing course"
+      "name": "Indexing",
+      "relativePath": "3. Resources/Indexing"
+    },
+    {
+      "name": "kraken",
+      "relativePath": "1. Projects/kraken"
+    },
+    {
+      "name": "Margie Lawson notes",
+      "relativePath": "3. Resources/Margie Lawson notes"
+    },
+    {
+      "name": "Writing and cognition",
+      "relativePath": "3. Resources/Writing and cognition"
+    },
+    {
+      "name": "Strengths journal",
+      "relativePath": "3. Resources/Strengths journal"
+    },
+    {
+      "name": "health",
+      "relativePath": "3. Resources/health"
+    },
+    {
+      "name": "kraken novel",
+      "relativePath": "3. Resources/kraken novel"
     },
     {
       "name": "Writing - fiction",
@@ -147,6 +139,14 @@
     {
       "name": "productivity",
       "relativePath": "3. Resources/productivity"
+    },
+    {
+      "name": "x477 Indexing course",
+      "relativePath": "3. Resources/x477 Indexing course"
+    },
+    {
+      "name": "indexing-book-group",
+      "relativePath": "3. Resources/indexing-book-group"
     },
     {
       "name": "indexing-people",
@@ -165,10 +165,6 @@
       "relativePath": "4. Archive/analyze writers"
     },
     {
-      "name": "archived-daily",
-      "relativePath": "4. Archive/archived-daily"
-    },
-    {
       "name": "archived-emergency-info",
       "relativePath": "4. Archive/archived-emergency-info"
     },
@@ -177,24 +173,32 @@
       "relativePath": "4. Archive/archived-diy"
     },
     {
-      "name": "archived-gardening",
-      "relativePath": "4. Archive/archived-gardening"
+      "name": "archived-finances-insurance",
+      "relativePath": "4. Archive/archived-finances-insurance"
+    },
+    {
+      "name": "archived-daily",
+      "relativePath": "4. Archive/archived-daily"
     },
     {
       "name": "archived-health",
       "relativePath": "4. Archive/archived-health"
     },
     {
-      "name": "archived-finances-insurance",
-      "relativePath": "4. Archive/archived-finances-insurance"
+      "name": "archived-holidays",
+      "relativePath": "4. Archive/archived-holidays"
     },
     {
       "name": "archived-how-tos",
       "relativePath": "4. Archive/archived-how-tos"
     },
     {
-      "name": "archived-holidays",
-      "relativePath": "4. Archive/archived-holidays"
+      "name": "archived-gardening",
+      "relativePath": "4. Archive/archived-gardening"
+    },
+    {
+      "name": "archived-haeth (rpg)",
+      "relativePath": "4. Archive/archived-haeth (rpg)"
     },
     {
       "name": "archived-inventories",
@@ -205,12 +209,12 @@
       "relativePath": "4. Archive/archived-judaism"
     },
     {
-      "name": "archived-homeschooling",
-      "relativePath": "4. Archive/archived-homeschooling"
-    },
-    {
       "name": "archived-mission-peak-housing-coop",
       "relativePath": "4. Archive/archived-mission-peak-housing-coop"
+    },
+    {
+      "name": "archived-homeschooling",
+      "relativePath": "4. Archive/archived-homeschooling"
     },
     {
       "name": "archived-michael",
@@ -221,10 +225,6 @@
       "relativePath": "4. Archive/archived-journaling"
     },
     {
-      "name": "archived-reviews",
-      "relativePath": "4. Archive/archived-reviews"
-    },
-    {
       "name": "archived-roommates",
       "relativePath": "4. Archive/archived-roommates"
     },
@@ -233,32 +233,36 @@
       "relativePath": "4. Archive/archived-sensitivity-read"
     },
     {
-      "name": "archived-productivity",
-      "relativePath": "4. Archive/archived-productivity"
+      "name": "archived-records",
+      "relativePath": "4. Archive/archived-records"
     },
     {
-      "name": "asl",
-      "relativePath": "4. Archive/asl"
+      "name": "archived-productivity",
+      "relativePath": "4. Archive/archived-productivity"
     },
     {
       "name": "autchat",
       "relativePath": "4. Archive/autchat"
     },
     {
-      "name": "archived-sunrise-movement",
-      "relativePath": "4. Archive/archived-sunrise-movement"
+      "name": "asl",
+      "relativePath": "4. Archive/asl"
     },
     {
       "name": "backups",
       "relativePath": "4. Archive/backups"
     },
     {
-      "name": "bass-guitar",
-      "relativePath": "4. Archive/bass-guitar"
+      "name": "archived-sunrise-movement",
+      "relativePath": "4. Archive/archived-sunrise-movement"
     },
     {
       "name": "autism",
       "relativePath": "4. Archive/autism"
+    },
+    {
+      "name": "bass-guitar",
+      "relativePath": "4. Archive/bass-guitar"
     },
     {
       "name": "civic-participation",
@@ -273,40 +277,36 @@
       "relativePath": "4. Archive/correspondence-drafts"
     },
     {
-      "name": "cw-pubq",
-      "relativePath": "4. Archive/cw-pubq"
-    },
-    {
       "name": "embassy-common",
       "relativePath": "4. Archive/embassy-common"
+    },
+    {
+      "name": "bios",
+      "relativePath": "4. Archive/bios"
     },
     {
       "name": "emergency-preparedness",
       "relativePath": "4. Archive/emergency-preparedness"
     },
     {
-      "name": "finances-insurance",
-      "relativePath": "4. Archive/finances-insurance"
-    },
-    {
       "name": "food",
       "relativePath": "4. Archive/food"
     },
     {
-      "name": "friends",
-      "relativePath": "4. Archive/friends"
+      "name": "finances-insurance",
+      "relativePath": "4. Archive/finances-insurance"
+    },
+    {
+      "name": "cw-pubq",
+      "relativePath": "4. Archive/cw-pubq"
     },
     {
       "name": "gardening",
       "relativePath": "4. Archive/gardening"
     },
     {
-      "name": "images",
-      "relativePath": "4. Archive/images"
-    },
-    {
-      "name": "indexing",
-      "relativePath": "4. Archive/indexing"
+      "name": "friends",
+      "relativePath": "4. Archive/friends"
     },
     {
       "name": "indexing-book-group",
@@ -317,16 +317,16 @@
       "relativePath": "4. Archive/karl"
     },
     {
-      "name": "archived-haeth (rpg)",
-      "relativePath": "4. Archive/archived-haeth (rpg)"
+      "name": "kindle-notes",
+      "relativePath": "4. Archive/kindle-notes"
+    },
+    {
+      "name": "indexing",
+      "relativePath": "4. Archive/indexing"
     },
     {
       "name": "kitchen island refinishing",
       "relativePath": "4. Archive/kitchen island refinishing"
-    },
-    {
-      "name": "archived-records",
-      "relativePath": "4. Archive/archived-records"
     },
     {
       "name": "lists",
@@ -349,24 +349,20 @@
       "relativePath": "4. Archive/media-recs"
     },
     {
-      "name": "bios",
-      "relativePath": "4. Archive/bios"
-    },
-    {
-      "name": "kindle-notes",
-      "relativePath": "4. Archive/kindle-notes"
+      "name": "obsidian",
+      "relativePath": "4. Archive/obsidian"
     },
     {
       "name": "pl",
       "relativePath": "4. Archive/pl"
     },
     {
-      "name": "socializing",
-      "relativePath": "4. Archive/socializing"
-    },
-    {
       "name": "recipes",
       "relativePath": "4. Archive/recipes"
+    },
+    {
+      "name": "socializing",
+      "relativePath": "4. Archive/socializing"
     },
     {
       "name": "tech stuff",
@@ -385,12 +381,16 @@
       "relativePath": "4. Archive/timezone"
     },
     {
+      "name": "tracking",
+      "relativePath": "4. Archive/tracking"
+    },
+    {
       "name": "trauma-and-associated",
       "relativePath": "4. Archive/trauma-and-associated"
     },
     {
-      "name": "tracking",
-      "relativePath": "4. Archive/tracking"
+      "name": "archived-reviews",
+      "relativePath": "4. Archive/archived-reviews"
     },
     {
       "name": "vertical heterophoria",
@@ -405,48 +405,44 @@
       "relativePath": "4. Archive/vr-quest-art"
     },
     {
-      "name": "licenses-passwords",
-      "relativePath": "4. Archive/licenses-passwords"
+      "name": "validating",
+      "relativePath": "4. Archive/validating"
     },
     {
       "name": "writing business",
       "relativePath": "4. Archive/writing business"
     },
     {
-      "name": "writing-fiction",
-      "relativePath": "4. Archive/writing-fiction"
+      "name": "work-setup",
+      "relativePath": "4. Archive/work-setup"
     },
     {
       "name": "writing-fiction-research",
       "relativePath": "4. Archive/writing-fiction-research"
     },
     {
-      "name": "obsidian",
-      "relativePath": "4. Archive/obsidian"
+      "name": "writing-julie",
+      "relativePath": "4. Archive/writing-julie"
     },
     {
       "name": "writing-nonfiction",
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "writing-julie",
-      "relativePath": "4. Archive/writing-julie"
+      "name": "images",
+      "relativePath": "4. Archive/images"
     },
     {
-      "name": "work-setup",
-      "relativePath": "4. Archive/work-setup"
+      "name": "licenses-passwords",
+      "relativePath": "4. Archive/licenses-passwords"
     },
     {
-      "name": "validating",
-      "relativePath": "4. Archive/validating"
+      "name": "writing-fiction",
+      "relativePath": "4. Archive/writing-fiction"
     },
     {
       "name": "0. Introductory material",
       "relativePath": "1. Projects/x477 indexing course/0. Introductory material"
-    },
-    {
-      "name": "Module 10",
-      "relativePath": "1. Projects/x477 indexing course/Module 10"
     },
     {
       "name": "Module 8",
@@ -461,6 +457,10 @@
       "relativePath": "1. Projects/x477 indexing course/Module 9"
     },
     {
+      "name": "Module 10",
+      "relativePath": "1. Projects/x477 indexing course/Module 10"
+    },
+    {
       "name": "Business planning",
       "relativePath": "3. Resources/Indexing/Business planning"
     },
@@ -469,16 +469,36 @@
       "relativePath": "3. Resources/Strengths journal/strengths-2022"
     },
     {
-      "name": "Mysteries",
-      "relativePath": "3. Resources/Writing - fiction/Mysteries"
-    },
-    {
       "name": "Coaching notes",
       "relativePath": "4. Archive/Strengths course/Coaching notes"
     },
     {
+      "name": "Module 2",
+      "relativePath": "3. Resources/x477 Indexing course/Module 2"
+    },
+    {
       "name": "Strengths course texts",
       "relativePath": "4. Archive/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "Module 3 - Term Selection",
+      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
+    },
+    {
+      "name": "Module 4 - Indexing Specifications",
+      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
+    },
+    {
+      "name": "Module 1",
+      "relativePath": "3. Resources/x477 Indexing course/Module 1"
+    },
+    {
+      "name": "Module 6",
+      "relativePath": "3. Resources/x477 Indexing course/Module 6"
+    },
+    {
+      "name": "Module 5",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5"
     },
     {
       "name": "archived-apd-has",
@@ -493,38 +513,6 @@
       "relativePath": "4. Archive/archived-health/archived-vertical-heterophoria"
     },
     {
-      "name": "Module 2",
-      "relativePath": "3. Resources/x477 Indexing course/Module 2"
-    },
-    {
-      "name": "Module 3 - Term Selection",
-      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
-    },
-    {
-      "name": "Module 4 - Indexing Specifications",
-      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
-    },
-    {
-      "name": "Module 6",
-      "relativePath": "3. Resources/x477 Indexing course/Module 6"
-    },
-    {
-      "name": "Module 1",
-      "relativePath": "3. Resources/x477 Indexing course/Module 1"
-    },
-    {
-      "name": "Module 5",
-      "relativePath": "3. Resources/x477 Indexing course/Module 5"
-    },
-    {
-      "name": "family",
-      "relativePath": "4. Archive/finances-insurance/family"
-    },
-    {
-      "name": "ASI Module A",
-      "relativePath": "4. Archive/indexing/ASI Module A"
-    },
-    {
       "name": "Bio for Translunar Travelers Lounge Jan 2020",
       "relativePath": "4. Archive/bios/Bio for Translunar Travelers Lounge Jan 2020"
     },
@@ -535,6 +523,18 @@
     {
       "name": "Resumes",
       "relativePath": "4. Archive/bios/Resumes"
+    },
+    {
+      "name": "family",
+      "relativePath": "4. Archive/finances-insurance/family"
+    },
+    {
+      "name": "ASI Module A",
+      "relativePath": "4. Archive/indexing/ASI Module A"
+    },
+    {
+      "name": "Mysteries",
+      "relativePath": "3. Resources/Writing - fiction/Mysteries"
     },
     {
       "name": "Indexing exercise 2",
@@ -572,11 +572,6 @@
       "relativePath": "3. Resources/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     },
     {
-      "name": "Pasted image 20220921094134.png",
-      "basename": "Pasted image 20220921094134",
-      "relativePath": "4. Archive/images/Pasted image 20220921094134.png"
-    },
-    {
       "name": "Pasted image 20220921094055.png",
       "basename": "Pasted image 20220921094055",
       "relativePath": "4. Archive/images/Pasted image 20220921094055.png"
@@ -587,6 +582,16 @@
       "relativePath": "4. Archive/images/Pasted image 20220924101404.png"
     },
     {
+      "name": "Pasted image 20220921094134.png",
+      "basename": "Pasted image 20220921094134",
+      "relativePath": "4. Archive/images/Pasted image 20220921094134.png"
+    },
+    {
+      "name": "Pasted image 20220924110409.png",
+      "basename": "Pasted image 20220924110409",
+      "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
+    },
+    {
       "name": "Pasted image 20220924101351.png",
       "basename": "Pasted image 20220924101351",
       "relativePath": "4. Archive/images/Pasted image 20220924101351.png"
@@ -595,11 +600,6 @@
       "name": "Pasted image 20220924110420.png",
       "basename": "Pasted image 20220924110420",
       "relativePath": "4. Archive/images/Pasted image 20220924110420.png"
-    },
-    {
-      "name": "Pasted image 20220924110409.png",
-      "basename": "Pasted image 20220924110409",
-      "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
     },
     {
       "name": "Pasted image 20220916193915.png",
