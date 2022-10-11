@@ -1,3 +1,10 @@
+- [[#Plot threads|Plot threads]]
+	- [[#Plot threads#Ghost girl/history/wars|Ghost girl/history/wars]]
+	- [[#Plot threads#caterpillars/army/manuals|caterpillars/army/manuals]]
+	- [[#Plot threads#What does Lily tell Madison|What does Lily tell Madison]]
+
+
+
 How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
 
 In the vaults, Flyer needs to say "meet you at teh high ground"
@@ -14,6 +21,7 @@ Where to put the flip / gravity stuff? Do need to address it - it's why some are
 When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
 
 
+### Plot threads
 
 
 #### Ghost girl/history/wars
@@ -30,6 +38,17 @@ Madison needs to know enough about the vault key to figure out she can use it to
 So Lily tells her they're after a treasure the Courts have locked up that will provide an unlimited power source, and that the Courts are using it to prevent competitors. Lily has not told Madison she's working for the magic schools. 
 
 
+# Bellflower
+
+
+
+
+
+# Aimee
+
+what does FPA say about talents / prohibited talents? 
+
+
 -----
 
 Do I want to make the components iron/magnetite/something like that? 
@@ -38,11 +57,10 @@ Turn it back to a rabbit?
 
 Nail down dates for Lily bringing the device through, and Lily poisoning the kraken. 
 
-what does FPA say about talents / prohibited talents? 
 
 give Aimee an employee ID tattoo
 
-should blood play a role in the favor tokens? 
+should blood play a role in the favor tokens? yes
 
 I'd like to do a better job of the Aimee-Madison dynamic
 
