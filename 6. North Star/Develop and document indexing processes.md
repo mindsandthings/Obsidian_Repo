@@ -17,6 +17,7 @@ Use a Keyword to add a unique (and hidden) tag (such as {~dp~}) to any entry whi
 
 #### Cindex
 Add a hidden field with a complicated process. You then have to tab past this field for every entry. You also have to ask it to ignore when sorting records and hide when it displays a formatted index. (211)
+
 #### Sky
 Hide text by selecting it and hitting Ctrl+T. Hidden text affects the sort, but does not print. It will display blue. 
 
@@ -40,6 +41,15 @@ Each group you save becomes an item in the Group submenu in the View menu (it is
 Cindex can find and add to a group all the records that make cross-references to records already in the group.
 
 ### How easy/hard to search by locator range? 
+#### Macrex
+
+#### Cindex
+
+#### Sky
+
+
+
+
 
 ### Can I show/hide based on labels?
 #### Macrex
@@ -51,10 +61,25 @@ Hide records by label by checking a box and checking enable hiding. Those are tr
 
 
 ### How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?
+#### Macrex
+
+#### Cindex
+
+#### Sky
 
 ### Is the search lost when I go to another screen? 
+#### Macrex
+
+#### Cindex
+
+#### Sky
 
 ### "I want this topic and its parent topics but not its sister topics"
+#### Macrex
+
+#### Cindex
+
+#### Sky
 
 
 ## Merging separate indexes

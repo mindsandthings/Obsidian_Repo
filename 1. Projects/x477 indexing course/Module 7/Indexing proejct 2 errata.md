@@ -1,4 +1,10 @@
 
+* Need to -   **Include the authors of the article in the index but** **only on the page or pages that the names actually appear on.**  go back and do this!!!! does this mean "outside the parentheses" or any citation at all? 
+* **Index all author citations, including those inside the parentheses.**: but not those in the et al? 
+* Go back and get the outside-parentheses as substantive discussions? 
+* need to check all references that occur over a page break, sI have some that have ranges but not sure if I caught others
+
+
 # L. M. Andersson's name typo'd as L. A.: 
 
 Pearson, C. M., Andersson, L. A., & Porath, C. L. (2000). Assessing and
@@ -30,3 +36,14 @@ http://dx.doi.org/10.1037/10893-008
 
 [does full title need to be included??]
 [also the text lists it as "forthcoming"??]
+
+
+# Missing initial for Schein
+
+Schein, E. (1990). Organizational culture. American Psychologist, February,
+109–119.
+
+Should be Schein, E. H. 
+https://psycnet.apa.org/record/1990-15978-001
+
+The other Schein citation has the correct initials. I have put it as E. H. in the index. 
