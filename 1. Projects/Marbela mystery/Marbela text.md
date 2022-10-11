@@ -191,9 +191,9 @@ f. Watch someone else. (The manatee kid? The school of herring art students? The
 
 g. Bring Mademoiselle Lifi a reviving drink. 
 
-# Chapter 2: The Detective
+# Chapter 2: Parking Tickets
 
-## f. watch the stuffy-looking shrimp and g. bring Mademoiselle Lifi a reviving drink. 
+## Watch the stuffy-looking shrimp. Bring Mademoiselle Lifi a reviving drink. 
 
 Oh no! Poor Mr. Shramply. Someone had stolen his wall! Marbela felt awful for him. 
 
@@ -223,7 +223,7 @@ c. Say "did you see who did it?"
 
 d. Say, "oh gosh, I'm glad you're feeling better! I thought you'd passed out."
 
-## b. Turn and follow her gaze. Try to spot what she's looking at. 
+## Turn and follow her gaze. Try to spot what she's looking at. 
 
 Marbela followed Mademoiselle Lifi's gaze to Mr. Shramply, who appeared to be having an increasingly heated conversation with Aria. 
 
@@ -238,7 +238,7 @@ A little ripple of disappointment ran down Marbela's arms. She'd hoped for a mor
 "Hmmph." Mademoiselle Lifi held up the glass, inspecting the contents, then inspected Marbela through the contents. "What is your part in all this? Did you steal my mural? Did you not think it was sufficiently flattering for your ancestor?"
 
 
-## How does Marbela react? 
+### How does Marbela react? 
 
 a. With bafflement. She's a caterer. Why would she steal a mural? She's not even related to Augusta, as far as she knows. 
 
@@ -288,7 +288,7 @@ e. Oh no. Maybe she's better try to check the van for evidence...and hide it if 
 f. Even if Paisley's related to Octavia, there's no reason for her to have stolen the mural.
 
 
-## e. Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
+## Oh no. Maybe she's better try to check the van for evidence...and hide it if there is any.
 
 Marbela's head spun. Mademoiselle Lifi receded along with the courtyard's din, leaving Marbela alone with nothing to keep her company but the increasingly insistent thought that maybe Paisley really had stolen the mural. 
 
@@ -347,7 +347,7 @@ He gave her a long look, then appeared to decide to drop it. "Detective Inspecto
 
 She had to be looking for the parking tickets. She knew Detective Inspector Holmes was coming and she didn't want to get caught. 
 
-## Marbela's still holding the crumpled parking tickets. What should she say?
+### Marbela's still holding the crumpled parking tickets. What should she say?
 
 a. "It's okay, I took care of it."
 
@@ -386,7 +386,7 @@ e. "Paisley, I'm trying to help."
 
 f. "Paisley, we're trying to help."
 
-## "Paisley, he's six! He can't get in someone else's van without his parents' permission!" "Paisley, I just want to *talk* to you."
+## "Paisley, he's six! He can't get in someone else's van without his parents' permission! Paisley, I just want to *talk* to you."
 
 That was a terrible idea. "Paisley, he's six! He can't get in someone else's van without his parents' permission!" 
 
@@ -406,7 +406,7 @@ Marbela opened her mouth to say that yes, Paisley's private life was hers but st
 
 Marbela looked up. Behind Paisley floated a pale lavender axolotl, a rumpled tweed cap perched between his feathery external gills and a huge magnifying glass in his right hand. He raised it to his eye and blinked at Marbela. "I—" the word was audibly bolded, underlined, and italicized— "am Detective Inspector Axl Otl Holmes. Has anyone here seen any clues?"
 
-## How should Marbela respond?
+### How should Marbela respond?
 
 a. "No! No clues here!"
 
@@ -448,9 +448,43 @@ a. Make the snack and drink.
 
 b. Actually talk to Paisley. 
 
-c. Go with the manatee kid to help DI Holmes off Paisley's scent. 
+c. Go with the manatee kid to help keep DI Holmes off Paisley's scent. 
 
 d. Hide the parking tickets. 
 
 
+# Chapter 3: The Detective
 
+## Hide the parking tickets. Actually talk to Paisley. Make the snack and drink. Go with the manatee kid to help keep DI Holmes off Paisley's scent. 
+
+There was a crack in between the van's bumper and its body where Paisley had hit a coral reef after getting sideswiped by a stingray. Marbela smoothed out the tickets and shoved them in. 
+
+Paisley reached past her, shoved the bumper flush with the car, and leaned against it. The loose curl of her arms said *casual* but the look in her eyes said *pissed*. 
+
+Marbela quailed. Her arms wound themselves around each other. She'd always hated it when people got angry with her, hated it so much she'd hide under the nearest rock, furniture, or friend.
+
+The underside of the van beckoned, but she was an adult, dammit. No hiding under furniture or vehicles for her. Her cousin needed help, regardless of her terminal grouchiness. 
+
+Marbela stood her ground, forced her arms to relax, tried to ignore the manatee kid watching them, and kept her voice down. "I have to know if there's any other evidence I need to help you hide."
+
+Whatever Paisley had been expecting, it wasn't that. She flushed mauve with bemusement. "You can help me hide it by not going looking for it." The tone of her voice said: you dolt. The undertone said: thanks, you're a nice kid, but you've helped enough, go *home*. 
+
+"I'm not a kid! I'm only three months younger than you are! And I'm not going home." Marbela realized too late that Paisley hadn't actually said that part out loud, and might not even know she was saying it. She scooted closer to Paisley and lowered her voice so the manatee kid wouldn't hear her. "I don't want you going to jail for art theft. Tell me what we have to hide."
+
+Paisley flushed yellow with surprise, then lime green with shock. "*Art theft?*"
+
+"...yes?" Marbela felt suddenly like she was in shifting currents. Her head felt weird. The manatee kid was watching her intently. 
+
+She leaned on the bumper to steady herself. It creaked and dropped a notch, sending her sliding off. The manatee kid looked down at her with an expression of mild concern, like he was worried about the future of his snack. 
+
+With a wrench, Paisley shoved the bumper back into place. "Marbela, I'm not an art thief. I'm dating someone my family doesn't approve of. I don't want them finding out about it. That means I don't want your family finding out about it, either. Now stop breaking my van and go do something else."
+
+
+
+## What snack should she make for the kid, to accompany the Marbelini? 
+
+a. She feels embarrassed and kind of dumb. Make something complex and intricate to make her feel better about herself. 
+
+b. She's still worried about DI Holmes suspecting Paisley, even if Paisley didn't do it. Make something fast so they can catch up to him. 
+
+c. Despite her crappy day, she's still got hope for a Kelp review. Make something that complements the Marbelini perfectly. 
