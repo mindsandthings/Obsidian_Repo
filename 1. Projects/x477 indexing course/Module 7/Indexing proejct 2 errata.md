@@ -5,6 +5,10 @@
 * need to check all references that occur over a page break, sI have some that have ranges but not sure if I caught others
 remember to create a combined index!!!
 
+don't forget the see also's
+
+standardize language (target and instigator singular vs plural)
+
 search for all asterisks and fix
 remember ot ad da note re fig, if I index the figure separately
 
