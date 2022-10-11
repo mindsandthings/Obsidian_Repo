@@ -1,3 +1,6 @@
+How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
+
+
 
 
 When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 

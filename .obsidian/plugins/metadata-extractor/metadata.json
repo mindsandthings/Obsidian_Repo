@@ -25990,9 +25990,9 @@
         "relativePath": "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md"
       },
       {
-        "fileName": "Ongoing resources to read",
+        "fileName": "Indexing resources to read and review",
         "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "1. Projects/Develop and document indexing processes/Ongoing resources to read.md"
+        "relativePath": "1. Projects/Develop and document indexing processes/Indexing resources to read and review.md"
       }
     ]
   },
@@ -31571,24 +31571,8 @@
     ]
   },
   {
-    "fileName": "Macrex videos notes",
-    "relativePath": "1. Projects/Develop and document indexing processes/Macrex videos notes.md"
-  },
-  {
-    "fileName": "Remapping cmd-H to ctrl-H in parallels",
-    "relativePath": "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md"
-  },
-  {
-    "fileName": "Useful to review before turning stuff in",
-    "relativePath": "1. Projects/Develop and document indexing processes/Useful to review before turning stuff in.md"
-  },
-  {
-    "fileName": "Indexing to review",
-    "relativePath": "1. Projects/Develop and document indexing processes/Indexing to review.md"
-  },
-  {
-    "fileName": "Ongoing resources to read",
-    "relativePath": "1. Projects/Develop and document indexing processes/Ongoing resources to read.md",
+    "fileName": "Indexing resources to read and review",
+    "relativePath": "1. Projects/Develop and document indexing processes/Indexing resources to read and review.md",
     "tags": [
       "task"
     ],
@@ -31610,8 +31594,16 @@
     ]
   },
   {
-    "fileName": "Sky Index - Shortcuts",
-    "relativePath": "1. Projects/Develop and document indexing processes/Sky Index - Shortcuts.md"
+    "fileName": "Shortcuts - Sky Index",
+    "relativePath": "1. Projects/Develop and document indexing processes/Shortcuts - Sky Index.md"
+  },
+  {
+    "fileName": "Shortcuts - Macrex",
+    "relativePath": "1. Projects/Develop and document indexing processes/Shortcuts - Macrex.md"
+  },
+  {
+    "fileName": "Remapping cmd-H to ctrl-H in parallels",
+    "relativePath": "1. Projects/Develop and document indexing processes/Remapping cmd-H to ctrl-H in parallels.md"
   },
   {
     "fileName": "Index edit checklist",
