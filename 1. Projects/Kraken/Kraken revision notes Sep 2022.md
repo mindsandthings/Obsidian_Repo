@@ -1,9 +1,17 @@
 How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
 
+In the vaults, Flyer needs to say "meet you at teh high ground"
+
+
+Timeline! For kraken poisoning! At least a few days earlier, for the caterpillars
+
+Where to put the flip / gravity stuff? Do need to address it - it's why some areas are down/flooded and others up/unflooded, right near the surface - maybe Madison and Aimee go through it on their way out of the vaults. 
 
 
 
 When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
+
+
 
 
 
