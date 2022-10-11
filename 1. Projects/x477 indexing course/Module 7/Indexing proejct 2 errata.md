@@ -3,47 +3,16 @@
 * **Index all author citations, including those inside the parentheses.**: but not those in the et al? 
 * Go back and get the outside-parentheses as substantive discussions? 
 * need to check all references that occur over a page break, sI have some that have ranges but not sure if I caught others
+remember to create a combined index!!!
 
+search for all asterisks and fix
+remember ot ad da note re fig, if I index the figure separately
 
-# L. M. Andersson's name typo'd as L. A.: 
+# Errata
 
-Pearson, C. M., Andersson, L. A., & Porath, C. L. (2000). Assessing and
-attacking workplace incivility. Organizational Dynamics, 123–137.
-Pearson, C. M., Andersson, L. A., & Wegner, J. A. (2001). When workers
-flout convention: A preliminary study of workplace incivility. Human
-Relations, 54, 1387–1420.
-***This is wrong - Andersson's middle initial should be M for both of these. It's correct in Andersson, L. M., & Pearson, C. M. (1999).
-https://psycnet.apa.org/record/2000-14298-004
-https://www.scirp.org/reference/ReferencesPapers.aspx?ReferenceID=1656324
+* L. M. Andersson's name is given with the wrong middle initial in the following citations: Pearson, Andersson, & Porath (2000); Pearson, Andersson, & Wegner (2001); Pearson, Andersson, & Porath (in press). The correct middle initial is A (see https://doi.org/10.1016/S0090-2616(00)00019-X; https://doi.org/10.1177/001872670154110; http://dx.doi.org/10.1037/10893-008). I have used L. M. in the index. 
+* Pearson, Andersson, & Porath is described as forthcoming (page 407) and cited as in press. It has since been published: http://dx.doi.org/10.1037/10893-008
+* E. H. Schein's middle initial is correct in Schein (1992) but missing for Schein (1990). See https://doi.org/10.1037/0003-066X.45.2.109 I have used E. H. in the index. 
+* The article cited as Barsade (in press) has since been published: https://doi.org/10.2307/3094912
+* One article is in the references but not cited in the text (O'Leary-Kelly, Paetzold, & Griffin, 2000b). Note that this also affects the use of "2000a" for the other O'Leary-Kelly and colleagues article. 
 
-
-Pearson, C. M., Andersson, L. A., & Porath, C. L. (in press). Workplace
-incivility. In P. Spector & S. Fox (Eds.), Counterproductive workplace
-behavior. Washington, D.C.: American Psychological Association.
-
-It is also probably incorrect in the above, unless the author changed their name. 
-
-I have corrected it to L. M. in the index in all cases; please let me know if you would prefer otherwise.  
-
-# Update to publication year
-Pearson, C. M., Andersson, L. A., & Porath, C. L. (in press). Workplace
-incivility. In P. Spector & S. Fox (Eds.), Counterproductive workplace
-behavior. Washington, D.C.: American Psychological Association.
-
-This has now been published, and should be 2005 with page numbers etc added (in addition to changing author initials for Andersson): 
-Pearson, C. M., Andersson, L. M., & Porath, C. L. (2005). Workplace Incivility. In S. Fox, & P. Spector (Eds.), Counterproductive Work Behaviour: Investigations of Actors and Targets (pp. 177-200). Washington DC: American Psychological Association.  
-http://dx.doi.org/10.1037/10893-008
-
-[does full title need to be included??]
-[also the text lists it as "forthcoming"??]
-
-
-# Missing initial for Schein
-
-Schein, E. (1990). Organizational culture. American Psychologist, February,
-109–119.
-
-Should be Schein, E. H. 
-https://psycnet.apa.org/record/1990-15978-001
-
-The other Schein citation has the correct initials. I have put it as E. H. in the index. 
