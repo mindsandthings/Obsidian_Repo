@@ -121,10 +121,6 @@
       "relativePath": "3. Resources/Writing and cognition"
     },
     {
-      "name": "Strengths journal",
-      "relativePath": "3. Resources/Strengths journal"
-    },
-    {
       "name": "health",
       "relativePath": "3. Resources/health"
     },
@@ -465,10 +461,6 @@
       "relativePath": "3. Resources/Indexing/Business planning"
     },
     {
-      "name": "strengths-2022",
-      "relativePath": "3. Resources/Strengths journal/strengths-2022"
-    },
-    {
       "name": "Coaching notes",
       "relativePath": "4. Archive/Strengths course/Coaching notes"
     },
@@ -543,6 +535,14 @@
     {
       "name": "IRS independent contractor info",
       "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info"
+    },
+    {
+      "name": "Strengths",
+      "relativePath": "4. Archive/Strengths"
+    },
+    {
+      "name": "strengths-2022",
+      "relativePath": "4. Archive/Strengths/strengths-2022"
     }
   ],
   "nonMdFiles": [
@@ -565,11 +565,6 @@
       "name": "Progressive Summarization Cheat Sheet.pdf",
       "basename": "Progressive Summarization Cheat Sheet",
       "relativePath": "2. Areas/productivity/Progressive Summarization Cheat Sheet.pdf"
-    },
-    {
-      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
-      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
-      "relativePath": "3. Resources/Strengths journal/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     },
     {
       "name": "Pasted image 20220921094055.png",
@@ -635,6 +630,11 @@
       "name": "ttl2-2560x1600-1.jpg",
       "basename": "ttl2-2560x1600-1",
       "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
+    },
+    {
+      "name": "Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf",
+      "basename": "Noe-Bartmess-Top-5-Strengths-Print_annoteted",
+      "relativePath": "4. Archive/Strengths/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     }
   ]
 }
