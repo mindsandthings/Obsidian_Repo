@@ -12,6 +12,9 @@ Where to put the flip / gravity stuff? Do need to address it - it's why some are
 When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
 
 
+work out so that Aimee knows how to transfer the army, and make it clear in the ghost girl appearance that that's what they're going to do — since lily needs to know it's a possibility
+
+
 
 
 
