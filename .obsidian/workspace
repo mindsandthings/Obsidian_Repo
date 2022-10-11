@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+            "file": "0. Inbox/ASI-PNW website errata.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+                "file": "0. Inbox/ASI-PNW website errata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+                "file": "0. Inbox/ASI-PNW website errata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md"
+                "file": "0. Inbox/ASI-PNW website errata.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md",
-    "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.9 Special issues in indexing  names.md",
-    "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.8 Name slash author indexes for specific text types.md",
+    "0. Inbox/Bamboo plant repotting.md",
     "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
     "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
     "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
-    "0. Inbox/Untitled.md",
-    "0. Inbox/Bamboo plant repotting.md",
-    "daily/2022-10-11-Tue.md",
-    "2. Areas/Gallup Strengths/Strengths - 1. Input.md"
+    "1. Projects/x477 indexing course/Module 7/7.2 Indexing Expert A (Sky).md",
+    "1. Projects/x477 indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
+    "1. Projects/x477 indexing course/Module 7/7.4 Indexing Expert C (Macrex).md",
+    "1. Projects/x477 indexing course/Module 7/7.5 Home Office Issues.md",
+    "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/Exercise 3 notes.md",
+    "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.13 Indexing exercise 3 - check against web original.md"
   ]
 }
