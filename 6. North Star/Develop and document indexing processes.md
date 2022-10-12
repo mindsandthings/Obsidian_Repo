@@ -1,10 +1,3 @@
-# Collate processes
-1. ~~Review class materials
-2. ~~Review class readings
-3. ~~Review Do Mi's book
-4. ~~Review Evernote checklists
-5. Edit into checklist
-
 
 
 # Features to learn: go through manuals
