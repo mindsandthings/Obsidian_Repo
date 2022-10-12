@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+            "file": "1. Projects/Condiment/Condiment research for Michael present.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "1. Projects/Condiment/Condiment research for Michael present.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "1. Projects/Condiment/Condiment research for Michael present.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md"
+                "file": "1. Projects/Condiment/Condiment research for Michael present.md"
               }
             }
           },
@@ -153,8 +153,8 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
-    "daily/2022-10-11-Tue.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+    "daily/2022-10-11-Tue.md",
     "1. Projects/kraken/Kraken revision process.md",
     "1. Projects/marbela mystery/Classic 12-Chapter Murder Mystery Formula.md",
     "1. Projects/Indexing book group readings/Indexing Book club Oct 3 2022.md",

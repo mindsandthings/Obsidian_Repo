@@ -1,21 +1,15 @@
 3 condiments for M
 
 1. A chimichurri variant: 75:25 cilantro:parsley with rosemary and thyme. 
-https://www.allrecipes.com/recipe/14122/green-chutney/
-(cilantro, ginger, peanuts, lemon juice, garlic)
-https://www.vegrecipesofindia.com/coriander-chutney/
+
+2. Pesto (parsley)
+get 2 boxes vegan mac and cheese and 2 boxes regular
+
+3. Something else: mint aoli *DO THIS FIRST*
+https://www.seriouseats.com/sumac-and-mint-aioli
 
 
-2. Pesto OR parmesan aoli OR condiment FOR cheese
-
-3. Something else: 
-
-https://en.wikipedia.org/wiki/Remoulade
-https://en.wikipedia.org/wiki/Bagna_c%C3%A0uda
-https://www.thekitchn.com/ketchup-with-a-kick-add-curry-87686
-
-
-
+----------
 
 
 https://www.alphafoodie.com/how-to-make-chimichurri-sauce/
