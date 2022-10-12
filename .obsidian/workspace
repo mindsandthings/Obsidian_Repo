@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6. North Star/Develop and document indexing processes.md",
+            "file": "daily/2022-10-12-Wed.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. North Star/Develop and document indexing processes.md",
+                "file": "daily/2022-10-12-Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. North Star/Develop and document indexing processes.md",
+                "file": "daily/2022-10-12-Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. North Star/Develop and document indexing processes.md"
+                "file": "daily/2022-10-12-Wed.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "6. North Star/Develop and document indexing processes.md",
     "0. Inbox/ASI-PNW notes.md",
     "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
     "3. Resources/x477 Indexing course/Module 1/My introduction (class).md",
@@ -160,7 +161,6 @@
     "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
     "1. Projects/kraken/Kraken revision notes Sep 2022.md",
     "periodic/Daily reminders.md",
-    "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
-    "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md"
+    "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md"
   ]
 }
