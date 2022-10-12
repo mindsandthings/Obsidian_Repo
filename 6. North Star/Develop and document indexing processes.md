@@ -1,5 +1,8 @@
 
 
+
+
+
 # Features to learn: go through manuals
 Goal is to be able to flexibly funnel info, so that I don't have to scroll through irrelevant info. This may include tagging entries as specific kinds of info (names vs not) or as specific kinds of entries (running topics to always check, etc)
 
@@ -73,6 +76,14 @@ Hide records by label by checking a box and checking enable hiding. Those are tr
 #### Cindex
 
 #### Sky
+
+Color-coding labels: 
+#### Macrex
+
+#### Cindex
+
+#### Sky
+does it also show up in the index view? 
 
 
 ## Merging separate indexes
