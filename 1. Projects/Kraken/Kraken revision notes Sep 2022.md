@@ -1,134 +1,121 @@
-- [[#Plot threads|Plot threads]]
-	- [[#Plot threads#Ghost girl/history/wars|Ghost girl/history/wars]]
-	- [[#Plot threads#caterpillars/army/manuals|caterpillars/army/manuals]]
-	- [[#Plot threads#What does Lily tell Madison|What does Lily tell Madison]]
 
 
+# Plot threads
+## Ghost girl/history/wars
+~~Translation spell should give you the appropriate vernacular
 
-How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
+## Favor debt
+~~should blood play a role in the favor tokens? yes
 
-In the vaults, Flyer needs to say "meet you at teh high ground"
+## General
+~~more focus on Summerstart festival, show it throughout
 
-
-Timeline! For kraken poisoning! At least a few days earlier, for the caterpillars
-
-Where to put the flip / gravity stuff? Do need to address it - it's why some areas are down/flooded and others up/unflooded, right near the surface - maybe Madison and Aimee go through it on their way out of the vaults. 
-
-
-
-
-
-When does B tell Aimee she's goign to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
-
-
-### Plot threads
-
-
-#### Ghost girl/history/wars
-
-
-#### caterpillars/army/manuals
-
+## caterpillars/army/manuals
 work out so that Aimee knows how to transfer the army, and make it clear in the ghost girl appearance that that's what they're going to do — since lily needs to know it's a possibility
 
 
-#### What does Lily tell Madison
+## Kraken
+Where to put the flip / gravity stuff? Do need to address it - it's why some areas are down/flooded and others up/unflooded, right near the surface - maybe Madison and Aimee go through it on their way out of the vaults. 
+
+
+## Heist
+
+### Lily's golf cart
+Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
+
+### Location
+How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
+
+In the vaults, Flyer needs to say "meet you at the high ground"
+
+Madison and Lily: they have a specific portal preprogrammed to open up back here, so why not just wait? Or: they don't and were hoping for a random one. Or: they're planning to go around starside to a known route to the top (super dangerous if I want Flyer to need the butterflies for this! but Lily has kraken poison). Maybe Bellflower has got repellent for whatever will attack them starside? And Flyer didn't
+
+
+### Timeline
+Timeline! For kraken poisoning! At least a few days earlier, for the caterpillars
+Nail down dates for Lily bringing the device through, and Lily poisoning the kraken. 
+
+
+### Components
+Do I want to make the components iron/magnetite/something like that? 
+
+
+
+
+----------
+# Secondary characters
+## Chrys
+Bring back thread about her obsession with Madison; make sure it shows up in B's relations to her
+
+## Lily
+Her characterization is uneven. Work on this. 
+
+change Lily to Spider Lily? 
+
+
+### What does Lily tell Madison
 Madison needs to know enough about the vault key to figure out she can use it to open the vault. Lily was planning to use her to get through the field, which is especially bad for talented faeries. 
 
 So Lily tells her they're after a treasure the Courts have locked up that will provide an unlimited power source, and that the Courts are using it to prevent competitors. Lily has not told Madison she's working for the magic schools. 
+## Hyacinth
+His characterization is largely absent. 
+
 
 
 # Bellflower
 
-
-
-
-
-# Aimee
-
-what does FPA say about talents / prohibited talents? 
-
-
------
-
-Do I want to make the components iron/magnetite/something like that? 
-
-Turn it back to a rabbit? 
-
-Nail down dates for Lily bringing the device through, and Lily poisoning the kraken. 
-
-
-give Aimee an employee ID tattoo
-
-should blood play a role in the favor tokens? yes
-
-I'd like to do a better job of the Aimee-Madison dynamic
-
-
--- do I need to add back in arcs for the secondary characters? (yes)
--- I dropped the "B wants to solve the ghost girl mystery with the wisdom of age" thread. Do I want to take it back up?
--- more focus on Summerstart festival, show it throughout
--- can I get the reception scene to do more, backstory-wise?
-
-
--- Hyacinth and the portal project still feel underdeveloped
--- so do B's thoughts on them while she's in the basements
--- maybe make a list of continuity touchstones? The summer start festival, Aimee's faeriesonas/humansonas, something for Bellflower? 
-testing this note
-Bellflower is aware that her mother was targeting Aimee and other interns, and should worry about them
--- was Flyer responsible for ensuring the invader died? or would he have died anyway?affects B's thoughts about her in the final scene. 
--- how does B feel about the prospect of having portals for short-range travel??? she'd find the lowered effort appealing, but miss the journey. 
--- B on the people with prohibited talents: she wasn't going to think of them as *her* people, but....
--- B needs to also be worried about the manual hurting whoever gets it!!!
--- What does B think about Hyacinth and his relation to his job? work this in earlier. 
-
-
-play up butterflies being mental static / tinnitus reduction for Aimee
-
-Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
-
+## Autonomy
 need to get in a story about B's magic school classmates somewhere
 
 The Bellflower-autonomy-Courts thread needs to connect with the Bellflower-autonomy-Lily thread. 
 
-Madison and Lily: they have a specific portal preprogrammed to open up back here, so why not just wait? Or: they don't and were hoping for a random one. Or: they're planning to go around starside to a known route to the top (super dangerous if I want Flyer to need the butterflies for this! but Lily has kraken poison). Maybe Bellflower has got repellent for whatever will attack them starside? And Flyer didn't
+## Hyacinth/portal project
+Feels undeveloped
+-- how does B feel about the prospect of having portals for short-range travel??? she'd find the lowered effort appealing, but miss the journey. 
 
-change Lily to Spider Lily? 
+## Ghost girl
+-- was Flyer responsible for ensuring the invader died? or would he have died anyway?affects B's thoughts about her in the final scene. 
+-- B needs to also be worried about the manual hurting whoever gets it!!!
+-- I dropped the "B wants to solve the ghost girl mystery with the wisdom of age" thread. Do I want to take it back up?
 
-**Where is the thread about Chrys suspecting Madison? 
+# Aimee
+give Aimee an employee ID tattoo
+play up butterflies being mental static / tinnitus reduction for Aimee
 
-Lily characterization uneven
+## FPA
+what does FPA say about talents / prohibited talents? 
+
+## Bellflower
+When does B tell Aimee she's going to tell Chrys? Before the fight? After the fight? On the way out? This is also the point that B learns that Chrys tried to intimidate her. 
+
+Turn it back to a rabbit? 
+
+## Madison
+I'd like to do a better job of the Aimee-Madison dynamic
+
+## Hyacinth
+Feels undeveloped
+
+
 
 
 -----
 
-  
 
-  
+  # FPA  
 
 Faerie Court Holdings, Inc., the IP holder for both the parks and the children's series
 
-  
-
-Series based on aesthetics of Court 
-
-  
+Series based on aesthetics of Court   
 
 Aimee focused on series because she knows she can't afford to go see the Courts
 
-  
-
 Aimee also follows the official Court instagrams. 
-
-  
 
 The early books - the good ones - all went out of print
 
-  
-
 How does Aimee know Madison might be a fan? 
 
-  
 
 FPANYR:
 
@@ -143,6 +130,7 @@ FPANYR:
 -- early books high quality, one person's project. later got more popular and by committee but a few were still really good, and descriptions remained amazing
 
 -- reflect moral lessons of faerie culture - favor debt balance, wars, ecosystem management, spellworkers and exploitation, magic talents and exploitation, very advanced consent culture (ask before touching anyone - prohibited talents), taboos against creche mining, the dangers of neuromagic, demons, dangers of looting, vegetarianism
+however it does not address prohibited talents directly, only by metaphor
 
 -- need to settle on some princess names
 
