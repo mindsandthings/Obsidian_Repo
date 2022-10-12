@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+            "file": "0. Inbox/ASI-PNW notes.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+                "file": "0. Inbox/ASI-PNW notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
+                "file": "0. Inbox/ASI-PNW notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md"
+                "file": "0. Inbox/ASI-PNW notes.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
     "3. Resources/x477 Indexing course/Module 1/My introduction (class).md",
     "3. Resources/x477 Indexing course/Module 1/Dictionaries (biographical and geographical).md",
     "daily/2022-10-12-Wed.md",
@@ -160,7 +161,6 @@
     "periodic/Daily reminders.md",
     "1. Projects/x477 indexing course/Module 7/Indexing proejct 2 errata.md",
     "1. Projects/x477 indexing course/Module 7/Module 7 Dicussion - Indexing Apprpoach.md",
-    "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md",
-    "1. Projects/Condiment/Condiment research for Michael present.md"
+    "1. Projects/x477 indexing course/Module 7/7.6 Indexing Project 2.md"
   ]
 }

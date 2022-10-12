@@ -66,6 +66,24 @@
     ]
   },
   {
+    "fileName": "2022-10-12-Wed",
+    "relativePath": "daily/2022-10-12-Wed.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-10-11-Tue",
     "relativePath": "daily/2022-10-11-Tue.md",
     "headings": [
@@ -28851,6 +28869,10 @@
       {
         "heading": "Journal",
         "level": 1
+      },
+      {
+        "heading": "Wed, Oct 12, 2022",
+        "level": 2
       },
       {
         "heading": "Fri, Oct 7, 2022",
