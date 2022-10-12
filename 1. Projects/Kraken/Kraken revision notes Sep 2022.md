@@ -4,6 +4,8 @@
 ## Ghost girl/history/wars
 ~~Translation spell should give you the appropriate vernacular
 
+are En's family musicians and water dwellers? 
+
 ## Favor debt
 ~~should blood play a role in the favor tokens? yes
 
