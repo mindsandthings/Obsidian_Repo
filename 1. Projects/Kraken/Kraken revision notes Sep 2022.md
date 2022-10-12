@@ -6,6 +6,9 @@
 
 are En's family musicians and water dwellers? 
 
+Aimee would have the translation spell, meaning she'd hear the butterflies and later hear what Chrys is saying to Bellflower. 
+
+
 ## Favor debt
 ~~should blood play a role in the favor tokens? yes
 
