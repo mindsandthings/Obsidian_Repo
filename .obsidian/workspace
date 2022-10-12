@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Inbox/Junebugging.md",
+            "file": "3. Resources/Margie Lawson notes/Margie techniques full list.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rhetorical devices",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Junebugging.md",
+                "file": "3. Resources/Margie Lawson notes/Margie techniques full list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Junebugging.md",
+                "file": "3. Resources/Margie Lawson notes/Margie techniques full list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Junebugging.md"
+                "file": "3. Resources/Margie Lawson notes/Margie techniques full list.md"
               }
             }
           },
@@ -147,20 +147,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
   "active": "a234e3d2527a3d07",
   "lastOpenFiles": [
+    "3. Resources/Margie Lawson notes/Margie scene checklists.md",
+    "3. Resources/Margie Lawson notes/Top 20 rhetorical devices.md",
+    "3. Resources/Margie Lawson notes/Margie scene checklist.md",
+    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+    "1. Projects/kraken/Kraken revision process.md",
+    "0. Inbox/Junebugging.md",
     "0. Inbox/00-scratchpad-note.md",
     "daily/2022-10-12-Wed.md",
     "6. North Star/Develop and document indexing processes.md",
-    "0. Inbox/ASI-PNW notes.md",
-    "3. Resources/x477 Indexing course/Module 1/My introduction (IDG).md",
-    "3. Resources/x477 Indexing course/Module 1/My introduction (class).md",
-    "3. Resources/x477 Indexing course/Module 1/Dictionaries (biographical and geographical).md",
-    "2. Areas/Gallup Strengths/Strengths - 2. Strategic.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "periodic/Daily reminders.md"
+    "0. Inbox/ASI-PNW notes.md"
   ]
 }

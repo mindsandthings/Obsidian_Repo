@@ -1,5 +1,9 @@
 [
   {
+    "fileName": "OCR-Screenshots",
+    "relativePath": "OCR-Screenshots.md"
+  },
+  {
     "fileName": "Weekly reminders",
     "relativePath": "periodic/Weekly reminders.md",
     "headings": [
@@ -22503,6 +22507,39 @@
     ]
   },
   {
+    "fileName": "Junebugging",
+    "relativePath": "0. Inbox/Junebugging.md",
+    "tags": [
+      "life",
+      "advice",
+      "adhd",
+      "actually"
+    ],
+    "frontmatter": {
+      "created": "2022-10-12T15:03:52 (UTC -07:00)",
+      "source": "https://jumpingjacktrash.tumblr.com/post/172406516934/cleaning-with-adhd-is-a-nightmare-its-an-endless",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 208
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "tornado apologist, cleaning with ADHD is a nightmare. it’s an endless...",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "ASI-PNW notes",
     "relativePath": "0. Inbox/ASI-PNW notes.md",
     "headings": [
@@ -27764,6 +27801,192 @@
     "relativePath": "3. Resources/Writing and cognition/Fiction is not optimization for a universal reader.md"
   },
   {
+    "fileName": "Top 20 rhetorical devices",
+    "relativePath": "3. Resources/Margie Lawson notes/Top 20 rhetorical devices.md",
+    "headings": [
+      {
+        "heading": "1. Alliteration",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "2. Allusion",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "3. Anadiplosis",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "4. Anaphora",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "5. Assonance",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "6. Asyndeton",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "7. Conduplicatio",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Example:",
+        "level": 2
+      },
+      {
+        "heading": "8. Epistrophe",
+        "level": 1
+      },
+      {
+        "heading": "Definition:",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples:",
+        "level": 2
+      },
+      {
+        "heading": "9. Epizeuxis",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "10. Eponym",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Example",
+        "level": 2
+      },
+      {
+        "heading": "11. Hyperbole",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "12.",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Margie techniques full list",
     "relativePath": "3. Resources/Margie Lawson notes/Margie techniques full list.md"
   },
@@ -27786,10 +28009,6 @@
   {
     "fileName": "Visceral Rules",
     "relativePath": "3. Resources/Margie Lawson notes/Visceral Rules.md"
-  },
-  {
-    "fileName": "Top 20 RDs",
-    "relativePath": "3. Resources/Margie Lawson notes/Top 20 RDs.md"
   },
   {
     "fileName": "Structures list",

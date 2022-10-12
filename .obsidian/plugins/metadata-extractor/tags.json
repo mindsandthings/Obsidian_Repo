@@ -1931,6 +1931,34 @@
     ]
   },
   {
+    "tag": "life",
+    "tagCount": 1,
+    "relativePaths": [
+      "0. Inbox/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "advice",
+    "tagCount": 1,
+    "relativePaths": [
+      "0. Inbox/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "adhd",
+    "tagCount": 2,
+    "relativePaths": [
+      "0. Inbox/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "actually",
+    "tagCount": 1,
+    "relativePaths": [
+      "0. Inbox/Junebugging.md"
+    ]
+  },
+  {
     "tag": "os",
     "tagCount": 2,
     "relativePaths": [
