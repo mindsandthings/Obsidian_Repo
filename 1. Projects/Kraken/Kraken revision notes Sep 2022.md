@@ -6,7 +6,7 @@
 
 are En's family musicians and water dwellers? 
 
-Aimee would have the translation spell, meaning she'd hear the butterflies and later hear what Chrys is saying to Bellflower. 
+Aimee would have the translation spell, meaning she'd hear the butterflies and later hear what Chrys is saying to Bellflower. She also needs to be able to hear the ghost girl—think about how to play this so that Amaryllis still has the bulk of the spell. 
 
 
 ## Favor debt
@@ -25,6 +25,15 @@ Where to put the flip / gravity stuff? Do need to address it - it's why some are
 
 ## Heist
 Bellflower needs to leave some supplies for Hyacinth and a note
+She should leave water, antibiotic ointment, a mirror and bandages definitely
+And antibiotics if she has them like penicillin or something generic like that
+Unless he’s allergic 🤔
+she'd leave a note with it saying "don't use this if you're allergic" also with instructions for put it on don't eat it
+Abs I says a mirror so he can apply ointment and wrap his head without guessing
+Oh and steri strips
+Which are strips that are sticky that can hold together a laceration without stitches
+And maybe food. Like a protein shake or granola bar or something to make sure his blood sugar stays up
+a blanket
 
 
 ### Lily's golf cart
@@ -45,7 +54,7 @@ After the invaders moved the kraken, the ghost girl and En tunneled through from
 That was still open, however the hallway to the vault and the hatchery was blocked off with concrete. 
 
 Lily also knows 
-
+They had to tunnel down to get heavy equipment to the stars. There are smaller passages from star-side back through the basement to the surfaces; Lily plans to go out the harvester worm nest to one of these. She already tried to go in but the passages are trapped to heck and back and there are tons of them; it's unclear which she'd need to take. 
 
 
 
