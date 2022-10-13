@@ -22507,6 +22507,57 @@
     ]
   },
   {
+    "fileName": "High-dose thiamine health rising article 2021",
+    "relativePath": "0. Inbox/High-dose thiamine health rising article 2021.md",
+    "frontmatter": {
+      "created": "2022-10-12T19:28:31 (UTC -07:00)",
+      "source": "https://www.healthrising.org/blog/2021/04/15/thiamine-b-1-chronic-fatigue-syndrome-fibromyalgia/",
+      "author": "Jeffrey Lubell",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 186
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Could High-Dose Thiamine (B-1) Help with ME/CFS, Fibromyalgia, and the Neurological Complications of Ehlers-Danlos Syndrome? - Health Rising",
+        "level": 1
+      },
+      {
+        "heading": "**Study Results**",
+        "level": 2
+      },
+      {
+        "heading": "**Why might thiamine reduce fatigue?**",
+        "level": 2
+      },
+      {
+        "heading": "**Could high-dose thiamine help people with ME/CFS, Fibromyalgia, or EDS?**",
+        "level": 2
+      },
+      {
+        "heading": "The Gist",
+        "level": 4
+      },
+      {
+        "heading": "**Cautions and Limitations**",
+        "level": 2
+      },
+      {
+        "heading": "**About the Author**",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Junebugging",
     "relativePath": "0. Inbox/Junebugging.md",
     "tags": [
