@@ -31,9 +31,23 @@ Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe 
 ### Location
 How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
 
-In the vaults, Flyer needs to say "meet you at the high ground"
+In the vaults, Flyer needs to say "meet you at the high ground by the [thing]"
 
 Madison and Lily: they have a specific portal preprogrammed to open up back here, so why not just wait? Or: they don't and were hoping for a random one. Or: they're planning to go around starside to a known route to the top (super dangerous if I want Flyer to need the butterflies for this! but Lily has kraken poison). Maybe Bellflower has got repellent for whatever will attack them starside? And Flyer didn't
+
+
+Lily has the coordinates of the tunneling expedition, and knows that it was filled in with concrete [graystone slurry]; she's hoping to find an easier, closer way there, but needs to know where the high ground is (the inner edge of the harvester nest). She gets that from the ghost girl's appearances and matches it to the map she has that the ghost girl's ancestors gave to the invaders, which included significant features but not waterlines. 
+
+After the invaders moved the kraken, the ghost girl and En tunneled through from the harvester nest to the vault area. 
+
+That was still open, however the hallway to the vault and the hatchery was blocked off with concrete. 
+
+Lily also knows 
+
+
+
+
+
 
 
 ### Timeline
