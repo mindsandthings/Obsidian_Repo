@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "baseFontSize": 19,
   "interfaceFontFamily": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "accentColor": ""
 }
