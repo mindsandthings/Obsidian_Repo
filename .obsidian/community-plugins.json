@@ -12,7 +12,6 @@
   "better-word-count",
   "obsidian-git",
   "obsidian-tabs",
-  "cycle-through-panes",
   "obsidian-image-toolkit",
   "obsidian-enhancing-mindmap",
   "url-into-selection",
@@ -21,5 +20,6 @@
   "obsidian-kindle-plugin",
   "obsidian-style-settings",
   "obsidian-outliner",
-  "obsidian-electron-window-tweaker"
+  "obsidian-electron-window-tweaker",
+  "table-editor-obsidian"
 ]

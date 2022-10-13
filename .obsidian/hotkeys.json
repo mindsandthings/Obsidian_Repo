@@ -8,15 +8,7 @@
       "key": "="
     }
   ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "-"
-    }
-  ],
+  "obsidian-git:pull": [],
   "obsidian-plugin-toc:create-toc": [
     {
       "modifiers": [
@@ -282,5 +274,6 @@
       ],
       "key": "X"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": []
 }

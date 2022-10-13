@@ -4,5 +4,6 @@
   "baseFontSize": 19,
   "interfaceFontFamily": "",
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true
 }
