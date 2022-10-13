@@ -24,6 +24,8 @@ Where to put the flip / gravity stuff? Do need to address it - it's why some are
 
 
 ## Heist
+Bellflower needs to leave some supplies for Hyacinth and a note
+
 
 ### Lily's golf cart
 Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
