@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-16-Sun.md",
+                "file": "2. Areas/food/Food notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-16-Sun.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-16-Sun.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-16-Sun.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -161,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2510798b0157c93f",
+  "active": "5d2ea3f4b1d259cf",
   "lastOpenFiles": [
-    "daily/2022-10-16-Sun.md",
     "periodic/Daily reminders.md",
+    "0. Inbox/Productivity books.md",
+    "daily/2022-10-16-Sun.md",
     "2. Areas/food/Food notes.md",
     "daily/2022-10-15-Sat.md",
     "daily/2022-10-14-Fri.md",
     "daily/2022-10-13-Thu.md",
     "daily/2022-10-12-Wed.md",
     "daily/2022-10-11-Tue.md",
-    "daily/2022-10-10-Mon.md",
-    "daily/2022-10-08-Sat.md"
+    "daily/2022-10-10-Mon.md"
   ]
 }
