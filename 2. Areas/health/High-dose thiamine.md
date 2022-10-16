@@ -1,3 +1,18 @@
+
+# Side effects
+
+btw, my need for phosphorous has increased a little since I increased my B1. It's totally manageable because I know the symptoms of low phosphorous. For me it manifests as not being able to swallow pills easily (the small muscles in the throat don't have the energy they need, also double vision at night (same with eye muscles) but if it got severe, then severe fatigue hits, but I don't get that bad any more, am able to nip it in the bud)
+
+Addressing thiamine side effects: 
+https://www.youtube.com/watch?v=-DxvSUEVT_4&feature=emb_imp_woyt
+
+https://living-whole.org/2022/05/27/high-dose-thiamine-b1-an-update/
+Along the way, when I experienced some paradox reactions a couple of months ago, I added into my dose mix 600mg of NAC (N-acetyl cysteine), which is mentioned by Elliot Overton in his advice about useful cofactors to thiamine, specifically because it helps the body replenish glutathione, which is an essential antioxidant and aids in glycolysis
+
+
+
+
+
 https://www.healthrising.org/blog/2021/04/15/thiamine-b-1-chronic-fatigue-syndrome-fibromyalgia/
 
 ---

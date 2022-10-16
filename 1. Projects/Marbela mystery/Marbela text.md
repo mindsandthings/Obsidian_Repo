@@ -479,8 +479,6 @@ She leaned on the bumper to steady herself. It creaked and dropped a notch, send
 
 With a wrench, Paisley shoved the bumper back into place. "Marbela, I'm not an art thief. I'm dating someone my family doesn't approve of. I don't want them finding out about it. That means I don't want your family finding out about it, either. Now stop breaking my van and go do something else."
 
-
-
 ## What snack should she make for the kid, to accompany the Marbelini? 
 
 a. She feels embarrassed and kind of dumb. Make something complex and intricate to make her feel better about herself. 
@@ -488,3 +486,39 @@ a. She feels embarrassed and kind of dumb. Make something complex and intricate 
 b. She's still worried about DI Holmes suspecting Paisley, even if Paisley didn't do it. Make something fast so they can catch up to him. 
 
 c. Despite her crappy day, she's still got hope for a Kelp review. Make something that complements the Marbelini perfectly. 
+
+
+# She feels embarrassed and kind of dumb. Make something complex and intricate to make her feel better about herself. 
+
+Marbela lifted the lid on the cooler stashed under the catering table, releasing an eddy of nice, chilly water. It made her want to crawl inside and hide until she was no longer hot with embarrassment. 
+
+But that would solve exactly zero problems. She took out a stash of seagrass fronds and laid them out on the table by the Marbelini ingredients, planning to make something that would make her feel better. 
+
+"Take those around back." Paisley thumped down a heavy bag of candied algae, their backup for when they were running low on other snacks. "I have to serve customers."
+
+The manatee kid followed Marbela back behind the van. He'd stashed the book away somewhere and replaced it with a little notebook and pen, which he set down on the bumper. "Seagrass fronds are really basic." He said "basic" like a food critic might say "pedestrian": with contempt-tinged dejection at the state of Food Service These Days.  
+
+Marbella pulled out eight fronds and prayed she wouldn't get her arms mixed up. "Not when you eat them like this." 
+
+She knitted and sculpted in a flurry of arms and water, then held up the result for inspection: a perfect scale replica of Augusta's Trio Tangle puzzle, the one you could buy for $15.99 at the museum gift shop. "See?" Her embarrassment hadn't completely gone away, but she'd managed a little bit of pride despite it. "It even works like the real one." 
+
+He didn't complain or make any faces, just took the puzzle and started working on solving it. She mixed up his Marbelini, watching his expression grow more intent until he finally worked the catch free with a surprisingly adorable grin. 
+
+"You should put these in the drinks. On little toothpicks." He popped half the solved seagrass puzzle in his mouth and munched on it, then picked up the notebook and pen from the bumper. "Okay. Let's make a list of interviewees and then go talk to DI Holmes."
+
+## Who's on the list? Order the list from most to least suspicious. 
+
+a. Mademoiselle Lifi, the mural's creator. Suspiciously dramatic, and was faking being passed out. Could she have stolen it for attention? 
+
+b. Security guard. It's his responsibility to keep the mural from getting stolen. Why didn't he? Was he in on it? 
+
+c. Hungry herring art students. Were they planning to fence the mural for money? 
+
+d. Mr. Shramply. Why wasn't he shocked or upset to find his wall missing? Did he already know it was gone? 
+
+e. Cyrus, the unhelpful blobfish with an apparent vendetta against Augusta's descendants. 
+
+f. Aria, Augusta's descendant. 
+
+g. Somebody else. 
+

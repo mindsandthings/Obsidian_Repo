@@ -1,7 +1,7 @@
 # Health
 * 2022-09-19: wash hands every time bathroom or food prep or eat
 * Sat, Oct 1, 2022 remember, I tried lowering famotidine to 1/2 again
-* no reading in bed
+* put down book when you take bedtime meds
 * 
 
 # Self
@@ -23,6 +23,7 @@
 * keep an eye out for local indexers to network with
 * I would like to continue out conversations without suddenly dropping out in chat
 * don't be a kid or a young student - be an adult coming in from another field
+* Don't take over coworking. It's Kris's; don't try to steal it. 
 
 # Michael
 

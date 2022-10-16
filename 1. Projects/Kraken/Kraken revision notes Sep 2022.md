@@ -40,7 +40,7 @@ a blanket
 Chrys knew Bellflower went on a horse - she'd notice the extra golf cart. Maybe she assumes Aimee and Madison arrived separately? Maybe I can make Aimee and Madison crowd into a one-person transit thing? Or maybe there isn't an extra golf cart, and Lily took a horse but had to tether it at the edge of the crater. If so, Bellflower should remember that Aimee mentioned wanting to avoid her internship supervisor.
 
 ### Location
-How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
+How does Lily select the location for the harvester worm tunnel portal? Can you get the next stop's location from the quarry? If so, why wouldn't B have that already? ==Also, where the hell is the kid ghost girl's tour appearance? Need to write that in. 
 
 In the vaults, Flyer needs to say "meet you at the high ground by the [thing]"
 
@@ -87,9 +87,6 @@ change Lily to Spider Lily?
 Madison needs to know enough about the vault key to figure out she can use it to open the vault. Lily was planning to use her to get through the field, which is especially bad for talented faeries. 
 
 So Lily tells her they're after a treasure the Courts have locked up that will provide an unlimited power source, and that the Courts are using it to prevent competitors. Lily has not told Madison she's working for the magic schools. 
-## Hyacinth
-His characterization is largely absent. 
-
 
 
 # Bellflower
@@ -122,9 +119,6 @@ Turn it back to a rabbit?
 
 ## Madison
 I'd like to do a better job of the Aimee-Madison dynamic
-
-## Hyacinth
-Feels undeveloped
 
 
 

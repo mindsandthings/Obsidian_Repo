@@ -11,23 +11,9 @@
             "id": "5d2ea3f4b1d259cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "bb0452c1697994f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "769427d988de052e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/kraken/Kraken revision notes Sep 2022.md",
+                "file": "daily/2022-10-16-Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-09-05.md",
+                "file": "daily/2022-10-13-Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alfred",
+                "query": "mailing list",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2022-10-16-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2022-10-16-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2022-10-16-Sun.md"
+              }
             }
           },
           {
@@ -165,22 +155,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5d2ea3f4b1d259cf",
+  "active": "2510798b0157c93f",
   "lastOpenFiles": [
-    "3. Resources/productivity/Keyboard shortcuts to review.md",
-    "1. Projects/kraken/Hyacinth - character summary.md",
-    "1. Projects/kraken/Kraken revision notes Sep 2022.md",
-    "0. Inbox/ASI-PNW notes.md",
-    "2. Areas/Gallup Strengths/Strengths - 3. Discipline.md",
+    "daily/2022-10-16-Sun.md",
+    "periodic/Daily reminders.md",
+    "2. Areas/food/Food notes.md",
+    "daily/2022-10-15-Sat.md",
+    "daily/2022-10-14-Fri.md",
     "daily/2022-10-13-Thu.md",
-    "0. Inbox/High-dose thiamine Medium post.md",
-    "0. Inbox/High-dose thiamine health rising article 2021.md",
-    "1. Projects/kraken/Novel revision process.md",
-    "3. Resources/Margie Lawson notes/Margie techniques full list.md"
+    "daily/2022-10-12-Wed.md",
+    "daily/2022-10-11-Tue.md",
+    "daily/2022-10-10-Mon.md",
+    "daily/2022-10-08-Sat.md"
   ]
 }
