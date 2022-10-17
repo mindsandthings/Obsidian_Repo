@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "0. Inbox/Low adaptability video call.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 281,
+    "collapsed": true
   },
   "right": {
     "id": "0be297204598c66b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "0. Inbox/Low adaptability video call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "0. Inbox/Low adaptability video call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "0. Inbox/Low adaptability video call.md"
               }
             }
           },
@@ -163,15 +164,15 @@
   },
   "active": "5d2ea3f4b1d259cf",
   "lastOpenFiles": [
-    "periodic/Daily reminders.md",
-    "0. Inbox/Productivity books.md",
-    "daily/2022-10-16-Sun.md",
+    "0. Inbox/PNW-ASI webmaster documentation.md",
     "2. Areas/food/Food notes.md",
-    "daily/2022-10-15-Sat.md",
-    "daily/2022-10-14-Fri.md",
-    "daily/2022-10-13-Thu.md",
-    "daily/2022-10-12-Wed.md",
-    "daily/2022-10-11-Tue.md",
-    "daily/2022-10-10-Mon.md"
+    "2. Areas/food/Folder purpose.md",
+    "0. Inbox/Low adaptability video call.md",
+    "0. Inbox/Productivity books.md",
+    "2. Areas/EBT/EBT baseline measure.md",
+    "2. Areas/EBT/EBT log.md",
+    "2. Areas/food/Groceries.md",
+    "periodic/Daily reminders.md",
+    "daily/2022-10-16-Sun.md"
   ]
 }
