@@ -17,3 +17,5 @@ Don't over-tie things to one outcome - thing X you hoped for is not necessarily 
 
 {start at :45}
 
+Discimpline "I prepared so hard for this with my system, I put everythign in place to make things work, but it didn't work and now I am broken"
+
