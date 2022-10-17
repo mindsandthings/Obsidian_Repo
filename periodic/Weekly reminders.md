@@ -2,7 +2,7 @@
 - try magnesium + dmso on pms/midcycle days
 - wiggle temple bone if can't see
 - pvc muscle exercises
-- 
+- famotidine at 1/2
 
 # Michael
 - reassure Michael I want to support him and we're on the same side and I can support him if I get what I need
