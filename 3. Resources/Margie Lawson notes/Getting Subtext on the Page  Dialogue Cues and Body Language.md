@@ -9,9 +9,11 @@ Dialogue cues describe how the words are delivered. They inform the reader how t
  
 Margie Identified Six Categories of Dialogue Cues:  TIP QVR
  
-Tone – angry, sarcastic, abrasive, fawning, cajoling, teasing  Inflection – sing-song, drop or lift at end of words or sentences Pitch – high, low
-Quality – nasal, squeaky, reedy, enunciates or slurs words
-Volume – soft, loud, whispered, yelled Rate  – a breathy rush, pressured speech, long pauses 
+- Tone – angry, sarcastic, abrasive, fawning, cajoling, teasing Inflection – sing-song, drop or lift at end of words or sentences
+- Pitch – high, low
+- Quality – nasal, squeaky, reedy, enunciates or slurs words
+- Volume – soft, loud, whispered, yelled
+- Rate  – a breathy rush, pressured speech, long pauses 
  
 All dialogue cues fall in one or more of those six categories. 
  

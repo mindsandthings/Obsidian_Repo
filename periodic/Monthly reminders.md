@@ -1,6 +1,5 @@
 * Review [Strengths development plan](obsidian://open?vault=obsidian&file=1.%20Projects%2FStrengths%20journal%2FDevelopment%20plan%20Sep%202022) monthly. 
-* If hard drive fails again, buy a new one.
-* 
+* When you buy someone a present or make a donation, make a note of it in a document so you remember next year.  
 
 next time I have labs, call quest before appt
 Check in with the Strengths community for X Strength. Share some of my insights and learn from the development plans of other writers.
@@ -35,3 +34,7 @@ large money errors are triggers
 
 # Retired
 maybe you can have real parents who just aren't here
+
+
+# Check in on 
+https://badnews.substack.com/ 

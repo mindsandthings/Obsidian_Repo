@@ -25,15 +25,12 @@
   "4. Archive": "RiArchiveFill",
   "2. Areas": "RiGlobeFill",
   "3. Resources": "RiArchiveDrawerFill",
-  "1. Projects/x477 indexing course": "RiComputerFill",
   "0. Inbox/00-scratchpad-note.md": "RiStickyNoteFill",
   "daily": "RiCalendar2Line",
   "3. Resources/x477 Indexing course/Module 1/0.1 Reading notes - Module 1.md": "RiPencilFill",
   "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md": "RiCheckboxFill",
   "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md": "RiCheckboxBlankFill",
   "3. Resources/x477 Indexing course/Module 2/0.1 reading notes - module 2.md": "RiPencilFill",
-  "1. Projects/kraken": "RiBook3Fill",
-  "1. Projects/marbela mystery": "RiQuestionMark",
   "3. Resources/productivity": "IbStar",
   "4. Archive/analyze writers": "RiBookLine",
   "4. Archive/analyze writers/Writers to research.md": "RiListCheck",
@@ -42,6 +39,9 @@
   "6. North Star": "RiCompass3Line",
   "4. Archive/Strengths course": "RiSlideshowLine",
   "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md": "RiStarFill",
-  "1. Projects/Develop and document indexing processes/Index edit checklist.md": "RiCheckboxFill",
-  "4. Archive/Strengths": "IbPencil"
+  "4. Archive/Strengths": "IbPencil",
+  "1. Projects/i - develop and document indexing processes/Index edit checklist.md": "RiCheckboxFill",
+  "3. Resources/Margie Lawson notes/20-point opening checklist.md": "RiCheckboxFill",
+  "3. Resources/Margie Lawson notes/5-question scene checklist.md": "RiCheckboxFill",
+  "3. Resources/Margie Lawson notes/Top 20 rhetorical devices.md": "RiCheckboxFill"
 }

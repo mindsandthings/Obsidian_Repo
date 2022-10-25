@@ -21,11 +21,26 @@ The Note Text command causes text to be both ignored and hidden. (Please note th
 
 ## Labeling entries
 ### How are labels displayed in each software? 
+#### Macrex
+Can I colorcode?  no ): although a tag itself always displays in a color (same color regardless of which tag)
+
+#### Sky
+yes, easily
+
+
 
 ### Can I apply multiple labels to one entry? 
+#### Macrex
+yes, either in one tag or in multiple
+
+#### Sky
+not with the built-in labels, which are mutually exclusive. 
+but I can use hidden text the same way as in macrex. 
 
 ## Grouping entries
 ### What is the process to do a complex search for each software? How many steps?
+#### Macrex
+Group mode: ctrl-H, then search on a string.
 
 #### Cindex
 You can make a group from any records in the main index window. To do this, select the records you want to work with, then choose New Group from the File menu (also available through the contextual menu Cindex displays when you CONTROL-click or right-click in the main window). Cindex will display just this set of records in the main document window, giving it the title Temporary Group. To restore the view of all records, choose AllRecords from the View menu, or click in the toolbar. To view the group choose Temporary Group from the View menu. The temporary group survives only until you create another group, finish your current session with Cindex, or explicitly make the group permanent (see below).
@@ -36,8 +51,13 @@ Each group you save becomes an item in the Group submenu in the View menu (it is
 
 Cindex can find and add to a group all the records that make cross-references to records already in the group.
 
+
+#### Sky
+
+
 ### How easy/hard to search by locator range? 
 #### Macrex
+
 
 #### Cindex
 
@@ -58,6 +78,7 @@ Hide records by label by checking a box and checking enable hiding. Those are tr
 
 ### How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?
 #### Macrex
+Think I have to pull it up each time. Wonder if I can add bulk add a tag to every entry in group mode. 
 
 #### Cindex
 
@@ -65,6 +86,7 @@ Hide records by label by checking a box and checking enable hiding. Those are tr
 
 ### Is the search lost when I go to another screen? 
 #### Macrex
+Yes, but can get back if search again in group mode
 
 #### Cindex
 
