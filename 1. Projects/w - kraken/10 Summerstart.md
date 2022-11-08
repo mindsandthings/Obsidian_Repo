@@ -1,0 +1,1 @@
+Beltane: On the quarter days – Samhain, Imbolc, Bealtaine, and Lughnasa – they move their homes from one hill to another, traveling along established fairy roads (McNeill, 1956). Bonfires are lit at midsummer for luck, blessing, and protection and the ashes of these fires have many uses in protective charms. [when they reopen a bunch of resort areas / attactions]

@@ -10,9 +10,25 @@
 -   Cross-reference format and placement
 -   Format of index: run-in style, indented style
 
+
+   Are main headings or only proper nouns to be capitalized?
+    What is the cross-reference format?
+    What is the page locator format?
+    How will display material (tables, illustrations, photographs, maps, figures) be treated?
+    How will footnotes or endnotes be designated in the index?
+    Consider subheading levels -- will there be one level of subheadings or two levels, using sub-subheadings?
+    What sorting order will be used: letter-by-letter or word-by-word?
+    What index structure format will be used: run-in, indented, or blended style?
+    Will there be a letter heading or extra space between alphabetic groups in the index?
+    How much space is available for the index? Are there any space limitations that the indexer needs to be aware of for the project? (We'll discuss this important issue in a later module.)
+    Are there any other special considerations for the index? For example: British or U.S. English spelling and punctuation? Special formatting of any kind (author names, titles, definitions in bold, diacritics)? What will be the treatment of function words in main headings: are they to be ignored in the sort or inverted?
+    Delivery of index: is e-mail attachment of an RTF file expected? If not, what type of file does the editor require? Are there any special coding requirements for the file, including any for diacritics (accent marks)?
+
+
+
 Determine page range. 
 
-[Macrex] Set up a folder for the client with defaults stored in that folder. 
+Macrex: Set up a folder for the client with defaults stored in that folder. 
 
 ### 2. Start indexing
 
@@ -26,13 +42,19 @@ Remember:
 * Ensure the same info is listed, and accessible to the reader, at multiple access points
 
 Process: 
-* [Try] Read the first chapter and skim the remaining ones
+* Read the first chapter and skim the remaining ones
 * Make a metatopic entry; keep metatopic firmly in mind
 * Identify each section's main topic(s), using who/what/where/why/when/under what circumstances; look for ways to break down if necessary for the convenience of the reader (esp using why/when/under what circumstances)
+	* Main headings are most often who/what/where, sometimes depending on material "when"
+	* Why/under what circumstances often provide subtopic info; who/what can provide sub-entries that clarify the main heading (e.g., "what" main heading with "who" subentry or vice versa)
 * Go back and find the smaller topics within the section, adding to the main topic and as their own main headings if relevant
 * Double-check locators as I go
 * Double-check names as I go
 * Enter xrefs as I go
+
+Main headings are what the user will try to look up; subheadings are for breakign down the info. 
+
+if you can ask "how many", use the plural form in a main heading. 
 
 Propagate changes (Sky: Ctrl-Alt-Enter, )
 
@@ -48,6 +70,9 @@ Notes:
 In Sky, start with !! so I can group on notes. 
 
 
+16.88 Omission of article in indexed names of organizations. In indexing organizations whose names begin with the (which would be lowercased in  running text), the article is omitted. 
+
+16.50 Indexing authored titles of works. A published work, a musical composition, or a piece of art that merits its own main entry should also be indexed under the name of its creator, often as a subentry. The main heading is followed by the creator’s name in parentheses (except in an index  in which all titles cited have the same creator).  Look Homeward, Angel (Wolfe), 34– 37  Wolfe, Thomas: childhood, 6– 8; early  literary influences on, 7– 10; Look  Homeward, Angel, 34– 37; and Maxwell Perkins, 30– 41  Several works by a single creator are sometimes treated as subentries under a new main heading, following a main entry on the creator. This device is best employed when many works as well as many topics are listed.  Separate main entries may also be included for the works. 
 
 
 ### While You're Indexing
@@ -176,3 +201,11 @@ use a special marker, produced with a keyword, to identify double-posted entries
 
 
 * Review the PNO to catch locator issues
+
+
+
+A copyeditor's rule of thumb for checking accuracy in an index is to randomly look up 10 percent of the entries in the referenced pages. If only one or two inaccurate entries are discovered, then the editor should check another 10 percent of the entries. If no inaccuracies are found in the second group, one can hope that the inaccuracies of the first group are anomalous. But if more inaccuracies are discovered, the entire index must be checked. This can be a tedious and error-prone task. The main problem is how to resolve the inaccuracies. If an entry cites page 78 as its reference when in fact the page should be 178, it could be very difficult for the editor to locate the correct reference. The editor who attempts to resolve such inaccuracies will have time only to check for inverted digits (such as 87 instead of 78) and dropped digits (such as 178 instead of 78), but not to leaf through the text, hunting for other kinds of errors. If the reference cannot be corrected quickly, it should be deleted. If an index is full of inaccurate reference locators, it is not usable.
+
+Nancy C. Mulvany. Indexing Books, Second Edition (Chicago Guides to Writing, Editing, and Publishing) (Kindle Locations 2757-2763). Kindle Edition. 
+
+

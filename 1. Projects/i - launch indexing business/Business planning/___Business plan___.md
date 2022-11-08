@@ -74,8 +74,6 @@ All the material required for the exams is contained in the module documents, qu
 However, students are encouraged to begin assembling their indexing reference libraries by the time they begin Module B. Useful texts are *Indexing Books*, 2nd edition, by Nancy Mulvany, and *Ten Characteristics of Quality Indexes* by Margie Towery, and especially the indexing chapter of *The Chicago Manual of Style*, 17th edition, which may be purchased as an ebook or paperback book [here](https://press.uchicago.edu/ucp/books/book/chicago/I/bo27527533.html).
 By the time they start Module C, some students find the conceptual approach to indexing in *Facing the Text: Content and Structure in Book Indexing* by Do Mi Stauber, Cedar Row Press, 2004, to be very helpful.
 
-Students are strongly encouraged to try the demo versions of the three major dedicated indexing software programs and select the one that best suits their working style before starting Module B. Student versions are relatively inexpensive, and the cost is credited toward upgrades to the full versions of the programs.Visit the websites of the vendors to download demo versions:CINDEX™ (for Windows, and Macintosh): [http://www.indexres.com](http://www.indexres.com/)Macrex™ (for Windows): http://www.macrex.com/downloads.htmSKY Index™ Professional (for Windows): [http://www.sky-software.com](http://www.sky-software.com/)
-
 Learn about indexing ebooks
 
 Learn about hybrid publishers
@@ -99,8 +97,6 @@ Research publishers
 Research indie authors market for business and psych books
 
 Determine if I am going to work on autism nonfiction books, in which case I need to start reestablishing myself in the community
-
-## Copyediting
 
 ## Mentorship
 

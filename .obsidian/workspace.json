@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7289245c85db3309",
+            "id": "64b5f7eb11551824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Strengths/Low adaptability video call notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c2323d9f71dee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc7cf5703082395",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +44,19 @@
             }
           },
           {
-            "id": "5a262b56e3bd9be4",
+            "id": "86ccbf68180245de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-07-Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b948f59ef2e75f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,57 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b2bb8eaac84af474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/food/Food notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67f75a9c64eb0ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Margie Lawson notes/Top 20 rhetorical devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ccc902962db4c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/SFW followup 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb80e41872c8082c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2022-10-25-Tue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-25-Tue.md",
+                "file": "daily/2022-11-07-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-25-Tue.md",
+                "file": "daily/2022-11-07-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-25-Tue.md"
+                "file": "daily/2022-11-07-Mon.md"
               }
             }
           },
@@ -219,20 +207,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "cb80e41872c8082c",
+  "active": "86ccbf68180245de",
   "lastOpenFiles": [
-    "3. Resources/Margie Lawson notes/20-point opening checklist.md",
-    "3. Resources/Margie Lawson notes/5-question scene checklist.md",
-    "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
-    "3. Resources/Margie Lawson notes/Margie’s Five D Decision Tree for YELLOW.md",
-    "3. Resources/Margie Lawson notes/Margie techniques full list.md",
-    "3. Resources/Margie Lawson notes/Invisible Tattoos.md",
-    "3. Resources/Margie Lawson notes/Getting Subtext on the Page  Dialogue Cues and Body Language.md",
-    "3. Resources/Margie Lawson notes/Words to search and replace.md",
-    "3. Resources/Margie Lawson notes/Writerly words list.md",
-    "3. Resources/Margie Lawson notes/Visceral Rules.md"
+    "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md",
+    "1. Projects/i - x477 indexing course/Module 8/Pruning the lengthy index.md",
+    "1. Projects/i - x477 indexing course/Module 8/Replies on Green.md",
+    "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
+    "daily/2022-11-07-Mon.md",
+    "1. Projects/i - x477 indexing course/0. Introductory material/Office hours info.md",
+    "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+    "2. Areas/Strengths/Things I can do.md",
+    "2. Areas/Strengths/Low adaptability video call notes.md",
+    "2. Areas/Strengths/Strengths - 9. Individualization.md"
   ]
 }

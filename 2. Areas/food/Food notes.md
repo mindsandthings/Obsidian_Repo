@@ -1,18 +1,17 @@
 
 To eat:
-* Spinach!
-* Berries!!
-* Oin
-* Cream of wheat!
-* Brussels sprouts
-* Cashew stuff
+* cassoulet
+* use up the honeys for tea
+* grapefruit
+* Bologna
 * Frozen chicken nuggets
-* 1 grapefruits
 * preserved lemons
+* pickled onions
+* 
 
 To cook:
-* 1 lemon - for lentils
+* Friday - split pea soup
+* Vegan chorizo
+* Use up ginger or toss
+* 
 
-
-Groceries:
-- -

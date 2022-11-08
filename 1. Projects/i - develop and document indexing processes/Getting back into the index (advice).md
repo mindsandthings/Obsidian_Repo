@@ -24,6 +24,6 @@ Matthew MacLellan: Yes, Elizabeth - either page number sort or unsorted. Unsorte
 #### Charles Newman
 I mark up a printed pdf when I index, which gives me a quick check on what I was thinking. I know many indexers work directly on the computer, so that wont help them.
 
-[Do Mi adds: I highlight entries on my pdf for the same purpose, Charles.]
+Do Mi adds: I highlight entries on my pdf for the same purpose, Charles.
 
 

@@ -1,0 +1,1 @@
+look at what higher strengths call lower strengths; use as pairs to leave basements and get to balconies

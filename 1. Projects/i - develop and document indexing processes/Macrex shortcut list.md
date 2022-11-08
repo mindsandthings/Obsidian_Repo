@@ -1,3 +1,17 @@
+![[Pasted image 20221101144343.png]]
+# To learn about Macrex:
+
+Cross-reference checking
+Creating macros
+Editing macros
+Confirming I can print an early version with the specified setup
+
+Learning Macrex: go back to page 106
+
+----
+
+F9/Ctrl-N: last locator
+F11: all last locators
 
 To search for 39 (but not 139), put a spacebar before the 39
 

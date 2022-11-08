@@ -17,9 +17,11 @@
 - Don't trust Eric's social intuition; he suggested taking advantage of our neighbors' empty trash bins
 - remember, it's not okay to get angry. no one ever does anything bad.
 - don't cook for eric and allie - they don't eat it
+- you owe Allie 3 hours
+- Susan Stott is looking for something good on doubleposting
 
 # Work
-* Save outtakes to specific outtakes file
+* 
 * 
 
 

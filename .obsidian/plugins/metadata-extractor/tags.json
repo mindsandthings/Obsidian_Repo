@@ -1,5 +1,25 @@
 [
   {
+    "tag": "task",
+    "tagCount": 85,
+    "relativePaths": [
+      "daily/2022-08-31.md",
+      "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
+      "3. Resources/x477 Indexing course/Module 7/7.6 Indexing Project 2.md",
+      "3. Resources/x477 Indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
+      "3. Resources/x477 Indexing course/Module 6/6.0 - The Business of Indexing.md",
+      "3. Resources/x477 Indexing course/Module 5/5.0 Writing a Full-Length Index.md",
+      "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
+      "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
+      "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md",
+      "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md",
+      "1. Projects/w - marbela mystery/Cohen - Writing the Cozy Mystery.md",
+      "1. Projects/i - x477 indexing course/Module 8/8.0 Putting It All Together.md",
+      "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+      "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md"
+    ]
+  },
+  {
     "tag": "2-projects",
     "tagCount": 20,
     "relativePaths": [
@@ -26,33 +46,13 @@
     ]
   },
   {
-    "tag": "task",
-    "tagCount": 85,
-    "relativePaths": [
-      "daily/2022-08-31.md",
-      "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
-      "3. Resources/x477 Indexing course/Module 5/5.0 Writing a Full-Length Index.md",
-      "3. Resources/x477 Indexing course/Module 7/7.6 Indexing Project 2.md",
-      "3. Resources/x477 Indexing course/Module 7/7.0 Developing Your Own Process and Style.md",
-      "3. Resources/x477 Indexing course/Module 6/6.0 - The Business of Indexing.md",
-      "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md",
-      "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications/4.0 Indexing Specifications.md",
-      "3. Resources/x477 Indexing course/Module 3 - Term Selection/3.0 Module 3.md",
-      "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md",
-      "1. Projects/w - marbela mystery/Cohen - Writing the Cozy Mystery.md",
-      "1. Projects/i - x477 indexing course/Module 8/8.0 Putting It All Together.md",
-      "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
-      "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md"
-    ]
-  },
-  {
     "tag": "z-archives/pubq",
     "tagCount": 4,
     "relativePaths": [
       "4. Archive/validating/unused PubQ stuff.md",
-      "4. Archive/daily/2021-10-10.md",
       "4. Archive/cw-pubq/Saved msgs from id-nonbinary PubQ slack.md",
-      "4. Archive/cw-pubq/PubQ.md"
+      "4. Archive/cw-pubq/PubQ.md",
+      "4. Archive/daily/2021-10-10.md"
     ]
   },
   {
@@ -60,8 +60,8 @@
     "tagCount": 49,
     "relativePaths": [
       "4. Archive/validating/romantic love and homeschooling.md",
-      "4. Archive/validating/httpsearlgraytay.tumblr.compost648967237070454784.md",
       "4. Archive/validating/it’s never about the autism…..but you know what, i.md",
+      "4. Archive/validating/httpsearlgraytay.tumblr.compost648967237070454784.md",
       "4. Archive/validating/eat bones and shit ghosts.md",
       "4. Archive/validating/_We tend to design for the _sexy_ disabilities_.md",
       "4. Archive/validating/You can just unfollow people.md",
@@ -94,19 +94,129 @@
       "4. Archive/media/Last Unicorn.md",
       "4. Archive/health/archived-apd-has/APDdeaf link.md",
       "4. Archive/daily/2021-06-02.md",
-      "4. Archive/daily/2021-05-22.md",
       "4. Archive/daily/2021-06-10.md",
-      "4. Archive/daily/2021-03-18 2.md",
+      "4. Archive/daily/2021-05-22.md",
       "4. Archive/daily/2021-05-25.md",
       "4. Archive/daily/2021-05-04.md",
-      "4. Archive/daily/2021-03-01.md",
-      "4. Archive/daily/2021-03-01 3.md",
+      "4. Archive/daily/2021-03-18 2.md",
       "4. Archive/daily/2021-04-12 2.md",
+      "4. Archive/daily/2021-03-01.md",
       "4. Archive/daily/2021-03-18.md",
       "4. Archive/daily/2021-03-01 4.md",
-      "4. Archive/daily/2020-08-04.md",
+      "4. Archive/daily/2021-03-01 3.md",
       "4. Archive/daily/2020-12-20.md",
+      "4. Archive/daily/2020-08-04.md",
       "4. Archive/archived-productivity/_Emotional to-do list_.md"
+    ]
+  },
+  {
+    "tag": "ofmd",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md",
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "our",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "flag",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "means",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "death",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "star",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "trek",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "ask",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "antipsychiatry",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/moral purity.md"
+    ]
+  },
+  {
+    "tag": "writing",
+    "tagCount": 4,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+      "4. Archive/writing business/Marketing in competition with fandom.md",
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
+    ]
+  },
+  {
+    "tag": "maggie",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "rambles",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "meta",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "long",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
+    ]
+  },
+  {
+    "tag": "post",
+    "tagCount": 25,
+    "relativePaths": [
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
     ]
   },
   {
@@ -123,9 +233,9 @@
       "4. Archive/writing business/Writers group continuation recs.md",
       "4. Archive/writing business/Writer_s shed.md",
       "4. Archive/writing business/SFF convention accessibility pledge.md",
+      "4. Archive/records/Addresses I_ve lived at.md",
       "4. Archive/vertical heterophoria/VH links.md",
       "4. Archive/socializing/Julie address.md",
-      "4. Archive/records/Addresses I_ve lived at.md",
       "4. Archive/trauma-and-associated/RSD advice.md",
       "4. Archive/tracking/Measurements (body, glasses, compression stockings.md",
       "4. Archive/tracking/House measurements and details.md",
@@ -141,16 +251,16 @@
       "4. Archive/roommates/Nanny notes.md",
       "4. Archive/reviews/Hoffmann Fallen review.md",
       "4. Archive/recipes/Saffron bread.md",
+      "4. Archive/manuals/Watch manual (Ticchi).md",
+      "4. Archive/manuals/Scooter safety gear notes.md",
+      "4. Archive/manuals/Levy electric scooter instructions and laws.md",
+      "4. Archive/manuals/Levy scooter info.md",
       "4. Archive/media-recs/Educational video recs.md",
       "4. Archive/media-recs/Best textbooks on every subject.md",
       "4. Archive/media/Pearl speech.md",
       "4. Archive/measurements/car roof.md",
       "4. Archive/measurements/Ergonomic workplace setup.md",
       "4. Archive/measurements/Carbon credits.md",
-      "4. Archive/manuals/Watch manual (Ticchi).md",
-      "4. Archive/manuals/Scooter safety gear notes.md",
-      "4. Archive/manuals/Levy scooter info.md",
-      "4. Archive/manuals/Levy electric scooter instructions and laws.md",
       "4. Archive/lists/Two-factor authentication.md",
       "4. Archive/lists/Screenname ideas.md",
       "4. Archive/lists/Library.md",
@@ -158,19 +268,19 @@
       "4. Archive/karl/Karl enrichment.md",
       "4. Archive/health/archived-apd-has/APD notes for Abby_s comments LGHA article.md",
       "4. Archive/gardening/Garden store list.md",
-      "4. Archive/emergency-preparedness/Evacuation packing list.md",
       "4. Archive/finances-insurance/family/Mom_s assets.md",
       "4. Archive/finances-insurance/family/Mom funeral planning.md",
       "4. Archive/finances-insurance/family/Dad and Carol_s wills and assets.md",
+      "4. Archive/emergency-preparedness/Evacuation packing list.md",
+      "4. Archive/cw-pubq/PubQ microaggressions survey.md",
       "4. Archive/food/Foods I can eat quickly downstairs standing up.md",
       "4. Archive/food/Food restrictions.md",
+      "4. Archive/civic-participation/Votes 2020.md",
       "4. Archive/daily/2022-01-01.md",
       "4. Archive/daily/2021-04-12.md",
       "4. Archive/daily/2021-04-14.md",
       "4. Archive/daily/2021-03-01 2.md",
       "4. Archive/daily/2020-04-20.md",
-      "4. Archive/cw-pubq/PubQ microaggressions survey.md",
-      "4. Archive/civic-participation/Votes 2020.md",
       "4. Archive/embassy-common/Garage shelves.md",
       "4. Archive/backups/elizabethbartmess website.md",
       "4. Archive/backups/Dropbox authentication codes.md",
@@ -188,11 +298,11 @@
       "4. Archive/archived-how-tos/Taking good selfies.md",
       "4. Archive/archived-how-tos/Scrivener hotkey.md",
       "4. Archive/archived-homeschooling/Homeschool thoughts.md",
-      "4. Archive/archived-holidays/Holiday presents list 2020.md",
-      "4. Archive/archived-holidays/Remaining 2019  holiday gifts.md",
-      "4. Archive/archived-holidays/2019 winter holiday presents lists (Me and M).md",
       "4. Archive/archived-finances-insurance/Budgeting info Mar 2020.md",
       "4. Archive/archived-finances-insurance/2020 Taxable income.md",
+      "4. Archive/archived-holidays/Remaining 2019  holiday gifts.md",
+      "4. Archive/archived-holidays/Holiday presents list 2020.md",
+      "4. Archive/archived-holidays/2019 winter holiday presents lists (Me and M).md",
       "3. Resources/Web presence updates/noebartmess website changes.md"
     ]
   },
@@ -231,59 +341,6 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/validating/We're all a little X.md"
-    ]
-  },
-  {
-    "tag": "writing",
-    "tagCount": 4,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
-      "4. Archive/writing business/Marketing in competition with fandom.md",
-      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
-    ]
-  },
-  {
-    "tag": "maggie",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "rambles",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "ofmd",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "meta",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "long",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md"
-    ]
-  },
-  {
-    "tag": "post",
-    "tagCount": 25,
-    "relativePaths": [
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
     ]
   },
   {
@@ -424,8 +481,8 @@
       "4. Archive/validating/Autism privilege [posted Tumblr].md",
       "4. Archive/writing-nonfiction/Potential tumblr posts.md",
       "4. Archive/health/archived-apd-has/Video chat posts.md",
-      "4. Archive/daily/2020-12-30.md",
-      "4. Archive/cw-pubq/CW survey answers leftover.md"
+      "4. Archive/cw-pubq/CW survey answers leftover.md",
+      "4. Archive/daily/2020-12-30.md"
     ]
   },
   {
@@ -438,8 +495,8 @@
       "4. Archive/therapy/Therapist question notes.md",
       "4. Archive/media-recs/Music I_ve liked.md",
       "4. Archive/media-recs/Cult books.md",
-      "4. Archive/health/TrainingAndRehabilitation videos.md",
       "4. Archive/health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
+      "4. Archive/health/TrainingAndRehabilitation videos.md",
       "4. Archive/health/Health experiment options.md",
       "4. Archive/finances-insurance/Mint alternatives.md",
       "4. Archive/clothing-and-stuff/desk.md",
@@ -502,11 +559,11 @@
       "4. Archive/health/archived-doctor-notes/Dobro athlete_s foot convo.md",
       "4. Archive/health/SF chiropractic places.md",
       "4. Archive/health/Pain exercises and pain management techniques.md",
-      "4. Archive/health/Nerve glides.md",
       "4. Archive/health/POTS checks.md",
+      "4. Archive/health/Nerve glides.md",
+      "4. Archive/health/Craniosacral muscles that Muldowney work on.md",
       "4. Archive/health/IIH research notes.md",
       "4. Archive/health/Health experiment options.md",
-      "4. Archive/health/Craniosacral muscles that Muldowney work on.md",
       "4. Archive/health/DMSO.md",
       "4. Archive/health/Calcium foods.md",
       "4. Archive/health/Callanetics list.md",
@@ -571,6 +628,13 @@
     ]
   },
   {
+    "tag": "z-archives/reference/admin",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/records/CCSF details.md"
+    ]
+  },
+  {
     "tag": "z-archives/health/eye",
     "tagCount": 1,
     "relativePaths": [
@@ -586,10 +650,17 @@
     ]
   },
   {
-    "tag": "z-archives/reference/admin",
+    "tag": "announcements",
     "tagCount": 1,
     "relativePaths": [
-      "4. Archive/records/CCSF details.md"
+      "4. Archive/timezone/Nightfall System discord thign with Sky.md"
+    ]
+  },
+  {
+    "tag": "rules",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/timezone/Nightfall System discord thign with Sky.md"
     ]
   },
   {
@@ -643,12 +714,12 @@
       "4. Archive/daily/Wed, Oct 13, 2021.md",
       "4. Archive/daily/Wed, Nov 3, 2021.md",
       "4. Archive/daily/Wed, Nov 24, 2021.md",
-      "4. Archive/daily/Tue, Nov 2, 2021.md",
       "4. Archive/daily/Tues, Oct 5, 2021.md",
       "4. Archive/daily/Tue, Oct 19, 2021.md",
-      "4. Archive/daily/Tue, Nov 9, 2021.md",
       "4. Archive/daily/Tue, Oct 12, 2021.md",
+      "4. Archive/daily/Tue, Nov 9, 2021.md",
       "4. Archive/daily/Tue, Nov 23, 2021.md",
+      "4. Archive/daily/Tue, Nov 2, 2021.md",
       "4. Archive/daily/Tue, Nov 16, 2021.md",
       "4. Archive/daily/Thu, Oct 7, 2021.md",
       "4. Archive/daily/Thu, Oct 28, 2021.md",
@@ -659,7 +730,6 @@
       "4. Archive/daily/Sun, Oct 31, 2021.md",
       "4. Archive/daily/Sun, Oct 3, 2021.md",
       "4. Archive/daily/Sun, Oct 24, 2021.md",
-      "4. Archive/daily/Fri, Oct 22, 2021.md",
       "4. Archive/daily/Sun, Oct 17, 2021.md",
       "4. Archive/daily/Sun, Oct 10, 2021.md",
       "4. Archive/daily/Sun, Nov 7, 2021.md",
@@ -682,6 +752,7 @@
       "4. Archive/daily/Mon, Nov 15, 2021.md",
       "4. Archive/daily/Mon, Nov 1, 2021.md",
       "4. Archive/daily/Fri, Oct 8, 2021.md",
+      "4. Archive/daily/Fri, Oct 22, 2021.md",
       "4. Archive/daily/Fri, Oct 29, 2021.md",
       "4. Archive/daily/Fri, Oct 15, 2021.md",
       "4. Archive/daily/Fri, Nov 5, 2021.md",
@@ -692,22 +763,22 @@
     ]
   },
   {
-    "tag": "z-archives/sunrise/disability",
-    "tagCount": 4,
-    "relativePaths": [
-      "4. Archive/sunrise-movement/Sunrise disability notes.md",
-      "4. Archive/sunrise-movement/Sunrise notes - discussion with Allie _ about usin.md",
-      "4. Archive/sunrise-movement/Sunrise disability justice.md",
-      "4. Archive/sunrise-movement/Convo with Amy about joining Sunrise disability te.md"
-    ]
-  },
-  {
     "tag": "z-archives/sunrise",
     "tagCount": 7,
     "relativePaths": [
       "4. Archive/sunrise-movement/What Sunrise  data mgt entry system does.md",
       "4. Archive/sunrise-movement/Sunrise duplicates issue.md",
       "4. Archive/backups/Todoist backup Thu, Feb 20, 2020.md"
+    ]
+  },
+  {
+    "tag": "z-archives/sunrise/disability",
+    "tagCount": 4,
+    "relativePaths": [
+      "4. Archive/sunrise-movement/Sunrise notes - discussion with Allie _ about usin.md",
+      "4. Archive/sunrise-movement/Sunrise disability notes.md",
+      "4. Archive/sunrise-movement/Sunrise disability justice.md",
+      "4. Archive/sunrise-movement/Convo with Amy about joining Sunrise disability te.md"
     ]
   },
   {
@@ -725,7 +796,6 @@
       "4. Archive/media-recs/Tana French reading recs.md",
       "4. Archive/measurements/Measurements 6th ave.md",
       "4. Archive/finances-insurance/money discussion coronavirus.md",
-      "4. Archive/daily/Wed, Mar 4, 2020.md",
       "4. Archive/daily/Wed, Sep 9, 2020.md",
       "4. Archive/daily/Wed, Sep 30, 2020.md",
       "4. Archive/daily/Wed, Sep 23, 2020.md",
@@ -737,15 +807,16 @@
       "4. Archive/daily/Wed, Oct 14, 2020.md",
       "4. Archive/daily/Wed, Nov 4, 2020.md",
       "4. Archive/daily/Wed, Nov 25, 2020.md",
-      "4. Archive/daily/Wed, Nov 11, 2020.md",
       "4. Archive/daily/Wed, Nov 18, 2020.md",
+      "4. Archive/daily/Wed, Nov 11, 2020.md",
       "4. Archive/daily/Wed, May 6, 2020.md",
-      "4. Archive/daily/Wed, Mar 3, 2021.md",
       "4. Archive/daily/Wed, May 27, 2020.md",
       "4. Archive/daily/Wed, May 20, 2020.md",
       "4. Archive/daily/Wed, May 13, 2020.md",
-      "4. Archive/daily/Wed, Mar 11, 2020.md",
+      "4. Archive/daily/Wed, Mar 4, 2020.md",
+      "4. Archive/daily/Wed, Mar 3, 2021.md",
       "4. Archive/daily/Wed, Mar 25, 2020.md",
+      "4. Archive/daily/Wed, Mar 11, 2020.md",
       "4. Archive/daily/Wed, Mar 10, 2021.md",
       "4. Archive/daily/Wed, Jun 3, 2020.md",
       "4. Archive/daily/Wed, Jun 24, 2020.md",
@@ -770,8 +841,8 @@
       "4. Archive/daily/Wed, Feb 19, 2020.md",
       "4. Archive/daily/Wed, Feb 17, 2021.md",
       "4. Archive/daily/Wed, Feb 12, 2020.md",
-      "4. Archive/daily/Wed, Dec 30, 2020.md",
       "4. Archive/daily/Wed, Dec 9, 2020.md",
+      "4. Archive/daily/Wed, Dec 30, 2020.md",
       "4. Archive/daily/Wed, Dec 23, 2020.md",
       "4. Archive/daily/Wed, Dec 2, 2020.md",
       "4. Archive/daily/Wed, Dec 16, 2020.md",
@@ -793,27 +864,27 @@
       "4. Archive/daily/Tues Feb 25, 2020.md",
       "4. Archive/daily/Tues Feb 11, 2020.md",
       "4. Archive/daily/Tue, Sep 8, 2020.md",
-      "4. Archive/daily/Tue, Sep 1, 2020.md",
       "4. Archive/daily/Tue, Sep 29, 2020.md",
-      "4. Archive/daily/Tue, Oct 6, 2020.md",
       "4. Archive/daily/Tue, Sep 15, 2020.md",
+      "4. Archive/daily/Tue, Sep 1, 2020.md",
+      "4. Archive/daily/Tue, Oct 6, 2020.md",
       "4. Archive/daily/Tue, Oct 20, 2020.md",
       "4. Archive/daily/Tue, Oct 13, 2020.md",
       "4. Archive/daily/Tue, Nov 3, 2020.md",
       "4. Archive/daily/Tue, Nov 24, 2020.md",
-      "4. Archive/daily/Tue, May 26, 2020.md",
       "4. Archive/daily/Tue, May 5, 2020.md",
+      "4. Archive/daily/Tue, May 26, 2020.md",
       "4. Archive/daily/Tue, May 19, 2020.md",
       "4. Archive/daily/Tue, May 12, 2020.md",
       "4. Archive/daily/Tue, Mar 31, 2020.md",
-      "4. Archive/daily/Tue, Mar 2, 2021.md",
       "4. Archive/daily/Tue, Mar 3, 2020.md",
       "4. Archive/daily/Tue, Mar 24, 2020.md",
+      "4. Archive/daily/Tue, Mar 2, 2021.md",
       "4. Archive/daily/Tue, Mar 17, 2020.md",
       "4. Archive/daily/Tue, Mar 10, 2020.md",
       "4. Archive/daily/Tue, Jun 9, 2020.md",
-      "4. Archive/daily/Tue, Jun 23, 2020.md",
       "4. Archive/daily/Tue, Jun 30, 2020.md",
+      "4. Archive/daily/Tue, Jun 23, 2020.md",
       "4. Archive/daily/Tue, Jun 2, 2020.md",
       "4. Archive/daily/Tue, Jun 16, 2020.md",
       "4. Archive/daily/Tue, Jul 7, 2020.md",
@@ -834,14 +905,14 @@
       "4. Archive/daily/Tue, Dec 29, 2020.md",
       "4. Archive/daily/Tue, Dec 22, 2020.md",
       "4. Archive/daily/Tue, Dec 15, 2020.md",
-      "4. Archive/daily/Tue, Aug 25, 2020.md",
       "4. Archive/daily/Tue, Dec 1, 2020.md",
+      "4. Archive/daily/Tue, Aug 25, 2020.md",
       "4. Archive/daily/Tue, Aug 18, 2020.md",
       "4. Archive/daily/Tue, Aug 11, 2020.md",
       "4. Archive/daily/Tue, Apr 7, 2020.md",
-      "4. Archive/daily/Tue, Apr 14, 2020.md",
-      "4. Archive/daily/Tue, Apr 21, 2020.md",
       "4. Archive/daily/Tue, Apr 28, 2020.md",
+      "4. Archive/daily/Tue, Apr 21, 2020.md",
+      "4. Archive/daily/Tue, Apr 14, 2020.md",
       "4. Archive/daily/Thu, Sep 3, 2020.md",
       "4. Archive/daily/Thu, Sep 24, 2020.md",
       "4. Archive/daily/Thu, Sep 17, 2020.md",
@@ -878,9 +949,9 @@
       "4. Archive/daily/Thu, Jan 23, 2020.md",
       "4. Archive/daily/Thu, Jan 21, 2021.md",
       "4. Archive/daily/Thu, Jan 2, 2020.md",
-      "4. Archive/daily/Thu, Feb 6, 2020.md",
       "4. Archive/daily/Thu, Jan 16, 2020.md",
       "4. Archive/daily/Thu, Jan 14, 2021.md",
+      "4. Archive/daily/Thu, Feb 6, 2020.md",
       "4. Archive/daily/Thu, Feb 4, 2021.md",
       "4. Archive/daily/Thu, Feb 27, 2020.md",
       "4. Archive/daily/Thu, Feb 25, 2021.md",
@@ -905,8 +976,6 @@
       "4. Archive/daily/Sun, Sep 13, 2020.md",
       "4. Archive/daily/Sun, Oct 3, 2020.md",
       "4. Archive/daily/Sun, Oct 25, 2020.md",
-      "4. Archive/daily/Sun, Jun 28, 2020.md",
-      "4. Archive/daily/Mon, Apr 13, 2020.md",
       "4. Archive/daily/Sun, Oct 18, 2020.md",
       "4. Archive/daily/Sun, Oct 11, 2020.md",
       "4. Archive/daily/Sun, Nov 8, 2020.md",
@@ -924,9 +993,10 @@
       "4. Archive/daily/Sun, Mar 15, 2020.md",
       "4. Archive/daily/Sun, Mar 1, 2020.md",
       "4. Archive/daily/Sun, Jun 7, 2020.md",
-      "4. Archive/daily/Sun, Jul 5, 2020.md",
+      "4. Archive/daily/Sun, Jun 28, 2020.md",
       "4. Archive/daily/Sun, Jun 21, 2020.md",
       "4. Archive/daily/Sun, Jun 14, 2020.md",
+      "4. Archive/daily/Sun, Jul 5, 2020.md",
       "4. Archive/daily/Sun, Jul 19, 2020.md",
       "4. Archive/daily/Sun, Jul 12, 2020.md",
       "4. Archive/daily/Sun, Jan 5, 2020.md",
@@ -990,8 +1060,8 @@
       "4. Archive/daily/Sat, Jan 25, 2020.md",
       "4. Archive/daily/Sat, Jan 23, 2021.md",
       "4. Archive/daily/Sat, Jan 2, 2021.md",
-      "4. Archive/daily/Sat, Jan 11, 2020.md",
       "4. Archive/daily/Sat, Jan 18, 2020.md",
+      "4. Archive/daily/Sat, Jan 11, 2020.md",
       "4. Archive/daily/Sat, Feb 8, 2020.md",
       "4. Archive/daily/Sat, Feb 29, 2020.md",
       "4. Archive/daily/Sat, Feb 27, 2021.md",
@@ -1004,8 +1074,8 @@
       "4. Archive/daily/Sat, Dec 19, 2020.md",
       "4. Archive/daily/Sat, Aug 8, 2020.md",
       "4. Archive/daily/Sat, Aug 29, 2020.md",
-      "4. Archive/daily/Sat, Aug 15, 2020.md",
       "4. Archive/daily/Sat, Aug 22, 2020.md",
+      "4. Archive/daily/Sat, Aug 15, 2020.md",
       "4. Archive/daily/Sat, Apr 4, 2020.md",
       "4. Archive/daily/Sat, Apr 25, 2020.md",
       "4. Archive/daily/Sat, Apr 18, 2020.md",
@@ -1063,14 +1133,14 @@
       "4. Archive/daily/Mon, Aug 24, 2020.md",
       "4. Archive/daily/Mon, Aug 19, 2020.md",
       "4. Archive/daily/Mon, Aug 10, 2020.md",
-      "4. Archive/daily/Mon, Apr 27, 2020.md",
       "4. Archive/daily/Mon, Apr 6, 2020.md",
-      "4. Archive/daily/Fri, Sep 18, 2020.md",
+      "4. Archive/daily/Mon, Apr 27, 2020.md",
       "4. Archive/daily/Mon, Apr 20, 2020.md",
-      "4. Archive/daily/Fri, Jun 5, 2020.md",
+      "4. Archive/daily/Mon, Apr 13, 2020.md",
       "4. Archive/daily/Mon Feb 24, 2020.md",
       "4. Archive/daily/Fri, Sep 4, 2020.md",
       "4. Archive/daily/Fri, Sep 25, 2020.md",
+      "4. Archive/daily/Fri, Sep 18, 2020.md",
       "4. Archive/daily/Fri, Sep 11, 2020.md",
       "4. Archive/daily/Fri, Oct 9, 2020.md",
       "4. Archive/daily/Fri, Oct 30, 2020.md",
@@ -1088,21 +1158,20 @@
       "4. Archive/daily/Fri, May 1, 2020.md",
       "4. Archive/daily/Fri, Mar 6, 2020.md",
       "4. Archive/daily/Fri, Mar 5, 2021.md",
-      "4. Archive/daily/Fri, Mar 13, 2020.md",
       "4. Archive/daily/Fri, Mar 27, 2020.md",
       "4. Archive/daily/Fri, Mar 20, 2020.md",
+      "4. Archive/daily/Fri, Mar 13, 2020.md",
+      "4. Archive/daily/Fri, Jun 5, 2020.md",
       "4. Archive/daily/Fri, Jun 26, 2020.md",
       "4. Archive/daily/Fri, Jun 19, 2020.md",
-      "4. Archive/daily/Fri, Jan 8, 2021.md",
-      "4. Archive/daily/Fri, Feb 28, 2020.md",
       "4. Archive/daily/Fri, Jun 12, 2020.md",
       "4. Archive/daily/Fri, Jun 12, 2020 2.md",
       "4. Archive/daily/Fri, Jul 31, 2020.md",
       "4. Archive/daily/Fri, Jul 3, 2020.md",
       "4. Archive/daily/Fri, Jul 24, 2020.md",
-      "4. Archive/daily/Fri, Dec 4, 2020.md",
       "4. Archive/daily/Fri, Jul 17, 2020.md",
       "4. Archive/daily/Fri, Jul 10, 2020.md",
+      "4. Archive/daily/Fri, Jan 8, 2021.md",
       "4. Archive/daily/Fri, Jan 31, 2020.md",
       "4. Archive/daily/Fri, Jan 3, 2020.md",
       "4. Archive/daily/Fri, Jan 29, 2021.md",
@@ -1110,6 +1179,7 @@
       "4. Archive/daily/Fri, Jan 22, 2021.md",
       "4. Archive/daily/Fri, Jan 17, 2020.md",
       "4. Archive/daily/Fri, Jan 10, 2020.md",
+      "4. Archive/daily/Fri, Feb 28, 2020.md",
       "4. Archive/daily/Fri, Jan 1, 2021.md",
       "4. Archive/daily/Fri, Feb 7, 2020.md",
       "4. Archive/daily/Fri, Feb 26, 2021.md",
@@ -1117,6 +1187,7 @@
       "4. Archive/daily/Fri, Aug 7, 2020 2.md",
       "4. Archive/daily/Fri, Aug 28, 2020.md",
       "4. Archive/daily/Fri, Feb 14, 2020.md",
+      "4. Archive/daily/Fri, Dec 4, 2020.md",
       "4. Archive/daily/Fri, Dec 18, 2020.md",
       "4. Archive/daily/Fri, Dec 11, 2020.md",
       "4. Archive/daily/Fri, Aug 7, 2020.md",
@@ -1125,15 +1196,120 @@
       "4. Archive/daily/Fri, Apr 24, 2020.md",
       "4. Archive/daily/Fri, Apr 17, 2020.md",
       "4. Archive/daily/Fri, Apr 10, 2020.md",
-      "4. Archive/daily/2020-06-14.md",
-      "4. Archive/daily/2020-06-24.md"
+      "4. Archive/daily/2020-06-24.md",
+      "4. Archive/daily/2020-06-14.md"
     ]
   },
   {
-    "tag": "z-archives/pl",
+    "tag": "os",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "x",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "daily",
     "tagCount": 1,
     "relativePaths": [
-      "4. Archive/pl/The Persistent I.md"
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "osxdaily",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "apple",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "mac",
+    "tagCount": 3,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "iphone",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "ipad",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "macos",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "ios",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "ipados",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "tips",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "tricks",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "tutorials",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "news",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Typing accents on the Mac.md"
+    ]
+  },
+  {
+    "tag": "foobar",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/productivity/Keyboard shortcuts to review.md"
     ]
   },
   {
@@ -1141,6 +1317,13 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/pl/Plural.md"
+    ]
+  },
+  {
+    "tag": "z-archives/pl",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/pl/The Persistent I.md"
     ]
   },
   {
@@ -1165,10 +1348,31 @@
     ]
   },
   {
-    "tag": "e",
+    "tag": "life",
     "tagCount": 1,
     "relativePaths": [
-      "4. Archive/kindle-notes/McCulloch-Because Internet.md"
+      "4. Archive/indexing/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "advice",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/indexing/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "adhd",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/indexing/Junebugging.md"
+    ]
+  },
+  {
+    "tag": "actually",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/indexing/Junebugging.md"
     ]
   },
   {
@@ -1182,8 +1386,8 @@
     "tag": "z-archives/health/blitshteyn",
     "tagCount": 3,
     "relativePaths": [
-      "4. Archive/health/archived-doctor-notes/Blitshteyn notes for Mon, May 17, 2021.md",
       "4. Archive/health/archived-doctor-notes/Blitshteyn appointment Mon, Dec 7, 2020.md",
+      "4. Archive/health/archived-doctor-notes/Blitshteyn notes for Mon, May 17, 2021.md",
       "4. Archive/health/archived-doctor-notes/Blitshteyn Oct 2019.md"
     ]
   },
@@ -1206,6 +1410,13 @@
     ]
   },
   {
+    "tag": "e",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/kindle-notes/McCulloch-Because Internet.md"
+    ]
+  },
+  {
     "tag": "z-archives/friends/endever",
     "tagCount": 1,
     "relativePaths": [
@@ -1218,21 +1429,6 @@
     "relativePaths": [
       "4. Archive/gardening/Tomatoes.md",
       "4. Archive/gardening/Aphids roses.md"
-    ]
-  },
-  {
-    "tag": "z-archives/emergency",
-    "tagCount": 2,
-    "relativePaths": [
-      "4. Archive/emergency-preparedness/Emergency water.md",
-      "4. Archive/emergency-info/Endever - friend emergency contact info.md"
-    ]
-  },
-  {
-    "tag": "z-archives/yearly",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/emergency-preparedness/Earthquake kits and planning.md"
     ]
   },
   {
@@ -1263,6 +1459,43 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/finances-insurance/Donations Feb 2020.md"
+    ]
+  },
+  {
+    "tag": "z-archives/emergency",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/emergency-preparedness/Emergency water.md",
+      "4. Archive/emergency-info/Endever - friend emergency contact info.md"
+    ]
+  },
+  {
+    "tag": "z-archives/yearly",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/emergency-preparedness/Earthquake kits and planning.md"
+    ]
+  },
+  {
+    "tag": "z-archives/upsetting",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/cw-pubq/_not a structural issue_.md"
+    ]
+  },
+  {
+    "tag": "z-archives/cw-culture",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/cw-pubq/CW culture committee notes.md"
+    ]
+  },
+  {
+    "tag": "z-archives/clarionwest",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/cw-pubq/Jae CW committee resignation draft.md",
+      "4. Archive/cw-pubq/CW clarion west slack channel deletions.md"
     ]
   },
   {
@@ -1310,14 +1543,12 @@
       "4. Archive/daily/Sat, Feb 20, 2021 todoist.md",
       "4. Archive/daily/Fri, Oct 30, 2020 todoist backup.md",
       "4. Archive/daily/Fri, Aug 28, 2020 2.md",
-      "4. Archive/backups/todoist backups Thu, Apr 16, 2020.md",
-      "4. Archive/backups/todoist backups Thu, Oct 1, 2020.md",
-      "4. Archive/backups/todoist Sat, Feb 13, 2021.md",
       "4. Archive/backups/todoist backups Fri, Jun 12, 2020.md",
+      "4. Archive/backups/todoist backups Thu, Oct 1, 2020.md",
+      "4. Archive/backups/todoist backups Thu, Apr 16, 2020.md",
+      "4. Archive/backups/todoist Sat, Feb 13, 2021.md",
       "4. Archive/backups/Todoist backups.md",
-      "4. Archive/backups/Todoist Sat, May 15, 2021.md",
       "4. Archive/backups/todoist Fri, Sep 11, 2020.md",
-      "4. Archive/backups/Todoist Sun, Feb 7, 2021.md",
       "4. Archive/backups/Todoist backups Sun, Nov 22, 2020.md",
       "4. Archive/backups/Todoist backups Sun, Aug 1, 2021.md",
       "4. Archive/backups/Todoist backups Sat, May 8, 2021.md",
@@ -1340,6 +1571,8 @@
       "4. Archive/backups/Todoist backup 2020 03 20.md",
       "4. Archive/backups/Todoist backup 2020 02 09.md",
       "4. Archive/backups/Todoist Thu, Apr 23, 2020.md",
+      "4. Archive/backups/Todoist Sun, Feb 7, 2021.md",
+      "4. Archive/backups/Todoist Sat, May 15, 2021.md",
       "4. Archive/backups/Todoist Sun, Apr 11, 2021.md",
       "4. Archive/backups/Todoist 422020.md"
     ]
@@ -1359,17 +1592,6 @@
     ]
   },
   {
-    "tag": "asl-jobs",
-    "tagCount": 5,
-    "relativePaths": [
-      "4. Archive/daily/2021-10-18.md",
-      "4. Archive/daily/2021-10-18 4.md",
-      "4. Archive/daily/2021-10-18 2.md",
-      "4. Archive/daily/2021-10-18 5.md",
-      "4. Archive/daily/2021-10-18 3.md"
-    ]
-  },
-  {
     "tag": "plurality-discussion",
     "tagCount": 1,
     "relativePaths": [
@@ -1381,6 +1603,17 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/daily/2022 - Jan 1 through Jun 29 daily notes.md"
+    ]
+  },
+  {
+    "tag": "asl-jobs",
+    "tagCount": 5,
+    "relativePaths": [
+      "4. Archive/daily/2021-10-18.md",
+      "4. Archive/daily/2021-10-18 5.md",
+      "4. Archive/daily/2021-10-18 4.md",
+      "4. Archive/daily/2021-10-18 3.md",
+      "4. Archive/daily/2021-10-18 2.md"
     ]
   },
   {
@@ -1404,15 +1637,15 @@
       "4. Archive/daily/2020-09-05.md",
       "4. Archive/bass-guitar/Songs to learn.md",
       "4. Archive/bass-guitar/Jul 10, 2020 lesson nots.md",
-      "4. Archive/bass-guitar/Beginner Bass starter park.md",
       "4. Archive/bass-guitar/Common Disaster summary.md",
-      "4. Archive/bass-guitar/Bass song ideas.md",
+      "4. Archive/bass-guitar/Beginner Bass starter park.md",
       "4. Archive/bass-guitar/Basslines to look up.md",
-      "4. Archive/bass-guitar/Bass practice plan, Fri, Apr 10, 2020.md",
+      "4. Archive/bass-guitar/Bass song ideas.md",
       "4. Archive/bass-guitar/Bass practice plan, Mar 28.md",
-      "4. Archive/bass-guitar/Archived bass lesson notes.md",
+      "4. Archive/bass-guitar/Bass practice plan, Fri, Apr 10, 2020.md",
       "4. Archive/bass-guitar/Bass practice plan, Apr 2, 2020.md",
-      "4. Archive/bass-guitar/Bass notes 2.md"
+      "4. Archive/bass-guitar/Bass notes 2.md",
+      "4. Archive/bass-guitar/Archived bass lesson notes.md"
     ]
   },
   {
@@ -1420,28 +1653,6 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/daily/2020-03-22.md"
-    ]
-  },
-  {
-    "tag": "z-archives/cw-culture",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/cw-pubq/CW culture committee notes.md"
-    ]
-  },
-  {
-    "tag": "z-archives/clarionwest",
-    "tagCount": 2,
-    "relativePaths": [
-      "4. Archive/cw-pubq/CW clarion west slack channel deletions.md",
-      "4. Archive/cw-pubq/Jae CW committee resignation draft.md"
-    ]
-  },
-  {
-    "tag": "z-archives/upsetting",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/cw-pubq/_not a structural issue_.md"
     ]
   },
   {
@@ -1462,19 +1673,12 @@
     "tag": "autchat",
     "tagCount": 10,
     "relativePaths": [
-      "4. Archive/bios/Resumes/Resume texts.md",
       "4. Archive/bios/Sensitivity reader 2016.md",
+      "4. Archive/bios/Resumes/Resume texts.md",
       "4. Archive/bios/Knowing Why anthology.md",
       "4. Archive/bios/Ada interview - Mar 2021.md/Ada interview - Mar 2021.md",
       "4. Archive/bios/2017.10.13 Disability in Kid Lit.md",
       "4. Archive/autism/Autistic writers resources.md"
-    ]
-  },
-  {
-    "tag": "neurodiversestem",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/bios/Resumes/Resume texts.md"
     ]
   },
   {
@@ -1486,12 +1690,10 @@
     ]
   },
   {
-    "tag": "z-archives/mission-peak",
-    "tagCount": 3,
+    "tag": "neurodiversestem",
+    "tagCount": 1,
     "relativePaths": [
-      "4. Archive/archived-mission-peak-housing-coop/Mission peak workshop notes.md",
-      "4. Archive/archived-mission-peak-housing-coop/Mission Peak choosing.md",
-      "4. Archive/archived-mission-peak-housing-coop/From mission peak presentation.md"
+      "4. Archive/bios/Resumes/Resume texts.md"
     ]
   },
   {
@@ -1520,6 +1722,15 @@
     ]
   },
   {
+    "tag": "z-archives/mission-peak",
+    "tagCount": 3,
+    "relativePaths": [
+      "4. Archive/archived-mission-peak-housing-coop/Mission peak workshop notes.md",
+      "4. Archive/archived-mission-peak-housing-coop/Mission Peak choosing.md",
+      "4. Archive/archived-mission-peak-housing-coop/From mission peak presentation.md"
+    ]
+  },
+  {
     "tag": "z-archives/reviews",
     "tagCount": 1,
     "relativePaths": [
@@ -1537,15 +1748,8 @@
     "tag": "z-archives/autchat",
     "tagCount": 2,
     "relativePaths": [
-      "4. Archive/autchat/AutChat - Cisco_s 6-month history.md",
-      "4. Archive/autchat/Postcards.md"
-    ]
-  },
-  {
-    "tag": "z-archives/journal",
-    "tagCount": 19,
-    "relativePaths": [
-      "4. Archive/archived-journaling/Journal.md"
+      "4. Archive/autchat/Postcards.md",
+      "4. Archive/autchat/AutChat - Cisco_s 6-month history.md"
     ]
   },
   {
@@ -1578,9 +1782,10 @@
   },
   {
     "tag": "tumblr",
-    "tagCount": 16,
+    "tagCount": 17,
     "relativePaths": [
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md",
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
@@ -1948,6 +2153,21 @@
     ]
   },
   {
+    "tag": "z-archives/journal",
+    "tagCount": 19,
+    "relativePaths": [
+      "4. Archive/archived-journaling/Journal.md"
+    ]
+  },
+  {
+    "tag": "z-archives/projects",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/archived-how-tos/Pantry shelves.md",
+      "4. Archive/archived-how-tos/Dad_s shelf advice.md"
+    ]
+  },
+  {
     "tag": "z-archives/prayers",
     "tagCount": 1,
     "relativePaths": [
@@ -1962,11 +2182,12 @@
     ]
   },
   {
-    "tag": "z-archives/projects",
-    "tagCount": 2,
+    "tag": "bcbs",
+    "tagCount": 3,
     "relativePaths": [
-      "4. Archive/archived-how-tos/Pantry shelves.md",
-      "4. Archive/archived-how-tos/Dad_s shelf advice.md"
+      "4. Archive/archived-finances-insurance/Blue Shield of California EOB notes.md",
+      "4. Archive/archived-finances-insurance/Blue Shield insurance.md",
+      "4. Archive/archived-finances-insurance/BCBS Blue Shield insurance questions.md"
     ]
   },
   {
@@ -2013,152 +2234,45 @@
     ]
   },
   {
-    "tag": "bcbs",
-    "tagCount": 3,
-    "relativePaths": [
-      "4. Archive/archived-finances-insurance/Blue Shield of California EOB notes.md",
-      "4. Archive/archived-finances-insurance/Blue Shield insurance.md",
-      "4. Archive/archived-finances-insurance/BCBS Blue Shield insurance questions.md"
-    ]
-  },
-  {
-    "tag": "os",
-    "tagCount": 2,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "x",
-    "tagCount": 2,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "daily",
+    "tag": "tumblelog",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
-    "tag": "osxdaily",
+    "tag": "blog",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
-    "tag": "apple",
+    "tag": "tumblog",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
-    "tag": "mac",
-    "tagCount": 3,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "iphone",
+    "tag": "tumbler",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
-    "tag": "ipad",
+    "tag": "tlog",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {
-    "tag": "macos",
+    "tag": "microblog",
     "tagCount": 1,
     "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "ios",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "ipados",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "tips",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "tricks",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "tutorials",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "news",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Typing accents on the Mac.md"
-    ]
-  },
-  {
-    "tag": "foobar",
-    "tagCount": 1,
-    "relativePaths": [
-      "3. Resources/productivity/Keyboard shortcuts to review.md"
-    ]
-  },
-  {
-    "tag": "life",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/i - develop and document indexing processes/Junebugging.md"
-    ]
-  },
-  {
-    "tag": "advice",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/i - develop and document indexing processes/Junebugging.md"
-    ]
-  },
-  {
-    "tag": "adhd",
-    "tagCount": 2,
-    "relativePaths": [
-      "1. Projects/i - develop and document indexing processes/Junebugging.md"
-    ]
-  },
-  {
-    "tag": "actually",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/i - develop and document indexing processes/Junebugging.md"
+      "4. Archive/Home automation open source.md"
     ]
   },
   {

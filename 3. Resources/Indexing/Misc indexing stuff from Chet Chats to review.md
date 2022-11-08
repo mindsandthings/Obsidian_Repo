@@ -41,7 +41,6 @@ The business plan for Oxford and Cambridge is to make as much money as possible 
 [13:55] Amber DeDerick: I get $6-$7 per page. Appropriate for my level of expertise.
 [13:55] Elena Gwynne: And once (but only once so far) $6 (and I got it).
 
-
 1/21/22
 [13:49] Do Mi Stauber: I very often find myself going back for something that only coalesced into a "thing" partway through the book. I stick a note right in my index file to search or check back for it.
 

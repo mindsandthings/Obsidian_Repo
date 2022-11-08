@@ -488,7 +488,7 @@ b. She's still worried about DI Holmes suspecting Paisley, even if Paisley didn'
 c. Despite her crappy day, she's still got hope for a Kelp review. Make something that complements the Marbelini perfectly. 
 
 
-# She feels embarrassed and kind of dumb. Make something complex and intricate to make her feel better about herself. 
+## She feels embarrassed and kind of dumb. Make something complex and intricate to make her feel better about herself. 
 
 Marbela lifted the lid on the cooler stashed under the catering table, releasing an eddy of nice, chilly water. It made her want to crawl inside and hide until she was no longer hot with embarrassment. 
 
@@ -522,7 +522,7 @@ f. Aria, Augusta's descendant.
 
 g. Somebody else. 
 
-# Security guard, Mademoiselle Lifi, Mr. Shramply. 
+## Security guard, Mademoiselle Lifi, Mr. Shramply. 
 
 "We should talk to the security guard." Marbela did think he was the most suspicious, but even if he hadn't done it, he'd clearly failed to do his job. "And...Mademoiselle Lifi." Something was up with her, definitely. 
 
@@ -538,7 +538,7 @@ Marbela wasn't sure DI Holmes was going to be that helpful with the interviews, 
 
 They found him carefully inspecting a barnacle on the wall near the mural, taking copious notes despite the barnacle's failure to do anything suspicious. He seemed quite happy to go along with their interview plan. 
 
-## What should she ask the security guard? 
+### What should she ask the security guard? 
 
 a. Where were you when the wall was stolen? 
 
@@ -547,3 +547,112 @@ b. When was the last time you saw the mural?
 c. Why didn't you have an alarm set on the wall? 
 
 d. Can I see your security guard license? 
+
+
+## Where were you when the wall was stolen? Can I see your security guard license? 
+
+They interviewed the shark in the Octavia Puzzle Museum's break room, the only private location they could find that wasn't the back of Paisley's van. 
+
+Marbela did most of the interviewing, perched on a stool next to the breakroom's rickety table. The manatee kid had appointed himself Chief Distractor and was encouraging DI Holmes to inspect the breakroom couch through his magnifying glass, a few inches at a time, for what Marbela suspected were nonexistent clues. 
+
+The hammerhead shark's name was Biff, and he'd worked half-time at the Octavia Puzzle Museum for three years. Marbela had always thought of sharks as the strong, resolute type, but Biff was both talkative and easy to talk to. 
+
+"I'm a puzzle gamer." He nodded toward a small employee locker, presumably his, decorated in Octavia Puzzle Museum magnetic puzzles. "Just recreational gaming, not design." 
+
+He was a business student at Rock College. Working at the puzzle museum gave him an employee discount, and working night shifts gave him time and a quiet space to study. He lived with his family, and his little sister was a very skilled and very loud opera-singer-in-training who practiced at home. "Would you like to hear some clips?" He reached for his phone. 
+
+Marbela did want to see the clips, but this was an interview and she needed to keep it in hand. Leaning forward, she gave him what she hoped came off as a serious, this-means-business look. "So where were you when the mural was stolen?"
+
+"Uh..." He flipped his head around, fixing her with his other eye in a move that looked less security-guard and more oh-shit-I-was-hoping-you-wouldn't-ask-that. "Mademoiselle Lifi was finishing it up when I left work Friday morning. I had classes all day."
+
+Hmm. "Did you go back to work last night?" 
+
+"I was at home. In bed. I don't work Fridays, just Mondays through Thursdays and special events." He said it rapid-fire. From the corner of her eye, she saw the manatee kid's attention shift to them. 
+
+Maybe the guard was lying. "Was anyone else there?"
+
+"Um. Uh." He tilted his head again, aiming one eye out past the breakroom, beyond the missing chunk of wall, into the courtyard where the catering station was, and suddenly she knew who Paisley was dating. 
+
+
+### Paisley is dating Biff. How does Marbela feel about this?
+
+a. He's such a sweetie! He's a serious student, and he has a job. He's proud of his sister, and he has a hobby! So much better than the last guy she dated. 
+
+b. A business major! He'll be perfect for Paisley. She worries about the business aspects of catering all the time. Oh my gosh, they can run the business together! That's so adorable. 
+
+c. "Biff", though? Really? What were his parents thinking? 
+
+d. No wonder Paisley's worried about her family's reaction—they've hated sharks for generations, ever since Paisley's great-great-grandma fought a shark in hand-to-hand combat. 
+
+e. Jeez, no wonder Paisley's tired all the time, she's dating someone who works night shift. Maybe I should give her my extra coffee beans. 
+
+f. Oh shit, better change the subject before DI Holmes notices the connection to Paisley too. 
+
+
+
+# A business major! He'll be perfect for Paisley. She worries about the business aspects of catering all the time. Oh my gosh, they can run the business together! That's so adorable.  No wonder Paisley's worried about her family's reaction—they've hated sharks for generations, ever since Paisley's great-great-grandma fought a shark in hand-to-hand combat. Jeez, no wonder Paisley's tired all the time, she's dating someone who works night shift. Maybe I should give her my extra coffee beans. 
+
+"That's so perfect!" Marbela clapped a pair of arms together happily. Paisley liked the cooking-and-serving parts of catering, but she worried about the business aspects all the time. A business major would be a perfect partner for her. Maybe he could even help her run it. 
+
+Paisley's reaction made so much sense now. No wonder she was so tired all the time—she was dating someone who worked night shift. 
+
+"Hey," she called over to the manatee kid, who was holding the couch up so DI Holmes could inspect under it. "Can you write down a note for me to give my extra coffee beans to Paisley?" 
+
+Ignoring his puzzled look, she turned back to the shark. Gosh, no wonder Paisley was worried about how her family would react to him. They'd hated sharks for generations, ever since Paisley's great-great-grandma had fought a shark in hand-to-hand combat. She'd won, of course. Octopuses were always better armed than the competition. But the shark had been a sore loser, and his family and Paisley's family had never spoken to each other again. 
+
+Except Paisley wasn't just talking to him, she was visiting him, which was great. And making bad parking choices, which wasn't. "Don't you have a driveway?"
+
+Biff had stopped nervously tilting his head, maybe when she'd asked the manatee kid to note down about giving Paisley coffee beans, but now he grimaced, showing sharp teeth. "It's legal to park on my street. Someone's been harassing her. Giving her unjustified parking tickets. They're unsigned so they're not valid. But she still has to make a trip to City Hall to get them thrown out. We don't know who's behind it."
+
+Marbela felt a tightness behind her eyes dissipate. Not only wasn't Paisley an art thief, she wasn't even a serial parking-law violator. She wasn't at fault for the tickets. Some total jerk coward was. 
+
+She curled her arms resolutely around the stool. That would be her next case: figuring out the identity of Paisley's harasser. "I'll catch them." The firmness in her voice surprised her. 
+
+What else did she need to ask him about? Oh, yeah. "Can I see your security guard license?"
+
+He looked confused. "My...badge?" He gestured at his chest, where his ID was affixed. 
+
+Marbela peered at it. It looked like a real badge, probably. His legal name was Biffington Ripley III; no wonder he went by Biff. 
+
+"The front doors were locked when I came in this morning," he said, when she sat back. "We keep the reception tables in the back room and I brought them around the side. I didn't go in the main room. The first time I knew the mural was missing was when Paisley came in to freshen up."
+
+Marbela nodded. "When's the last time you saw it?"
+
+"When I left work Friday morning." He hesitated. "Mademoiselle Lifi...I waved goodbye to her, when I left. She waved back, but something seemed off. Like she was worried."
+
+
+### Next up: Mademoiselle Lifi. What should Marbela ask? Pick up to 3. 
+
+a. When was the last time you saw the mural? 
+
+b. Are you really French? 
+
+c. What was in the mural? 
+
+d. What happened Friday morning? 
+
+e. What did you see when you were watching the crowd? 
+
+
+
+# Lifi
+What should she ask? 
+
+what's in the mural? - she made it from very strict historical records which she was researching 
+who paid for it?
+how much was she paid? 
+what did she see when she was watching the crowd? 
+
+
+# Shramply
+
+was he expecting this?
+who does he think did it? 
+what does he know about the mural? 
+
+he stole it; he was trying to flush out some conspiracy
+he sold it to starfish guy
+
+
+# Mayor Myrtle
+

@@ -28,3 +28,6 @@ getting to know characters—learning what happened to them—a lot of discovery
 sometimes characters do things and you can't make them do it different, you can only drop the story
 which means often editing won't work
 maybe pulling back and looking at the characters backstory how it influences them?
+
+
+Call notes: often individualization has a different writing process every time
