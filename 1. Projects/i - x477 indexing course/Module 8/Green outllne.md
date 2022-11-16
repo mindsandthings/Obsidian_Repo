@@ -231,5 +231,32 @@ Unattributed copying can constitute one or more of a variety of legal wrongs.
 				- maybe it's that in some cases it's harder to prove it was stolen
 				- or because the theft is more likely to be unintentional
 				- but maybe the important thing is to ask not what proprety theft law protects but what kinds of rights or interests theft law is meant to protect
-				- 
-						  
+					- e.g. state video poker machine licenses are for regulatory reasons not economic ones
+					- what interests does the law of theft protect? "thick" property rights
+						- 1) possession, use adn enjoyment; 2) rights of transfer; 3) rights to exclude others
+					- how about copyright law? "thin" property rights
+						- toprovide economic incentives to create information and a shelter to develop and protect it
+					- moral rights: "thin" in a different way: personal, artistic, noneconomic
+					- theft law:
+						- differs from copyright law by having no exclusion for fair use
+						- differs from doctrine of moral rights by focusin on the general interests of society instead of the individual artist
+						- theft law provides a broadly sweeping, general purpose safety net, applying even when other more specialized doctrines of law do not
+
+###### Theft Law and Commodification
+- Not every "thing of value" can be the subject of theft
+	- Kidnapping a child is kidnapping, not theft; children cannot be property or owned
+	- Terrorists can steal a sens eof security but cannot be prosecuted for theft; a sense of security is not bought or sold
+	- This suggests somethign can be a a "thing of value" for theft law only if it is commodifiable
+- Commidifiable: 
+	- term usually comes up in the context of debate over whether to permit sale of thigns like sex, reproductive capacity, and bodily organs
+	- law and economics and libertarian scholars offer that we should commodify broadly because markets offer an efficient means of distributing scarce resources
+	- liberal theorists argue commidification undermines important social values like personal dignity and social justice
+	- commodifiability also comes up in intellectual property law, when seeking to explain what info should be subjet to legal protection
+	- three kind of NON-commodifiability:
+		- 1) things that are illegal to possess
+		- 2) things that are not illegal to possess but are illegal to buy and sell (like organs)
+		- 3) things that are not illegal to buy, sell, or possess, but aren't capable of being bought or sold (love, admiration, respect)
+	- author's claim: a thing is not subject to theft unless it is the sort of thing that can be bought or sold (legally or not).
+
+###### What, if anything, does the plagiarist steal?
+- 
