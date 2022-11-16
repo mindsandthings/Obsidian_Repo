@@ -1,8 +1,24 @@
 
-1. Talk to Judy
+1. Draft email for Judy
+	1. are you the archivist
+	2. Listserv change
+	3. Archives: do we want to drop, or send to new list, or what
+		1. do they need to be archived
+		2. do they need to remain available to members 
 2. Update Maria
+3. After I know from Judy what to do about the acrhives, email Jim about the list: 
+
+https://lists.pnwasi.org/mailman/private/indexing-pnw_lists.pnwasi.org/
 
 
+
+
+
+This is the link to login to the list as an administrator:  [https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org](https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org)
+
+  
+
+The List Administrator Password is:  PnwAdm219
 
 1.  Timeframe: early January
     
