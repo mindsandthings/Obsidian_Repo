@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-15-Tue.md",
+                "file": "0. Inbox/Id list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0926edeb1f3b381c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/food/Food notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-15-Tue.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-15-Tue.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-15-Tue.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -303,17 +315,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "34c682f08fe2c9b2",
+  "active": "0926edeb1f3b381c",
   "lastOpenFiles": [
+    "4. Archive/validating/Dangers of longtermism.md",
+    "0. Inbox/Id list.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
+    "daily/2022-11-15-Tue.md",
     "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md",
     "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
     "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
     "4. Archive/validating/Untitled.md",
-    "0. Inbox/Berkeley office hours excerpts.md",
-    "0. Inbox/Thanksgiving planning.md",
-    "daily/2022-11-15-Tue.md",
-    "2. Areas/Strengths/Strengths - 10. Relator.md",
-    "4. Archive/Strengths/strengths-2022/Relator - 9 - Copy.md",
-    "2. Areas/health/Thiamin HCL powdered bulksupplements.com.md"
+    "0. Inbox/Berkeley office hours excerpts.md"
   ]
 }

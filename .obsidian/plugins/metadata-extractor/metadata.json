@@ -3245,6 +3245,33 @@
     ]
   },
   {
+    "fileName": "Dangers of longtermism",
+    "relativePath": "4. Archive/validating/Dangers of longtermism.md",
+    "frontmatter": {
+      "created": "2022-11-16T11:33:13 (UTC -08:00)",
+      "source": "https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk",
+      "author": "Current Affairs",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 185
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The Dangerous Ideas of “Longtermism” and “Existential Risk” ❧ Current Affairs",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "underlying category-belonging you can't escape",
     "relativePath": "4. Archive/validating/underlying category-belonging you can't escape.md"
   },
