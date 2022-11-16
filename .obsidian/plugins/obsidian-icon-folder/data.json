@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStarFill",
       "RiCheckboxFill",
       "RiCompass3Line",
       "RiMapPinUserFill",
-      "RiBookLine",
-      "RiBook3Fill"
+      "RiBookLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,12 @@
   "3. Resources/Margie Lawson notes/20-point opening checklist.md": "RiCheckboxFill",
   "3. Resources/Margie Lawson notes/5-question scene checklist.md": "RiCheckboxFill",
   "3. Resources/Margie Lawson notes/Top 20 rhetorical devices.md": "RiCheckboxFill",
-  "4. Archive/productivity": "IbStar"
+  "4. Archive/productivity": "IbStar",
+  "1. Projects/i - x477 indexing course/Module 9/9.9 Embedded Indexing with IndexManager.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 10/Module 10 Course Discussion.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 10/Exercise 6.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 9/9.2 Indexing Exercise 5.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md": "RiStarFill",
+  "1. Projects/i - x477 indexing course/Module 8/Green outllne.md": "RiStarFill"
 }

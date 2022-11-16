@@ -1,3 +1,6 @@
+
+from SFW followup chat: "the relator door slam - even worse if you have relator-responsibility" - like a life change, very aggressive, in a good way. 
+
 # Journal
 ## Fri, Sep 30, 2022
 This one, more than others, seems built on the idea that everyone already has plenty of relationships to make deep, and that there won't be any issues with going from being acquaintances to the kind of friend you can deepen a relationship with. 

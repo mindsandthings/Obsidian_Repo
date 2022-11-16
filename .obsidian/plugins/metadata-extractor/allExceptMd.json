@@ -5,24 +5,16 @@
       "relativePath": "/"
     },
     {
-      "name": "0. Inbox",
-      "relativePath": "0. Inbox"
-    },
-    {
       "name": "1. Projects",
       "relativePath": "1. Projects"
     },
     {
-      "name": "2. Areas",
-      "relativePath": "2. Areas"
+      "name": "0. Inbox",
+      "relativePath": "0. Inbox"
     },
     {
       "name": "3. Resources",
       "relativePath": "3. Resources"
-    },
-    {
-      "name": "4. Archive",
-      "relativePath": "4. Archive"
     },
     {
       "name": "5. People",
@@ -33,20 +25,24 @@
       "relativePath": "6. North Star"
     },
     {
-      "name": "Productivity",
-      "relativePath": "Productivity"
+      "name": "4. Archive",
+      "relativePath": "4. Archive"
     },
     {
-      "name": "daily",
-      "relativePath": "daily"
+      "name": "2. Areas",
+      "relativePath": "2. Areas"
     },
     {
       "name": "periodic",
       "relativePath": "periodic"
     },
     {
-      "name": "i - develop and document indexing processes",
-      "relativePath": "1. Projects/i - develop and document indexing processes"
+      "name": "daily",
+      "relativePath": "daily"
+    },
+    {
+      "name": "Productivity",
+      "relativePath": "Productivity"
     },
     {
       "name": "i - launch indexing business",
@@ -57,16 +53,16 @@
       "relativePath": "1. Projects/i - x477 indexing course"
     },
     {
-      "name": "p - design raised bed garden",
-      "relativePath": "1. Projects/p - design raised bed garden"
-    },
-    {
-      "name": "p - plan Berkeley vacation",
-      "relativePath": "1. Projects/p - plan Berkeley vacation"
+      "name": "i - develop and document indexing processes",
+      "relativePath": "1. Projects/i - develop and document indexing processes"
     },
     {
       "name": "p - vote",
       "relativePath": "1. Projects/p - vote"
+    },
+    {
+      "name": "p - transfer pnwasi listserv",
+      "relativePath": "1. Projects/p - transfer pnwasi listserv"
     },
     {
       "name": "w - kraken",
@@ -81,34 +77,6 @@
       "relativePath": "1. Projects/w - marbela mystery"
     },
     {
-      "name": "I - Indexing book group",
-      "relativePath": "2. Areas/I - Indexing book group"
-    },
-    {
-      "name": "PNW-ASI",
-      "relativePath": "2. Areas/PNW-ASI"
-    },
-    {
-      "name": "Strengths",
-      "relativePath": "2. Areas/Strengths"
-    },
-    {
-      "name": "health",
-      "relativePath": "2. Areas/health"
-    },
-    {
-      "name": "food",
-      "relativePath": "2. Areas/food"
-    },
-    {
-      "name": "Margie Lawson notes",
-      "relativePath": "3. Resources/Margie Lawson notes"
-    },
-    {
-      "name": "Web presence updates",
-      "relativePath": "3. Resources/Web presence updates"
-    },
-    {
       "name": "EBT",
       "relativePath": "3. Resources/EBT"
     },
@@ -117,28 +85,52 @@
       "relativePath": "3. Resources/Indexing"
     },
     {
+      "name": "Web presence updates",
+      "relativePath": "3. Resources/Web presence updates"
+    },
+    {
+      "name": "Margie Lawson notes",
+      "relativePath": "3. Resources/Margie Lawson notes"
+    },
+    {
       "name": "Writing and cognition",
       "relativePath": "3. Resources/Writing and cognition"
-    },
-    {
-      "name": "kraken novel",
-      "relativePath": "3. Resources/kraken novel"
-    },
-    {
-      "name": "indexing-book-group",
-      "relativePath": "3. Resources/indexing-book-group"
     },
     {
       "name": "health",
       "relativePath": "3. Resources/health"
     },
     {
+      "name": "indexing-book-group",
+      "relativePath": "3. Resources/indexing-book-group"
+    },
+    {
+      "name": "kraken novel",
+      "relativePath": "3. Resources/kraken novel"
+    },
+    {
       "name": "Writing - fiction",
       "relativePath": "3. Resources/Writing - fiction"
     },
     {
+      "name": "the indexer",
+      "relativePath": "3. Resources/the indexer"
+    },
+    {
       "name": "p - condiments for Michael",
       "relativePath": "3. Resources/p - condiments for Michael"
+    },
+    {
+      "name": "x477 Indexing course",
+      "relativePath": "3. Resources/x477 Indexing course"
+    },
+    {
+      "name": "p - design raised bed garden",
+      "relativePath": "1. Projects/p - design raised bed garden"
+    },
+    {
+      "name": "p - plan Berkeley vacation",
+      "relativePath": "1. Projects/p - plan Berkeley vacation"
     },
     {
       "name": "Copyediting and developmental editing",
@@ -153,24 +145,20 @@
       "relativePath": "4. Archive/Michael research"
     },
     {
-      "name": "x477 Indexing course",
-      "relativePath": "3. Resources/x477 Indexing course"
+      "name": "Technical communication",
+      "relativePath": "4. Archive/Technical communication"
     },
     {
       "name": "Strengths course",
       "relativePath": "4. Archive/Strengths course"
     },
     {
-      "name": "Technical communication",
-      "relativePath": "4. Archive/Technical communication"
+      "name": "Untitled",
+      "relativePath": "4. Archive/Untitled"
     },
     {
       "name": "Strengths",
       "relativePath": "4. Archive/Strengths"
-    },
-    {
-      "name": "Untitled",
-      "relativePath": "4. Archive/Untitled"
     },
     {
       "name": "analyze writers",
@@ -181,20 +169,12 @@
       "relativePath": "4. Archive/archived-holidays"
     },
     {
-      "name": "archived-finances-insurance",
-      "relativePath": "4. Archive/archived-finances-insurance"
-    },
-    {
       "name": "archived-homeschooling",
       "relativePath": "4. Archive/archived-homeschooling"
     },
     {
-      "name": "archived-inventories",
-      "relativePath": "4. Archive/archived-inventories"
-    },
-    {
-      "name": "archived-judaism",
-      "relativePath": "4. Archive/archived-judaism"
+      "name": "archived-finances-insurance",
+      "relativePath": "4. Archive/archived-finances-insurance"
     },
     {
       "name": "archived-how-tos",
@@ -205,6 +185,14 @@
       "relativePath": "4. Archive/archived-journaling"
     },
     {
+      "name": "archived-inventories",
+      "relativePath": "4. Archive/archived-inventories"
+    },
+    {
+      "name": "archived-judaism",
+      "relativePath": "4. Archive/archived-judaism"
+    },
+    {
       "name": "archived-michael",
       "relativePath": "4. Archive/archived-michael"
     },
@@ -213,24 +201,24 @@
       "relativePath": "4. Archive/autchat"
     },
     {
-      "name": "archived-productivity",
-      "relativePath": "4. Archive/archived-productivity"
-    },
-    {
       "name": "archived-mission-peak-housing-coop",
       "relativePath": "4. Archive/archived-mission-peak-housing-coop"
+    },
+    {
+      "name": "archived-productivity",
+      "relativePath": "4. Archive/archived-productivity"
     },
     {
       "name": "asl",
       "relativePath": "4. Archive/asl"
     },
     {
-      "name": "bass-guitar",
-      "relativePath": "4. Archive/bass-guitar"
-    },
-    {
       "name": "autism",
       "relativePath": "4. Archive/autism"
+    },
+    {
+      "name": "bass-guitar",
+      "relativePath": "4. Archive/bass-guitar"
     },
     {
       "name": "clothing-and-stuff",
@@ -241,12 +229,12 @@
       "relativePath": "4. Archive/correspondence-drafts"
     },
     {
-      "name": "bios",
-      "relativePath": "4. Archive/bios"
-    },
-    {
       "name": "backups",
       "relativePath": "4. Archive/backups"
+    },
+    {
+      "name": "bios",
+      "relativePath": "4. Archive/bios"
     },
     {
       "name": "diy",
@@ -257,16 +245,16 @@
       "relativePath": "4. Archive/embassy-common"
     },
     {
+      "name": "civic-participation",
+      "relativePath": "4. Archive/civic-participation"
+    },
+    {
       "name": "daily",
       "relativePath": "4. Archive/daily"
     },
     {
       "name": "emergency-info",
       "relativePath": "4. Archive/emergency-info"
-    },
-    {
-      "name": "civic-participation",
-      "relativePath": "4. Archive/civic-participation"
     },
     {
       "name": "food",
@@ -277,12 +265,12 @@
       "relativePath": "4. Archive/cw-pubq"
     },
     {
-      "name": "emergency-preparedness",
-      "relativePath": "4. Archive/emergency-preparedness"
-    },
-    {
       "name": "finances-insurance",
       "relativePath": "4. Archive/finances-insurance"
+    },
+    {
+      "name": "emergency-preparedness",
+      "relativePath": "4. Archive/emergency-preparedness"
     },
     {
       "name": "haeth (rpg)",
@@ -293,56 +281,52 @@
       "relativePath": "4. Archive/gardening"
     },
     {
-      "name": "friends",
-      "relativePath": "4. Archive/friends"
+      "name": "images",
+      "relativePath": "4. Archive/images"
     },
     {
       "name": "indexing-book-group",
       "relativePath": "4. Archive/indexing-book-group"
     },
     {
-      "name": "images",
-      "relativePath": "4. Archive/images"
+      "name": "indexing",
+      "relativePath": "4. Archive/indexing"
     },
     {
       "name": "kindle-notes",
       "relativePath": "4. Archive/kindle-notes"
     },
     {
+      "name": "kitchen island refinishing",
+      "relativePath": "4. Archive/kitchen island refinishing"
+    },
+    {
+      "name": "friends",
+      "relativePath": "4. Archive/friends"
+    },
+    {
       "name": "health",
       "relativePath": "4. Archive/health"
     },
     {
-      "name": "indexing",
-      "relativePath": "4. Archive/indexing"
-    },
-    {
-      "name": "karl",
-      "relativePath": "4. Archive/karl"
-    },
-    {
-      "name": "kitchen island refinishing",
-      "relativePath": "4. Archive/kitchen island refinishing"
+      "name": "manuals",
+      "relativePath": "4. Archive/manuals"
     },
     {
       "name": "lists",
       "relativePath": "4. Archive/lists"
     },
     {
-      "name": "measurements",
-      "relativePath": "4. Archive/measurements"
-    },
-    {
       "name": "media",
       "relativePath": "4. Archive/media"
     },
     {
-      "name": "media-recs",
-      "relativePath": "4. Archive/media-recs"
+      "name": "licenses-passwords",
+      "relativePath": "4. Archive/licenses-passwords"
     },
     {
-      "name": "manuals",
-      "relativePath": "4. Archive/manuals"
+      "name": "media-recs",
+      "relativePath": "4. Archive/media-recs"
     },
     {
       "name": "pl",
@@ -357,12 +341,16 @@
       "relativePath": "4. Archive/recipes"
     },
     {
-      "name": "licenses-passwords",
-      "relativePath": "4. Archive/licenses-passwords"
+      "name": "obsidian",
+      "relativePath": "4. Archive/obsidian"
     },
     {
       "name": "reviews",
       "relativePath": "4. Archive/reviews"
+    },
+    {
+      "name": "records",
+      "relativePath": "4. Archive/records"
     },
     {
       "name": "roommates",
@@ -373,12 +361,16 @@
       "relativePath": "4. Archive/sensitivity-read"
     },
     {
-      "name": "sunrise-movement",
-      "relativePath": "4. Archive/sunrise-movement"
+      "name": "socializing",
+      "relativePath": "4. Archive/socializing"
     },
     {
       "name": "tech stuff",
       "relativePath": "4. Archive/tech stuff"
+    },
+    {
+      "name": "sunrise-movement",
+      "relativePath": "4. Archive/sunrise-movement"
     },
     {
       "name": "templates",
@@ -401,20 +393,12 @@
       "relativePath": "4. Archive/trauma-and-associated"
     },
     {
-      "name": "obsidian",
-      "relativePath": "4. Archive/obsidian"
-    },
-    {
       "name": "validating-drafts",
       "relativePath": "4. Archive/validating-drafts"
     },
     {
-      "name": "socializing",
-      "relativePath": "4. Archive/socializing"
-    },
-    {
-      "name": "vertical heterophoria",
-      "relativePath": "4. Archive/vertical heterophoria"
+      "name": "validating",
+      "relativePath": "4. Archive/validating"
     },
     {
       "name": "vision-therapy",
@@ -425,8 +409,8 @@
       "relativePath": "4. Archive/vr-quest-art"
     },
     {
-      "name": "records",
-      "relativePath": "4. Archive/records"
+      "name": "karl",
+      "relativePath": "4. Archive/karl"
     },
     {
       "name": "writing business",
@@ -441,12 +425,20 @@
       "relativePath": "4. Archive/writing-fiction-research"
     },
     {
+      "name": "measurements",
+      "relativePath": "4. Archive/measurements"
+    },
+    {
       "name": "writing-nonfiction",
       "relativePath": "4. Archive/writing-nonfiction"
     },
     {
-      "name": "validating",
-      "relativePath": "4. Archive/validating"
+      "name": "I - Indexing book group",
+      "relativePath": "2. Areas/I - Indexing book group"
+    },
+    {
+      "name": "vertical heterophoria",
+      "relativePath": "4. Archive/vertical heterophoria"
     },
     {
       "name": "work-setup",
@@ -457,8 +449,20 @@
       "relativePath": "4. Archive/writing-julie"
     },
     {
-      "name": "Business planning",
-      "relativePath": "1. Projects/i - launch indexing business/Business planning"
+      "name": "health",
+      "relativePath": "2. Areas/health"
+    },
+    {
+      "name": "PNW-ASI",
+      "relativePath": "2. Areas/PNW-ASI"
+    },
+    {
+      "name": "Strengths",
+      "relativePath": "2. Areas/Strengths"
+    },
+    {
+      "name": "food",
+      "relativePath": "2. Areas/food"
     },
     {
       "name": "0. Introductory material",
@@ -469,52 +473,28 @@
       "relativePath": "1. Projects/i - x477 indexing course/Module 8"
     },
     {
+      "name": "Module 10",
+      "relativePath": "1. Projects/i - x477 indexing course/Module 10"
+    },
+    {
       "name": "Module 9",
       "relativePath": "1. Projects/i - x477 indexing course/Module 9"
     },
     {
-      "name": "Module 10",
-      "relativePath": "1. Projects/i - x477 indexing course/Module 10"
+      "name": "Business planning",
+      "relativePath": "1. Projects/i - launch indexing business/Business planning"
     },
     {
       "name": "Coaching notes",
       "relativePath": "4. Archive/Strengths course/Coaching notes"
     },
     {
-      "name": "Strengths course texts",
-      "relativePath": "4. Archive/Strengths course/Strengths course texts"
-    },
-    {
       "name": "strengths-2022",
       "relativePath": "4. Archive/Strengths/strengths-2022"
     },
     {
-      "name": "Module 1",
-      "relativePath": "3. Resources/x477 Indexing course/Module 1"
-    },
-    {
-      "name": "Module 2",
-      "relativePath": "3. Resources/x477 Indexing course/Module 2"
-    },
-    {
-      "name": "Module 3 - Term Selection",
-      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
-    },
-    {
-      "name": "Module 4 - Indexing Specifications",
-      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
-    },
-    {
-      "name": "Module 5",
-      "relativePath": "3. Resources/x477 Indexing course/Module 5"
-    },
-    {
-      "name": "Module 6",
-      "relativePath": "3. Resources/x477 Indexing course/Module 6"
-    },
-    {
-      "name": "Module 7",
-      "relativePath": "3. Resources/x477 Indexing course/Module 7"
+      "name": "Strengths course texts",
+      "relativePath": "4. Archive/Strengths course/Strengths course texts"
     },
     {
       "name": "Bio for Translunar Travelers Lounge Jan 2020",
@@ -533,6 +513,10 @@
       "relativePath": "4. Archive/finances-insurance/family"
     },
     {
+      "name": "ASI Module A",
+      "relativePath": "4. Archive/indexing/ASI Module A"
+    },
+    {
       "name": "archived-apd-has",
       "relativePath": "4. Archive/health/archived-apd-has"
     },
@@ -541,12 +525,36 @@
       "relativePath": "4. Archive/health/archived-doctor-notes"
     },
     {
-      "name": "ASI Module A",
-      "relativePath": "4. Archive/indexing/ASI Module A"
-    },
-    {
       "name": "archived-vertical-heterophoria",
       "relativePath": "4. Archive/health/archived-vertical-heterophoria"
+    },
+    {
+      "name": "Module 1",
+      "relativePath": "3. Resources/x477 Indexing course/Module 1"
+    },
+    {
+      "name": "Module 2",
+      "relativePath": "3. Resources/x477 Indexing course/Module 2"
+    },
+    {
+      "name": "Module 3 - Term Selection",
+      "relativePath": "3. Resources/x477 Indexing course/Module 3 - Term Selection"
+    },
+    {
+      "name": "Module 4 - Indexing Specifications",
+      "relativePath": "3. Resources/x477 Indexing course/Module 4 - Indexing Specifications"
+    },
+    {
+      "name": "Module 7",
+      "relativePath": "3. Resources/x477 Indexing course/Module 7"
+    },
+    {
+      "name": "Module 6",
+      "relativePath": "3. Resources/x477 Indexing course/Module 6"
+    },
+    {
+      "name": "Module 5",
+      "relativePath": "3. Resources/x477 Indexing course/Module 5"
     },
     {
       "name": "Indexing exercise 2",
@@ -559,14 +567,9 @@
   ],
   "nonMdFiles": [
     {
-      "name": "Pasted image 20221105172810.png",
-      "basename": "Pasted image 20221105172810",
-      "relativePath": "Pasted image 20221105172810.png"
-    },
-    {
-      "name": "Pasted image 20221106152645.png",
-      "basename": "Pasted image 20221106152645",
-      "relativePath": "Pasted image 20221106152645.png"
+      "name": "Pasted image 20221115151647.png",
+      "basename": "Pasted image 20221115151647",
+      "relativePath": "Pasted image 20221115151647.png"
     },
     {
       "name": "Center for Healing Shame - Resources, Webinars, Re.html",
@@ -594,6 +597,11 @@
       "relativePath": "4. Archive/Strengths/Noe-Bartmess-Top-5-Strengths-Print_annoteted.pdf"
     },
     {
+      "name": "Pasted image 20220921094055.png",
+      "basename": "Pasted image 20220921094055",
+      "relativePath": "4. Archive/images/Pasted image 20220921094055.png"
+    },
+    {
       "name": "Pasted image 20220921094134.png",
       "basename": "Pasted image 20220921094134",
       "relativePath": "4. Archive/images/Pasted image 20220921094134.png"
@@ -614,24 +622,9 @@
       "relativePath": "4. Archive/images/Pasted image 20221014214420.png"
     },
     {
-      "name": "Pasted image 20220921094055.png",
-      "basename": "Pasted image 20220921094055",
-      "relativePath": "4. Archive/images/Pasted image 20220921094055.png"
-    },
-    {
-      "name": "Pasted image 20220924110420.png",
-      "basename": "Pasted image 20220924110420",
-      "relativePath": "4. Archive/images/Pasted image 20220924110420.png"
-    },
-    {
       "name": "Pasted image 20221017094202.png",
       "basename": "Pasted image 20221017094202",
       "relativePath": "4. Archive/images/Pasted image 20221017094202.png"
-    },
-    {
-      "name": "Pasted image 20221017150452.png",
-      "basename": "Pasted image 20221017150452",
-      "relativePath": "4. Archive/images/Pasted image 20221017150452.png"
     },
     {
       "name": "Pasted image 20221017150508.png",
@@ -639,19 +632,9 @@
       "relativePath": "4. Archive/images/Pasted image 20221017150508.png"
     },
     {
-      "name": "Pasted image 20220924110409.png",
-      "basename": "Pasted image 20220924110409",
-      "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
-    },
-    {
       "name": "Pasted image 20221024114238.png",
       "basename": "Pasted image 20221024114238",
       "relativePath": "4. Archive/images/Pasted image 20221024114238.png"
-    },
-    {
-      "name": "Pasted image 20221024114327.png",
-      "basename": "Pasted image 20221024114327",
-      "relativePath": "4. Archive/images/Pasted image 20221024114327.png"
     },
     {
       "name": "Pasted image 20221024114300.png",
@@ -659,14 +642,19 @@
       "relativePath": "4. Archive/images/Pasted image 20221024114300.png"
     },
     {
+      "name": "Pasted image 20221024114327.png",
+      "basename": "Pasted image 20221024114327",
+      "relativePath": "4. Archive/images/Pasted image 20221024114327.png"
+    },
+    {
+      "name": "Pasted image 20220924110409.png",
+      "basename": "Pasted image 20220924110409",
+      "relativePath": "4. Archive/images/Pasted image 20220924110409.png"
+    },
+    {
       "name": "Pasted image 20221025200042.png",
       "basename": "Pasted image 20221025200042",
       "relativePath": "4. Archive/images/Pasted image 20221025200042.png"
-    },
-    {
-      "name": "Pasted image 20221031055038.png",
-      "basename": "Pasted image 20221031055038",
-      "relativePath": "4. Archive/images/Pasted image 20221031055038.png"
     },
     {
       "name": "Pasted image 20221025201404.png",
@@ -674,9 +662,364 @@
       "relativePath": "4. Archive/images/Pasted image 20221025201404.png"
     },
     {
+      "name": "Pasted image 20221031055038.png",
+      "basename": "Pasted image 20221031055038",
+      "relativePath": "4. Archive/images/Pasted image 20221031055038.png"
+    },
+    {
+      "name": "Pasted image 20221024114337.png",
+      "basename": "Pasted image 20221024114337",
+      "relativePath": "4. Archive/images/Pasted image 20221024114337.png"
+    },
+    {
       "name": "Pasted image 20221101144343.png",
       "basename": "Pasted image 20221101144343",
       "relativePath": "4. Archive/images/Pasted image 20221101144343.png"
+    },
+    {
+      "name": "Pasted image 20221105172810.png",
+      "basename": "Pasted image 20221105172810",
+      "relativePath": "4. Archive/images/Pasted image 20221105172810.png"
+    },
+    {
+      "name": "Pasted image 20221106152645.png",
+      "basename": "Pasted image 20221106152645",
+      "relativePath": "4. Archive/images/Pasted image 20221106152645.png"
+    },
+    {
+      "name": "Pasted image 20221109132744.png",
+      "basename": "Pasted image 20221109132744",
+      "relativePath": "4. Archive/images/Pasted image 20221109132744.png"
+    },
+    {
+      "name": "Pasted image 20221017150452.png",
+      "basename": "Pasted image 20221017150452",
+      "relativePath": "4. Archive/images/Pasted image 20221017150452.png"
+    },
+    {
+      "name": "Pasted image 20220924110420.png",
+      "basename": "Pasted image 20220924110420",
+      "relativePath": "4. Archive/images/Pasted image 20220924110420.png"
+    },
+    {
+      "name": "Pasted image 20221109152323.png",
+      "basename": "Pasted image 20221109152323",
+      "relativePath": "4. Archive/images/Pasted image 20221109152323.png"
+    },
+    {
+      "name": "Pasted image 20221109152345.png",
+      "basename": "Pasted image 20221109152345",
+      "relativePath": "4. Archive/images/Pasted image 20221109152345.png"
+    },
+    {
+      "name": "Pasted image 20221109152420.png",
+      "basename": "Pasted image 20221109152420",
+      "relativePath": "4. Archive/images/Pasted image 20221109152420.png"
+    },
+    {
+      "name": "Pasted image 20221109152435.png",
+      "basename": "Pasted image 20221109152435",
+      "relativePath": "4. Archive/images/Pasted image 20221109152435.png"
+    },
+    {
+      "name": "Pasted image 20221109152446.png",
+      "basename": "Pasted image 20221109152446",
+      "relativePath": "4. Archive/images/Pasted image 20221109152446.png"
+    },
+    {
+      "name": "Pasted image 20221109152606.png",
+      "basename": "Pasted image 20221109152606",
+      "relativePath": "4. Archive/images/Pasted image 20221109152606.png"
+    },
+    {
+      "name": "Pasted image 20221109152622.png",
+      "basename": "Pasted image 20221109152622",
+      "relativePath": "4. Archive/images/Pasted image 20221109152622.png"
+    },
+    {
+      "name": "Pasted image 20221109152642.png",
+      "basename": "Pasted image 20221109152642",
+      "relativePath": "4. Archive/images/Pasted image 20221109152642.png"
+    },
+    {
+      "name": "Pasted image 20221109152658.png",
+      "basename": "Pasted image 20221109152658",
+      "relativePath": "4. Archive/images/Pasted image 20221109152658.png"
+    },
+    {
+      "name": "Pasted image 20221110125042.png",
+      "basename": "Pasted image 20221110125042",
+      "relativePath": "4. Archive/images/Pasted image 20221110125042.png"
+    },
+    {
+      "name": "Pasted image 20221110125109.png",
+      "basename": "Pasted image 20221110125109",
+      "relativePath": "4. Archive/images/Pasted image 20221110125109.png"
+    },
+    {
+      "name": "Pasted image 20221109152403.png",
+      "basename": "Pasted image 20221109152403",
+      "relativePath": "4. Archive/images/Pasted image 20221109152403.png"
+    },
+    {
+      "name": "Pasted image 20221109152546.png",
+      "basename": "Pasted image 20221109152546",
+      "relativePath": "4. Archive/images/Pasted image 20221109152546.png"
+    },
+    {
+      "name": "Pasted image 20221110124902.png",
+      "basename": "Pasted image 20221110124902",
+      "relativePath": "4. Archive/images/Pasted image 20221110124902.png"
+    },
+    {
+      "name": "Pasted image 20221110125224.png",
+      "basename": "Pasted image 20221110125224",
+      "relativePath": "4. Archive/images/Pasted image 20221110125224.png"
+    },
+    {
+      "name": "Pasted image 20221110125248.png",
+      "basename": "Pasted image 20221110125248",
+      "relativePath": "4. Archive/images/Pasted image 20221110125248.png"
+    },
+    {
+      "name": "Pasted image 20221110130210.png",
+      "basename": "Pasted image 20221110130210",
+      "relativePath": "4. Archive/images/Pasted image 20221110130210.png"
+    },
+    {
+      "name": "Pasted image 20221110130237.png",
+      "basename": "Pasted image 20221110130237",
+      "relativePath": "4. Archive/images/Pasted image 20221110130237.png"
+    },
+    {
+      "name": "Pasted image 20221110130246.png",
+      "basename": "Pasted image 20221110130246",
+      "relativePath": "4. Archive/images/Pasted image 20221110130246.png"
+    },
+    {
+      "name": "Pasted image 20221110130300.png",
+      "basename": "Pasted image 20221110130300",
+      "relativePath": "4. Archive/images/Pasted image 20221110130300.png"
+    },
+    {
+      "name": "Pasted image 20221110125308.png",
+      "basename": "Pasted image 20221110125308",
+      "relativePath": "4. Archive/images/Pasted image 20221110125308.png"
+    },
+    {
+      "name": "Pasted image 20221110125337.png",
+      "basename": "Pasted image 20221110125337",
+      "relativePath": "4. Archive/images/Pasted image 20221110125337.png"
+    },
+    {
+      "name": "Pasted image 20221110130333.png",
+      "basename": "Pasted image 20221110130333",
+      "relativePath": "4. Archive/images/Pasted image 20221110130333.png"
+    },
+    {
+      "name": "Pasted image 20221110130349.png",
+      "basename": "Pasted image 20221110130349",
+      "relativePath": "4. Archive/images/Pasted image 20221110130349.png"
+    },
+    {
+      "name": "Pasted image 20221110130404.png",
+      "basename": "Pasted image 20221110130404",
+      "relativePath": "4. Archive/images/Pasted image 20221110130404.png"
+    },
+    {
+      "name": "Pasted image 20221110131443.png",
+      "basename": "Pasted image 20221110131443",
+      "relativePath": "4. Archive/images/Pasted image 20221110131443.png"
+    },
+    {
+      "name": "Pasted image 20221110131450.png",
+      "basename": "Pasted image 20221110131450",
+      "relativePath": "4. Archive/images/Pasted image 20221110131450.png"
+    },
+    {
+      "name": "Pasted image 20221110131500.png",
+      "basename": "Pasted image 20221110131500",
+      "relativePath": "4. Archive/images/Pasted image 20221110131500.png"
+    },
+    {
+      "name": "Pasted image 20221110131558.png",
+      "basename": "Pasted image 20221110131558",
+      "relativePath": "4. Archive/images/Pasted image 20221110131558.png"
+    },
+    {
+      "name": "Pasted image 20221110131658.png",
+      "basename": "Pasted image 20221110131658",
+      "relativePath": "4. Archive/images/Pasted image 20221110131658.png"
+    },
+    {
+      "name": "Pasted image 20221110125139.png",
+      "basename": "Pasted image 20221110125139",
+      "relativePath": "4. Archive/images/Pasted image 20221110125139.png"
+    },
+    {
+      "name": "Pasted image 20221110131705.png",
+      "basename": "Pasted image 20221110131705",
+      "relativePath": "4. Archive/images/Pasted image 20221110131705.png"
+    },
+    {
+      "name": "Pasted image 20221110131753.png",
+      "basename": "Pasted image 20221110131753",
+      "relativePath": "4. Archive/images/Pasted image 20221110131753.png"
+    },
+    {
+      "name": "Pasted image 20221110131802.png",
+      "basename": "Pasted image 20221110131802",
+      "relativePath": "4. Archive/images/Pasted image 20221110131802.png"
+    },
+    {
+      "name": "Pasted image 20221110131812.png",
+      "basename": "Pasted image 20221110131812",
+      "relativePath": "4. Archive/images/Pasted image 20221110131812.png"
+    },
+    {
+      "name": "Pasted image 20221110131840.png",
+      "basename": "Pasted image 20221110131840",
+      "relativePath": "4. Archive/images/Pasted image 20221110131840.png"
+    },
+    {
+      "name": "Pasted image 20221110131847.png",
+      "basename": "Pasted image 20221110131847",
+      "relativePath": "4. Archive/images/Pasted image 20221110131847.png"
+    },
+    {
+      "name": "Pasted image 20221110130417.png",
+      "basename": "Pasted image 20221110130417",
+      "relativePath": "4. Archive/images/Pasted image 20221110130417.png"
+    },
+    {
+      "name": "Pasted image 20221110131901.png",
+      "basename": "Pasted image 20221110131901",
+      "relativePath": "4. Archive/images/Pasted image 20221110131901.png"
+    },
+    {
+      "name": "Pasted image 20221110131919.png",
+      "basename": "Pasted image 20221110131919",
+      "relativePath": "4. Archive/images/Pasted image 20221110131919.png"
+    },
+    {
+      "name": "Pasted image 20221110131612.png",
+      "basename": "Pasted image 20221110131612",
+      "relativePath": "4. Archive/images/Pasted image 20221110131612.png"
+    },
+    {
+      "name": "Pasted image 20221110131926.png",
+      "basename": "Pasted image 20221110131926",
+      "relativePath": "4. Archive/images/Pasted image 20221110131926.png"
+    },
+    {
+      "name": "Pasted image 20221110131933.png",
+      "basename": "Pasted image 20221110131933",
+      "relativePath": "4. Archive/images/Pasted image 20221110131933.png"
+    },
+    {
+      "name": "Pasted image 20221110131940.png",
+      "basename": "Pasted image 20221110131940",
+      "relativePath": "4. Archive/images/Pasted image 20221110131940.png"
+    },
+    {
+      "name": "Pasted image 20221110131952.png",
+      "basename": "Pasted image 20221110131952",
+      "relativePath": "4. Archive/images/Pasted image 20221110131952.png"
+    },
+    {
+      "name": "Pasted image 20221110131746.png",
+      "basename": "Pasted image 20221110131746",
+      "relativePath": "4. Archive/images/Pasted image 20221110131746.png"
+    },
+    {
+      "name": "Pasted image 20221110131854.png",
+      "basename": "Pasted image 20221110131854",
+      "relativePath": "4. Archive/images/Pasted image 20221110131854.png"
+    },
+    {
+      "name": "Pasted image 20221110132000.png",
+      "basename": "Pasted image 20221110132000",
+      "relativePath": "4. Archive/images/Pasted image 20221110132000.png"
+    },
+    {
+      "name": "Pasted image 20221110132006.png",
+      "basename": "Pasted image 20221110132006",
+      "relativePath": "4. Archive/images/Pasted image 20221110132006.png"
+    },
+    {
+      "name": "Pasted image 20221110132016.png",
+      "basename": "Pasted image 20221110132016",
+      "relativePath": "4. Archive/images/Pasted image 20221110132016.png"
+    },
+    {
+      "name": "Pasted image 20221110132024.png",
+      "basename": "Pasted image 20221110132024",
+      "relativePath": "4. Archive/images/Pasted image 20221110132024.png"
+    },
+    {
+      "name": "Pasted image 20221110132036.png",
+      "basename": "Pasted image 20221110132036",
+      "relativePath": "4. Archive/images/Pasted image 20221110132036.png"
+    },
+    {
+      "name": "Pasted image 20221110132043.png",
+      "basename": "Pasted image 20221110132043",
+      "relativePath": "4. Archive/images/Pasted image 20221110132043.png"
+    },
+    {
+      "name": "Pasted image 20221110132101.png",
+      "basename": "Pasted image 20221110132101",
+      "relativePath": "4. Archive/images/Pasted image 20221110132101.png"
+    },
+    {
+      "name": "Pasted image 20221110132118.png",
+      "basename": "Pasted image 20221110132118",
+      "relativePath": "4. Archive/images/Pasted image 20221110132118.png"
+    },
+    {
+      "name": "Pasted image 20221110132150.png",
+      "basename": "Pasted image 20221110132150",
+      "relativePath": "4. Archive/images/Pasted image 20221110132150.png"
+    },
+    {
+      "name": "Pasted image 20221110132202.png",
+      "basename": "Pasted image 20221110132202",
+      "relativePath": "4. Archive/images/Pasted image 20221110132202.png"
+    },
+    {
+      "name": "Pasted image 20221110142319.png",
+      "basename": "Pasted image 20221110142319",
+      "relativePath": "4. Archive/images/Pasted image 20221110142319.png"
+    },
+    {
+      "name": "Pasted image 20221110142423.png",
+      "basename": "Pasted image 20221110142423",
+      "relativePath": "4. Archive/images/Pasted image 20221110142423.png"
+    },
+    {
+      "name": "Pasted image 20221110132109.png",
+      "basename": "Pasted image 20221110132109",
+      "relativePath": "4. Archive/images/Pasted image 20221110132109.png"
+    },
+    {
+      "name": "Pasted image 20221110142433.png",
+      "basename": "Pasted image 20221110142433",
+      "relativePath": "4. Archive/images/Pasted image 20221110142433.png"
+    },
+    {
+      "name": "Pasted image 20221110142454.png",
+      "basename": "Pasted image 20221110142454",
+      "relativePath": "4. Archive/images/Pasted image 20221110142454.png"
+    },
+    {
+      "name": "Pasted image 20221110142500.png",
+      "basename": "Pasted image 20221110142500",
+      "relativePath": "4. Archive/images/Pasted image 20221110142500.png"
+    },
+    {
+      "name": "Pasted image 20221110142553.png",
+      "basename": "Pasted image 20221110142553",
+      "relativePath": "4. Archive/images/Pasted image 20221110142553.png"
     },
     {
       "name": "Screenshot_20221027-080544.png",
@@ -684,9 +1027,34 @@
       "relativePath": "4. Archive/images/Screenshot_20221027-080544.png"
     },
     {
-      "name": "Pasted image 20221024114337.png",
-      "basename": "Pasted image 20221024114337",
-      "relativePath": "4. Archive/images/Pasted image 20221024114337.png"
+      "name": "Pasted image 20221110132136.png",
+      "basename": "Pasted image 20221110132136",
+      "relativePath": "4. Archive/images/Pasted image 20221110132136.png"
+    },
+    {
+      "name": "Pasted image 20221110132141.png",
+      "basename": "Pasted image 20221110132141",
+      "relativePath": "4. Archive/images/Pasted image 20221110132141.png"
+    },
+    {
+      "name": "Pasted image 20221110142443.png",
+      "basename": "Pasted image 20221110142443",
+      "relativePath": "4. Archive/images/Pasted image 20221110142443.png"
+    },
+    {
+      "name": "bluehaircropped.jpg",
+      "basename": "bluehaircropped",
+      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/bluehaircropped.jpg"
+    },
+    {
+      "name": "cover9781938800078_p0_v1_s600x595.jpg",
+      "basename": "cover9781938800078_p0_v1_s600x595",
+      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/cover9781938800078_p0_v1_s600x595.jpg"
+    },
+    {
+      "name": "ttl2-2560x1600-1.jpg",
+      "basename": "ttl2-2560x1600-1",
+      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
     },
     {
       "name": "Pasted image 20220916193915.png",
@@ -707,21 +1075,6 @@
       "name": "Pasted image 20220916194032.png",
       "basename": "Pasted image 20220916194032",
       "relativePath": "3. Resources/x477 Indexing course/Module 5/Pasted image 20220916194032.png"
-    },
-    {
-      "name": "bluehaircropped.jpg",
-      "basename": "bluehaircropped",
-      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/bluehaircropped.jpg"
-    },
-    {
-      "name": "cover9781938800078_p0_v1_s600x595.jpg",
-      "basename": "cover9781938800078_p0_v1_s600x595",
-      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/cover9781938800078_p0_v1_s600x595.jpg"
-    },
-    {
-      "name": "ttl2-2560x1600-1.jpg",
-      "basename": "ttl2-2560x1600-1",
-      "relativePath": "4. Archive/bios/Ada interview - Mar 2021.md/ttl2-2560x1600-1.jpg"
     }
   ]
 }

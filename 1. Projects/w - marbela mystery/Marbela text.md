@@ -522,6 +522,7 @@ f. Aria, Augusta's descendant.
 
 g. Somebody else. 
 
+# Chapter 4: Security Guard
 ## Security guard, Mademoiselle Lifi, Mr. Shramply. 
 
 "We should talk to the security guard." Marbela did think he was the most suspicious, but even if he hadn't done it, he'd clearly failed to do his job. "And...Mademoiselle Lifi." Something was up with her, definitely. 
@@ -590,7 +591,7 @@ f. Oh shit, better change the subject before DI Holmes notices the connection to
 
 
 
-# A business major! He'll be perfect for Paisley. She worries about the business aspects of catering all the time. Oh my gosh, they can run the business together! That's so adorable.  No wonder Paisley's worried about her family's reaction—they've hated sharks for generations, ever since Paisley's great-great-grandma fought a shark in hand-to-hand combat. Jeez, no wonder Paisley's tired all the time, she's dating someone who works night shift. Maybe I should give her my extra coffee beans. 
+## A business major! He'll be perfect for Paisley. She worries about the business aspects of catering all the time. Oh my gosh, they can run the business together! That's so adorable.  No wonder Paisley's worried about her family's reaction—they've hated sharks for generations, ever since Paisley's great-great-grandma fought a shark in hand-to-hand combat. Jeez, no wonder Paisley's tired all the time, she's dating someone who works night shift. Maybe I should give her my extra coffee beans. 
 
 "That's so perfect!" Marbela clapped a pair of arms together happily. Paisley liked the cooking-and-serving parts of catering, but she worried about the business aspects all the time. A business major would be a perfect partner for her. Maybe he could even help her run it. 
 
@@ -634,14 +635,83 @@ d. What happened Friday morning?
 e. What did you see when you were watching the crowd? 
 
 
+# Chapter 5: Mademoiselle Lifi
 
-# Lifi
-What should she ask? 
+## Are you really French? What was in the mural? What happened Friday morning? 
 
-what's in the mural? - she made it from very strict historical records which she was researching 
-who paid for it?
-how much was she paid? 
-what did she see when she was watching the crowd? 
+Mademoiselle Lifi had been escorted into the main body of the museum, where she had gracefully draped herself over a lounge—one, Marbela noted, that allowed her an excellent view of the crowd. She was only too happy to talk to Marbela. 
+
+"I have talked to the axolotl in the past." She scooted aside, jewelry clanking like a percussion section, and patted the couch with a frond. "But he was a little, how do you say, scattered."
+
+Marbela took the indicated seat, curling up her arms comfortably on the soft cushion. DI Holmes had reluctantly abandoned the break room couch and was now inspecting the museum displays with his magnifying glass, the manatee kid in tow. 
+
+"He is a little scattered," she acknowledged. Which was good for Paisley—and Biff—but made her feel bad for DI Holmes, who had to be terrible at his job. "I think he's...trying very hard." 
+
+"Hmmph. He is all style and no substance." Lifi gave Marbela a small, one-sided smile. "Whereas I am all style _and_ all substance. So what do you wish to know from this humble artiste?"
+
+Marbela unfolded her list of questions and spread it out on the couch. "Are you really—" It occurred to her at the very last moment that _are you French_ might be an impolite thing to ask someone who had a French accent— "a famous French artist?" 
+
+Lifi's smile was both-sided now, and bigger. If she'd had teeth like a human, they would sparkled like her jewelry. "Of course." She leaned forward conspiratorially. "But I am not so _dramatique_ as I act. I merely find it easier to observe others that way. A little jewelry here, a little dramatic fainting there, and voila—" she flung her fronds wide, a dramatic gesture that made her rattle like a rainstick— "everyone thinks that all my attention is on myself. No one thinks that perhaps I am the one observing them."
+
+She'd spoken both quietly and intensely, punctuating her words like she was an actor in a William Shakespearfish play. Marbela found herself on the edge of her seat, waiting for the next line. 
+
+### What's the next line? 
+
+a. Ask Lifi what she saw. 
+
+b. Stick with the plan. Ask what was in the mural. 
+
+c. Have a short daydream about what it would be like to adopt a persona like Lifi's. 
+
+d. Ask her what she talked to DI Holmes about. 
+
+e. Let Lifi have the next line. 
+
+## c. Have a short daydream about what it would be like to adopt a persona like Lifi's. 
+
+Gosh. What would it be like to be "dramatique"? 
+
+Marbela imagined herself going to work draped with clinking crystals, like a glamorous chandelier. 
+
+In Paisley's kitchen, she would pop open a container of seagrass she'd thought was full, only to find it empty. She'd throw a hand to her forehead—no, two hands—no, eight—and gasp in shock. 
+
+"Mon dieu, Paisley!" she'd say. "Merci beaucoup! Je ne sais quois! Someone has used up the rest of this seagrass and not replaced it with a new container!"
+
+To which Paisley would reply: "Then get another one out of the pantry, we have to make four trays of this stuff in the next twenty minutes."
+
+No. No, Paisley's kitchen was the wrong setting for being dramatique. She needed another setting...
+
+
+### What's the next setting to imagine?
+
+a. Dramatically arresting whoever gave Paisley unjust parking tickets. 
+
+b. Catching the mural thief. 
+
+c. Creating a Marbelini for a reality TV cooking show. 
+
+d. Winning the Augusta puzzle contest. 
+
+e. ...that's enough daydreaming for now. 
+
+
+(cue rippling sound effects and visuals)
+
+
+
+
+
+
+
+## What was in the mural? What happened Friday morning? 
+
+Mademoiselle Lifi did research for the mural at the library. It depicts Ocean Depths' history, and accurately shows both the role of sharks and octopuses...and Cyrus's grandfather...and the Shrimposter. Consequently, she's convinced the real Mr. Shramply is the imposter. 
+
+Lifi also knows that Octavia and Cyrus's blobfish grandfather Cyrano were friends. 
+
+Shrimposter was there last night and stole the mural, and has been in the crowd today, hiding beneath the starfish's top hat. He always likes to stick around the see the chaotic results of his actions. 
+
+Meanwhile, Aria discovered that her cousin Paisley was dating a hammerhead shark, and since Aria is a meter maid, she started following Paisley and ticketing her car every time she spent the night at the shark's place. Paisley is upset about this but can't tell anyone without them finding out. However...Lifi knows about it. 
 
 
 # Shramply
@@ -650,9 +720,24 @@ was he expecting this?
 who does he think did it? 
 what does he know about the mural? 
 
-he stole it; he was trying to flush out some conspiracy
-he sold it to starfish guy
+Cyrus's blobfish grandfather, Cyrano, grew up good friends with Octavia and Mr. Shramply. All three were interested in puzzles. When Mr. Shramply moved away after elementary school, Cyrano and Octavia kept up their friendship—but cooked up an apparent enemyship because Octavia's family disliked blobfish, who are poor. When they realized it served as a great publicity for both their careers (Octavia's puzzles, Cyrano's photography), they kept it going, with Cyrano serving as the heel. Mayor Myrtle knew of the enemyship but didn't know it was an act. Cyrus knows of the friendship, and feels devoted to Octavia's memory. 
+
+Another shrimp (Shrimposter) representing a rival puzzle contest posed as an adult Mr. Shramply in order to reestablish a friendship with Cyrano and Octavia so he could sabotage their businesses. It was partially successful...until the real Mr. Shramply showed up and exposed him to Cyrano. 
+
+Mr. Shramply didn't want the Shrimposter exposed because he was Mr. Shramply's brother; it would be a scandal for the family. Unfortunately, at that point the Shrimposter had blackmail material on Octavia, who had once been arrested for being possession. Out of love for Octavia, Cyrano and Mr. Shramply decided not to expose the Shrimposter and risk revealing Octavia's secret. So they made out Shrimposter's sabotage to be part of the rivalry and done by Cyrano, and Mr. Shramply—who was moving back to town—took the shrimposter's place. 
+
+So they just threatened him with exposure instead. He wanted to avoid a scandal as much as Mr. Shramply and bailed. Mr. Shramply has not seen him in many years, but knows that he keeps up with the puzzle news, and suspected info about the mural would draw him back if he thought he might be exposed—and now that Octavia is dead, the risks of exposure to her are gone, and he's quite old and dying, so the risks to him are minimal. But he thought his brother would paint over the mural, not steal it. So he hired Lifi and gave her the suggestion for what to research. 
+
+Cyrus thinks Octavia's descendant faked her will because he found Octavia's diary about Shrimposter doing awful things. He believes that having Mr. Shramply run the museum is awful—but Mr. Shramply is too powerful to be challenged. Mr. Shramply is quite sad as he would like to have Cyrus as a nephew. 
+
+Mademoiselle Lifi did research for the mural at the library. It depicts Ocean Depths' history, and accurately shows both the role of sharks and octopuses...and Cyrus's grandfather...and the Shrimposter. Consequently, she's convinced the real Mr. Shramply is the imposter. 
+
+Shrimposter was there last night and stole the mural, and has been in the crowd today, hiding beneath the starfish's top hat. He always likes to stick around the see the chaotic results of his actions. 
+
+Meanwhile, Aria discovered that her cousin Paisley was dating a hammerhead shark, and since Aria is a meter maid, she started following Paisley and ticketing her car every time she spent the night at the shark's place. Paisley is upset about this but can't tell anyone without them finding out. However...Lifi knows about it. 
+
 
 
 # Mayor Myrtle
 
+Mayor Myrtle knew of the enemyship but didn't know it was an act. 

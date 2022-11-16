@@ -1,3 +1,6 @@
+go back and do 9.9 embedded indexing with index manager
+Try out DEXembed (see 9.7)
+After cleaning up LinkedIn: join ASI Indexes for Digital Publications https://www.linkedin.com/groups/4005509/
 
 - [ ] #task Newcomers book in Kindle
 - [ ] #task _[Indexing from A to Z (Links to an external site.)](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Indexing+from+A+to+Z+by+Hans+Wellisch)_ by Hans Wellisch is an excellent reference providing an overview of indexing. (review for utility; maybe reread later) 

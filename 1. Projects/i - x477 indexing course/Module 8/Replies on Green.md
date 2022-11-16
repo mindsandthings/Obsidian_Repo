@@ -39,11 +39,181 @@ Individual name issues:
 4. 191n93: the article is cited as Donald McCabe, but it was published under Donald L. McCabe (see [https://www.semanticscholar.org/paper/Cheating%3A-Why-Students-Do-It-and-How-We-Can-Help-Mccabe/083a252e26bb8f483efefbe74163f6d2deb3891e](https://www.semanticscholar.org/paper/Cheating%3A-Why-Students-Do-It-and-How-We-Can-Help-Mccabe/083a252e26bb8f483efefbe74163f6d2deb3891e)). I have used "McCabe, Donald L." in the index.  
 5. The text cites Justices Holmes and Brandeis (205). These are clearly the two Supreme Court Justices. **I have indexed them "Holmes, Oliver Wendell" and "Brandeis, Louis D.", following how they are listed in VIAF.** (Note that they are cited in 205n157 as "Holmes, J." and "Brandeis, J." which may not be correct citation practice.)  
 6. On 176, a list of writers are given with last names only. I have guessed at who they are and indexed them according to VIAF as follows; please let me know if this is incorrect.  
-1. Aristotle: **indexed as "Aristotle"**  
-2. Virgil: **indexed as "Virgil"**  
-3. Shakespeare: **indexed as "Shakespeare, William"**  
-4. Montaigne: **indexed as "Montaigne, Michel de"**  
-5. Coleridge: **indexed as "Coleridge, Samuel Taylor"**  
-6. Dryden: **indexed as "Dryden, John"**  
-7. Sterne: **indexed as "Sterne, Laurence"**  
-7. "Blackstone" is referenced on pages 210 (and again in n182) and 214, the latter time in proximity to "Locke". I believe these names refer to William Blackstone (author of Commentaries of the Laws of England) and John Locke (the English philosopher), and have **indexed them as "Blackstone, William" and "Locke, John".**
+7. Aristotle: **indexed as "Aristotle"**  
+8. Virgil: **indexed as "Virgil"**  
+9. Shakespeare: **indexed as "Shakespeare, William"**  
+10. Montaigne: **indexed as "Montaigne, Michel de"**  
+11. Coleridge: **indexed as "Coleridge, Samuel Taylor"**  
+12. Dryden: **indexed as "Dryden, John"**  
+13. Sterne: **indexed as "Sterne, Laurence"**  
+14. "Blackstone" is referenced on pages 210 (and again in n182) and 214, the latter time in proximity to "Locke". I believe these names refer to William Blackstone (author of Commentaries of the Laws of England) and John Locke (the English philosopher), and have **indexed them as "Blackstone, William" and "Locke, John".**
+
+
+
+
+ke
+
+Kendra Millis
+
+6:23 PM
+
+Generally speaking, if a client asks you to index all the names, I would index all the names. However, if there are a number of instances wherein the name is used more as an identifier than as a mention of the individual person, I would clarify with the client.
+
+ke
+
+Kendra Millis
+
+6:24 PM
+
+2. Unfortunately, no. I don't have a sample index to send out, so in this case you can just follow Chicago.
+
+ke
+
+Kendra Millis
+
+6:26 PM
+
+3. You can safely assume that you should use page numbers for this. The sections for legal indexing are for when the text is broken down much more into discreet sections. Take a look at the index for CMOS and you'll see how this works.
+
+ke
+
+Kendra Millis
+
+6:27 PM
+
+4. As a general rule, it's safest to include a headnote any time you're doing anything other than using just page numbers. If the press doesn't want to use it, it's very easy for them to delete it. But you've provided the information, both for them and for the reader.
+
+ke
+
+Kendra Millis
+
+6:30 PM
+
+5. There are very few instances in which I include a title when indexing a person. I will often do this when the only other choice is to have a surname-only entry. (I also do this for disambiguation.) However, just because there is no first name included in the text doesn't mean that you have to have a surname-only entry. If the text discussed the person who gave the Gettysburg Address and only mentioned "Lincoln" you would still know who was meant, and could safely include his first name. In the case of Supreme Court Justices, there are so few of them that you could fairly easily find a name and be sure that you got the right one. Please note though -- any time I supply first names that aren't included in the text I make a list of them and forward that to the editor so that they can verify that they're all correct. The last thing you want to do is to introduce errors.
+
+ke
+
+Kendra Millis
+
+6:30 PM
+
+6. You don't need to forward the software file. The RTF is sufficient.
+
+ki
+
+Kimberly Hayes
+
+6:31 PM
+
+Elizabeth those are very good questions.....I wish I'd thought to ask them when I was working on that index
+
+el
+
+Elizabeth Bartmess
+
+6:31 PM
+
+Thanks! I have two more questions and then I think I'm done
+
+el
+
+Elizabeth Bartmess
+
+6:31 PM
+
+7) Related to #5, is it normal for a legal text to cite a Justice like J is their first name (e.g., Brandeis, J.)? If I ran into that in a non-legal text I'd assume it was a mistake.
+
+ke
+
+Kendra Millis
+
+6:32 PM
+
+Honestly, I don't read enough legal work to know the answer to that one.
+
+el
+
+Elizabeth Bartmess
+
+6:32 PM
+
+8) From the instructions: "Author and title citations are never included in the index from the footnotes. Individuals, including authors, who are _discussed_ (as opposed to merely cited) in the footnotes and have not already been indexed from in the regular text page may be included in the index. Only _new_ conceptual information found in the footnotes is included in the index. If the same conceptual information has already been discussed in the regular text of that same page, then the page reference should be from the regular text page only and not from the footnote."  
+  
+This could be one combined point (individuals discussed in the footnotes can included in the footnotes if they are not already indexed in the text BUT only if the discussion ALSO contains new conceptual material). Or it could be two separate points (two types of material may be indexed from footnotes: discussions of individuals not already indexed from the text, and discussions that contain new conceptual material). For the Green index which one applies?
+
+contain new conceptual material). For the Green index which one applies?
+
+ke
+
+Kendra Millis
+
+6:36 PM
+
+Okay, let's try an example. If you have a text discussing JFK, and there is a footnote attached to that discussion that discusses the coincidences between JFK and Lincoln, you would have a "Kennedy, John F." entry with a locator pointing to the page, and a "Lincoln, Abraham" entry with a locator pointing to the footnote. You would not add a locator under the Kennedy entry pointing to the footnote, because Kennedy is discussed on the page, and pointing the reader to that discussion would also point them to the footnote reference attached to that discussion.
+
+el
+
+Elizabeth Bartmess
+
+6:37 PM
+
+I was thinking more of when the footnote doesn't introduce new conceptual material, but mentions a person that isn't mentioned in the text.
+
+el
+
+Elizabeth Bartmess
+
+6:37 PM
+
+Not mentions, sorry, I mean discusses.
+
+el
+
+Elizabeth Bartmess
+
+6:38 PM
+
+When a footnote has a discussion about someone, but no new conceptual info.
+
+ke
+
+Kendra Millis
+
+6:38 PM
+
+Taking this a bit further, if there was a discussion of Kennedy on the page, and a footnote discussing his cat (I don't actually know if he had a cat, but stay with me here), you might have "Kennedy, John F." with a locator to the discussion on the page, and then maybe another subentry "pets of" with a locator pointing to the footnote.
+
+ke
+
+Kendra Millis
+
+6:39 PM
+
+So what you're thinking of is the "Lincoln" portion of the above example. Lincoln is only mentioned in the footnote, and it is a substantive discussion, so there's an entry for that pointing to the footnote.
+
+el
+
+Elizabeth Bartmess
+
+6:42 PM
+
+Is is the same if the footnote is an example of something discussed in the text, but with a new person introduced? So the text discusses owners of famous haunted houses, and then the footnote is like "for example, Mr. John Smith" and then gives background on John Smith, but none of it's conceptually new, it's just factual info.
+
+
+ke
+
+Kendra Millis
+
+6:43 PM
+
+I think you're interpreting the "new conceptual information" part too strictly. If you have a footnote that introduces a substantive discussion of Mr. John Smith, then Mr. John Smith is the new information.
+
+el
+
+Elizabeth Bartmess
+
+6:43 PM
+
+Oh, okay. That makes sense.
+
+Thank you.

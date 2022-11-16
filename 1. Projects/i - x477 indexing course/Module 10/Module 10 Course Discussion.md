@@ -11,3 +11,18 @@ What did you feel was the most valuable information in the course? What was the 
 How did you first learn of indexing? Was it from a friend, reading about it, or from another source? How did you learn about this course?
 
 You will not be graded on the content of your answers but only for completing this discussion assignment.
+
+-------
+==completed assignment: turn this in
+
+**Now that you are finished with the course, do you feel ready to begin indexing professionally?** 
+
+I plan to do some practice indexes before and while beginning marketing. 
+
+**What did you feel was the most valuable information in the course? What was the least helpful?**
+
+The most valuable information in the course is the information on how to think thematically. 
+
+**How did you first learn of indexing? Was it from a friend, reading about it, or from another source? How did you learn about this course?**
+
+I learned about indexing as a career while looking into potential freelance editing paths. I learned about this course from multiple sources while looking for courses I could take on indexing. 

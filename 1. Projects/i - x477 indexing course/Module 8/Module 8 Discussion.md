@@ -28,6 +28,8 @@ Least difficult: Indexing names.
 
 I learned during office hours that I should have read the entire article and made an outline before beginning indexing, instead of trying to follow OHIO or the professional indexers' work practices described in the lecture modules. 
 
+
+
 It was not something I expected, but since—according to the course creator—I'm the only student the course has ever had who had to be told this, my judgment is very obviously appallingly unreliable! We can all only hope I will fail professionally despite doing moderately well in the course. 
 
 That wasn't clear to me from the lectures or the instructions and I'm mentioning it in hopes it will help other students. (It may not; I'm told I'm the only student the course has ever had who had to be told this, but it's possible that I won't always be the only one.)

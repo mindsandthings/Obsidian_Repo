@@ -1,0 +1,66 @@
+---
+created: 2022-11-14T09:17:10 (UTC -08:00)
+tags: []
+source: https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38
+author: Stephen Ullstrom
+---
+
+# Rewriting the book in the index: what does this mean? | Indexer (The)
+
+> ## Excerpt
+> A common admonishment for indexers is not to rewrite the book in the index. Stephen Ullstrom examines this advice in terms of exhaustivity, depth of indexing, and specificity. He concludes that ins...
+
+---
+Publication: The Indexer: The International Journal of Indexing
+
+Volume 38, Number 4
+
+## Abstract
+
+A common admonishment for indexers is not to rewrite the book in the index. Stephen Ullstrom examines this advice in terms of exhaustivity, depth of indexing, and specificity. He concludes that instead of focusing on what the index should not be, we should focus on what it should be, which is clear, comprehensive, and appropriate for the text and audience.
+
+A commonly quoted word of advice about indexing is, ‘do not rewrite the book in the index’. It is the kind of advice which instinctively makes sense. After all, who wants an index as long as the book? But on closer inspection, what does this advice actually mean? How do you know when you are rewriting the book in the index? And is it really so bad?
+
+My primary concern is that this advice can be a red herring and cause indexers to avoid writing the indexes they should write, based on a misunderstanding of what that advice means. I faced this issue a couple of years ago when mentoring a new indexer, who was indexing a scholarly book and struggling with the amount of detail they were picking up. At one point the new indexer asked, ‘Am I indexing too much? I know I’m not supposed to rewrite the book’. Reflecting on that question again, it seems that the indexer was confusing rewriting the book with comprehensiveness. The two are not the same, yet, working under that misunderstanding, the index would have been truncated, lacking sufficient detail and possibly sufficient structure, leading to inadequate coverage of the material. This article aims to explore what it is we are trying to avoid – which is the difference between _directing_ readers to the text and _explaining_ the text to readers – and then, flipping the advice around, to look at what _should_ be put in the index.
+
+## On rewriting the book
+
+In the indexing literature reviewed for this article, only Do Mi Stauber, in her book _Facing the text_, directly addresses this issue. She writes, about making connections between topics,
+
+> You do not have to write the book in the index. The author of the book will make the connection. Your job is to lead the reader from every useful access point to the place in the text where that connection is made. ([Stauber, 2004](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R5): 133)
+
+She makes an excellent point. The purpose of the index is to direct readers. This can also be rephrased as ‘I do not need to make the author’s argument for them’. Instead of a long subheading spelling out the issue, a succinct subheading indicating the topic and the relation to the main heading will suffice. Another example which Stauber gives is indexing opposites. As she notes, some texts will discuss a subject from different angles, such as arguments for and against, but in the index the various discussions can be combined under a neutral heading, leaving readers to discover for themselves the different perspectives ([Stauber, 2004](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R5): 254–5).
+
+Yet considering this issue from another angle, we do, to a certain extent, need to reproduce the book in the index. Nancy Mulvany’s definition of an index is ‘a structured sequence – resulting from a thorough and complete analysis of the text – of synthesized access points to all the information contained in the text’ ([Mulvany, 2005](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R3): 8). Indexing, through the act of synthesis, is an interpretation, reworking, and reordering of the text in order to make it searchable and accessible. The index also needs to be thorough enough to point to ‘all of the information contained in the text’. Fred Leise’s concept of pan-granularity is also relevant: the index should mirror the structure of the text, from the broadest level of the metatopic – what the book as a whole is about – down to the most specific discussions ([Leise, 2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R1): 148). Margie Towery also discusses this range of entries in regard to structure; to adequately cover the subject matter the index needs to include the metatopic as well as what she calls supermain headings and regular main headings ([Towery, 2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 21–2). At whichever level the reader chooses to start their search, they should find useful entry points. Towery also discusses a usability study which highlights the effectiveness of the table-of-contents approach, in which relevant terms from the table of contents are reused in the index ([Towery, 2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 16). Lastly, Kate Mertes, in discussing term selection, suggests referring back to the metatopic for inspiration and clarification, as well as considering the author’s language and chapter titles and headings, among other strategies ([Mertes, 2018](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R2)).
+
+As these all indicate, the index needs to be recognizable as being derived from the text. This may seem obvious – what else are we indexing if not the text? – but in light of the advice being considered, it is worth reiterating. Paying close attention to the subject matter, structure, and terminology of the text, and reproducing it in the form of the index, are not, in themselves, rewriting the book. The difference is that the reproduction is geared towards directing rather than explaining.
+
+## On writing the index
+
+Now that we have considered the prohibition with its stern ‘do not’, what can we say, positively, that the index should be? An excellent starting point is clarity. [Towery (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 83) writes, ‘all parts \[of the index\] must be absolutely unambiguous; users should not have to puzzle out the meaning of a main heading, subheading, or locator’. A lack of clarity defeats the purpose of the index. Finding the right words can be a battle, and while concision is important, wordiness and possibly rewriting the book can be forgiven if they avoid ambiguity.
+
+To achieve clarity, we have a number of interrelated tools at our disposal. [Towery (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 61) identifies these as exhaustivity, depth of indexing, and specificity, which she collectively describes as comprehensiveness. Discussing exhaustivity, Janet [Perlman (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R4): 47) writes that it is ‘the act of including in an index all important, indexable material without the inclusion of irrelevant or unnecessary material’. There is an element of interpretation and selection. [Towery (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 61) also notes that exhaustivity can exist on a range, depending on the requirements of the material and index. To give an example, earlier this year I indexed a volume of essays by Margaret Laurence, a twentieth-century Canadian author. One of the essays, five pages long, was about typewriters, which included discussions about typewriters Laurence had personally owned, which she had even named. In the context of the 50 wide-ranging essays which comprised the book, an entry for typewriters seemed sufficiently exhaustive, and the specific models and names irrelevant. But let us suppose that Laurence had instead written an entire book about typewriters. In that context, entries for her personal typewriters would likely be appropriate.
+
+A related concept is depth of indexing, which [Perlman (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R4): 34) defines as ‘the level of detail in the text that will be put into the index’. Note that choice is implied – ‘will be put’ – and so one could provide an index lacking depth for a dense text or a deep and complicated index for a light text. Both prospects are potentially problematic; the goal is to provide depth appropriate to the text and audience. Depth is often quantified by the number of entries per indexable page, the rationale being that a heavily indexed page yields greater detail and hence depth. There is some truth to this, though it is not a perfect correlation. It is also important to keep in mind the different levels in a text – the metatopic, supermain topics, regular main topics, and smaller details and examples. A deeper index will include entries for all levels, while a shallower index will skip or tread lightly on one or more of these levels, often the metatopic and/or the smaller details which sandwich the meat of the text. To return to the typewriter example, a shallow approach is to simply have an entry for ‘typewriters’. A deeper approach would be to include main entries and subheadings for the various named models, as well as Laurence’s comparison of manual and electric typewriters. As mentioned, however, exhaustivity also needs to be considered, which suggests that since typewriters are only discussed in one essay out of 50, a shallower approach is preferred in order not to clutter the index, and because readers of this particular book are unlikely to be searching for specific models.
+
+Specificity, our last concept, refers to precision of language. [Leise (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R1): 153) sums up the challenge as ‘how to properly represent the meaning of the text without repeating the text word for word’. In other words, do not rewrite the text, while also not changing the meaning. Accurate representation is important, and the reader should not expect one thing and find another. Mulvany notes that specificity can also exist on a range, which relates to the concept of granularity. The object in question could be an automobile, a passenger vehicle, a sedan, a Toyota sedan, or a Toyota Corolla sedan. How specific the term needs to be, and whether multiple levels of specificity are needed, will depend on the context of the book ([Mulvany, 2005](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R3): 57; [Leise, 2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R1): 147–8).
+
+## Conclusion
+
+Considering exhaustivity, depth, and specificity, the goal of the indexer is to be clear and comprehensive. The index should include all important and relevant material from the text, the level of detail should be appropriate to the text and audience, and the language should be specific and precise. To return to Leise’s concept of pan-granularity, the index should mirror and point back to the text at every level, from the metatopic on down. This can look a lot like rewriting the book in the index, which is acceptable. As discussed above, the index is derived from the text and needs to be recognizably related. The key difference is whether the index is pointing readers to information or explaining the information to readers.
+
+So while the advice about not rewriting the book is true, it can easily be misunderstood and is therefore not all that helpful. It glosses over the fact that some indexes need to be highly exhaustive and specific in order to be useful. [Towery (2016](https://www.liverpooluniversitypress.co.uk/doi/10.3828/indexer.2020.38#core-R6): 62) puts this in perspective by writing, ‘a truly exhaustive and totally comprehensive index might be nearly as long as the text itself’. Thankfully, that is not often the case. It is a good reminder, though, that instead of focusing on what the index should not be, we should focus on what it should be, which is clear, comprehensive, and appropriate to the text and audience. It can be tricky to find the right balance between directing readers and explaining to readers. Keeping that distinction in mind, along with the goal and purpose of the index, will provide a solid foundation for constructing a valuable index.
+
+## References
+
+Leise, F. (2016) ‘Pan-granularism and specificity’, _The Indexer_ 34(4), 147–55.
+
+Mertes, K. (2018) ‘Term selection’, _The Indexer_ 36(2), 48–55.
+
+Mulvany, N. C. (2005) _Indexing books_, 2nd edn. Chicago, IL: The University of Chicago Press.
+
+Perlman, J. (2016) _Indexing tactics & tidbits: an A–Z guide_. Medford, NJ: Information Today in association with ASI.
+
+Stauber, D. (2004) _Facing the text: content and structure in book indexing_. Eugene, OR: Cedar Row Press.
+
+Towery, M. (2016) _Ten characteristics of quality indexes: confessions of an award-winning indexer_. Medford, NJ: Information Today in association with ASI.

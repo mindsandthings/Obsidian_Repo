@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-07-Mon.md",
+                "file": "1. Projects/i - x477 indexing course/Module 9/9.11 E-books, A New Frontier for Indexers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d4d45f179fe15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/i - develop and document indexing processes/Macrex replace in search results.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "181e2a9bbe61c024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +85,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/8.7 Indexing Project 3.md",
+                "file": "1. Projects/i - develop and document indexing processes/Macrex macros plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ffbd4c634a2cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/i - x477 indexing course/Module 10/10.5 Indexing Exercise 6 - Creating a Thesaurus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1894204bf798512a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Id list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7738671502245c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b2c33d96725be1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Thanksgiving planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "321042ee43586d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Berkeley office hours excerpts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34c682f08fe2c9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-15-Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -131,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 453.5024719238281
   },
   "right": {
     "id": "0be297204598c66b",
@@ -147,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-07-Mon.md",
+                "file": "daily/2022-11-15-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-07-Mon.md",
+                "file": "daily/2022-11-15-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-07-Mon.md"
+                "file": "daily/2022-11-15-Tue.md"
               }
             }
           },
@@ -207,17 +303,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "86ccbf68180245de",
+  "active": "34c682f08fe2c9b2",
   "lastOpenFiles": [
     "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md",
-    "1. Projects/i - x477 indexing course/Module 8/Pruning the lengthy index.md",
-    "1. Projects/i - x477 indexing course/Module 8/Replies on Green.md",
     "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
-    "daily/2022-11-07-Mon.md",
-    "1. Projects/i - x477 indexing course/0. Introductory material/Office hours info.md",
-    "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
-    "2. Areas/Strengths/Things I can do.md",
-    "2. Areas/Strengths/Low adaptability video call notes.md",
-    "2. Areas/Strengths/Strengths - 9. Individualization.md"
+    "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+    "4. Archive/validating/Untitled.md",
+    "0. Inbox/Berkeley office hours excerpts.md",
+    "0. Inbox/Thanksgiving planning.md",
+    "daily/2022-11-15-Tue.md",
+    "2. Areas/Strengths/Strengths - 10. Relator.md",
+    "4. Archive/Strengths/strengths-2022/Relator - 9 - Copy.md",
+    "2. Areas/health/Thiamin HCL powdered bulksupplements.com.md"
   ]
 }

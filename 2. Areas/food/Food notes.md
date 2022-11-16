@@ -1,17 +1,24 @@
 
 To eat:
-* cassoulet
+* FRIES
 * use up the honeys for tea
-* grapefruit
-* Bologna
+* grapefruit 2
+* Bologna OR THROW OUT
+* vegan cheese spread
 * Frozen chicken nuggets
 * preserved lemons
 * pickled onions
+* whipped cream
 * 
 
 To cook:
+* **Michael sumac aoli thing**
+* Salmon - defrost
 * Friday - split pea soup
 * Vegan chorizo
 * Use up ginger or toss
 * 
 
+
+To buy:
+* 

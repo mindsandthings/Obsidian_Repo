@@ -9,9 +9,6 @@ http://www.webindexing.com.au/the-indexing-companion-workbook-self-published-200
 
 # 3
 
-
-
-
 Where might you seek ideas to help you in planning? 
 -- from beekeepers who subscribe to the magazine
 -- from the retired beekeepers who will be maintaining the index

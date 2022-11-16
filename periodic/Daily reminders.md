@@ -23,6 +23,8 @@
 # Michael
 tell Michael it sucks that bad things happen and then he has to do more to fix it
 ==use "I care about you and I want to know if you're ok"
+if I think Michael is blowing me off or in d nial tell him and give him another chance
+
 
 # Socialization/job
 * Wed, Sep 14, 2022: I would like to close out conversations with people, to make sure they feel heard. I would also like to not take up too much space or time wrapping somethign up. I would like to reply to people when they ask me a question, even if it's late.
