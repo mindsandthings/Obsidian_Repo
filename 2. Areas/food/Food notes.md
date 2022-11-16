@@ -5,7 +5,7 @@ To eat:
 * half lemon
 * use up the honeys for tea
 * grapefruit 2
-* Bologna OR THROW OUT
+* Bologna in garage fridge
 * vegan cheese spread
 * Frozen chicken nuggets
 * preserved lemons
