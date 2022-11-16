@@ -258,5 +258,30 @@ Unattributed copying can constitute one or more of a variety of legal wrongs.
 		- 3) things that are not illegal to buy, sell, or possess, but aren't capable of being bought or sold (love, admiration, respect)
 	- author's claim: a thing is not subject to theft unless it is the sort of thing that can be bought or sold (legally or not).
 
-###### What, if anything, does the plagiarist steal?
+### What, if anything, does the plagiarist steal?
+- The author's presentation of ideas = conditional offer that anyone may read/quote/take ideas provided they attribute (i.e., provide credit)
+- Plagiarism often seen as theft of words/language/plot, but author argues that what is stolen is credit
+- "misappropriation of glory"
+
+### Is "credit" for authorship a "thing of value" within the meaning of theft law?
+- i.e., is credit commodifiable?
+- most writers have an interest in receiving public credit for their work (despite exceptions e.g. ghostwriters)
+	- psychic rewards are significant, sometimes more so than financial compensation
+- recognition and development of a reputation results in signifcant tangible rewards, such as tenure and promotion etc
+	- in some academia, citation is used to rank people
+- but is it commodifiable? 
+	- yes, but a close question
+	- e.g. politician/exec is paying ghostwriter both for efforts and for right to claim speech as own and gain right to honor/blame
+	- credit can actually be stolen, e.g. in submitting a prizewinning idea, and that is theft
+	- but. do we really want to say that having someone else claim credit is a crime? 
+
+## Does plagiarism involve an "intent to deprive another permanently" of property?
+
+- This is another requirement of theft law
+- General rule: defendent not guilty until he takes another's property with the intent to deprive them permanently of it (animus furandi)
+- Plagiarism is broader than theft law herE: it is also concerned with harm to the reader and to institutions. But theft law would fin dthat irrelevant. 
+
+## Does plagiarism involve an "unlawful taking" or exercise of "unlawful control" over property "of another"?
+
 - 
+
