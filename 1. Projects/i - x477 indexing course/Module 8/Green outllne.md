@@ -283,5 +283,15 @@ Unattributed copying can constitute one or more of a variety of legal wrongs.
 
 ## Does plagiarism involve an "unlawful taking" or exercise of "unlawful control" over property "of another"?
 
-- 
+- "unlawfully take or exercise unlawful control" over property "of another" - replaces common law larceny requirements of "caption" (securing dominion over another's property) and "asportation" (carrying away of the other's property)
+- "exercises unlawful control" = using in a manner beyon dyour authority
+	- this is what a plagiarist does at th emoment of publication
+	- what about when the person consents? (ghostwriting, self-plagiarism, buying papers)
+		- yes, this makes the taking not unlawful
+		- 
 
+## WOuld prosecution of plagiarism as theft be preempted by federal copyright law?
+
+- Section 301 of hte Copyright Act
+- (obviously, there would be no bar to prosecuting plagiarism of works that don't constitue copyright infringement)
+- 
