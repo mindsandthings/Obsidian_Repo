@@ -1,0 +1,6 @@
+There's a few supplements which are generally useful, and good to have in the toolkit:
+
+    Slippery elm powder in capsule form is a great soother, forming a mucus-like material in your guts.
+The active ingredient was Boswelia (specifically BosPro brand (affiliate link). I’m afraid to try another in case it breaks the spell). Boswelia is sometimes described by alt medicine websites as helping digestive issues, but in the same way they describe every supplement as helping digestive issues. “Helps anxiety, allergies, autoimmune disorders, inflammation, and digestion” 
+
+https://www.amazon.com/EuroMedica-BosPro-Supplement-Inflammation-Non-Drowsy/dp/B00CG65BUU?_encoding=UTF8&content-id=amzn1.sym.acfa156f-6066-4c30-8587-c628ec07e337:amzn1.sym.acfa156f-6066-4c30-8587-c628ec07e337&crid=3JTM3EM2T7SX6&cv_ct_cx=bospro&keywords=bospro&pd_rd_i=B00CG65BUU&pd_rd_r=b504d7bc-46f1-4a9a-9a78-b63ad9720617&pd_rd_w=l6pqF&pd_rd_wg=R0tex&pf_rd_p=acfa156f-6066-4c30-8587-c628ec07e337&pf_rd_r=6Y72385A56EGVRZPCYEP&psc=1&qid=1665281443&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=bosp,aps,183&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6&linkCode=sl1&tag=acesoundergla-20&linkId=f8b3578a1f973a4337d29c1dafac4e96&language=en_US&ref_=as_li_ss_tl

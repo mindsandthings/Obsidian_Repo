@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+                "file": "0. Inbox/Digestive ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+                "file": "0. Inbox/Digestive ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+                "file": "0. Inbox/Digestive ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md"
+                "file": "0. Inbox/Digestive ideas.md"
               }
             }
           },
@@ -317,6 +317,8 @@
   },
   "active": "0926edeb1f3b381c",
   "lastOpenFiles": [
+    "4. Archive/validating/Flanderization.md",
+    "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
     "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
     "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md",
     "1. Projects/i - develop and document indexing processes/Editing and proofreading indexes.md",
@@ -324,8 +326,6 @@
     "2. Areas/food/Food notes.md",
     "4. Archive/validating/Dangers of longtermism.md",
     "0. Inbox/Id list.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-11-15-Tue.md",
-    "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md"
+    "periodic/Daily reminders.md"
   ]
 }
