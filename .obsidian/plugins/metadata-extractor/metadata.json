@@ -158,6 +158,24 @@
     "relativePath": "Productivity/Brainstorming pacing activities.md"
   },
   {
+    "fileName": "2022-11-17-Thu",
+    "relativePath": "daily/2022-11-17-Thu.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-11-15-Tue",
     "relativePath": "daily/2022-11-15-Tue.md",
     "headings": [
@@ -2025,6 +2043,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Digestive ideas",
+    "relativePath": "2. Areas/health/Digestive ideas.md"
   },
   {
     "fileName": "High-dose thiamine Medium post",
@@ -37524,36 +37546,16 @@
     "relativePath": "3. Resources/EBT/2) The Feelings Tool - Copy.md"
   },
   {
-    "fileName": "Digestive ideas",
-    "relativePath": "0. Inbox/Digestive ideas.md"
+    "fileName": "FTX",
+    "relativePath": "0. Inbox/FTX.md"
   },
   {
-    "fileName": "Berkeley office hours excerpts",
-    "relativePath": "0. Inbox/Berkeley office hours excerpts.md",
+    "fileName": "Indexers book group Nov 28 2022",
+    "relativePath": "0. Inbox/Indexers book group Nov 28 2022.md",
     "headings": [
       {
-        "heading": "2021",
-        "level": 1
-      },
-      {
-        "heading": "4-8-2021:",
-        "level": 2
-      },
-      {
-        "heading": "8-12-2021",
-        "level": 2
-      },
-      {
-        "heading": "10-28-2021",
-        "level": 2
-      },
-      {
-        "heading": "2021-01-21",
-        "level": 2
-      },
-      {
-        "heading": "start with 2021-02-25.rtf",
-        "level": 1
+        "heading": "Jolanta Komornicka",
+        "level": 3
       }
     ]
   },
@@ -41314,6 +41316,36 @@
       {
         "heading": "welcome!",
         "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Berkeley office hours excerpts",
+    "relativePath": "1. Projects/i - launch indexing business/Berkeley office hours excerpts.md",
+    "headings": [
+      {
+        "heading": "2021",
+        "level": 1
+      },
+      {
+        "heading": "4-8-2021:",
+        "level": 2
+      },
+      {
+        "heading": "8-12-2021",
+        "level": 2
+      },
+      {
+        "heading": "10-28-2021",
+        "level": 2
+      },
+      {
+        "heading": "2021-01-21",
+        "level": 2
+      },
+      {
+        "heading": "start with 2021-02-25.rtf",
+        "level": 1
       }
     ]
   },

@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Berkeley office hours excerpts.md",
+                "file": "1. Projects/i - launch indexing business/Berkeley office hours excerpts.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Digestive ideas.md",
+                "file": "2. Areas/health/Digestive ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dc95a1a66c85353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-17-Thu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Digestive ideas.md",
+                "file": "daily/2022-11-17-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Digestive ideas.md",
+                "file": "daily/2022-11-17-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Digestive ideas.md"
+                "file": "daily/2022-11-17-Thu.md"
               }
             }
           },
@@ -315,17 +327,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "0926edeb1f3b381c",
+  "active": "6dc95a1a66c85353",
   "lastOpenFiles": [
+    "0. Inbox/Indexers book group Nov 28 2022.md",
+    "0. Inbox/Id list.md",
+    "2. Areas/health/Digestive ideas.md",
+    "1. Projects/i - launch indexing business/Berkeley office hours excerpts.md",
+    "0. Inbox/FTX.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
     "4. Archive/validating/Flanderization.md",
     "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
-    "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
-    "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md",
-    "1. Projects/i - develop and document indexing processes/Editing and proofreading indexes.md",
-    "1. Projects/i - develop and document indexing processes/9.9 Embedded Indexing with IndexManager 1.md",
-    "2. Areas/food/Food notes.md",
-    "4. Archive/validating/Dangers of longtermism.md",
-    "0. Inbox/Id list.md",
-    "periodic/Daily reminders.md"
+    "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md"
   ]
 }
