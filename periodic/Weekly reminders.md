@@ -21,7 +21,7 @@
 - Susan Stott is looking for something good on doubleposting
 
 # Work
-* 
+* better log is no longer logging to the spreadsheet. check trigger logs instead. move this to monthly when current proxy call is done. 
 * 
 
 
