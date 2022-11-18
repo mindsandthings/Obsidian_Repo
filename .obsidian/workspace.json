@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md"
+                "file": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "d328a11ed6aa75f6",
   "lastOpenFiles": [
+    "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
     "0. Inbox/Mastodon.md",
     "2. Areas/food/Food notes.md",
     "0. Inbox/FTX.md",
@@ -181,7 +182,6 @@
     "daily/2022-11-18-Fri.md",
     "1. Projects/w - learn literary techniques/Id list.md",
     "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
-    "periodic/Daily reminders.md",
-    "periodic/Weekly reminders.md"
+    "periodic/Daily reminders.md"
   ]
 }
