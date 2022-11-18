@@ -3,7 +3,7 @@
 
 # Health
 * 2022-09-19: wash hands every time bathroom or food prep or eat
-* put down book when you take bedtime meds
+* put down book when you take bedtime meds, NOT AFTER
 * remember to use visual timer
 * ==trash at 8:30, before red light
 * ==set timer for eat; don't have aligners off for more than 30 minutes, yes really, I don't care

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "periodic/Weekly reminders.md",
+                "file": "0. Inbox/FTX.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic/Weekly reminders.md",
+                "file": "0. Inbox/FTX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "periodic/Weekly reminders.md",
+                "file": "0. Inbox/FTX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/Weekly reminders.md"
+                "file": "0. Inbox/FTX.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "6dc95a1a66c85353",
   "lastOpenFiles": [
+    "0. Inbox/Id list.md",
+    "0. Inbox/FTX.md",
+    "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+    "0. Inbox/Thanksgiving planning.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
+    "periodic/Weekly reminders.md",
     "1. Projects/w - kraken/Kraken revision notes Sep 2022.md",
     "1. Projects/w - kraken/Hyacinth - character summary.md",
-    "1. Projects/w - kraken/Cut bits.md",
-    "1. Projects/w - kraken/Novel revision process.md",
-    "1. Projects/w - kraken/01 Checklist.md",
-    "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
-    "2. Areas/Strengths/Low adaptability video call notes.md",
-    "1. Projects/i - x477 indexing course/Module 8/8.7 Indexing Project 3.md",
-    "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
-    "0. Inbox/FTX.md"
+    "1. Projects/w - kraken/Cut bits.md"
   ]
 }

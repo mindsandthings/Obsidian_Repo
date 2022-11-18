@@ -7,7 +7,6 @@ To eat:
 * grapefruit 2
 * Bologna in garage fridge
 * vegan cheese spread
-* Frozen chicken nuggets
 * preserved lemons
 * pickled onions
 * whipped cream
@@ -19,4 +18,6 @@ To cook:
 * 
 
 To buy:
-* 
+* Frozen chicken nuggets
+* Sauerkraut (for eat more fermented foods)
+* Look at 
