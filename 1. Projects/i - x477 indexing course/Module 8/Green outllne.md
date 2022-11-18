@@ -5,7 +5,8 @@
 71 names total for 76 pages, or about 1 per page
 meaning I can have 2-3 non-name entries per page assuming zero turnover lines which is not true
 3.9 lines per page
-229 allowable lines for non-name entries, or 3 non-name entries per page
+229 allowable lines for non-name entries, or 3 non-name lines per page
+I'll assume 10% turnover lines, so allow 206.1 entries = 2.7 non-name entries per page
 
 # Introduction
 
@@ -197,7 +198,6 @@ Unattributed copying can constitute one or more of a variety of legal wrongs.
 - A resource considered property for one kind of law may not be for another
 
 #### a. Theft law in historical perspective:
-- 
 - Has expanded on two axes:
 	- the types of interference that constitute theft
 	- the kinds of property that can be stolen
@@ -292,6 +292,112 @@ Unattributed copying can constitute one or more of a variety of legal wrongs.
 
 ## WOuld prosecution of plagiarism as theft be preempted by federal copyright law?
 
-- Section 301 of hte Copyright Act
 - (obviously, there would be no bar to prosecuting plagiarism of works that don't constitue copyright infringement)
+- Section 301 of hte Copyright Act prevents state legal remedies that don't have an extra element making it qualitatively different from a copyright infringement claim
+	- so would a state law prosecution for plagiarism as theft include an extra element to make it qualitatively dfiferent? 
+		- yes, because it involves passing off someone's work as one's own (aka stealing credit)
+			- analagous to a state law unfair competition suit based on a claim of "passing off"
+		- but...preemptive effect of Section 301 has been interpreted very broadly. so neithe rpassing off nor mens rea may be enough
+		- case law concerning two federal Copyright Act preclusion of federal ones:
+			- govt tried to prosecute copying of copyrighted musical recordings under Section 2314 of the National Stolen Property Act, but the Court agreed with defendant the Act didn't apply
+			- US v LaMacchia: couldn't charge him for unauthorized copying because the Copyright Act required it be undertaken for commercial advantage or private financial gain, so he was charged with violating the federal wire fraud statute instead; the Court distmissed it, saying generic criminal laws shouldn't be used to undermine the "finely calibrated" Copyright Act
+		- so yes, state law prosection for plagiarism as theft would be preempted by federal law, if only to the extent it invovled opyrighted materials
+		- 
+## Summary
+- To prove theft, must demostrate: 1) unlawful taking or exercise of control ove,r 2) movable property, 3) with the intent to deprive the owner of such property
+- Author's argument: Not all cases involve both an unlawful taking and intent to deprive
+	- but harder issue is whether "credit" is property that can be subjct to theft
+	- argues there is a credible though not airtight arugment that credit for words or ides is a thing of value within the meaning of theft law
+	- so if not preempted by federal copyright law, could be prosecuted as theft
+
+
+# IV. Prosecuting plagiarism as theft as a matter of public policy and broader criminal law principles
+
+- Would prposecuting plagiarism as theft be wasteful? 
+- Would it be consistent with the larger aims of the criminal law, such as deterrence and retribution? 
 - 
+## Would the criminal prosection of plagiarism constitute an unwise use of government resources?
+- It's probably more common, but is the increase sufficient to justify? 
+	- Criminial law is supposed to be a last resort
+		- Institutions could try harder to inform constituents
+		- Profs/editors could pursue offenders more aggressively
+		- Disciplimary committees could icrease the penalties
+	- Distinguishing between intentional and unintentional plagiarism is difficult and could lead to arbirrary adn unprincipled enforcement
+	- "Credit" is not a tangible property with concrete, physical boundaries, raising questions of legality and overbreadth
+- Argument sin response:
+	- 1) it wouldn't involve new legislation, just using existing legislation, so the question should be is there justifcation for *not* prosecuting conduct that satisfies the elements of theft
+	- 2) some acts of plagiarism are no less harmful than other cases of theft that are prosectued (gives examples)
+		- Many victims would probably choose having their wallet stolen over being plagiariazed
+		- just because some are too trivial to prosecute doesn't mean they all are
+	- 3) the existence of institutional mechanisms and civil sanctions for workpale and academic misconduct isn't a basis for barring criminal prosecution
+		- "Criminal punishment entails expressiv values that are not entailed by other kinds of sactions"
+	- Summary:
+		- author is suggesting not that we *should* prosecute plagiarism as theft, but that it's more complciated than may appear
+		- we should let prosecutors decide whether to prosecute individual cases, but it shoul be the legislature that decides whether to prosecute whole categories of cases
+		- so if plagiarism satisfies the elements of theft and we don't want to treat it as such as need to find a principled reason to read it out of theft law, or theft law needs to be rewritten
+	- 
+
+## Woudl the prosectuion of plagiarism as theft be consistent with teh underlying goals of theft law? 
+
+- Deeper question: What is the underlying rationale for considering theft a crimEe?
+- 1) Deterrence
+	- promote security of property by threatening aggressors with punishment, because the community wishes to encourage saving and economic planning
+		- but this applies to intangibles too!
+		- and why impose punishment rather than just require repayment (tort-like remedies)? 
+			- many thieves are udgment proof
+			- and not every thief will be apprehended
+			- so you need to adjust the costs to reflect the probability of conviction
+			- punishment is a "kicker" to pay on top of compensation, to incentivize acquiring through the market instead
+		- this is what prosecuting plagiarism as theft would do, but is it really so harmful we want to use criminal law to deter it? does it threaten property security?
+			- probably not. rampant plagiarism would destabilize intelligentsia but not the larger community, so we should let institutions police themselves
+			- also, plagiarism is hard to distinguish from lawful and even socially productive conduct; could lead to overdeterrence, causing writers to forgo creative endeavors
+	- 
+- 2) Retribution
+	- from a retributivist perspective theft is a crime because it expresses disrespect for the injured party's moral worth
+	- in the relevant community, plagiarism conveys extreme disrespect
+	- but outside that community people think it's troubling to think it deserves criminal sanctions
+	- and plagiarism is of concern primarily to a relatively small segment of society
+
+# Plagiarism as theft and the criminalization of intellectual property law
+- Rapid growth in legislative enactments of intellectual property in criminal law
+	- list of examples
+- This doesn't seem surprising because intellectual property plays an increasingly significant role in teh economy
+	- and people who have discussed using criminal sanctiosn for intellectual property violations have assumed that the more violations there are the stronger the case for imposing sanctions
+		- but...there's a remarkable degree of resistance to such laws
+			- over half of all colelge students use illegal software
+			- 50-90% of software is unauthorized
+			- other examples
+		- will discuss two things
+			- gap between criminal law and norms concerning misappropriation of intellectual property
+			- whether the appropriate paradigm for intellectual proeprty crime is theft vs something else (infringement, false marking, counterfeiting, forgery, regulatory violation)
+## A. The gap between social norms and intellectual property crime legislation
+- People don't refrain from committing criminal acts out of fear of sanctions, but because they've internalized the norms against them (the prohibitive norms are "robust")
+- In intellectual property, they're not robust, because people copy videotapes and download bootleg computer programs
+- Why?
+	- can't be just intangibility, because people who will copy videotapes are still against plagiarism
+	- the difference between attitutdes towards the norm of attribution and against plagiarism, and intellectual property law, is a paradox - they view the rule against plagiarism as closely approximating the force of law
+	- th eproblem of perceived illegitimacy is as important as intangibility: the perception that IP laws are intended to create profits for special interest groups
+	- so if the state wants to enforce IP laws it needs to convince the public that misappropriation of intellectual property is morally wrong (if it is) and that the laws prohibiting it are legitimate
+	- people can relate to the potential victims of plagiarism. if they thought downloading illegally would hurt artists, they'd do it less
+
+## Intellectual property crime and the paradigm of theft
+
+- The idea that IP should be protected by theft law seems to crop up all over
+- the Economic Espionage Act, the National Stolen Propety Act, the No Electronic Theft Act - in common a literal commitment to the idea that IP is subject to theft or being stolen
+- but other paradigms apply, not just theft. 
+- difficult to see why Congress chose to use the paradigm of theft
+	- from the perspective of IP law, referring to copyright or patent violations as "theft" may seem inconsistent with the idea of "infringement" and "false marking" as *sui generis*
+	- from the perspective of criminal law, "theft" and "stealing" have particular expressive and moral resonances that are unlikely to find easy equivalence in IP law
+
+# Conclusion
+- Plagiarism never has been and probably never should be prosectued as theft
+- Why's it of interest to people interested in criminal law?
+	- Criminal law can elucidate our understanding of plagiarism (_(through the use of concepts such as__intent, willful ignorance, consent, harm, and the distinction between__mistake of law and mistake of fact)_)
+	- the concept of plagiarism can help us understan dimportant issues in criminal law itself, including what kinds of "peroperty" can be subject o theft
+- Plagiarism is interesting beyond criminal law
+	- unattributed copying is addressed by a remarkably broad range of civil rememdies, including copyright, unfair competition,a dn moral rights. 
+	- analysis has been to illustrate the ubiquity of the social norms underlying the rule against plagiariams and the breadth of means through which such normsm are enforced
+- Effective law is the product of effective norms
+	- as the gap between the law and what people think it shoudl be widens, IP law faces a growing crisis, manifesting in widespread and flagrant violation ofi ts contstraints
+	- but the norm-based rule of attribution is still viewed by people within the relevant communities as imposing a powerrul moral imperative
+	- so as we try to improve IP law we should look to normative structures surrounding plagiarism for guidance
