@@ -1,0 +1,1 @@
+https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/ 
