@@ -10,6 +10,13 @@
 
 https://lists.pnwasi.org/mailman/private/indexing-pnw_lists.pnwasi.org/
 
+If we want to continue to make these archives available to new members after migrating to Google Groups, 
+
+We can't migrate listserv messages directly, so if we want to continue to make these archives available to new members, we would need 
+
+Members access those archives by logging into their lists.pnwasi.org account. After we migrate, 
+
+
 
 
 
