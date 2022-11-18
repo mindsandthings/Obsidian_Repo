@@ -158,6 +158,24 @@
     "relativePath": "Productivity/Brainstorming pacing activities.md"
   },
   {
+    "fileName": "2022-11-18-Fri",
+    "relativePath": "daily/2022-11-18-Fri.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-11-17-Thu",
     "relativePath": "daily/2022-11-17-Thu.md",
     "headings": [
@@ -2244,6 +2262,14 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Voting 2022 midterms",
+    "relativePath": "4. Archive/p - vote/Voting 2022 midterms.md"
+  },
+  {
+    "fileName": "2022 fall voting record",
+    "relativePath": "4. Archive/p - vote/2022 fall voting record.md"
   },
   {
     "fileName": "Fifi diary - Julie bday 2022",
@@ -37550,26 +37576,22 @@
     "relativePath": "0. Inbox/FTX.md"
   },
   {
+    "fileName": "Thanksgiving planning",
+    "relativePath": "0. Inbox/Thanksgiving planning.md"
+  },
+  {
+    "fileName": "00-scratchpad-note",
+    "relativePath": "0. Inbox/00-scratchpad-note.md"
+  },
+  {
     "fileName": "Indexers book group Nov 28 2022",
-    "relativePath": "0. Inbox/Indexers book group Nov 28 2022.md",
+    "relativePath": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
     "headings": [
       {
         "heading": "Jolanta Komornicka",
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "Thanksgiving planning",
-    "relativePath": "0. Inbox/Thanksgiving planning.md"
-  },
-  {
-    "fileName": "Id list",
-    "relativePath": "0. Inbox/Id list.md"
-  },
-  {
-    "fileName": "00-scratchpad-note",
-    "relativePath": "0. Inbox/00-scratchpad-note.md"
   },
   {
     "fileName": "Berkeley vacation plans",
@@ -38027,6 +38049,10 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Id list",
+    "relativePath": "1. Projects/w - learn literary techniques/Id list.md"
   },
   {
     "fileName": "Learner DIY course (Strengths)",
@@ -38879,14 +38905,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "Voting 2022 midterms",
-    "relativePath": "1. Projects/p - vote/Voting 2022 midterms.md"
-  },
-  {
-    "fileName": "2022 fall voting record",
-    "relativePath": "1. Projects/p - vote/2022 fall voting record.md"
   },
   {
     "fileName": "Macrex shortcut list",

@@ -57,10 +57,6 @@
       "relativePath": "1. Projects/i - develop and document indexing processes"
     },
     {
-      "name": "p - vote",
-      "relativePath": "1. Projects/p - vote"
-    },
-    {
       "name": "p - transfer pnwasi listserv",
       "relativePath": "1. Projects/p - transfer pnwasi listserv"
     },
@@ -563,6 +559,14 @@
     {
       "name": "IRS independent contractor info",
       "relativePath": "3. Resources/x477 Indexing course/Module 6/IRS independent contractor info"
+    },
+    {
+      "name": "p - vote",
+      "relativePath": "4. Archive/p - vote"
+    },
+    {
+      "name": "p - indexers book group",
+      "relativePath": "1. Projects/p - indexers book group"
     }
   ],
   "nonMdFiles": [

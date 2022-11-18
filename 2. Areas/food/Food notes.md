@@ -20,4 +20,14 @@ To cook:
 To buy:
 * Frozen chicken nuggets
 * Sauerkraut (for eat more fermented foods)
+* berries
+* stuffing mix and any ingredients - pick out
+* 
+* check if I need to make more chicken broth
+* celery
+* carrots
+* onions? 
+* squashes (acorn?)
+* green beans
+* bananas ? 
 * Look at 
