@@ -13,6 +13,59 @@ I'll assume 10% turnover lines, so allow 206.1 entries = 2.7 non-name entries pe
 ==Reread introduction after completion of outline/index
 
 
+plagiarism, etymological origin of the word, 170
+plagiarism as theft, absence of prosecutions for, 170
+plagiarism in history, Jewish tradition, 170{n8}
+plagiarism, benefits of using legal analysis to study, 171
+plagiarism, existing legal scholarship on, 171{n15}
+law students, ethics of plagiarism as committed by, 171{n15}
+lawyers, ethics of plagiarism as committed by, 171{n15}
+law professors, ethics of plagiarism as committed by, 171{n15}
+judges, ethics of plagiarism as committed by, 171{n15}
+intellectual property law, scholarship on plagiarism and, 171{n15}
+plagiarism as theft, existing legal scholarship on, 171{n15}
+passing off, and norm of attribution, 171
+norm of attribution, defined, 171
+mere influence, difficulty distinguishing from plagiarism, 171
+rule against plagiarism, sanctions enforcing, 172
+sanctions, types of, 172
+theft law, things of value under, 172
+credit, as thing of value under theft law, 172
+plagiarism as theft, prosecution of, 172
+intellectual property law, as lacking foundation in social norms, 172-173
+criminal sanctions, in intellectual property law, 172-173
+social norms, intellectual property law as lacking foundation in, 173
+
+rule against plagiarism, 171 [***no content - not sure how to index***]
+
+----------
+
+plagiarism, definitions of, 173
+copying a work, as actus reus element, 173
+failure to attribute, as actus reus element, 173
+{~delete? ~}actus reus elements, defined, 173
+{~delete? ~}mens rea element, confusion over, 173
+
+norm of attribution, dissemination and internalization, 174-175
+esteem of others, norm of attribution as produced by desire for, 174
+credit, as incentive to create new work, 174
+reverse plagiarism, and attribution, 174{n22}
+
+attribution, as moral obligation, 175
+failure to attribute. see also attribution; norm of attribution
+norm of attribution. see also attribution; failure to attribute
+attribution. see also norm of attribution; failure to attribute
+stigma, as denying esteem, 175
+esteem of others, stigma as denying, 175
+esteem. see also credit
+credit. see also esteem
+stigma. see also sanctions
+sanctions. see also stigma
+
+----------
+
+
+
 
 
 ------------
