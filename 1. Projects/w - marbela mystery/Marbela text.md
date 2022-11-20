@@ -694,12 +694,108 @@ d. Winning the Augusta puzzle contest.
 
 e. ...that's enough daydreaming for now. 
 
+# c. Creating a Marbelini for a reality TV cooking show. 
 
-(cue rippling sound effects and visuals)
+Four contestants. 
+
+Three minutes.
+
+Two judges.
+
+And one winner. 
+
+On today's Great Oceanic Mix-Off, who will take home the fabulous five-star prize? 
+
+A story to be told in one installment per hour! 
+
+(Next installment coming in one hour.)
+
+-----
+
+Presentation was key. Marbela knew it. Everyone had been given the same ingredients. Ocean water, essence of seagrass, squid ink, and cultured algae, lined up on each participant's countertop in a neat little line next to a crystal glass. 
+
+In the cabinet beneath each countertop was a box of secondhand art supplies provided by the reality show, mostly junk. Across from Marbela, Mademoiselle Lifi rooted through hers, fronds flapping, swearing under her breath as she tossed aside feathers and pompoms and fake leaves, looking for something good to decorate her own glass. 
+
+
+Elsewhere in the room, the other two octopus participants fought hand-to-hand-to-hand-to-hand-to-hand. Having exhausted their own supplies and found nothing but pipe cleaners and packets of googly eyes, they were attempting to eliminate the competition by taking each other out directly, but had succeeded only in wrestling each other to a standstill. 
+
+With two minutes left on the clock, Lifi was the bigger threat. Marbela had already gone through her own box and realized that a gallon of glue and a pack of broken crayons weren't going to impress the judges. She eyed a drifting packet of pipe cleaners, wondering if she could use them to weave a charming drink cozy. 
+
+
+
+"Ah-HA!" Mademoiselle Lifi pulled a glue gun from the depths of her box. "Que sera, sera!" With a flourish, she popped a rhinestone from a bracelet, coated the back with glue, and stuck it to the glass. 
+
+Disaster. Marbela's hopes shriveled like seagrapes in the sun. Her arms curled into a tight knot, like she was trying to shrink up into herself and disappear. Lifi was a real artist. Lifi would produce an amazingly decorated drink. Marbela had no chance. 
+
+The best she could hope for was to mix a better Marbelini than Lifi. 
+
+
+
+She popped the cap on the cultured algae. It had congealed into a sticky paste. 
+
+Worse and worse. She scooped out a glob, set it in the glass. It refused to dissolve. 
+
+She put her head down on the cool countertop. The algae wouldn't mix nicely with the seawater and squid ink. No even green color for her Marbelini. This was a disaster. Sure, she could soak it in essence of seagrass and it would eventually dissolve, but that would take twice as long as the ninety seconds she had left.
 
 
 
 
+This was a terrible contest. And a terrible daydream. She lifted her head and let it flop back into the countertop in despair. She couldn't manage to be truly dramatique even in her imagination! She was always going to be a simple little octopus. Not an artiste. Not a famous detective. Not even a mayor, not like Mayor Myrtle who had presence and strength and good advice. 
+
+She imagined Mayor Myrtle popping into the kitchen. Myrtle would lean down and say, "You know, Marbela, you do have something special and uncommon that most of us don't have."
+
+And Marbela would say, into the countertop, "Mmmf mmf mmf mmf mmmmmf," by which she meant "all I have is a gallon of glue, a box of broken crayons, a headache. I shouldn't have even tried. I can't even succeed at a totally imaginary reality tv show contest!"
+
+
+
+Myrtle would stand there, resolute, and say: "No, Marbela, you have hope, kindness, and an entrepreneurial spirit. Pick up your head, look at your ingredients, and think."
+
+Marbela picked up her head, looked at the ingredients arrayed along the countertop, and thought. 
+
+The tiny seed of an idea planted itself in her mind. 
+
+
+
+Working quickly, she molded a chunk of algae paste into a ball, then hollowed it out, shaping it into a sphere. She filled the sphere with squid ink, then pinched it shut, trapping the ink inside. 
+
+Gently, so as not to break it open, she placed the sphere inside her glass, pressing it to make it stick to the bottom. Seven quick drops of essence of seagrass in precise places, and she was done. 
+
+
+
+Mademoiselle Lifi turned her glass, letting the rhinestones catch the light. Her Marbelini was a perfect dark green. "Voila!" 
+
+The first judge accepted the proffered Marbelini and sipped it, eyes closed. His face relaxed. "It is perfect. Perfect mixture, perfect presentation." 
+
+He passed it to the other judge, who took a quick sip and nodded agreement. 
+
+Carefully, Marbela picked up her own Marbelini, trying not to jar it. She had to do this right, and she had to do it slowly. She'd hoped the other two octopuses would go ahead of her, but they were nursing sprained arms and black eyes and hadn't even tried to make drinks. It was her versus Lifi. 
+
+
+
+Gently, gently, she tiptoed over and placed her glass in the first judge's waiting hands. 
+
+He eyed the clear seawater and clump of congealed algae paste. "Is this a joke?"
+
+"No." Marbela reached out and slapped the glass. 
+
+Puffs of green algae rose up from the clump, revealing seven small holes where the essence of seagrass had eaten through the molded sphere. Squid ink trailed outward and upward in seven tight strands. They grew and spread, like the petals of a delicately blossoming flower. 
+
+The puffs of algae mixed with the seawater, turning it a light green that grew darker closer to the squid-ink petals. The petals opened, and opened. For a moment, the flower filled the entire glass; and then it dissolved into the drink, and was done. 
+
+"That," said Marbela, gesturing at the now-perfect dark green drink, "is a Marbelini."
+
+The judges applauded. 
+
+
+### What should Marbela imagine next?
+
+a. Dramatically arresting whoever gave Paisley unjust parking tickets. 
+
+b. Catching the mural thief. 
+
+c. Winning the Augusta puzzle contest. 
+
+d. ...that's enough daydreaming for now. Better get back to asking Lifi what was in the mural and what happened Friday morning. 
 
 
 

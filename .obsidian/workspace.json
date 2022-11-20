@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-20-Sun.md",
+                "file": "1. Projects/w - marbela mystery/Marbela text.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-20-Sun.md",
+                "file": "1. Projects/w - marbela mystery/Marbela text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-20-Sun.md",
+                "file": "1. Projects/w - marbela mystery/Marbela text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-20-Sun.md"
+                "file": "1. Projects/w - marbela mystery/Marbela text.md"
               }
             }
           },
@@ -185,15 +185,15 @@
   },
   "active": "2a23b9c021217119",
   "lastOpenFiles": [
+    "1. Projects/w - learn literary techniques/Id list.md",
+    "1. Projects/w - marbela mystery/Marbela text.md",
+    "daily/2022-11-20-Sun.md",
     "0. Inbox/Snails.md",
     "0. Inbox/00-scratchpad-note.md",
     "1. Projects/Thanksgiving planning.md",
     "3. Resources/Mastodon.md",
     "0. Inbox/FTX.md",
     "2. Areas/food/Food notes.md",
-    "periodic/Daily reminders.md",
-    "4. Archive/food/Food restrictions.md",
-    "3. Resources/the indexer/Indexes reviewed  Indexer (The)(7).md",
-    "4. Archive/kindle-notes/Daimler-Fairies.md"
+    "periodic/Daily reminders.md"
   ]
 }
