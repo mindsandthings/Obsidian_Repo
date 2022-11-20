@@ -11,6 +11,7 @@ To eat:
 * pickled onions
 * whipped cream
 * cassoulet in freezer
+* froz chicken nuggets
 
 To cook:
 * Friday - split pea soup
@@ -18,16 +19,10 @@ To cook:
 * 
 
 To buy:
-* Frozen chicken nuggets
-* Sauerkraut (for eat more fermented foods)
-* berries
-* stuffing mix and any ingredients - pick out
-* 
-* check if I need to make more chicken broth
+* Sauerkraut (for me)
+* blue/rasp/blackberries
 * celery
-* carrots
-* onions? 
-* squashes (acorn?)
-* green beans
-* bananas ? 
-* Look at 
+* onions
+* no bananas. we have enough bananas
+* 1 acorn squash
+* green beans (I guess 1 lb? for 4 adults + Maya)
