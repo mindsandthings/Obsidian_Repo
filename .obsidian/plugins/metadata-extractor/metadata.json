@@ -25937,6 +25937,10 @@
     ]
   },
   {
+    "fileName": "Mastodon",
+    "relativePath": "3. Resources/Mastodon.md"
+  },
+  {
     "fileName": "mine",
     "relativePath": "3. Resources/x477 Indexing course/Module 5/mine.md"
   },
@@ -37590,20 +37594,12 @@
     "relativePath": "3. Resources/EBT/2) The Feelings Tool - Copy.md"
   },
   {
-    "fileName": "Mastodon",
-    "relativePath": "0. Inbox/Mastodon.md"
-  },
-  {
-    "fileName": "FTX",
-    "relativePath": "0. Inbox/FTX.md"
+    "fileName": "00-scratchpad-note",
+    "relativePath": "0. Inbox/00-scratchpad-note.md"
   },
   {
     "fileName": "Thanksgiving planning",
-    "relativePath": "0. Inbox/Thanksgiving planning.md"
-  },
-  {
-    "fileName": "00-scratchpad-note",
-    "relativePath": "0. Inbox/00-scratchpad-note.md"
+    "relativePath": "1. Projects/Thanksgiving planning.md"
   },
   {
     "fileName": "Indexers book group Nov 28 2022",

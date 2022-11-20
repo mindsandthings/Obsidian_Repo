@@ -1,0 +1,1 @@
+snails every 2 days (all 3 boxes). water into pink dish. careful with nursery lid, and make sure to crimp foil. catch flies with fly paper near opening. spray and wipe down a week.

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "0. Inbox/00-scratchpad-note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a23b9c021217119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-11-20-Sun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ledan",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-11-20-Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-11-20-Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "daily/2022-11-20-Sun.md"
               }
             }
           },
@@ -171,17 +183,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "d328a11ed6aa75f6",
+  "active": "2a23b9c021217119",
   "lastOpenFiles": [
-    "periodic/Daily reminders.md",
+    "0. Inbox/Snails.md",
+    "0. Inbox/00-scratchpad-note.md",
+    "1. Projects/Thanksgiving planning.md",
+    "3. Resources/Mastodon.md",
+    "0. Inbox/FTX.md",
     "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
     "4. Archive/food/Food restrictions.md",
     "3. Resources/the indexer/Indexes reviewed  Indexer (The)(7).md",
-    "4. Archive/kindle-notes/Daimler-Fairies.md",
-    "daily/2022-11-19-Sat.md",
-    "daily/2022-11-18-Fri.md",
-    "daily/2022-11-17-Thu.md",
-    "daily/2022-11-15-Tue.md",
-    "daily/2022-11-14-Mon.md"
+    "4. Archive/kindle-notes/Daimler-Fairies.md"
   ]
 }
