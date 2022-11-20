@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-19-Sat.md",
+                "file": "2. Areas/food/Food notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-19-Sat.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-19-Sat.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-19-Sat.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "d328a11ed6aa75f6",
   "lastOpenFiles": [
+    "daily/2022-11-19-Sat.md",
     "0. Inbox/FTX.md",
     "0. Inbox/Thanksgiving planning.md",
     "0. Inbox/Mastodon.md",
@@ -181,7 +182,6 @@
     "1. Projects/w - marbela mystery/Marbela text.md",
     "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
     "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "daily/2022-11-18-Fri.md"
+    "0. Inbox/00-scratchpad-note.md"
   ]
 }

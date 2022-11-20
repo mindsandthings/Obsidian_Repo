@@ -1,16 +1,16 @@
 
 To eat:
 * TOSS GINGER 
-* Cassoulet in garage
+* Cassoulet
 * half lemon
 * use up the honeys for tea
 * grapefruit 2
-* Bologna in garage fridge
+* Bologna 
 * vegan cheese spread
 * preserved lemons
 * pickled onions
 * whipped cream
-* 
+* cassoulet in freezer
 
 To cook:
 * Friday - split pea soup
