@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-11-21-Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-11-21-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
+                "file": "daily/2022-11-21-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/food/Food notes.md"
+                "file": "daily/2022-11-21-Mon.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "2a23b9c021217119",
   "lastOpenFiles": [
-    "periodic/Daily reminders.md",
     "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
     "1. Projects/w - marbela mystery/Marbela text.md",
     "1. Projects/w - learn literary techniques/Id list.md",
     "daily/2022-11-20-Sun.md",
