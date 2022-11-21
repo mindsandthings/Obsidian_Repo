@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md"
+                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "f658069fbb7536e7",
   "lastOpenFiles": [
-    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
-    "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
-    "3. Resources/indexing-book-group/The Indexing Companion and workbook - book club.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "4. Archive/validating/LessWrong AI Doomsday game.md",
-    "periodic/Daily reminders.md",
-    "daily/2022-11-21-Mon.md",
-    "2. Areas/food/Food notes.md",
-    "1. Projects/w - marbela mystery/Marbela text.md",
-    "1. Projects/w - learn literary techniques/Id list.md"
+    "6. North Star/Make indexing money.md",
+    "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md",
+    "1. Projects/i - develop and document indexing processes/Macrex replace in search results.md",
+    "1. Projects/i - develop and document indexing processes/Macrex macros plan.md",
+    "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md",
+    "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
+    "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md",
+    "1. Projects/i - develop and document indexing processes/Editing and proofreading indexes.md",
+    "1. Projects/i - develop and document indexing processes/9.9 Embedded Indexing with IndexManager 1.md",
+    "0. Inbox/Snails.md"
   ]
 }

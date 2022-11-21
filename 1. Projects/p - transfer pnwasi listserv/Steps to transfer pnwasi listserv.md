@@ -1,30 +1,13 @@
 
-1. Draft email for Judy
-	1. are you the archivist
-	2. Listserv change
-	3. Archives: do we want to drop, or send to new list, or what
-		1. do they need to be archived
-		2. do they need to remain available to members 
+1. Save the achives
+	1. Save
+	2. send to Judy and Wanda and Sam
 2. Update Maria
 3. After I know from Judy what to do about the acrhives, email Jim about the list: 
 
 https://lists.pnwasi.org/mailman/private/indexing-pnw_lists.pnwasi.org/
 
-If we want to continue to make these archives available to new members after migrating to Google Groups, 
-
-We can't migrate listserv messages directly, so if we want to continue to make these archives available to new members, we would need 
-
-Members access those archives by logging into their lists.pnwasi.org account. After we migrate, 
-
-
-
-
-
-
 This is the link to login to the list as an administrator:  [https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org](https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org)
-
-  
-
 The List Administrator Password is:  PnwAdm219
 
 1.  Timeframe: early January
@@ -45,8 +28,9 @@ The List Administrator Password is:  PnwAdm219
     
 
 1.  Transfer the list. This will involve cutting-and-pasting names and email addresses from the current list into a text file and reformatting them so that when I paste them into Google Groups' direct add box, it adds them correctly. I can do the cutting/pasting/reformatting. If you have time, it would be great if you could look it over when I'm done and doublecheck that I pasted the right name in next to each email address.  
+2. archive any new 2022 emails after Nov 20
     
-2.  Do something to the old mailing list so people can't send to it anymore (and ideally get a bounce message saying "hey, use the other list").  
+3.  Do something to the old mailing list so people can't send to it anymore (and ideally get a bounce message saying "hey, use the other list").  
 	1. find out waht this is
 	2. figure out what to do about archives
 	3. Edit the old signup page: I poked around in the admin interface and we can actually edit that page directly to remove the signup option and add a link to the Google Group (under "Edit the public HTML pages and text files" -> "General list information page").
