@@ -1,5 +1,9 @@
 
-==Track time!!==
+Track time!!
+
+==Don't take over coworking. It's Kris's; don't try to steal it. 
+
+
 
 # Health
 * 2022-09-19: wash hands every time bathroom or food prep or eat
@@ -21,22 +25,22 @@
 - 2022-07-01: Relax and let the water channels flow
 
 # Michael
-tell Michael it sucks that bad things happen and then he has to do more to fix it
-==use "I care about you and I want to know if you're ok"
-if I think Michael is blowing me off or in d nial tell him and give him another chance
+- tell Michael it sucks that bad things happen and then he has to do more to fix it
+- ==use "I care about you and I want to know if you're ok"
+- if I think Michael is blowing me off or in denial tell him and give him another chance
 
 
 # Socialization/job
 * Remember, it's the reaching out—not the specific topic—that led to bad things. We have identified the problem and don't need to panic about those things anymore. 
-* Wed, Sep 14, 2022: I would like to close out conversations with people, to make sure they feel heard. I would also like to not take up too much space or time wrapping somethign up. I would like to reply to people when they ask me a question, even if it's late.
+	* And a lot of it is about not devaluing people quickly enough ("holding them to too high standards"). Remember: devalue early and often. 
+* Wed, Sep 14, 2022: I would like to close out conversations with people, to make sure they feel heard. I would also like to not take up too much space or time wrapping something up. I would like to reply to people when they ask me a question, even if it's late.
 * remember to socialize more with your fellow students and other non-leaders 
 * how to interrupt less? calm down, breathe, wait.
 * don't suck up too much, ok?
 * participate more on indexers lists
 * keep an eye out for local indexers to network with
-* I would like to continue out conversations without suddenly dropping out in chat
-* don't be a kid or a young student - be an adult coming in from another field
-* Don't take over coworking. It's Kris's; don't try to steal it. 
+* I would like to continue conversations without suddenly dropping out in chat
+* don't be a kid or a young student - be an adult coming in from another field (well, I did this and it didn't exactly work. maybe a better rule is: if someone seems determined to answer a question you didn't ask, flee)
 * (can't you focus on specific quotations? me. be uber careful of sounding complainy. you already got slapped, bitch. you do not have the cred to speak from an info sci authority. remember to be small and meek and "helpful". textual focus, specific quotes with page numbers. you already created a threat. be meek and new. remember, she's irritated with you because everybody else was talking and she couldn't get mad at them)
 
 # Michael
