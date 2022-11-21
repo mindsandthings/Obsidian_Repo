@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. Inbox/00-scratchpad-note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f658069fbb7536e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,17 +195,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "2a23b9c021217119",
+  "active": "f658069fbb7536e7",
   "lastOpenFiles": [
+    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
+    "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+    "3. Resources/indexing-book-group/The Indexing Companion and workbook - book club.md",
+    "0. Inbox/00-scratchpad-note.md",
     "4. Archive/validating/LessWrong AI Doomsday game.md",
     "periodic/Daily reminders.md",
     "daily/2022-11-21-Mon.md",
     "2. Areas/food/Food notes.md",
     "1. Projects/w - marbela mystery/Marbela text.md",
-    "1. Projects/w - learn literary techniques/Id list.md",
-    "daily/2022-11-20-Sun.md",
-    "0. Inbox/Snails.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "1. Projects/Thanksgiving planning.md"
+    "1. Projects/w - learn literary techniques/Id list.md"
   ]
 }
