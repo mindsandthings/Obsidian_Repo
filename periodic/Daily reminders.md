@@ -2,7 +2,7 @@
 Track time!!
 
 ==Don't take over coworking. It's Kris's; don't try to steal it. 
-
+close laundry room door
 
 
 # Health
