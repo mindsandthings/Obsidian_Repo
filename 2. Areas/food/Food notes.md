@@ -4,6 +4,9 @@
 
 To eat:
 * TOSS GINGER 
+* blueberries in fridge
+* 
+* drink milk
 * Cassoulet
 * half lemon
 * use up the honeys for tea

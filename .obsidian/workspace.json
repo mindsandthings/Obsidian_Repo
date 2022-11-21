@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/w - marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/w - marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/w - marbela mystery/Marbela text.md",
+                "file": "2. Areas/food/Food notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/w - marbela mystery/Marbela text.md"
+                "file": "2. Areas/food/Food notes.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "2a23b9c021217119",
   "lastOpenFiles": [
-    "1. Projects/w - learn literary techniques/Id list.md",
     "1. Projects/w - marbela mystery/Marbela text.md",
+    "1. Projects/w - learn literary techniques/Id list.md",
     "daily/2022-11-20-Sun.md",
     "0. Inbox/Snails.md",
     "0. Inbox/00-scratchpad-note.md",
