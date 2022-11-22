@@ -14,7 +14,13 @@ For our next meeting on November 28, we'll be reading chapter 4 of _Indexing Com
 
   
 
-4.2 (you may want to do 4.1 at least mentally in preparation for it), 4.8, 4.11, and 4.13 (which revisits what you did in 4.2). As usual, do what you have time for (sorry this is coming out later than I intended -- the week got away from me once my kid got sick).
+4.2 (you may want to do 4.1 at least mentally in preparation for it), 
+4.8 ==wording of topics - done==
+4.11, and 
+4.13 (which revisits what you did in 4.2). 
+
+
+As usual, do what you have time for (sorry this is coming out later than I intended -- the week got away from me once my kid got sick).
 
   
 
