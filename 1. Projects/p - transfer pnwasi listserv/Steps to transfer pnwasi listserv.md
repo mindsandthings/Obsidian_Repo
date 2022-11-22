@@ -1,7 +1,4 @@
 
-1. Save the achives
-	1. Save
-	2. send to Judy and Wanda and Sam
 2. Update Maria
 3. After I know from Judy what to do about the acrhives, email Jim about the list: 
 
@@ -28,15 +25,13 @@ The List Administrator Password is:  PnwAdm219
     
 
 1.  Transfer the list. This will involve cutting-and-pasting names and email addresses from the current list into a text file and reformatting them so that when I paste them into Google Groups' direct add box, it adds them correctly. I can do the cutting/pasting/reformatting. If you have time, it would be great if you could look it over when I'm done and doublecheck that I pasted the right name in next to each email address.  
-2. archive any new 2022 emails after Nov 20
+2. archive any new 2022 emails after Nov 20 to existing google doc; share with Judy, Sam, and Wanda (read-only)
     
 3.  Do something to the old mailing list so people can't send to it anymore (and ideally get a bounce message saying "hey, use the other list").  
 	1. find out waht this is
 	2. figure out what to do about archives
 	3. Edit the old signup page: I poked around in the admin interface and we can actually edit that page directly to remove the signup option and add a link to the Google Group (under "Edit the public HTML pages and text files" -> "General list information page").
 	    
-
-Is there other process we need to follow? At what point should we give Judy (or anyone else) a heads-up?
 
 
 # Her reply

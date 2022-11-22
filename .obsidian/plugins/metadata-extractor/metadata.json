@@ -10166,6 +10166,196 @@
     ]
   },
   {
+    "fileName": "Develop and document indexing processes",
+    "relativePath": "4. Archive/indexing/Develop and document indexing processes.md",
+    "headings": [
+      {
+        "heading": "Features to learn: go through manuals",
+        "level": 1
+      },
+      {
+        "heading": "Making notes",
+        "level": 2
+      },
+      {
+        "heading": "How do I add hidden text?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Labeling entries",
+        "level": 2
+      },
+      {
+        "heading": "How are labels displayed in each software?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Can I apply multiple labels to one entry?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Grouping entries",
+        "level": 2
+      },
+      {
+        "heading": "What is the process to do a complex search for each software? How many steps?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "How easy/hard to search by locator range?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Can I show/hide based on labels?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Is the search lost when I go to another screen?",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "\"I want this topic and its parent topics but not its sister topics\"",
+        "level": 3
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Macrex",
+        "level": 4
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Sky",
+        "level": 4
+      },
+      {
+        "heading": "Merging separate indexes",
+        "level": 2
+      },
+      {
+        "heading": "Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Try different indexing protocols",
+        "level": 1
+      },
+      {
+        "heading": "Try printing out a pdf and doing Do Mi's tickboxes",
+        "level": 2
+      },
+      {
+        "heading": "Mark some main headings for \"keep filling out\" or \"probably only local\"",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Shortcuts - Sky Index",
     "relativePath": "4. Archive/indexing/Shortcuts - Sky Index.md"
   },
@@ -25725,10 +25915,6 @@
         "relativePath": "6. North Star/Make indexing money.md"
       },
       {
-        "link": "Develop and document indexing processes",
-        "relativePath": "6. North Star/Develop and document indexing processes.md"
-      },
-      {
         "link": "Make social connections I enjoy deepening"
       },
       {
@@ -25759,203 +25945,6 @@
       {
         "fileName": "0. Goals 2022-2023",
         "link": "Do something meaningful with my writing",
-        "relativePath": "6. North Star/0. Goals 2022-2023.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Develop and document indexing processes",
-    "relativePath": "6. North Star/Develop and document indexing processes.md",
-    "headings": [
-      {
-        "heading": "Features to learn: go through manuals",
-        "level": 1
-      },
-      {
-        "heading": "Making notes",
-        "level": 2
-      },
-      {
-        "heading": "How do I add hidden text?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Labeling entries",
-        "level": 2
-      },
-      {
-        "heading": "How are labels displayed in each software?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Can I apply multiple labels to one entry?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Grouping entries",
-        "level": 2
-      },
-      {
-        "heading": "What is the process to do a complex search for each software? How many steps?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "How easy/hard to search by locator range?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Can I show/hide based on labels?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "How to manually save a set of entries based on search criteria? Can I ad hoc add other entries to it?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Is the search lost when I go to another screen?",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "\"I want this topic and its parent topics but not its sister topics\"",
-        "level": 3
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Macrex",
-        "level": 4
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Sky",
-        "level": 4
-      },
-      {
-        "heading": "Merging separate indexes",
-        "level": 2
-      },
-      {
-        "heading": "Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Try different indexing protocols",
-        "level": 1
-      },
-      {
-        "heading": "Try printing out a pdf and doing Do Mi's tickboxes",
-        "level": 2
-      },
-      {
-        "heading": "Mark some main headings for \"keep filling out\" or \"probably only local\"",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "0. Goals 2022-2023",
-        "link": "Develop and document indexing processes",
         "relativePath": "6. North Star/0. Goals 2022-2023.md"
       }
     ]
@@ -37677,8 +37666,8 @@
     "relativePath": "3. Resources/EBT/2) The Feelings Tool - Copy.md"
   },
   {
-    "fileName": "Snails",
-    "relativePath": "0. Inbox/Snails.md"
+    "fileName": "Macrex Win 11 update (Dwight)",
+    "relativePath": "0. Inbox/Macrex Win 11 update (Dwight).md"
   },
   {
     "fileName": "00-scratchpad-note",
