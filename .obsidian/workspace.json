@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md"
+                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md"
               }
             }
           },
@@ -207,17 +207,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "d62bea92e37b3f19",
+  "active": "2510798b0157c93f",
   "lastOpenFiles": [
-    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
-    "0. Inbox/Macrex Win 11 update (Dwight).md",
-    "0. Inbox/00-scratchpad-note.md",
+    "1. Projects/w - kraken/1 Cut texts.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
+    "1. Projects/w - marbela mystery/Marbela text.md",
     "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
+    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
+    "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
+    "0. Inbox/00-scratchpad-note.md",
     "6. North Star/Make indexing money.md",
-    "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md",
-    "1. Projects/i - develop and document indexing processes/Macrex replace in search results.md",
-    "1. Projects/i - develop and document indexing processes/Macrex macros plan.md",
-    "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md",
-    "1. Projects/i - develop and document indexing processes/Index edit checklist.md"
+    "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md"
   ]
 }

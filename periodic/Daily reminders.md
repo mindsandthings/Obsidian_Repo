@@ -1,7 +1,7 @@
 
 Track time!!
 
-==Don't take over coworking. It's Kris's; don't try to steal it. 
+==Don't take over coworking. It's Kris's; don't try to steal it. Just wait a little longer and see if Kris checks in first!
 close laundry room door
 
 
