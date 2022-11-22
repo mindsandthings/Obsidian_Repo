@@ -681,9 +681,10 @@
   },
   {
     "tag": "my",
-    "tagCount": 2,
+    "tagCount": 3,
     "relativePaths": [
       "4. Archive/writing business/Marketing in competition with fandom.md",
+      "4. Archive/validating/only knowing how to obstruct and destroy.md",
       "4. Archive/validating/Girl code (tumblr post by soulvomit).md"
     ]
   },
@@ -781,6 +782,44 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/karl/Karl priorities.md"
+    ]
+  },
+  {
+    "tag": "this",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/validating/only knowing how to obstruct and destroy.md"
+    ]
+  },
+  {
+    "tag": "like",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/only knowing how to obstruct and destroy.md"
+    ]
+  },
+  {
+    "tag": "but",
+    "tagCount": 10,
+    "relativePaths": [
+      "4. Archive/validating/only knowing how to obstruct and destroy.md",
+      "4. Archive/validating/Girl code (tumblr post by soulvomit).md",
+      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
+    ]
+  },
+  {
+    "tag": "to",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/validating/only knowing how to obstruct and destroy.md",
+      "4. Archive/validating/We're all a little X.md"
+    ]
+  },
+  {
+    "tag": "you",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/validating/only knowing how to obstruct and destroy.md"
     ]
   },
   {
@@ -916,13 +955,6 @@
     ]
   },
   {
-    "tag": "to",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/validating/We're all a little X.md"
-    ]
-  },
-  {
     "tag": "people",
     "tagCount": 1,
     "relativePaths": [
@@ -1043,14 +1075,6 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/validating/Girl code (tumblr post by soulvomit).md"
-    ]
-  },
-  {
-    "tag": "but",
-    "tagCount": 9,
-    "relativePaths": [
-      "4. Archive/validating/Girl code (tumblr post by soulvomit).md",
-      "4. Archive/archived-journaling/Patchwork-Something (Jul 2022 archive).md"
     ]
   },
   {

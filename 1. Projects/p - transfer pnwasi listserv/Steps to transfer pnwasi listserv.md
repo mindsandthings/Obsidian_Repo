@@ -1,23 +1,19 @@
-
-2. Update Maria
-3. After I know from Judy what to do about the acrhives, email Jim about the list: 
-
-https://lists.pnwasi.org/mailman/private/indexing-pnw_lists.pnwasi.org/
-
 This is the link to login to the list as an administrator:  [https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org](https://lists.pnwasi.org/mailman/admin/indexing-pnw_lists.pnwasi.org)
 The List Administrator Password is:  PnwAdm219
 
 1.  Timeframe: early January
     
-2.  Set up the Google Group and learn to use it. I went ahead and grabbed [indexing-pnw@googlegroups.com](mailto:indexing-pnw@googlegroups.com), although we can easily change the group name or the group email address if desired. I'll walk through the steps for common tasks and once I'm feeling confident we can set up a Zoom call and I can train you. 
+2.  (Walk through settings) Set up the Google Group and learn to use it. I went ahead and grabbed [indexing-pnw@googlegroups.com](mailto:indexing-pnw@googlegroups.com), although we can easily change the group name or the group email address if desired. I'll walk through the steps for common tasks and once I'm feeling confident we can set up a Zoom call and I can train you. 
 	1. Set up krakenreaders as a "fake" test group, with the same settings as the regular group
 	2. Set up the regular group with everything but the description
 	3. Make a note to add the description
 	4. Figure out how to handle when people sign up but don't put their name—
-3. Draft an automatic welcome message. 
-4. Plan replacement page for mailman. Contact Jim to replace it? 
-5. 
-6.  Update everyone:
+3. Walk through signup process
+4. Draft an automatic welcome message. 
+5. Plan replacement page for mailman.
+6. Walk through setting up an email filter for Wanda https://www.lifewire.com/set-up-incoming-mail-filter-hotmail-1174276
+After we've switched the listserv over we can let Jim know we're no longer using Mailman. I
+7.  Update everyone:
 
 1.  Coordinate with Maria so she has updated info to include in new member emails.
 2.  Update the website's "Contact Us" and "Join the PNW listserv" pages (I can do this when we're ready, or Sam can).
@@ -26,7 +22,7 @@ The List Administrator Password is:  PnwAdm219
 
 1.  Transfer the list. This will involve cutting-and-pasting names and email addresses from the current list into a text file and reformatting them so that when I paste them into Google Groups' direct add box, it adds them correctly. I can do the cutting/pasting/reformatting. If you have time, it would be great if you could look it over when I'm done and doublecheck that I pasted the right name in next to each email address.  
 2. archive any new 2022 emails after Nov 20 to existing google doc; share with Judy, Sam, and Wanda (read-only)
-    
+    After I know from Judy what to do about the acrhives, email Jim about the list: https://lists.pnwasi.org/mailman/private/indexing-pnw_lists.pnwasi.org/
 3.  Do something to the old mailing list so people can't send to it anymore (and ideally get a bounce message saying "hey, use the other list").  
 	1. find out waht this is
 	2. figure out what to do about archives
