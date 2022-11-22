@@ -3349,23 +3349,6 @@
   {
     "fileName": "LessWrong AI Doomsday game",
     "relativePath": "4. Archive/validating/LessWrong AI Doomsday game.md",
-    "frontmatter": {
-      "created": "2022-11-21T12:46:47 (UTC -08:00)",
-      "source": "https://www.lesswrong.com/posts/kcoqwHscvQTx4xgwa/here-s-the-exit",
-      "author": "by Valentine",
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 153
-        }
-      }
-    },
     "headings": [
       {
         "heading": "Here's the exit. - LessWrong",
@@ -3389,6 +3372,34 @@
       },
       {
         "heading": "But… but Val… _what about the real AI problem?!_",
+        "level": 2
+      },
+      {
+        "heading": "Here's the exit. - LessWrong",
+        "level": 1
+      },
+      {
+        "heading": "The Apocalypse Game",
+        "level": 2
+      },
+      {
+        "heading": "Ramping Up Intensity",
+        "level": 2
+      },
+      {
+        "heading": "(Interlude)",
+        "level": 2
+      },
+      {
+        "heading": "Land on Earth and Get Sober",
+        "level": 2
+      },
+      {
+        "heading": "But… but Val… _what about the real AI problem?!_",
+        "level": 2
+      },
+      {
+        "heading": "58>)",
         "level": 2
       }
     ]
@@ -37666,10 +37677,6 @@
     "relativePath": "3. Resources/EBT/2) The Feelings Tool - Copy.md"
   },
   {
-    "fileName": "Macrex Win 11 update (Dwight)",
-    "relativePath": "0. Inbox/Macrex Win 11 update (Dwight).md"
-  },
-  {
     "fileName": "00-scratchpad-note",
     "relativePath": "0. Inbox/00-scratchpad-note.md"
   },
@@ -39017,6 +39024,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Macrex Win 11 update (Dwight)",
+    "relativePath": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md"
   },
   {
     "fileName": "Macrex shortcut list",

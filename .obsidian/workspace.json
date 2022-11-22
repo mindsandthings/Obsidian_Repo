@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/food/Food notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d328a11ed6aa75f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/00-scratchpad-note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a23b9c021217119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/00-scratchpad-note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f658069fbb7536e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/00-scratchpad-note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d62bea92e37b3f19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
+                "file": "daily/2022-11-22-Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
+                "file": "daily/2022-11-22-Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
+                "file": "daily/2022-11-22-Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md"
+                "file": "daily/2022-11-22-Tue.md"
               }
             }
           },
@@ -207,17 +158,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "2510798b0157c93f",
+  "active": "6dc95a1a66c85353",
   "lastOpenFiles": [
-    "1. Projects/w - kraken/1 Cut texts.md",
     "2. Areas/food/Food notes.md",
+    "0. Inbox/00-scratchpad-note.md",
+    "daily/2022-11-22-Tue.md",
+    "4. Archive/validating/LessWrong AI Doomsday game.md",
+    "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
+    "1. Projects/w - kraken/1 Cut texts.md",
     "periodic/Daily reminders.md",
     "1. Projects/w - marbela mystery/Marbela text.md",
     "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
-    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
-    "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md",
-    "0. Inbox/00-scratchpad-note.md",
-    "6. North Star/Make indexing money.md",
-    "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md"
+    "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md"
   ]
 }
