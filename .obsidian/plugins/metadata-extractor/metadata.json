@@ -158,6 +158,24 @@
     "relativePath": "Productivity/Brainstorming pacing activities.md"
   },
   {
+    "fileName": "2022-11-23-Wed",
+    "relativePath": "daily/2022-11-23-Wed.md",
+    "headings": [
+      {
+        "heading": "Day summary",
+        "level": 1
+      },
+      {
+        "heading": "Health",
+        "level": 1
+      },
+      {
+        "heading": "Internal check-in",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "2022-11-22-Tue",
     "relativePath": "daily/2022-11-22-Tue.md",
     "headings": [
@@ -2133,6 +2151,10 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Supplements I tell people about",
+    "relativePath": "2. Areas/health/Supplements I tell people about.md"
   },
   {
     "fileName": "Digestive ideas",
@@ -37707,16 +37729,30 @@
     "relativePath": "3. Resources/EBT/2) The Feelings Tool - Copy.md"
   },
   {
-    "fileName": "Supplements I tell people about",
-    "relativePath": "0. Inbox/Supplements I tell people about.md"
-  },
-  {
     "fileName": "00-scratchpad-note",
     "relativePath": "0. Inbox/00-scratchpad-note.md"
   },
   {
     "fileName": "Thanksgiving planning",
     "relativePath": "1. Projects/Thanksgiving planning.md"
+  },
+  {
+    "fileName": "TIC chapter 4 exercises",
+    "relativePath": "1. Projects/p - indexers book group/TIC chapter 4 exercises.md",
+    "headings": [
+      {
+        "heading": "4.1 Aboutness",
+        "level": 1
+      },
+      {
+        "heading": "a.",
+        "level": 2
+      },
+      {
+        "heading": "B.",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Indexer's Companion excerpts and notes",

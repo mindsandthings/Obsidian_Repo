@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-23-Wed.md",
+                "file": "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e13e0d569bbc94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-23-Wed.md",
+                "file": "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-23-Wed.md",
+                "file": "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-23-Wed.md"
+                "file": "1. Projects/i - develop and document indexing processes/Index edit checklist.md"
               }
             }
           },
@@ -171,17 +183,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "dbca5a0904a26c48",
+  "active": "6e13e0d569bbc94a",
   "lastOpenFiles": [
-    "2. Areas/health/Supplements I tell people about.md",
-    "2. Areas/food/Food notes.md",
-    "periodic/Daily reminders.md",
-    "0. Inbox/00-scratchpad-note.md",
-    "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+    "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md",
+    "1. Projects/i - develop and document indexing processes/9.9 Embedded Indexing with IndexManager 1.md",
+    "1. Projects/Thanksgiving planning.md",
+    "6. North Star/Make indexing money.md",
+    "1. Projects/p - indexers book group/TIC chapter 4 exercises.md",
     "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
     "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
-    "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
-    "2. Areas/PNW-ASI/PNW-ASI webmaster documentation.md",
+    "2. Areas/I - Indexing book group/The Indexing Companion - book club notes Oct 31, 2022.md",
+    "2. Areas/PNW-ASI/ASI-PNW notes.md",
     "2. Areas/PNW-ASI/ASI-PNW website errata.md"
   ]
 }
