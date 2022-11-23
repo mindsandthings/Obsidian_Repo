@@ -11,7 +11,6 @@
 - [ ] Redo cases as ranges
 - [ ] ==go back through and pick up red topics
 - [ ]  review meta topic entry for double postings
-- [ ] remove fictional name
 - [ ] use [[0 Index edit checklist]] when editing
 - [ ] remember to submit the discussion question
 - [ ] if there are any function words in main headings, ask if they are to be ignored or inverted
@@ -22,6 +21,17 @@
 - [ ] Run-in
 - [ ] Letter-by-letter
 - [ ] main heading: subheading; subheading; subheading. _see also_ cross reference. main heading. _see_ cross reference
+- [ ] no extra letter headings between alphabet groups. DO I also need to remove extra spaces? 
+
+To set line width to 36 characters:
+1. change to Courier New 12pt
+2. calculate inches of marginneeded: 8.5 minutes 3.6 = 4.9
+3. Set left margin to 1 inch and right margin to 3.9 inches
+4. count to make sure it's right, I think it's a little long somehow
+48 lines/page? If so, have 6 and 1/4 pages. 
+
+need a space between multiple see also entries. 
+
 
 -----
 ### 1. Check publisher's stylesheet and set up index
@@ -32,9 +42,9 @@
 - [x] How will footnotes or endnotes be designated in the index? ==check that they want e.g. 173n3, or if multiple notes what (I did not check, but will use this)
 - [x] Consider subheading levels -- will there be one level of subheadings or two levels, using sub-subheadings? ==Only one (no sub-subheadings)
 - [x] What sorting order will be used: letter-by-letter or word-by-word? ==Letter-by-letter
-- [ ] What index structure format will be used: run-in, indented, or blended style? ==Run-in.
+- [x] What index structure format will be used: run-in, indented, or blended style? ==Run-in.
 - [ ] Will there be a letter heading or extra space between alphabetic groups in the index? ==remove these
-- [ ] How much space is available for the index? Are there any space limitations that the indexer needs to be aware of for the project? 
+- [x] How much space is available for the index? Are there any space limitations that the indexer needs to be aware of for the project? 
 - [x] (We'll discuss this important issue in a later module.) ==the maximum number is 300 lines and a maximum of 36 characters per line. Try to maintain an average of three to four entries per page in order to end up with the 300 maximum line count.
 - [x] Are there any other special considerations for the index? For example: British or U.S. English spelling and punctuation? Special formatting of any kind (author names, titles, definitions in bold, diacritics)? What will be the treatment of function words in main headings: are they to be ignored in the sort or inverted? ==A combined name/subject index. Index all names found in the text using spelled-out first names.
 
