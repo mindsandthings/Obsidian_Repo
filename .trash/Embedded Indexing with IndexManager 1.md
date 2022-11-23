@@ -1,3 +1,6 @@
+==Development activity to do after I've finished the Berkeley course.
+
+
 ---
 created: 2022-09-30T14:39:44 (UTC -07:00)
 tags: []

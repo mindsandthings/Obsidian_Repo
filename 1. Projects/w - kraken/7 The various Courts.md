@@ -1,3 +1,5 @@
+==Do I want to get this in there somewhere? 
+
 There are a lot of Courts, but only one queen.
 
 The Forest Court (the main court): Lots of nature. Shakespeare / typical nature, royalty, medieval. Where the castle is and where most employees live. The original Courts. Something for everyone. It looks old. Mostly fake villages and food; not many rides. Lots of shopping, especially jewelry. 

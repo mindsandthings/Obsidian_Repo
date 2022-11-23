@@ -1,4 +1,10 @@
 
+Aimee's heart ricocheted around her insides, doing all the moving she wasn't. She stood rigid, the toes on her lifted foot barely touching the ground.
+
+An argument started among the guards. Not in English, in a faerie language with curved vowels and a melodic glide, but clearly an argument between an older guard who'd seen this happen before and a younger guard who knew that if this was the time it all went wrong, he’d be the one getting fired.
+
+
+# Check-in book faerie
 
 She wasn't sure what was going to happen, but the faerie touched her hair, nothing more than a quick tap, and withdrew, eyes closed. The little snake-dog was winding around her legs. 
 The faerie's eyes opened. She went back to her box, pulling out several layers of trays, and handed two very small bottles to Aimee. One, she told Aimee with gestures, she could use to slick down her hair now; the other one came with a slip noting that it should be left on clean wet hair for ten minutes and rinsed out. 

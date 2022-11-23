@@ -1,3 +1,5 @@
+==To update and use as a guide
+
 # Focus
 
 Indexing. Possibly adding copyediting and developmental editing later. Continue focusing on nonfiction.

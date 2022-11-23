@@ -1,3 +1,7 @@
+==Add these to Anki, and make a list for putting up on yellow sticky notes
+
+
+
 ![[Pasted image 20221101144343.png]]
 # To learn about Macrex:
 

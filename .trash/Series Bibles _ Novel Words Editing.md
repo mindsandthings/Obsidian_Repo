@@ -1,3 +1,6 @@
+==Future possibility
+
+
 Whether you are writing two or twenty books that are connected to one another, story continuity is important. It provides consistency and smooth transitions for the reader. Readers will notice when a character has blue eyes in the first book and brown eyes in the fourth. Authors have enough on their plates without trying to remember every detail or spending copious amounts of time searching earlier books for answers.
 
 ​

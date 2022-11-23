@@ -1,1 +1,0 @@
-https://davidgaughran.com/books/lets-get-digital-how-to-self-publish/

@@ -1,3 +1,6 @@
+==To use as a resource
+
+
 Finally, I put together a fashion/faerie appearance pinterest board: https://pin.it/2zjdBXX
  
 I'm also thinking more about faerie outfits, and I think I want to have some some involve living plants.

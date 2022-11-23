@@ -1,4 +1,5 @@
-- 
+==To use as a resource
+
 - Many faeries have animal companions.
 - Since faeries at the Courts had to be park employees, many Afar realms had responded by heavily funding performance arts and tourism management for networkers, and some faeries had begun the controversial practice of going into government jobs with the goal of securing later employment at traveling carnivals. 
 - Elves a mildly superhuman longlived race living in world whiel faeries are super magical and live elsewhere - most faeries at the Courts are humanform and live longer due to good medical care; the non-humanform faeries don't show up as much 

@@ -1,3 +1,6 @@
+==To review and use in business planning
+
+
 https://www.asindexing.org/online-learning/starting-walls/
 
 See saved handout in Google Drive indexing folder.

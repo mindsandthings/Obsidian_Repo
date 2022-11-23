@@ -1588,11 +1588,11 @@
     "links": [
       {
         "link": "my notes on top 5 strengths (strengths class)",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md"
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md"
       },
       {
         "link": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
-        "relativePath": "4. Archive/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md"
+        "relativePath": "4. Archive/Strengths/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md"
       }
     ]
   },
@@ -2358,75 +2358,8 @@
     ]
   },
   {
-    "fileName": "Voting 2022 midterms",
-    "relativePath": "4. Archive/p - vote/Voting 2022 midterms.md"
-  },
-  {
-    "fileName": "2022 fall voting record",
-    "relativePath": "4. Archive/p - vote/2022 fall voting record.md"
-  },
-  {
-    "fileName": "Fifi diary - Julie bday 2022",
-    "relativePath": "4. Archive/writing-julie/Fifi diary - Julie bday 2022.md"
-  },
-  {
-    "fileName": "Julie on Fifi reception",
-    "relativePath": "4. Archive/writing-julie/Julie on Fifi reception.md"
-  },
-  {
-    "fileName": "Windows modifications",
-    "relativePath": "4. Archive/work-setup/Windows modifications.md"
-  },
-  {
-    "fileName": "Vertical heterophoria getting sooner notes",
-    "relativePath": "4. Archive/vertical heterophoria/Vertical heterophoria getting sooner notes.md",
-    "tags": [
-      "z-archives/health"
-    ],
-    "headings": [
-      {
-        "heading": "Vertical heterophoria: getting sooner notes",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Vestibular migraine doctor info",
-    "relativePath": "4. Archive/vertical heterophoria/Vestibular migraine doctor info.md"
-  },
-  {
-    "fileName": "Vertical heterophoria",
-    "relativePath": "4. Archive/vertical heterophoria/Vertical heterophoria.md",
-    "tags": [
-      "z-archives/health/eye"
-    ],
-    "headings": [
-      {
-        "heading": "Vertical heterophoria",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "VP notes for GP",
-    "relativePath": "4. Archive/vertical heterophoria/VP notes for GP.md"
-  },
-  {
-    "fileName": "VH links",
-    "relativePath": "4. Archive/vertical heterophoria/VH links.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "VH links",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Potential tumblr posts",
-    "relativePath": "4. Archive/writing-nonfiction/Potential tumblr posts.md",
+    "relativePath": "4. Archive/writing/writing-nonfiction/Potential tumblr posts.md",
     "tags": [
       "z-archives/writing/nonfiction/post-ideas"
     ],
@@ -2438,68 +2371,20 @@
     ]
   },
   {
-    "fileName": "car roof",
-    "relativePath": "4. Archive/measurements/car roof.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "car roof",
-        "level": 1
-      }
-    ]
+    "fileName": "Fifi diary - Julie bday 2022",
+    "relativePath": "4. Archive/writing/writing-julie/Fifi diary - Julie bday 2022.md"
   },
   {
-    "fileName": "Measurements 6th ave",
-    "relativePath": "4. Archive/measurements/Measurements 6th ave.md",
-    "tags": [
-      "z-archives/1-journal"
-    ],
-    "headings": [
-      {
-        "heading": "Measurements 6th ave",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Ergonomic workplace setup",
-    "relativePath": "4. Archive/measurements/Ergonomic workplace setup.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "Ergonomic workplace setup",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Carbon credits",
-    "relativePath": "4. Archive/measurements/Carbon credits.md",
-    "tags": [
-      "z-archives"
-    ],
-    "headings": [
-      {
-        "heading": "Carbon credits",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Bedroom window for AC",
-    "relativePath": "4. Archive/measurements/Bedroom window for AC.md"
+    "fileName": "Julie on Fifi reception",
+    "relativePath": "4. Archive/writing/writing-julie/Julie on Fifi reception.md"
   },
   {
     "fileName": "Skip Google for Research",
-    "relativePath": "4. Archive/writing-fiction-research/Skip Google for Research.md"
+    "relativePath": "4. Archive/writing/writing-fiction-research/Skip Google for Research.md"
   },
   {
     "fileName": "Claire's Historical Fashion Reference and Resources",
-    "relativePath": "4. Archive/writing-fiction-research/Claire's Historical Fashion Reference and Resources.md",
+    "relativePath": "4. Archive/writing/writing-fiction-research/Claire's Historical Fashion Reference and Resources.md",
     "headings": [
       {
         "heading": "Claire’s Historical Fashion Reference & Resources",
@@ -2677,7 +2562,7 @@
   },
   {
     "fileName": "Historical graffiti and culture",
-    "relativePath": "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
+    "relativePath": "4. Archive/writing/writing-fiction-research/Historical graffiti and culture.md",
     "tags": [
       "z-archives/someday-maybe"
     ],
@@ -2689,8 +2574,16 @@
     ]
   },
   {
+    "fileName": "3 Emotional headspace worksheet",
+    "relativePath": "4. Archive/writing/writing-fiction/3 Emotional headspace worksheet.md"
+  },
+  {
+    "fileName": "2 Expressionbody language worksheet (original)",
+    "relativePath": "4. Archive/writing/writing-fiction/2 Expressionbody language worksheet (original).md"
+  },
+  {
     "fileName": "Thrillersuspense notes",
-    "relativePath": "4. Archive/writing-fiction/Thrillersuspense notes.md",
+    "relativePath": "4. Archive/writing/writing-fiction/Thrillersuspense notes.md",
     "tags": [
       "z-archives/writing"
     ],
@@ -2703,7 +2596,7 @@
   },
   {
     "fileName": "Southern accent research",
-    "relativePath": "4. Archive/writing-fiction/Southern accent research.md",
+    "relativePath": "4. Archive/writing/writing-fiction/Southern accent research.md",
     "tags": [
       "z-archives"
     ],
@@ -2716,7 +2609,7 @@
   },
   {
     "fileName": "Pratchett",
-    "relativePath": "4. Archive/writing-fiction/Pratchett.md",
+    "relativePath": "4. Archive/writing/writing-fiction/Pratchett.md",
     "tags": [
       "z-archives/writing"
     ],
@@ -2729,7 +2622,7 @@
   },
   {
     "fileName": "Leather and silk armor and layers post",
-    "relativePath": "4. Archive/writing-fiction/Leather and silk armor and layers post.md",
+    "relativePath": "4. Archive/writing/writing-fiction/Leather and silk armor and layers post.md",
     "frontmatter": {
       "created": "2022-09-02T09:38:51 (UTC -07:00)",
       "source": "https://findingfeather.tumblr.com/post/694288727690919936/archaeologists-uhhhh-theres-still-a-lot-of",
@@ -2756,7 +2649,7 @@
   },
   {
     "fileName": "Faerie story notes",
-    "relativePath": "4. Archive/writing-fiction/Faerie story notes.md",
+    "relativePath": "4. Archive/writing/writing-fiction/Faerie story notes.md",
     "tags": [
       "z-archives/someday-maybe"
     ],
@@ -2769,7 +2662,7 @@
   },
   {
     "fileName": "D&D haunted theater",
-    "relativePath": "4. Archive/writing-fiction/D&D haunted theater.md",
+    "relativePath": "4. Archive/writing/writing-fiction/D&D haunted theater.md",
     "tags": [
       "z-archives/someday-maybe"
     ],
@@ -2782,7 +2675,7 @@
   },
   {
     "fileName": "The Psychology of Fandom by Jennifer Lynn Barnes",
-    "relativePath": "4. Archive/writing business/The Psychology of Fandom by Jennifer Lynn Barnes.md",
+    "relativePath": "4. Archive/writing/writing business/The Psychology of Fandom by Jennifer Lynn Barnes.md",
     "frontmatter": {
       "created": "2022-10-24T17:52:50 (UTC -07:00)",
       "source": "https://crimereads.com/the-psychology-of-fandom/",
@@ -2809,7 +2702,7 @@
   },
   {
     "fileName": "writing advice thread",
-    "relativePath": "4. Archive/writing business/writing advice thread.md",
+    "relativePath": "4. Archive/writing/writing business/writing advice thread.md",
     "tags": [
       "z-archives/partially-written-threads"
     ],
@@ -2870,7 +2763,7 @@
   },
   {
     "fileName": "agents",
-    "relativePath": "4. Archive/writing business/agents.md",
+    "relativePath": "4. Archive/writing/writing business/agents.md",
     "tags": [
       "z-archives/writing/business"
     ],
@@ -2883,7 +2776,7 @@
   },
   {
     "fileName": "Writing resources advice",
-    "relativePath": "4. Archive/writing business/Writing resources advice.md",
+    "relativePath": "4. Archive/writing/writing business/Writing resources advice.md",
     "headings": [
       {
         "heading": "Writing resources advice",
@@ -2893,7 +2786,7 @@
   },
   {
     "fileName": "Writing op exploration advice",
-    "relativePath": "4. Archive/writing business/Writing op exploration advice.md",
+    "relativePath": "4. Archive/writing/writing business/Writing op exploration advice.md",
     "tags": [
       "1-tracking"
     ],
@@ -2906,7 +2799,7 @@
   },
   {
     "fileName": "Writers organizations",
-    "relativePath": "4. Archive/writing business/Writers organizations.md",
+    "relativePath": "4. Archive/writing/writing business/Writers organizations.md",
     "tags": [
       "z-archives/writing/business"
     ],
@@ -2919,7 +2812,7 @@
   },
   {
     "fileName": "Writers group continuation recs",
-    "relativePath": "4. Archive/writing business/Writers group continuation recs.md",
+    "relativePath": "4. Archive/writing/writing business/Writers group continuation recs.md",
     "tags": [
       "z-archives"
     ],
@@ -2932,7 +2825,7 @@
   },
   {
     "fileName": "Writer_s shed",
-    "relativePath": "4. Archive/writing business/Writer_s shed.md",
+    "relativePath": "4. Archive/writing/writing business/Writer_s shed.md",
     "tags": [
       "z-archives"
     ],
@@ -2945,7 +2838,7 @@
   },
   {
     "fileName": "Writer stretches",
-    "relativePath": "4. Archive/writing business/Writer stretches.md",
+    "relativePath": "4. Archive/writing/writing business/Writer stretches.md",
     "tags": [
       "z-archives/health"
     ],
@@ -3034,11 +2927,11 @@
   },
   {
     "fileName": "Self-publishing resources from BFA Nation",
-    "relativePath": "4. Archive/writing business/Self-publishing resources from BFA Nation.md"
+    "relativePath": "4. Archive/writing/writing business/Self-publishing resources from BFA Nation.md"
   },
   {
     "fileName": "SFF convention accessibility pledge",
-    "relativePath": "4. Archive/writing business/SFF convention accessibility pledge.md",
+    "relativePath": "4. Archive/writing/writing business/SFF convention accessibility pledge.md",
     "tags": [
       "/accessiblecons",
       "z-archives"
@@ -3052,7 +2945,7 @@
   },
   {
     "fileName": "Presses that publish autistic authors",
-    "relativePath": "4. Archive/writing business/Presses that publish autistic authors.md",
+    "relativePath": "4. Archive/writing/writing business/Presses that publish autistic authors.md",
     "tags": [
       "z-archives/writing/presses"
     ],
@@ -3065,7 +2958,7 @@
   },
   {
     "fileName": "Marketing in competition with fandom",
-    "relativePath": "4. Archive/writing business/Marketing in competition with fandom.md",
+    "relativePath": "4. Archive/writing/writing business/Marketing in competition with fandom.md",
     "tags": [
       "on",
       "writing",
@@ -3102,7 +2995,7 @@
   },
   {
     "fileName": "Emma kind words",
-    "relativePath": "4. Archive/writing business/Emma kind words.md",
+    "relativePath": "4. Archive/writing/writing business/Emma kind words.md",
     "tags": [
       "z-archives/sj"
     ],
@@ -3115,7 +3008,7 @@
   },
   {
     "fileName": "Craft article",
-    "relativePath": "4. Archive/writing business/Craft article.md",
+    "relativePath": "4. Archive/writing/writing business/Craft article.md",
     "tags": [
       "z-archives/writing"
     ],
@@ -3125,6 +3018,86 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "Berkeley vacation plans",
+    "relativePath": "4. Archive/p - plan Berkeley vacation/Berkeley vacation plans.md"
+  },
+  {
+    "fileName": "San Jose map",
+    "relativePath": "4. Archive/p - plan Berkeley vacation/San Jose map.md"
+  },
+  {
+    "fileName": "Berkeley vacation highlighted map",
+    "relativePath": "4. Archive/p - plan Berkeley vacation/Berkeley vacation highlighted map.md"
+  },
+  {
+    "fileName": "Voting 2022 midterms",
+    "relativePath": "4. Archive/p - vote/Voting 2022 midterms.md"
+  },
+  {
+    "fileName": "2022 fall voting record",
+    "relativePath": "4. Archive/p - vote/2022 fall voting record.md"
+  },
+  {
+    "fileName": "Windows modifications",
+    "relativePath": "4. Archive/work-setup/Windows modifications.md"
+  },
+  {
+    "fileName": "car roof",
+    "relativePath": "4. Archive/measurements/car roof.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "car roof",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Measurements 6th ave",
+    "relativePath": "4. Archive/measurements/Measurements 6th ave.md",
+    "tags": [
+      "z-archives/1-journal"
+    ],
+    "headings": [
+      {
+        "heading": "Measurements 6th ave",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Ergonomic workplace setup",
+    "relativePath": "4. Archive/measurements/Ergonomic workplace setup.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "Ergonomic workplace setup",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Carbon credits",
+    "relativePath": "4. Archive/measurements/Carbon credits.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "Carbon credits",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Bedroom window for AC",
+    "relativePath": "4. Archive/measurements/Bedroom window for AC.md"
   },
   {
     "fileName": "Karl priorities",
@@ -6569,6 +6542,53 @@
     "headings": [
       {
         "heading": "Levy electric scooter instructions and laws",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Vertical heterophoria getting sooner notes",
+    "relativePath": "4. Archive/health/vertical heterophoria/Vertical heterophoria getting sooner notes.md",
+    "tags": [
+      "z-archives/health"
+    ],
+    "headings": [
+      {
+        "heading": "Vertical heterophoria: getting sooner notes",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Vestibular migraine doctor info",
+    "relativePath": "4. Archive/health/vertical heterophoria/Vestibular migraine doctor info.md"
+  },
+  {
+    "fileName": "Vertical heterophoria",
+    "relativePath": "4. Archive/health/vertical heterophoria/Vertical heterophoria.md",
+    "tags": [
+      "z-archives/health/eye"
+    ],
+    "headings": [
+      {
+        "heading": "Vertical heterophoria",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "VP notes for GP",
+    "relativePath": "4. Archive/health/vertical heterophoria/VP notes for GP.md"
+  },
+  {
+    "fileName": "VH links",
+    "relativePath": "4. Archive/health/vertical heterophoria/VH links.md",
+    "tags": [
+      "z-archives"
+    ],
+    "headings": [
+      {
+        "heading": "VH links",
         "level": 1
       }
     ]
@@ -10225,6 +10245,47 @@
       {
         "heading": "Highlights",
         "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Macrex macro for replacing in search results",
+    "relativePath": "4. Archive/indexing/Macrex macro for replacing in search results.md"
+  },
+  {
+    "fileName": "Getting back into the index (advice)",
+    "relativePath": "4. Archive/indexing/Getting back into the index (advice).md",
+    "tags": [
+      "s"
+    ],
+    "headings": [
+      {
+        "heading": "Elena Gwynne",
+        "level": 4
+      },
+      {
+        "heading": "Amber DeDerick",
+        "level": 4
+      },
+      {
+        "heading": "Do Mi Stauber",
+        "level": 4
+      },
+      {
+        "heading": "Matthew MacLellan",
+        "level": 4
+      },
+      {
+        "heading": "Cynthia",
+        "level": 4
+      },
+      {
+        "heading": "Note on Cindex",
+        "level": 4
+      },
+      {
+        "heading": "Charles Newman",
+        "level": 4
       }
     ]
   },
@@ -24130,6 +24191,856 @@
     ]
   },
   {
+    "fileName": "8.3 What to do now",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/8.3 What to do now.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:10:59 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419631",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "What To Do Now - Development Plans and Communities - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "8.2 Parting Thoughts",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/8.2 Parting Thoughts.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:10:03 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419630",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Parting Thoughts - Development Plans and Communities - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "8.1 Creating Your Development Plan",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/8.1 Creating Your Development Plan.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:08:39 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419629",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Creating Your Development Plan - Development Plans and Communities - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "7.1 A Final Video from Becca",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/7.1 A Final Video from Becca.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:18:10 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419628",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "A Final Video from Becca - Final Video and Next Steps - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "5.3 The Quitcast Strengths episodes",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/5.3 The Quitcast Strengths episodes.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:07:18 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419625",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The QuitCast Strengths Episodes - The Rest of Your Strengths - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "5.2 What to Do With Your Other Strengths",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/5.2 What to Do With Your Other Strengths.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:07:03 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419624",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "What To Do With Your Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "5.1 The Other Strengths",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/5.1 The Other Strengths.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:06:49 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419623",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
+        "level": 1
+      },
+      {
+        "heading": "Downloads",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "4.2 The First Week",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/4.2 The First Week.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:06:03 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419622",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "The First Week - Sign Up for First One-on-One - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "3.3 Application to your Writing",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/3.3 Application to your Writing.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:04:55 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419620",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Application to Your Writing - Your Top Five - Strengths For Writers (August 2022)",
+        "level": 1
+      },
+      {
+        "heading": "Application to Your Writing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.2 Self-Directed Learning",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/3.2 Self-Directed Learning.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:04:41 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419619",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Self-Directed Learning - Your Top Five - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "3.1 Your Top Five",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/3.1 Your Top Five.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:04:29 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419618",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Your Top Five - Your Top Five - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2.2 How to Utilize this information",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/2.2 How to Utilize this information.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:59 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419617",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "How To Utilize This Information - Class Framework - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "2.1 Class Framework",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/2.1 Class Framework.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:45 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419616",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Main Framework - Class Framework - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.9 Kick-off video with Becca",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.9 Kick-off video with Becca.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:29 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419615",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Kick-Off Video with Becca - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.8 Goal-setting from WBF",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.8 Goal-setting from WBF.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:03:02 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419614",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Goal-Setting from WBF - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.7 Reference guide",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.7 Reference guide.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:02:47 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419613",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Reference Guide - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.6 The Four Domains",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.6 The Four Domains.md",
+    "headings": [
+      {
+        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      },
+      {
+        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.4 Quick Word on what you Can and Can't Do with This Infomration",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.4 Quick Word on what you Can and Can't Do with This Infomration.md",
+    "headings": [
+      {
+        "heading": "Quick Word About What You Can and Can't Do With This Information - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      },
+      {
+        "heading": "Quick Word About What You Can and Can't Do With This Information",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "1.3 General information on the Strengthsfinder",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.3 General information on the Strengthsfinder.md",
+    "frontmatter": {
+      "created": "2022-09-12T17:01:04 (UTC -07:00)",
+      "source": "https://app.ruzuku.com/courses/84991/activities/2419609",
+      "author": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 131
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "General Information on the Strengthsfinder - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "1.1 Welcome lecture",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts/1.1 Welcome lecture.md",
+    "headings": [
+      {
+        "heading": "Welcome Lecture - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Strengths course bio and unused notes",
+    "relativePath": "4. Archive/Strengths/Strengths course/Strengths course bio and unused notes.md"
+  },
+  {
+    "fileName": "Pre-coaching form for Becca",
+    "relativePath": "4. Archive/Strengths/Strengths course/Pre-coaching form for Becca.md"
+  },
+  {
+    "fileName": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
+    "relativePath": "4. Archive/Strengths/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md",
+    "headings": [
+      {
+        "heading": "Input",
+        "level": 1
+      },
+      {
+        "heading": "Strategic - info mgt",
+        "level": 1
+      },
+      {
+        "heading": "Learner/Responsibility/Input/Intellection - nonfiction",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2022-08-28",
+        "link": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
+        "relativePath": "daily/2022-08-28.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pre-coaching form for Becca with add'l notes from me 1",
+    "relativePath": "4. Archive/Strengths/Strengths course/Pre-coaching form for Becca with add'l notes from me 1.md",
+    "headings": [
+      {
+        "heading": "Info management for fiction:",
+        "level": 1
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Nonfiction writing:",
+        "level": 1
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      },
+      {
+        "heading": "Finding writing advice focused on using strengths to write stronger, more enjoyable backstory/worldbuilding/exposition, as opposed to writing advice focused on keeping it as barebones as possible.",
+        "level": 1
+      },
+      {
+        "heading": "Maximizer",
+        "level": 2
+      },
+      {
+        "heading": "Futuristic",
+        "level": 2
+      },
+      {
+        "heading": "Connectedness",
+        "level": 2
+      },
+      {
+        "heading": "Individualization",
+        "level": 2
+      },
+      {
+        "heading": "Relator",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Coaching session with Becca Syme - 2022 09 08",
+    "relativePath": "4. Archive/Strengths/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "Intro",
+        "level": 1
+      },
+      {
+        "heading": "What I sent her",
+        "level": 2
+      },
+      {
+        "heading": "Notes from call",
+        "level": 2
+      },
+      {
+        "heading": "Info management for fiction:",
+        "level": 1
+      },
+      {
+        "heading": "Bekka notes",
+        "level": 2
+      },
+      {
+        "heading": "Nonfiction writing:",
+        "level": 1
+      },
+      {
+        "heading": "Becca notes",
+        "level": 2
+      },
+      {
+        "heading": "Exposition/backstory",
+        "level": 2
+      },
+      {
+        "heading": "lower less impact on work process - I asked her",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Pre-coaching form for Susan Bischoff",
+    "relativePath": "4. Archive/Strengths/Strengths course/Pre-coaching form for Susan Bischoff.md",
+    "headings": [
+      {
+        "heading": "**What is your writing background? (career, hobby, published, pre-published, etc. Number of current books, genre. Tell us anything you think we should know!)**",
+        "level": 1
+      },
+      {
+        "heading": "**What brought you into this class? What is your goal here?**",
+        "level": 1
+      },
+      {
+        "heading": "**What do you get paid to do (full-time/part-time) right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is your most significant accomplishment of the last 12 months? (could be in any arena of life)**",
+        "level": 1
+      },
+      {
+        "heading": "**What do you feel you do the best in your writing / platform right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is your biggest pain point in your writing / platform right now?**",
+        "level": 1
+      },
+      {
+        "heading": "**What are your hobbies or interests?**",
+        "level": 1
+      },
+      {
+        "heading": "**How would you describe yourself in three short phrases?**",
+        "level": 1
+      },
+      {
+        "heading": "**What is the most important challenge you currently face?**",
+        "level": 1
+      },
+      {
+        "heading": "**What do the next ten years hold in store for you?**",
+        "level": 1
+      },
+      {
+        "heading": "**To meet your expectations, what do you hope to address in coaching?**",
+        "level": 1
+      },
+      {
+        "heading": "**Any additional comments?**",
+        "level": 1
+      },
+      {
+        "heading": "leftover notes",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "my notes on top 6-10 strengths (strengths class)",
+    "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 6-10 strengths (strengths class).md",
+    "headings": [
+      {
+        "heading": "Maximizer",
+        "level": 1
+      },
+      {
+        "heading": "Futuristic",
+        "level": 1
+      },
+      {
+        "heading": "Connectedness",
+        "level": 1
+      },
+      {
+        "heading": "Individualization",
+        "level": 1
+      },
+      {
+        "heading": "Relator",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "my notes on top 5 strengths (strengths class)",
+    "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+    "headings": [
+      {
+        "heading": "Input:",
+        "level": 1
+      },
+      {
+        "heading": "Barriers related to getting input:",
+        "level": 2
+      },
+      {
+        "heading": "Barriers related to providing output",
+        "level": 2
+      },
+      {
+        "heading": "Strategic:",
+        "level": 1
+      },
+      {
+        "heading": "Barriers related to envisioning and executing strategy:",
+        "level": 2
+      },
+      {
+        "heading": "It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated",
+        "level": 2
+      },
+      {
+        "heading": "Needing to narrow scope:",
+        "level": 2
+      },
+      {
+        "heading": "Not in writing:",
+        "level": 2
+      },
+      {
+        "heading": "Barriers related to getting feedback on strategy:",
+        "level": 2
+      },
+      {
+        "heading": "Learner:",
+        "level": 1
+      },
+      {
+        "heading": "Intellection",
+        "level": 1
+      },
+      {
+        "heading": "Responsibility",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "#Barriers related to getting input:",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Barriers related to getting input:"
+      },
+      {
+        "link": "#Barriers related to providing output",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Barriers related to providing output"
+      },
+      {
+        "link": "#Barriers related to envisioning and executing strategy:",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Barriers related to envisioning and executing strategy:"
+      },
+      {
+        "link": "#It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated"
+      },
+      {
+        "link": "#Needing to narrow scope:",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Needing to narrow scope:"
+      },
+      {
+        "link": "#Not in writing:",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Not in writing:"
+      },
+      {
+        "link": "#Barriers related to getting feedback on strategy:",
+        "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
+        "cleanLink": "my notes on top 5 strengths (strengths class)",
+        "displayText": "Barriers related to getting feedback on strategy:"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2022-08-28",
+        "link": "my notes on top 5 strengths (strengths class)",
+        "relativePath": "daily/2022-08-28.md"
+      }
+    ]
+  },
+  {
     "fileName": "Thinking Strengths notes",
     "relativePath": "4. Archive/Strengths/Thinking Strengths notes.md"
   },
@@ -24539,856 +25450,6 @@
       {
         "heading": "Agenda for Sep meeting",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "8.3 What to do now",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/8.3 What to do now.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:10:59 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419631",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "What To Do Now - Development Plans and Communities - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "8.2 Parting Thoughts",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/8.2 Parting Thoughts.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:10:03 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419630",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Parting Thoughts - Development Plans and Communities - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "8.1 Creating Your Development Plan",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/8.1 Creating Your Development Plan.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:08:39 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419629",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Creating Your Development Plan - Development Plans and Communities - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "7.1 A Final Video from Becca",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/7.1 A Final Video from Becca.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:18:10 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419628",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "A Final Video from Becca - Final Video and Next Steps - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "5.3 The Quitcast Strengths episodes",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/5.3 The Quitcast Strengths episodes.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:07:18 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419625",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "The QuitCast Strengths Episodes - The Rest of Your Strengths - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "5.2 What to Do With Your Other Strengths",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/5.2 What to Do With Your Other Strengths.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:07:03 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419624",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "What To Do With Your Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "5.1 The Other Strengths",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/5.1 The Other Strengths.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:06:49 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419623",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "The Other Strengths - The Rest of Your Strengths - Strengths For Writers (August 2022)",
-        "level": 1
-      },
-      {
-        "heading": "Downloads",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "4.2 The First Week",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/4.2 The First Week.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:06:03 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419622",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "The First Week - Sign Up for First One-on-One - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "3.3 Application to your Writing",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/3.3 Application to your Writing.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:04:55 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419620",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Application to Your Writing - Your Top Five - Strengths For Writers (August 2022)",
-        "level": 1
-      },
-      {
-        "heading": "Application to Your Writing",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "3.2 Self-Directed Learning",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/3.2 Self-Directed Learning.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:04:41 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419619",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Self-Directed Learning - Your Top Five - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "3.1 Your Top Five",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/3.1 Your Top Five.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:04:29 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419618",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Your Top Five - Your Top Five - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "2.2 How to Utilize this information",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/2.2 How to Utilize this information.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:59 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419617",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "How To Utilize This Information - Class Framework - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "2.1 Class Framework",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/2.1 Class Framework.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:45 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419616",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Main Framework - Class Framework - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.9 Kick-off video with Becca",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.9 Kick-off video with Becca.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:29 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419615",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Kick-Off Video with Becca - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.8 Goal-setting from WBF",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.8 Goal-setting from WBF.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:03:02 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419614",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Goal-Setting from WBF - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.7 Reference guide",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.7 Reference guide.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:02:47 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419613",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Reference Guide - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.6 The Four Domains",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.6 The Four Domains.md",
-    "headings": [
-      {
-        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      },
-      {
-        "heading": "The Four Domains - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.4 Quick Word on what you Can and Can't Do with This Infomration",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.4 Quick Word on what you Can and Can't Do with This Infomration.md",
-    "headings": [
-      {
-        "heading": "Quick Word About What You Can and Can't Do With This Information - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      },
-      {
-        "heading": "Quick Word About What You Can and Can't Do With This Information",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "1.3 General information on the Strengthsfinder",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.3 General information on the Strengthsfinder.md",
-    "frontmatter": {
-      "created": "2022-09-12T17:01:04 (UTC -07:00)",
-      "source": "https://app.ruzuku.com/courses/84991/activities/2419609",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 131
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "General Information on the Strengthsfinder - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "1.1 Welcome lecture",
-    "relativePath": "4. Archive/Strengths course/Strengths course texts/1.1 Welcome lecture.md",
-    "headings": [
-      {
-        "heading": "Welcome Lecture - Welcome to Strengths for Writers - Strengths For Writers (August 2022)",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Strengths course bio and unused notes",
-    "relativePath": "4. Archive/Strengths course/Strengths course bio and unused notes.md"
-  },
-  {
-    "fileName": "Pre-coaching form for Becca",
-    "relativePath": "4. Archive/Strengths course/Pre-coaching form for Becca.md"
-  },
-  {
-    "fileName": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
-    "relativePath": "4. Archive/Strengths course/coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff.md",
-    "headings": [
-      {
-        "heading": "Input",
-        "level": 1
-      },
-      {
-        "heading": "Strategic - info mgt",
-        "level": 1
-      },
-      {
-        "heading": "Learner/Responsibility/Input/Intellection - nonfiction",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2022-08-28",
-        "link": "coaching call - 2022 08 28 - Strengths for Writers - Susan Bischoff",
-        "relativePath": "daily/2022-08-28.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Pre-coaching form for Becca with add'l notes from me 1",
-    "relativePath": "4. Archive/Strengths course/Pre-coaching form for Becca with add'l notes from me 1.md",
-    "headings": [
-      {
-        "heading": "Info management for fiction:",
-        "level": 1
-      },
-      {
-        "heading": "Maximizer",
-        "level": 2
-      },
-      {
-        "heading": "Futuristic",
-        "level": 2
-      },
-      {
-        "heading": "Connectedness",
-        "level": 2
-      },
-      {
-        "heading": "Individualization",
-        "level": 2
-      },
-      {
-        "heading": "Relator",
-        "level": 2
-      },
-      {
-        "heading": "Nonfiction writing:",
-        "level": 1
-      },
-      {
-        "heading": "Maximizer",
-        "level": 2
-      },
-      {
-        "heading": "Futuristic",
-        "level": 2
-      },
-      {
-        "heading": "Connectedness",
-        "level": 2
-      },
-      {
-        "heading": "Individualization",
-        "level": 2
-      },
-      {
-        "heading": "Relator",
-        "level": 2
-      },
-      {
-        "heading": "Finding writing advice focused on using strengths to write stronger, more enjoyable backstory/worldbuilding/exposition, as opposed to writing advice focused on keeping it as barebones as possible.",
-        "level": 1
-      },
-      {
-        "heading": "Maximizer",
-        "level": 2
-      },
-      {
-        "heading": "Futuristic",
-        "level": 2
-      },
-      {
-        "heading": "Connectedness",
-        "level": 2
-      },
-      {
-        "heading": "Individualization",
-        "level": 2
-      },
-      {
-        "heading": "Relator",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Coaching session with Becca Syme - 2022 09 08",
-    "relativePath": "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "Intro",
-        "level": 1
-      },
-      {
-        "heading": "What I sent her",
-        "level": 2
-      },
-      {
-        "heading": "Notes from call",
-        "level": 2
-      },
-      {
-        "heading": "Info management for fiction:",
-        "level": 1
-      },
-      {
-        "heading": "Bekka notes",
-        "level": 2
-      },
-      {
-        "heading": "Nonfiction writing:",
-        "level": 1
-      },
-      {
-        "heading": "Becca notes",
-        "level": 2
-      },
-      {
-        "heading": "Exposition/backstory",
-        "level": 2
-      },
-      {
-        "heading": "lower less impact on work process - I asked her",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Pre-coaching form for Susan Bischoff",
-    "relativePath": "4. Archive/Strengths course/Pre-coaching form for Susan Bischoff.md",
-    "headings": [
-      {
-        "heading": "**What is your writing background? (career, hobby, published, pre-published, etc. Number of current books, genre. Tell us anything you think we should know!)**",
-        "level": 1
-      },
-      {
-        "heading": "**What brought you into this class? What is your goal here?**",
-        "level": 1
-      },
-      {
-        "heading": "**What do you get paid to do (full-time/part-time) right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is your most significant accomplishment of the last 12 months? (could be in any arena of life)**",
-        "level": 1
-      },
-      {
-        "heading": "**What do you feel you do the best in your writing / platform right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is your biggest pain point in your writing / platform right now?**",
-        "level": 1
-      },
-      {
-        "heading": "**What are your hobbies or interests?**",
-        "level": 1
-      },
-      {
-        "heading": "**How would you describe yourself in three short phrases?**",
-        "level": 1
-      },
-      {
-        "heading": "**What is the most important challenge you currently face?**",
-        "level": 1
-      },
-      {
-        "heading": "**What do the next ten years hold in store for you?**",
-        "level": 1
-      },
-      {
-        "heading": "**To meet your expectations, what do you hope to address in coaching?**",
-        "level": 1
-      },
-      {
-        "heading": "**Any additional comments?**",
-        "level": 1
-      },
-      {
-        "heading": "leftover notes",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "my notes on top 6-10 strengths (strengths class)",
-    "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 6-10 strengths (strengths class).md",
-    "headings": [
-      {
-        "heading": "Maximizer",
-        "level": 1
-      },
-      {
-        "heading": "Futuristic",
-        "level": 1
-      },
-      {
-        "heading": "Connectedness",
-        "level": 1
-      },
-      {
-        "heading": "Individualization",
-        "level": 1
-      },
-      {
-        "heading": "Relator",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "my notes on top 5 strengths (strengths class)",
-    "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-    "headings": [
-      {
-        "heading": "Input:",
-        "level": 1
-      },
-      {
-        "heading": "Barriers related to getting input:",
-        "level": 2
-      },
-      {
-        "heading": "Barriers related to providing output",
-        "level": 2
-      },
-      {
-        "heading": "Strategic:",
-        "level": 1
-      },
-      {
-        "heading": "Barriers related to envisioning and executing strategy:",
-        "level": 2
-      },
-      {
-        "heading": "It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated",
-        "level": 2
-      },
-      {
-        "heading": "Needing to narrow scope:",
-        "level": 2
-      },
-      {
-        "heading": "Not in writing:",
-        "level": 2
-      },
-      {
-        "heading": "Barriers related to getting feedback on strategy:",
-        "level": 2
-      },
-      {
-        "heading": "Learner:",
-        "level": 1
-      },
-      {
-        "heading": "Intellection",
-        "level": 1
-      },
-      {
-        "heading": "Responsibility",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "#Barriers related to getting input:",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Barriers related to getting input:"
-      },
-      {
-        "link": "#Barriers related to providing output",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Barriers related to providing output"
-      },
-      {
-        "link": "#Barriers related to envisioning and executing strategy:",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Barriers related to envisioning and executing strategy:"
-      },
-      {
-        "link": "#It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "It gets too fucking complicated because I like thinking about things to much and I can't hold all the relevant bits in my head. Vision and memory issues also lead to things becoming overcomplicated"
-      },
-      {
-        "link": "#Needing to narrow scope:",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Needing to narrow scope:"
-      },
-      {
-        "link": "#Not in writing:",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Not in writing:"
-      },
-      {
-        "link": "#Barriers related to getting feedback on strategy:",
-        "relativePath": "4. Archive/Strengths course/Coaching notes/my notes on top 5 strengths (strengths class).md",
-        "cleanLink": "my notes on top 5 strengths (strengths class)",
-        "displayText": "Barriers related to getting feedback on strategy:"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2022-08-28",
-        "link": "my notes on top 5 strengths (strengths class)",
-        "relativePath": "daily/2022-08-28.md"
       }
     ]
   },
@@ -26074,6 +26135,487 @@
   {
     "fileName": "Mastodon",
     "relativePath": "3. Resources/Mastodon.md"
+  },
+  {
+    "fileName": "Syllabus Journ X477",
+    "relativePath": "3. Resources/x477 Indexing course/0. Introductory material/Syllabus Journ X477.md",
+    "headings": [
+      {
+        "heading": "Indexing: Theory and Application, X477",
+        "level": 1
+      },
+      {
+        "heading": "Course Description",
+        "level": 2
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 2
+      },
+      {
+        "heading": "Learning Outcomes",
+        "level": 2
+      },
+      {
+        "heading": "Course Materials and Technical Requirements",
+        "level": 2
+      },
+      {
+        "heading": "Required Materials",
+        "level": 3
+      },
+      {
+        "heading": "Technical Requirements",
+        "level": 3
+      },
+      {
+        "heading": "LMS Technical Requirements",
+        "level": 4
+      },
+      {
+        "heading": "Optional",
+        "level": 4
+      },
+      {
+        "heading": "Learning Activities",
+        "level": 2
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 3
+      },
+      {
+        "heading": "Indexing Exercises",
+        "level": 3
+      },
+      {
+        "heading": "Indexing Projects",
+        "level": 3
+      },
+      {
+        "heading": "Online Research Exercises",
+        "level": 3
+      },
+      {
+        "heading": "Discussions",
+        "level": 3
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Questions and Answers Discussion Forum",
+        "level": 4
+      },
+      {
+        "heading": "Communication and Office Hours",
+        "level": 2
+      },
+      {
+        "heading": "Office Hours Live Chat",
+        "level": 3
+      },
+      {
+        "heading": "Grading and Course Policies",
+        "level": 2
+      },
+      {
+        "heading": "Grading Information",
+        "level": 3
+      },
+      {
+        "heading": "DSP Accommodations",
+        "level": 3
+      },
+      {
+        "heading": "Academic Integrity, Research, and Proper Citation",
+        "level": 2
+      },
+      {
+        "heading": "Managing Your Time in the Course",
+        "level": 2
+      },
+      {
+        "heading": "Tips for Success",
+        "level": 3
+      },
+      {
+        "heading": "Course Evaluation and Course End Date",
+        "level": 2
+      },
+      {
+        "heading": "Course Evaluation",
+        "level": 3
+      },
+      {
+        "heading": "You are an important part of our community and we value your opinion! Before your course End Date, please take a few minutes to fill out a survey about your experience in this course so that we can continue to improve the online learning environment. Your instructor also values your constructive feedback. Course Evaluations are a valuable way for instructors to gain insight on their online teaching practices.",
+        "level": 3
+      },
+      {
+        "heading": "You can find a link to the Course Evaluation in the final module of your Course. Please note that your identity remains confidential during the evaluation process, and evaluation results aren't shared with instructors until after final grades are due. For questions or technical problems with the evaluation process, please email UC Berkeley Extension’s Center for Instructional Excellence at teach-extension@berkeley.edu.",
+        "level": 3
+      },
+      {
+        "heading": "Thank you in advance for sharing your thoughts with us!",
+        "level": 3
+      },
+      {
+        "heading": "Course End Date",
+        "level": 3
+      },
+      {
+        "heading": "Canvas Tech Support and UC Berkeley Extension Student Services",
+        "level": 2
+      },
+      {
+        "heading": "Canvas Tech Support",
+        "level": 3
+      },
+      {
+        "heading": "UC Berkeley Extension FAQs and Student Services",
+        "level": 3
+      },
+      {
+        "heading": "Course Outline",
+        "level": 2
+      },
+      {
+        "heading": "Module 1: Introduction",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks/Reader",
+        "level": 5
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Module 2: Creating a Basic Index",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks",
+        "level": 5
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Indexing Exercise 1",
+        "level": 4
+      },
+      {
+        "heading": "Module 3: Term Selection",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Exercise 2",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 4: Indexing Specifications",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Exercise 3",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 5: Writing a Full-Length Index",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Project 1",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 6: The Business of Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbooks",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Exercise 4",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 7: Developing Your Own Process and Style",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbook",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Project 2",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 8: Putting It All Together",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbook",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Project 3",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Module 9: Embedded Indexing: Indexing a Website",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbook",
+        "level": 5
+      },
+      {
+        "heading": "Indexing Exercise 5",
+        "level": 4
+      },
+      {
+        "heading": "Online Research",
+        "level": 4
+      },
+      {
+        "heading": "Module 10: Controlled Vocabularies and Database Indexing",
+        "level": 3
+      },
+      {
+        "heading": "Reading Assignments",
+        "level": 4
+      },
+      {
+        "heading": "Commentary",
+        "level": 5
+      },
+      {
+        "heading": "Textbook",
+        "level": 5
+      },
+      {
+        "heading": "Exercise 6: Creating a Thesaurus",
+        "level": 4
+      },
+      {
+        "heading": "Discussion Assignments",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Office hours info",
+    "relativePath": "3. Resources/x477 Indexing course/0. Introductory material/Office hours info.md"
+  },
+  {
+    "fileName": "Mulvany reading guide",
+    "relativePath": "3. Resources/x477 Indexing course/0. Introductory material/Mulvany reading guide.md",
+    "headings": [
+      {
+        "heading": "DocViewer",
+        "level": 1
+      },
+      {
+        "heading": "Pages",
+        "level": 2
+      },
+      {
+        "heading": "1",
+        "level": 1
+      },
+      {
+        "heading": "2",
+        "level": 1
+      },
+      {
+        "heading": "3",
+        "level": 1
+      },
+      {
+        "heading": "4",
+        "level": 1
+      },
+      {
+        "heading": "5",
+        "level": 1
+      },
+      {
+        "heading": "6",
+        "level": 1
+      },
+      {
+        "heading": "7",
+        "level": 1
+      },
+      {
+        "heading": "8",
+        "level": 1
+      },
+      {
+        "heading": "9",
+        "level": 1
+      },
+      {
+        "heading": "Annotations",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Kendra's welcome email - syllabus",
+    "relativePath": "3. Resources/x477 Indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
+    "tags": [
+      "task"
+    ],
+    "headings": [
+      {
+        "heading": "welcome!",
+        "level": 4
+      }
+    ]
   },
   {
     "fileName": "mine",
@@ -29192,9 +29734,9 @@
         "relativePath": "3. Resources/x477 Indexing course/Module 2/2.4 Identifying Subheadings and Sub-subheadings.md"
       },
       {
-        "fileName": "Indexing resources to read and review",
+        "fileName": "Indexing resources for ongoing self-training",
         "link": "Successful Subheadings by Fred Leise",
-        "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md"
+        "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources for ongoing self-training.md"
       }
     ]
   },
@@ -37733,10 +38275,6 @@
     "relativePath": "0. Inbox/00-scratchpad-note.md"
   },
   {
-    "fileName": "Thanksgiving planning",
-    "relativePath": "1. Projects/Thanksgiving planning.md"
-  },
-  {
     "fileName": "TIC chapter 4 exercises",
     "relativePath": "1. Projects/p - indexers book group/TIC chapter 4 exercises.md",
     "headings": [
@@ -37750,6 +38288,22 @@
       },
       {
         "heading": "B.",
+        "level": 1
+      },
+      {
+        "heading": "4.2",
+        "level": 1
+      },
+      {
+        "heading": "4.8",
+        "level": 1
+      },
+      {
+        "heading": "4.11`",
+        "level": 1
+      },
+      {
+        "heading": "4.13",
         "level": 1
       }
     ]
@@ -37773,18 +38327,6 @@
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "Berkeley vacation plans",
-    "relativePath": "1. Projects/p - plan Berkeley vacation/Berkeley vacation plans.md"
-  },
-  {
-    "fileName": "San Jose map",
-    "relativePath": "1. Projects/p - plan Berkeley vacation/San Jose map.md"
-  },
-  {
-    "fileName": "Berkeley vacation highlighted map",
-    "relativePath": "1. Projects/p - plan Berkeley vacation/Berkeley vacation highlighted map.md"
   },
   {
     "fileName": "Raised beds",
@@ -38240,6 +38782,332 @@
     ]
   },
   {
+    "fileName": "Margie techniques checklist",
+    "relativePath": "1. Projects/w - learn literary techniques/Margie techniques checklist.md",
+    "headings": [
+      {
+        "heading": "1. Alliteration",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "2. Allusion",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "3. Anadiplosis",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "4. Anaphora",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "5. Assonance",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "6. Asyndeton",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "7. Conduplicatio",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Example:",
+        "level": 2
+      },
+      {
+        "heading": "8. Epistrophe",
+        "level": 1
+      },
+      {
+        "heading": "Definition:",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples:",
+        "level": 2
+      },
+      {
+        "heading": "9. Epizeuxis",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "10. Eponym",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Example",
+        "level": 2
+      },
+      {
+        "heading": "11. Hyperbole",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "12. Metaphor",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "13. Onomatopoeia",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "14. Oxymoron",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "15. Personification",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "16. Polysyndeton",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "17. Simile",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "18. Structural Parallelism",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "19. Symploce",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      },
+      {
+        "heading": "20. Zeugma",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Use:",
+        "level": 2
+      },
+      {
+        "heading": "Examples",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Id list",
     "relativePath": "1. Projects/w - learn literary techniques/Id list.md"
   },
@@ -38594,16 +39462,8 @@
     "relativePath": "1. Projects/w - learn literary techniques/20-point opening checklist 1.md"
   },
   {
-    "fileName": "Hyacinth - character summary",
-    "relativePath": "1. Projects/w - kraken/Hyacinth - character summary.md"
-  },
-  {
-    "fileName": "Novel revision process",
-    "relativePath": "1. Projects/w - kraken/Novel revision process.md"
-  },
-  {
-    "fileName": "Kraken revision notes Sep 2022",
-    "relativePath": "1. Projects/w - kraken/Kraken revision notes Sep 2022.md",
+    "fileName": "0 Kraken revision notes - for cleanup",
+    "relativePath": "1. Projects/w - kraken/0 Kraken revision notes - for cleanup.md",
     "headings": [
       {
         "heading": "Plot threads",
@@ -38692,398 +39552,68 @@
     ]
   },
   {
-    "fileName": "Margie techniques checklist",
-    "relativePath": "1. Projects/w - kraken/Margie techniques checklist.md",
+    "fileName": "9 Summerstart",
+    "relativePath": "1. Projects/w - kraken/9 Summerstart.md"
+  },
+  {
+    "fileName": "6 Favors",
+    "relativePath": "1. Projects/w - kraken/6 Favors.md"
+  },
+  {
+    "fileName": "8 Basement history",
+    "relativePath": "1. Projects/w - kraken/8 Basement history.md"
+  },
+  {
+    "fileName": "7 The various Courts",
+    "relativePath": "1. Projects/w - kraken/7 The various Courts.md"
+  },
+  {
+    "fileName": "5 Basement rooms, furnishings, and animals",
+    "relativePath": "1. Projects/w - kraken/5 Basement rooms, furnishings, and animals.md",
     "headings": [
       {
-        "heading": "1. Alliteration",
+        "heading": "Stuff I have forgotten to put in the basements:",
         "level": 1
       },
       {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "2. Allusion",
+        "heading": "Types of rooms",
         "level": 1
       },
       {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "3. Anadiplosis",
+        "heading": "Furnishings and materials",
         "level": 1
       },
       {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "4. Anaphora",
+        "heading": "ANimals",
         "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "5. Assonance",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "6. Asyndeton",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "7. Conduplicatio",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Example:",
-        "level": 2
-      },
-      {
-        "heading": "8. Epistrophe",
-        "level": 1
-      },
-      {
-        "heading": "Definition:",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples:",
-        "level": 2
-      },
-      {
-        "heading": "9. Epizeuxis",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "10. Eponym",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Example",
-        "level": 2
-      },
-      {
-        "heading": "11. Hyperbole",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "12. Metaphor",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "13. Onomatopoeia",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "14. Oxymoron",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "15. Personification",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "16. Polysyndeton",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "17. Simile",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "18. Structural Parallelism",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "19. Symploce",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
-      },
-      {
-        "heading": "20. Zeugma",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Use:",
-        "level": 2
-      },
-      {
-        "heading": "Examples",
-        "level": 2
       }
     ]
   },
   {
-    "fileName": "5 Favors",
-    "relativePath": "1. Projects/w - kraken/5 Favors.md"
+    "fileName": "3 Faerie appearances",
+    "relativePath": "1. Projects/w - kraken/3 Faerie appearances.md"
   },
   {
-    "fileName": "06 Basement furnishings and materials",
-    "relativePath": "1. Projects/w - kraken/06 Basement furnishings and materials.md"
+    "fileName": "2 Costumes",
+    "relativePath": "1. Projects/w - kraken/2 Costumes.md"
   },
   {
-    "fileName": "Cut bits",
-    "relativePath": "1. Projects/w - kraken/Cut bits.md"
-  },
-  {
-    "fileName": "6 Settings and appearances",
-    "relativePath": "1. Projects/w - kraken/6 Settings and appearances.md"
+    "fileName": "Hyacinth - character summary",
+    "relativePath": "1. Projects/w - kraken/Hyacinth - character summary.md"
   },
   {
     "fileName": "4 Characters' viscerals",
     "relativePath": "1. Projects/w - kraken/4 Characters' viscerals.md"
   },
   {
-    "fileName": "2 Expressionbody language worksheet (original)",
-    "relativePath": "1. Projects/w - kraken/2 Expressionbody language worksheet (original).md"
-  },
-  {
-    "fileName": "3 Emotional headspace worksheet",
-    "relativePath": "1. Projects/w - kraken/3 Emotional headspace worksheet.md"
-  },
-  {
-    "fileName": "02 Costumes",
-    "relativePath": "1. Projects/w - kraken/02 Costumes.md"
-  },
-  {
-    "fileName": "10 Summerstart",
-    "relativePath": "1. Projects/w - kraken/10 Summerstart.md"
-  },
-  {
     "fileName": "1 Cut texts",
-    "relativePath": "1. Projects/w - kraken/1 Cut texts.md"
-  },
-  {
-    "fileName": "09 Basement history",
-    "relativePath": "1. Projects/w - kraken/09 Basement history.md"
-  },
-  {
-    "fileName": "08 Basement animals",
-    "relativePath": "1. Projects/w - kraken/08 Basement animals.md"
-  },
-  {
-    "fileName": "07 Stuff I need to add to the basements",
-    "relativePath": "1. Projects/w - kraken/07 Stuff I need to add to the basements.md"
-  },
-  {
-    "fileName": "05 Basement rooms and fixtures",
-    "relativePath": "1. Projects/w - kraken/05 Basement rooms and fixtures.md"
-  },
-  {
-    "fileName": "04 The various Courts",
-    "relativePath": "1. Projects/w - kraken/04 The various Courts.md"
-  },
-  {
-    "fileName": "03 Faerie appearances",
-    "relativePath": "1. Projects/w - kraken/03 Faerie appearances.md"
-  },
-  {
-    "fileName": "01 Checklist",
-    "relativePath": "1. Projects/w - kraken/01 Checklist.md"
+    "relativePath": "1. Projects/w - kraken/1 Cut texts.md",
+    "headings": [
+      {
+        "heading": "Check-in book faerie",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Steps to transfer pnwasi listserv",
@@ -39096,26 +39626,24 @@
     ]
   },
   {
-    "fileName": "Macrex Win 11 update (Dwight)",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Macrex Win 11 update (Dwight).md"
-  },
-  {
-    "fileName": "Macrex shortcut list",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md",
+    "fileName": "0 Index edit checklist",
+    "relativePath": "1. Projects/i - develop and document indexing processes/0 Index edit checklist.md",
     "headings": [
       {
-        "heading": "To learn about Macrex:",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Index edit checklist",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Index edit checklist.md",
-    "headings": [
+        "heading": "Setting up macro for replacing in search results",
+        "level": 5
+      },
+      {
+        "heading": "While Indexing",
+        "level": 3
+      },
       {
         "heading": "1. Check publisher's stylesheet and set up index",
         "level": 3
+      },
+      {
+        "heading": "Talking with publisher",
+        "level": 1
       },
       {
         "heading": "2. Start indexing",
@@ -39152,22 +39680,46 @@
       {
         "heading": "3. Editing",
         "level": 3
+      },
+      {
+        "heading": "Final editing",
+        "level": 3
+      },
+      {
+        "heading": "Final checklist",
+        "level": 3
+      },
+      {
+        "heading": "CMOS Index Editing Checklist",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "0 Indexing project 3 notes - Green",
+        "link": "0 Index edit checklist",
+        "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Indexing project 3 notes - Green.md"
       }
     ]
   },
   {
-    "fileName": "Indexing resources to read and review",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md",
-    "tags": [
-      "task"
-    ],
+    "fileName": "Indexing resources for ongoing self-training",
+    "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources for ongoing self-training.md",
     "headings": [
+      {
+        "heading": "Basic indexing resources",
+        "level": 1
+      },
       {
         "heading": "The Indexer",
         "level": 1
       },
       {
-        "heading": "To review",
+        "heading": "Articles",
+        "level": 1
+      },
+      {
+        "heading": "Embedded indexing and digital publications",
         "level": 1
       }
     ],
@@ -39175,12 +39727,70 @@
       {
         "link": "Successful Subheadings by Fred Leise",
         "relativePath": "3. Resources/x477 Indexing course/Module 2/Successful Subheadings by Fred Leise.md"
+      },
+      {
+        "link": "9.9 Embedded Indexing with IndexManager",
+        "relativePath": "1. Projects/i - x477 indexing course/Module 9/9.9 Embedded Indexing with IndexManager.md"
+      },
+      {
+        "link": "9.7 Embedded Indexing with DEXEmbed and WordEmbed",
+        "relativePath": "1. Projects/i - x477 indexing course/Module 9/9.7 Embedded Indexing with DEXEmbed and WordEmbed.md"
       }
     ]
   },
   {
-    "fileName": "Macrex replace in search results",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Macrex replace in search results.md"
+    "fileName": "Chet Chat excerpts to add to",
+    "relativePath": "1. Projects/i - develop and document indexing processes/Chet Chat excerpts to add to.md",
+    "headings": [
+      {
+        "heading": "Programmable mice",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Berkeley office hours excerpts to add to",
+    "relativePath": "1. Projects/i - develop and document indexing processes/Berkeley office hours excerpts to add to.md",
+    "headings": [
+      {
+        "heading": "2021",
+        "level": 1
+      },
+      {
+        "heading": "4-8-2021:",
+        "level": 2
+      },
+      {
+        "heading": "8-12-2021",
+        "level": 2
+      },
+      {
+        "heading": "10-28-2021",
+        "level": 2
+      },
+      {
+        "heading": "2021-01-21",
+        "level": 2
+      },
+      {
+        "heading": "start with 2021-02-25.rtf",
+        "level": 1
+      },
+      {
+        "heading": "2022",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Macrex shortcut list",
+    "relativePath": "1. Projects/i - develop and document indexing processes/Macrex shortcut list.md",
+    "headings": [
+      {
+        "heading": "To learn about Macrex:",
+        "level": 1
+      }
+    ]
   },
   {
     "fileName": "Macrex macros plan",
@@ -39205,252 +39815,6 @@
       {
         "heading": "Task-related tags",
         "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Getting back into the index (advice)",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md",
-    "tags": [
-      "s"
-    ],
-    "headings": [
-      {
-        "heading": "Elena Gwynne",
-        "level": 4
-      },
-      {
-        "heading": "Amber DeDerick",
-        "level": 4
-      },
-      {
-        "heading": "Do Mi Stauber",
-        "level": 4
-      },
-      {
-        "heading": "Matthew MacLellan",
-        "level": 4
-      },
-      {
-        "heading": "Cynthia",
-        "level": 4
-      },
-      {
-        "heading": "Note on Cindex",
-        "level": 4
-      },
-      {
-        "heading": "Charles Newman",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Editing and proofreading indexes",
-    "relativePath": "1. Projects/i - develop and document indexing processes/Editing and proofreading indexes.md",
-    "headings": [
-      {
-        "heading": "Talking with publisher",
-        "level": 1
-      },
-      {
-        "heading": "Before You Begin",
-        "level": 3
-      },
-      {
-        "heading": "While Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Main Heading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Subheading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Cross-Reference Issues",
-        "level": 4
-      },
-      {
-        "heading": "Double-Posting Issues",
-        "level": 4
-      },
-      {
-        "heading": "General Editorial Issues to Keep an Eye On as You Go",
-        "level": 4
-      },
-      {
-        "heading": "Final editing",
-        "level": 3
-      },
-      {
-        "heading": "Final checklist",
-        "level": 3
-      },
-      {
-        "heading": "CMOS Index Editing Checklist",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "9.9 Embedded Indexing with IndexManager 1",
-    "relativePath": "1. Projects/i - develop and document indexing processes/9.9 Embedded Indexing with IndexManager 1.md",
-    "frontmatter": {
-      "created": "2022-09-30T14:39:44 (UTC -07:00)",
-      "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/9-dot-9-embedded-indexing-with-index-manager",
-      "author": null,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 178
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "9.9 Embedded Indexing with Index-Manager: JOURNX477-032 Indexing: Theory and Application",
-        "level": 1
-      },
-      {
-        "heading": "9.9 Embedded Indexing with Index-Manager",
-        "level": 2
-      },
-      {
-        "heading": "Index-Manager Tutorial",
-        "level": 2
-      },
-      {
-        "heading": "**Requirements for this tutorial**",
-        "level": 3
-      },
-      {
-        "heading": "**Back up your files**",
-        "level": 3
-      },
-      {
-        "heading": "**A quick note about files**",
-        "level": 3
-      },
-      {
-        "heading": "**Install Index-Manager**",
-        "level": 3
-      },
-      {
-        "heading": "**Open Index-Manager**",
-        "level": 3
-      },
-      {
-        "heading": "**Licensing information**",
-        "level": 3
-      },
-      {
-        "heading": "**Index-Manager’s opening screen**",
-        "level": 3
-      },
-      {
-        "heading": "**Creating a project**",
-        "level": 3
-      },
-      {
-        "heading": "**Exploring the interface window**",
-        "level": 3
-      },
-      {
-        "heading": "**Reviewing the Word file’s text in the interface**",
-        "level": 3
-      },
-      {
-        "heading": "**Arranging the parts of your interface window**",
-        "level": 3
-      },
-      {
-        "heading": "**Index panel display**",
-        "level": 3
-      },
-      {
-        "heading": "**Examining existing entries**",
-        "level": 3
-      },
-      {
-        "heading": "**Making new entries**",
-        "level": 3
-      },
-      {
-        "heading": "**Forcing the sort**",
-        "level": 3
-      },
-      {
-        "heading": "**More about creating entries**",
-        "level": 3
-      },
-      {
-        "heading": "**Deleting entries**",
-        "level": 3
-      },
-      {
-        "heading": "**Cross references**",
-        "level": 3
-      },
-      {
-        "heading": "**Page ranging**",
-        "level": 3
-      },
-      {
-        "heading": "**Exporting the index**",
-        "level": 3
-      },
-      {
-        "heading": "**Close Index-Manager**",
-        "level": 3
-      },
-      {
-        "heading": "**Finding all the files that Index-Manager has created**",
-        "level": 3
-      },
-      {
-        "heading": "**Checking the index in Word**",
-        "level": 3
-      },
-      {
-        "heading": "**Revising the index**",
-        "level": 3
-      },
-      {
-        "heading": "**Loading the Right Click Menu**",
-        "level": 3
-      },
-      {
-        "heading": "**The Word List panel**",
-        "level": 3
-      },
-      {
-        "heading": "**Depth of indexing**",
-        "level": 3
-      },
-      {
-        "heading": "**Re-export the index**",
-        "level": 3
-      },
-      {
-        "heading": "**Close Index-Manager**",
-        "level": 3
-      },
-      {
-        "heading": "**Checking the final index**",
-        "level": 3
-      },
-      {
-        "heading": "**Explore further**",
-        "level": 3
       }
     ]
   },
@@ -39698,6 +40062,13 @@
         "heading": "**Explore further**",
         "level": 3
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Indexing resources for ongoing self-training",
+        "link": "9.9 Embedded Indexing with IndexManager",
+        "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources for ongoing self-training.md"
+      }
     ]
   },
   {
@@ -39780,6 +40151,13 @@
       {
         "heading": "Real World Clients",
         "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Indexing resources for ongoing self-training",
+        "link": "9.7 Embedded Indexing with DEXEmbed and WordEmbed",
+        "relativePath": "1. Projects/i - develop and document indexing processes/Indexing resources for ongoing self-training.md"
       }
     ]
   },
@@ -40418,8 +40796,8 @@
     ]
   },
   {
-    "fileName": "Module 8 Discussion",
-    "relativePath": "1. Projects/i - x477 indexing course/Module 8/Module 8 Discussion.md",
+    "fileName": "0 Module 8 Discussion",
+    "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Module 8 Discussion.md",
     "headings": [
       {
         "heading": "Module 8 Discussion: Project 3 - Challenges of the 3rd Index Assignment",
@@ -40428,12 +40806,12 @@
     ]
   },
   {
-    "fileName": "Replies on Green",
-    "relativePath": "1. Projects/i - x477 indexing course/Module 8/Replies on Green.md"
+    "fileName": "0 Replies on Green",
+    "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Replies on Green.md"
   },
   {
-    "fileName": "Pruning the lengthy index",
-    "relativePath": "1. Projects/i - x477 indexing course/Module 8/Pruning the lengthy index.md",
+    "fileName": "0 Pruning the lengthy index",
+    "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Pruning the lengthy index.md",
     "frontmatter": {
       "created": "2022-10-19T14:16:45 (UTC -07:00)",
       "source": "https://onlinelearning.berkeley.edu/courses/1939224/pages/pruning-the-lengthy-index",
@@ -40463,66 +40841,36 @@
     ]
   },
   {
-    "fileName": "Indexing project 3 notes - Green",
-    "relativePath": "1. Projects/i - x477 indexing course/Module 8/Indexing project 3 notes - Green.md",
+    "fileName": "0 Indexing project 3 notes - Green",
+    "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Indexing project 3 notes - Green.md",
     "headings": [
+      {
+        "heading": "Formatting",
+        "level": 1
+      },
       {
         "heading": "For me to check",
         "level": 1
       },
       {
-        "heading": "Groups of related concepts to clean up",
-        "level": 1
-      },
-      {
-        "heading": "Stuff to consider capturing",
+        "heading": "Formatting to confirm",
         "level": 1
       },
       {
         "heading": "1. Check publisher's stylesheet and set up index",
         "level": 3
-      },
+      }
+    ],
+    "links": [
       {
-        "heading": "2. Start indexing",
-        "level": 3
-      },
-      {
-        "heading": "While You're Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Main Heading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Subheading Issues",
-        "level": 4
-      },
-      {
-        "heading": "Cross-Reference Issues",
-        "level": 4
-      },
-      {
-        "heading": "Double-Posting Issues",
-        "level": 4
-      },
-      {
-        "heading": "General Editorial Issues to Keep an Eye On as You Go",
-        "level": 4
-      },
-      {
-        "heading": "When You've Completed the Index Structure",
-        "level": 3
-      },
-      {
-        "heading": "3. Editing",
-        "level": 3
+        "link": "0 Index edit checklist",
+        "relativePath": "1. Projects/i - develop and document indexing processes/0 Index edit checklist.md"
       }
     ]
   },
   {
-    "fileName": "Green outllne",
-    "relativePath": "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
+    "fileName": "0 Green outllne",
+    "relativePath": "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md",
     "headings": [
       {
         "heading": "Calculations",
@@ -41082,537 +41430,8 @@
     ]
   },
   {
-    "fileName": "Syllabus Journ X477",
-    "relativePath": "1. Projects/i - x477 indexing course/0. Introductory material/Syllabus Journ X477.md",
-    "headings": [
-      {
-        "heading": "Indexing: Theory and Application, X477",
-        "level": 1
-      },
-      {
-        "heading": "Course Description",
-        "level": 2
-      },
-      {
-        "heading": "Prerequisites",
-        "level": 2
-      },
-      {
-        "heading": "Learning Outcomes",
-        "level": 2
-      },
-      {
-        "heading": "Course Materials and Technical Requirements",
-        "level": 2
-      },
-      {
-        "heading": "Required Materials",
-        "level": 3
-      },
-      {
-        "heading": "Technical Requirements",
-        "level": 3
-      },
-      {
-        "heading": "LMS Technical Requirements",
-        "level": 4
-      },
-      {
-        "heading": "Optional",
-        "level": 4
-      },
-      {
-        "heading": "Learning Activities",
-        "level": 2
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 3
-      },
-      {
-        "heading": "Indexing Exercises",
-        "level": 3
-      },
-      {
-        "heading": "Indexing Projects",
-        "level": 3
-      },
-      {
-        "heading": "Online Research Exercises",
-        "level": 3
-      },
-      {
-        "heading": "Discussions",
-        "level": 3
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Questions and Answers Discussion Forum",
-        "level": 4
-      },
-      {
-        "heading": "Communication and Office Hours",
-        "level": 2
-      },
-      {
-        "heading": "Office Hours Live Chat",
-        "level": 3
-      },
-      {
-        "heading": "Grading and Course Policies",
-        "level": 2
-      },
-      {
-        "heading": "Grading Information",
-        "level": 3
-      },
-      {
-        "heading": "DSP Accommodations",
-        "level": 3
-      },
-      {
-        "heading": "Academic Integrity, Research, and Proper Citation",
-        "level": 2
-      },
-      {
-        "heading": "Managing Your Time in the Course",
-        "level": 2
-      },
-      {
-        "heading": "Tips for Success",
-        "level": 3
-      },
-      {
-        "heading": "Course Evaluation and Course End Date",
-        "level": 2
-      },
-      {
-        "heading": "Course Evaluation",
-        "level": 3
-      },
-      {
-        "heading": "You are an important part of our community and we value your opinion! Before your course End Date, please take a few minutes to fill out a survey about your experience in this course so that we can continue to improve the online learning environment. Your instructor also values your constructive feedback. Course Evaluations are a valuable way for instructors to gain insight on their online teaching practices.",
-        "level": 3
-      },
-      {
-        "heading": "You can find a link to the Course Evaluation in the final module of your Course. Please note that your identity remains confidential during the evaluation process, and evaluation results aren't shared with instructors until after final grades are due. For questions or technical problems with the evaluation process, please email UC Berkeley Extension’s Center for Instructional Excellence at teach-extension@berkeley.edu.",
-        "level": 3
-      },
-      {
-        "heading": "Thank you in advance for sharing your thoughts with us!",
-        "level": 3
-      },
-      {
-        "heading": "Course End Date",
-        "level": 3
-      },
-      {
-        "heading": "Canvas Tech Support and UC Berkeley Extension Student Services",
-        "level": 2
-      },
-      {
-        "heading": "Canvas Tech Support",
-        "level": 3
-      },
-      {
-        "heading": "UC Berkeley Extension FAQs and Student Services",
-        "level": 3
-      },
-      {
-        "heading": "Course Outline",
-        "level": 2
-      },
-      {
-        "heading": "Module 1: Introduction",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks/Reader",
-        "level": 5
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Module 2: Creating a Basic Index",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks",
-        "level": 5
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Indexing Exercise 1",
-        "level": 4
-      },
-      {
-        "heading": "Module 3: Term Selection",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Exercise 2",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 4: Indexing Specifications",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Exercise 3",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 5: Writing a Full-Length Index",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Project 1",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 6: The Business of Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbooks",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Exercise 4",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 7: Developing Your Own Process and Style",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbook",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Project 2",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 8: Putting It All Together",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbook",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Project 3",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Module 9: Embedded Indexing: Indexing a Website",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbook",
-        "level": 5
-      },
-      {
-        "heading": "Indexing Exercise 5",
-        "level": 4
-      },
-      {
-        "heading": "Online Research",
-        "level": 4
-      },
-      {
-        "heading": "Module 10: Controlled Vocabularies and Database Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Reading Assignments",
-        "level": 4
-      },
-      {
-        "heading": "Commentary",
-        "level": 5
-      },
-      {
-        "heading": "Textbook",
-        "level": 5
-      },
-      {
-        "heading": "Exercise 6: Creating a Thesaurus",
-        "level": 4
-      },
-      {
-        "heading": "Discussion Assignments",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Office hours info",
-    "relativePath": "1. Projects/i - x477 indexing course/0. Introductory material/Office hours info.md"
-  },
-  {
-    "fileName": "Mulvany reading guide",
-    "relativePath": "1. Projects/i - x477 indexing course/0. Introductory material/Mulvany reading guide.md",
-    "headings": [
-      {
-        "heading": "DocViewer",
-        "level": 1
-      },
-      {
-        "heading": "Pages",
-        "level": 2
-      },
-      {
-        "heading": "1",
-        "level": 1
-      },
-      {
-        "heading": "2",
-        "level": 1
-      },
-      {
-        "heading": "3",
-        "level": 1
-      },
-      {
-        "heading": "4",
-        "level": 1
-      },
-      {
-        "heading": "5",
-        "level": 1
-      },
-      {
-        "heading": "6",
-        "level": 1
-      },
-      {
-        "heading": "7",
-        "level": 1
-      },
-      {
-        "heading": "8",
-        "level": 1
-      },
-      {
-        "heading": "9",
-        "level": 1
-      },
-      {
-        "heading": "Annotations",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Kendra's welcome email - syllabus",
-    "relativePath": "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
-    "tags": [
-      "task"
-    ],
-    "headings": [
-      {
-        "heading": "welcome!",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Berkeley office hours excerpts",
-    "relativePath": "1. Projects/i - launch indexing business/Berkeley office hours excerpts.md",
-    "headings": [
-      {
-        "heading": "2021",
-        "level": 1
-      },
-      {
-        "heading": "4-8-2021:",
-        "level": 2
-      },
-      {
-        "heading": "8-12-2021",
-        "level": 2
-      },
-      {
-        "heading": "10-28-2021",
-        "level": 2
-      },
-      {
-        "heading": "2021-01-21",
-        "level": 2
-      },
-      {
-        "heading": "start with 2021-02-25.rtf",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Marketing tips collection",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Marketing tips collection.md"
-  },
-  {
-    "fileName": "Getting started in indexing webinar",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Getting started in indexing webinar.md",
-    "headings": [
-      {
-        "heading": "Session I “Getting Ready to Get Busy” covers",
-        "level": 3
-      },
-      {
-        "heading": "Session II “Getting Busy” covers",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "___Business plan___",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/___Business plan___.md",
+    "fileName": "Business plan",
+    "relativePath": "1. Projects/i - launch indexing business/Business plan.md",
     "headings": [
       {
         "heading": "Focus",
@@ -41657,32 +41476,8 @@
     ]
   },
   {
-    "fileName": "Series Bibles _ Novel Words Editing",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Series Bibles _ Novel Words Editing.md"
-  },
-  {
-    "fileName": "Self-publishing world resources",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Self-publishing world resources.md"
-  },
-  {
-    "fileName": "Self-publishing community locating notes",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Self-publishing community locating notes.md"
-  },
-  {
-    "fileName": "Notes - Business of Indexing (2013)",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Notes - Business of Indexing (2013).md"
-  },
-  {
-    "fileName": "Misc indexing marketing notes",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Misc indexing marketing notes.md"
-  },
-  {
-    "fileName": "Indexing marketing linkedin",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Indexing marketing linkedin.md"
-  },
-  {
-    "fileName": "Getting Work (module from Sylvia COates' MOOC)",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/Getting Work (module from Sylvia COates' MOOC).md",
+    "fileName": "Getting Work (module from MOOC)",
+    "relativePath": "1. Projects/i - launch indexing business/Getting Work (module from MOOC).md",
     "frontmatter": {
       "created": "2022-08-31T15:56:45 (UTC -07:00)",
       "source": "https://canvas.instructure.com/courses/2714087/pages/module-1-dot-5-getting-work?module_item_id=45013545",
@@ -41712,49 +41507,51 @@
     ]
   },
   {
-    "fileName": "ASI Salary survey 2016",
-    "relativePath": "1. Projects/i - launch indexing business/Business planning/ASI Salary survey 2016.md",
-    "headings": [
-      {
-        "heading": "American Society for Indexing",
-        "level": 2
-      },
-      {
-        "heading": "Members, log in to access the complete 47-page report.",
-        "level": 4
-      },
-      {
-        "heading": "Indexing companies",
-        "level": 3
-      },
-      {
-        "heading": "Independent contractors",
-        "level": 3
-      },
-      {
-        "heading": "Teachers of Indexing",
-        "level": 3
-      },
-      {
-        "heading": "Demographic snapshot",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Marketing Indexing advice - on lists",
-    "relativePath": "1. Projects/i - launch indexing business/Marketing Indexing advice - on lists.md"
-  },
-  {
-    "fileName": "Programmable mice",
-    "relativePath": "1. Projects/i - launch indexing business/Programmable mice.md"
-  },
-  {
     "fileName": "People to email for indexing work",
     "relativePath": "1. Projects/i - launch indexing business/People to email for indexing work.md"
   },
   {
-    "fileName": "Indexing reminders",
-    "relativePath": "1. Projects/i - launch indexing business/Indexing reminders.md"
+    "fileName": "Marketing tips collection",
+    "relativePath": "1. Projects/i - launch indexing business/Marketing tips collection.md",
+    "headings": [
+      {
+        "heading": "Notes - 2013 ASI Business of Indexing Module webinar",
+        "level": 1
+      },
+      {
+        "heading": "Other notes",
+        "level": 1
+      },
+      {
+        "heading": "Using LinkedIn to market",
+        "level": 1
+      },
+      {
+        "heading": "Misc indexing marketing notes",
+        "level": 1
+      },
+      {
+        "heading": "Locating self-publishing communities",
+        "level": 1
+      },
+      {
+        "heading": "Series bibles as future possibility",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Getting started in indexing webinar",
+    "relativePath": "1. Projects/i - launch indexing business/Getting started in indexing webinar.md",
+    "headings": [
+      {
+        "heading": "Session I “Getting Ready to Get Busy” covers",
+        "level": 3
+      },
+      {
+        "heading": "Session II “Getting Busy” covers",
+        "level": 3
+      }
+    ]
   }
 ]

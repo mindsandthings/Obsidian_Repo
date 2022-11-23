@@ -1,3 +1,60 @@
+==To use as a reference to help generate ideas
+
+# Stuff I have forgotten to put in the basements:
+Animal detritus, including poop
+Ecosystems - raw plant material for animal bedding etc. 
+The basements also need transit, or wider tunnels to run carts or scooters or bikes down - maybe bike lanes. or animals. 
+Air circulation
+Maybe read a bit about biospheres? 
+Elevators and other vertical transit that isn't stairs
+Fewer round rooms - they'd remove bedrock in chunks. Also, there would be large blocks of rooms that were completely graystone, no halls. Unless I deliberately decide to do it otherwise, which I kind of want to do
+
+# Types of rooms
+Testing facilities
+Gardens
+Food sources
+Offices / office-building equivalents
+Meeting rooms
+Factories
+Auditoriums
+Stadiums
+Museums
+Video-watching rooms
+A church / place of worship
+Stores
+Restaurants
+Recreation areas
+Gyms
+Parks
+
+
+The Courts' active bedrock mines
+
+There would be planned areas (square rooms etc) and organically created / tunneled areas, probably based on the bedrock mining capacity of the civilization at the time. Their layout would likewise be based on the community and society of the people who lived there. 
+
+Magic stuff still tends to work (like the lights)
+
+Halls
+Transit paths
+Side walks
+Plaques and instructions
+Slides, elevators, etc
+Air circulation
+Doors, because they'd make the doors out of graystone too. But maybe not the hinges? Maybe they all slide and are mostly left open? Maybe they're hinged and the hinges have rotted? 
+Lighting
+
+
+For stuff that needs processing, factories would be a ways away. For printer stuff, there would be printers in every set of suites. 
+
+But also living areas
+ - Cells
+ - Bedrooms / suites
+ - Meeting areas
+ - Gardens
+ - Living spaces with public common areas
+
+
+# Furnishings and materials
 
 there will be pictures and photographs and statues
 — representations of knitting 3-d shapes
@@ -22,3 +79,28 @@ Artifacts are usually activated bedrock in a graystone setting.
 
 Bedrock can be used to help preserve things, but it's expensive. (For example: it can preserve corpses)
 
+# ANimals
+Michael pointed out that the butterflies came with some mental instructions, and other animals might too
+
+
+Translucent snails
+Spiders
+Cave bears
+Cave hyenas, which trap large mammals
+
+Mosses
+Ferns
+
+The animals they breed would have been bred for food or production
+Goats (meat, milk fleece)
+Guanacos 
+Rabbits
+Rats
+
+Silk
+Hair/fur
+Feathers
+Alpaca fiber
+Mohair from goats
+Spider silk
+Silkworms

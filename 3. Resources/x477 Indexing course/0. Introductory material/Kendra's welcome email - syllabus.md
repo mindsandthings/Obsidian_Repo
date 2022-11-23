@@ -19,9 +19,9 @@ Office Hours
 ==The course instructors hold regular "office hours" using the conference feature of the Canvas educational software every Thursday evening at 9:00 pm Eastern; 8:00 pm Central; 7:00 pm Mountain, and 6:00 pm Pacific Time. (Note that this happens on a separate instance of Canvas from this Canvas learning software.)  
   
 It's a great place to find lots of indexing information and learn from each of the instructors, as we all take weeks in turn. As you’ll see from the syllabus, 
-- [ ] #task ==you are required to attend 3 office hours sessions during the course of your six-month registration. Let me know when you attend an office hours session so I can mark that as part of your grade.  
+- [x] #task ==you are required to attend 3 office hours sessions during the course of your six-month registration. Let me know when you attend an office hours session so I can mark that as part of your grade. ✅ 2022-11-23
   
-- [ ] #task Please send me your email address so I can send you an invitation to join the other Canvas. You will also receive an email invitation to each week's office hour about ten minutes before it starts.  
+- [x] #task Please send me your email address so I can send you an invitation to join the other Canvas. You will also receive an email invitation to each week's office hour about ten minutes before it starts. ✅ 2022-11-23
   
 Email Responses  
 I try to return regular class assignments within two days, and the indexing projects within seven days. If you send something to me, and you don't hear back, please do contact me. I nearly always send a message confirming receipt of your assignment, but emails can get lost or not delivered, and I would rather be safe than sorry.  

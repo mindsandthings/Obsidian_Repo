@@ -125,10 +125,6 @@
       "relativePath": "1. Projects/p - design raised bed garden"
     },
     {
-      "name": "p - plan Berkeley vacation",
-      "relativePath": "1. Projects/p - plan Berkeley vacation"
-    },
-    {
       "name": "Copyediting and developmental editing",
       "relativePath": "4. Archive/Copyediting and developmental editing"
     },
@@ -143,14 +139,6 @@
     {
       "name": "Technical communication",
       "relativePath": "4. Archive/Technical communication"
-    },
-    {
-      "name": "Strengths course",
-      "relativePath": "4. Archive/Strengths course"
-    },
-    {
-      "name": "Untitled",
-      "relativePath": "4. Archive/Untitled"
     },
     {
       "name": "Strengths",
@@ -409,40 +397,16 @@
       "relativePath": "4. Archive/karl"
     },
     {
-      "name": "writing business",
-      "relativePath": "4. Archive/writing business"
-    },
-    {
-      "name": "writing-fiction",
-      "relativePath": "4. Archive/writing-fiction"
-    },
-    {
-      "name": "writing-fiction-research",
-      "relativePath": "4. Archive/writing-fiction-research"
-    },
-    {
       "name": "measurements",
       "relativePath": "4. Archive/measurements"
-    },
-    {
-      "name": "writing-nonfiction",
-      "relativePath": "4. Archive/writing-nonfiction"
     },
     {
       "name": "I - Indexing book group",
       "relativePath": "2. Areas/I - Indexing book group"
     },
     {
-      "name": "vertical heterophoria",
-      "relativePath": "4. Archive/vertical heterophoria"
-    },
-    {
       "name": "work-setup",
       "relativePath": "4. Archive/work-setup"
-    },
-    {
-      "name": "writing-julie",
-      "relativePath": "4. Archive/writing-julie"
     },
     {
       "name": "health",
@@ -461,10 +425,6 @@
       "relativePath": "2. Areas/food"
     },
     {
-      "name": "0. Introductory material",
-      "relativePath": "1. Projects/i - x477 indexing course/0. Introductory material"
-    },
-    {
       "name": "Module 8",
       "relativePath": "1. Projects/i - x477 indexing course/Module 8"
     },
@@ -477,20 +437,8 @@
       "relativePath": "1. Projects/i - x477 indexing course/Module 9"
     },
     {
-      "name": "Business planning",
-      "relativePath": "1. Projects/i - launch indexing business/Business planning"
-    },
-    {
-      "name": "Coaching notes",
-      "relativePath": "4. Archive/Strengths course/Coaching notes"
-    },
-    {
       "name": "strengths-2022",
       "relativePath": "4. Archive/Strengths/strengths-2022"
-    },
-    {
-      "name": "Strengths course texts",
-      "relativePath": "4. Archive/Strengths course/Strengths course texts"
     },
     {
       "name": "Bio for Translunar Travelers Lounge Jan 2020",
@@ -567,6 +515,54 @@
     {
       "name": "p - indexers book group",
       "relativePath": "1. Projects/p - indexers book group"
+    },
+    {
+      "name": "p - plan Berkeley vacation",
+      "relativePath": "4. Archive/p - plan Berkeley vacation"
+    },
+    {
+      "name": "vertical heterophoria",
+      "relativePath": "4. Archive/health/vertical heterophoria"
+    },
+    {
+      "name": "Strengths course",
+      "relativePath": "4. Archive/Strengths/Strengths course"
+    },
+    {
+      "name": "Coaching notes",
+      "relativePath": "4. Archive/Strengths/Strengths course/Coaching notes"
+    },
+    {
+      "name": "Strengths course texts",
+      "relativePath": "4. Archive/Strengths/Strengths course/Strengths course texts"
+    },
+    {
+      "name": "writing",
+      "relativePath": "4. Archive/writing"
+    },
+    {
+      "name": "writing business",
+      "relativePath": "4. Archive/writing/writing business"
+    },
+    {
+      "name": "writing-fiction",
+      "relativePath": "4. Archive/writing/writing-fiction"
+    },
+    {
+      "name": "writing-fiction-research",
+      "relativePath": "4. Archive/writing/writing-fiction-research"
+    },
+    {
+      "name": "writing-julie",
+      "relativePath": "4. Archive/writing/writing-julie"
+    },
+    {
+      "name": "writing-nonfiction",
+      "relativePath": "4. Archive/writing/writing-nonfiction"
+    },
+    {
+      "name": "0. Introductory material",
+      "relativePath": "3. Resources/x477 Indexing course/0. Introductory material"
     }
   ],
   "nonMdFiles": [

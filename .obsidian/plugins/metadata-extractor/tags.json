@@ -27,10 +27,11 @@
   },
   {
     "tag": "task",
-    "tagCount": 85,
+    "tagCount": 82,
     "relativePaths": [
       "daily/2022-08-31.md",
-      "4. Archive/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
+      "4. Archive/Strengths/Strengths course/Coaching session with Becca Syme - 2022 09 08.md",
+      "3. Resources/x477 Indexing course/0. Introductory material/Kendra's welcome email - syllabus.md",
       "3. Resources/x477 Indexing course/Module 5/5.0 Writing a Full-Length Index.md",
       "3. Resources/x477 Indexing course/Module 6/6.0 - The Business of Indexing.md",
       "3. Resources/x477 Indexing course/Module 7/7.6 Indexing Project 2.md",
@@ -40,54 +41,61 @@
       "3. Resources/x477 Indexing course/Module 2/2.0 - Creating a basic index.md",
       "3. Resources/x477 Indexing course/Module 1/1.0 Indexing Module 1.md",
       "1. Projects/w - marbela mystery/Cohen - Writing the Cozy Mystery.md",
-      "1. Projects/i - develop and document indexing processes/Indexing resources to read and review.md",
-      "1. Projects/i - x477 indexing course/Module 8/8.0 Putting It All Together.md",
-      "1. Projects/i - x477 indexing course/0. Introductory material/Kendra's welcome email - syllabus.md"
+      "1. Projects/i - x477 indexing course/Module 8/8.0 Putting It All Together.md"
     ]
   },
   {
-    "tag": "z-archives/health",
-    "tagCount": 24,
+    "tag": "z-archives/writing/nonfiction/post-ideas",
+    "tagCount": 5,
     "relativePaths": [
-      "4. Archive/vertical heterophoria/Vertical heterophoria getting sooner notes.md",
-      "4. Archive/writing business/Writer stretches.md",
-      "4. Archive/therapy/therapy.md",
-      "4. Archive/health/Calcium foods.md",
-      "4. Archive/health/archived-vertical-heterophoria/Vertical heterophoria info.md",
-      "4. Archive/health/archived-doctor-notes/Notes for Dobro appt.md",
-      "4. Archive/health/archived-doctor-notes/Dobro athlete_s foot convo.md",
-      "4. Archive/health/SF chiropractic places.md",
-      "4. Archive/health/Pain exercises and pain management techniques.md",
-      "4. Archive/health/POTS checks.md",
-      "4. Archive/health/Nerve glides.md",
-      "4. Archive/health/IIH research notes.md",
+      "4. Archive/writing/writing-nonfiction/Potential tumblr posts.md",
+      "4. Archive/validating/Autism privilege [posted Tumblr].md",
+      "4. Archive/health/archived-apd-has/Video chat posts.md",
+      "4. Archive/cw-pubq/CW survey answers leftover.md",
+      "4. Archive/daily/2020-12-30.md"
+    ]
+  },
+  {
+    "tag": "z-archives/someday-maybe",
+    "tagCount": 13,
+    "relativePaths": [
+      "4. Archive/writing/writing-fiction-research/Historical graffiti and culture.md",
+      "4. Archive/writing/writing-fiction/Faerie story notes.md",
+      "4. Archive/writing/writing-fiction/D&D haunted theater.md",
+      "4. Archive/therapy/Therapist question notes.md",
+      "4. Archive/media-recs/Music I_ve liked.md",
+      "4. Archive/media-recs/Cult books.md",
+      "4. Archive/health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
+      "4. Archive/health/TrainingAndRehabilitation videos.md",
       "4. Archive/health/Health experiment options.md",
-      "4. Archive/health/DMSO.md",
-      "4. Archive/health/Craniosacral muscles that Muldowney work on.md",
-      "4. Archive/health/Callanetics list.md",
-      "4. Archive/daily/2021-06-12.md",
-      "4. Archive/daily/2020-03-02.md"
+      "4. Archive/finances-insurance/Mint alternatives.md",
+      "4. Archive/clothing-and-stuff/desk.md",
+      "4. Archive/asl/ASL things can watch.md",
+      "4. Archive/archived-productivity/Productivity research options.md"
     ]
   },
   {
-    "tag": "z-archives/health/eye",
-    "tagCount": 1,
+    "tag": "z-archives/writing",
+    "tagCount": 16,
     "relativePaths": [
-      "4. Archive/vertical heterophoria/Vertical heterophoria.md"
+      "4. Archive/writing/writing-fiction/Thrillersuspense notes.md",
+      "4. Archive/writing/writing-fiction/Pratchett.md",
+      "4. Archive/writing/writing business/Craft article.md",
+      "4. Archive/reviews/Margie course reviews.md",
+      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
     ]
   },
   {
     "tag": "z-archives",
     "tagCount": 735,
     "relativePaths": [
-      "4. Archive/vertical heterophoria/VH links.md",
+      "4. Archive/writing/writing-fiction/Southern accent research.md",
+      "4. Archive/writing/writing business/Writers group continuation recs.md",
+      "4. Archive/writing/writing business/Writer_s shed.md",
+      "4. Archive/writing/writing business/SFF convention accessibility pledge.md",
       "4. Archive/measurements/car roof.md",
       "4. Archive/measurements/Ergonomic workplace setup.md",
       "4. Archive/measurements/Carbon credits.md",
-      "4. Archive/writing-fiction/Southern accent research.md",
-      "4. Archive/writing business/Writers group continuation recs.md",
-      "4. Archive/writing business/Writer_s shed.md",
-      "4. Archive/writing business/SFF convention accessibility pledge.md",
       "4. Archive/karl/Karl enrichment.md",
       "4. Archive/validating/___ httpswww.documentjournal.com201804the-existent.md",
       "4. Archive/validating/Unsent crit group draft letter.md",
@@ -123,6 +131,7 @@
       "4. Archive/manuals/Scooter safety gear notes.md",
       "4. Archive/manuals/Levy scooter info.md",
       "4. Archive/manuals/Levy electric scooter instructions and laws.md",
+      "4. Archive/health/vertical heterophoria/VH links.md",
       "4. Archive/health/archived-apd-has/APD notes for Abby_s comments LGHA article.md",
       "4. Archive/gardening/Garden store list.md",
       "4. Archive/emergency-preparedness/Evacuation packing list.md",
@@ -164,14 +173,188 @@
     ]
   },
   {
-    "tag": "z-archives/writing/nonfiction/post-ideas",
+    "tag": "z-archives/partially-written-threads",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/writing advice thread.md"
+    ]
+  },
+  {
+    "tag": "z-archives/writing/business",
     "tagCount": 5,
     "relativePaths": [
-      "4. Archive/writing-nonfiction/Potential tumblr posts.md",
-      "4. Archive/validating/Autism privilege [posted Tumblr].md",
-      "4. Archive/health/archived-apd-has/Video chat posts.md",
-      "4. Archive/cw-pubq/CW survey answers leftover.md",
-      "4. Archive/daily/2020-12-30.md"
+      "4. Archive/writing/writing business/agents.md",
+      "4. Archive/writing/writing business/Writers organizations.md",
+      "4. Archive/sensitivity-read/Sensitivity read prices.md",
+      "4. Archive/sensitivity-read/Sensitivity read costs.md",
+      "4. Archive/licenses-passwords/Jellyfish photo license.md"
+    ]
+  },
+  {
+    "tag": "1-tracking",
+    "tagCount": 8,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Writing op exploration advice.md",
+      "4. Archive/socializing/Socialization plans.md",
+      "4. Archive/socializing/Conversation topics (what I_m doing with my life).md",
+      "4. Archive/socializing/Contextual reminder system [needs to be updated - .md",
+      "4. Archive/health/health issues check-ins.md",
+      "4. Archive/finances-insurance/Gift cards.md",
+      "4. Archive/clothing-and-stuff/Messenger bags.md",
+      "4. Archive/archived-productivity/Problems solving.md"
+    ]
+  },
+  {
+    "tag": "z-archives/health",
+    "tagCount": 24,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Writer stretches.md",
+      "4. Archive/therapy/therapy.md",
+      "4. Archive/health/vertical heterophoria/Vertical heterophoria getting sooner notes.md",
+      "4. Archive/health/Calcium foods.md",
+      "4. Archive/health/archived-vertical-heterophoria/Vertical heterophoria info.md",
+      "4. Archive/health/archived-doctor-notes/Notes for Dobro appt.md",
+      "4. Archive/health/archived-doctor-notes/Dobro athlete_s foot convo.md",
+      "4. Archive/health/SF chiropractic places.md",
+      "4. Archive/health/Pain exercises and pain management techniques.md",
+      "4. Archive/health/POTS checks.md",
+      "4. Archive/health/Nerve glides.md",
+      "4. Archive/health/IIH research notes.md",
+      "4. Archive/health/Health experiment options.md",
+      "4. Archive/health/DMSO.md",
+      "4. Archive/health/Craniosacral muscles that Muldowney work on.md",
+      "4. Archive/health/Callanetics list.md",
+      "4. Archive/daily/2021-06-12.md",
+      "4. Archive/daily/2020-03-02.md"
+    ]
+  },
+  {
+    "tag": "/accessiblecons",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/SFF convention accessibility pledge.md"
+    ]
+  },
+  {
+    "tag": "z-archives/writing/presses",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Presses that publish autistic authors.md"
+    ]
+  },
+  {
+    "tag": "on",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "writing",
+    "tagCount": 4,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md",
+      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
+      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
+      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
+    ]
+  },
+  {
+    "tag": "my",
+    "tagCount": 3,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md",
+      "4. Archive/validating/only knowing how to obstruct and destroy.md",
+      "4. Archive/validating/Girl code (tumblr post by soulvomit).md"
+    ]
+  },
+  {
+    "tag": "fucking",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "industry",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "general",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "malarkey",
+    "tagCount": 2,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "fandom",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Marketing in competition with fandom.md"
+    ]
+  },
+  {
+    "tag": "z-archives/sj",
+    "tagCount": 49,
+    "relativePaths": [
+      "4. Archive/writing/writing business/Emma kind words.md",
+      "4. Archive/validating/Talking over autistic people.md",
+      "4. Archive/validating/romantic love and homeschooling.md",
+      "4. Archive/validating/it’s never about the autism…..but you know what, i.md",
+      "4. Archive/validating/httpsearlgraytay.tumblr.compost648967237070454784.md",
+      "4. Archive/validating/eat bones and shit ghosts.md",
+      "4. Archive/validating/_We tend to design for the _sexy_ disabilities_.md",
+      "4. Archive/validating/You can just unfollow people.md",
+      "4. Archive/validating/Post That Criticizes Feminism Because of Its Lack .md",
+      "4. Archive/validating/Twilight People.md",
+      "4. Archive/validating/Tweet on accommodations.md",
+      "4. Archive/validating/Trauma A vs Trauma B.md",
+      "4. Archive/validating/Tired of being an activist.md",
+      "4. Archive/validating/Social contract and exploiters.md",
+      "4. Archive/validating/Social abuse.md",
+      "4. Archive/validating/Simple writing is hard.md",
+      "4. Archive/validating/Shame on the Internet.md",
+      "4. Archive/validating/Perspective.md",
+      "4. Archive/validating/Perspective in the face of other people_s anger.md",
+      "4. Archive/validating/JADE.md",
+      "4. Archive/validating/If you can resist anything, resist.md",
+      "4. Archive/validating/How to recognize.md",
+      "4. Archive/validating/Emotional abuse cheatsheet.md",
+      "4. Archive/validating/Communication styles connection and competition.md",
+      "4. Archive/validating/Contextual gender.md",
+      "4. Archive/validating/Cognitive dissonance.md",
+      "4. Archive/validating/Bi folks in straight-passing relationships are que.md",
+      "4. Archive/validating/Bad SJ.md",
+      "4. Archive/validating/Articulating the situation.md",
+      "4. Archive/validating/Affirmation re abuse.md",
+      "4. Archive/trauma-and-associated/Fawn.md",
+      "4. Archive/sunrise-movement/GND disability.md",
+      "4. Archive/media/Last Unicorn.md",
+      "4. Archive/health/archived-apd-has/APDdeaf link.md",
+      "4. Archive/daily/2021-06-02.md",
+      "4. Archive/daily/2021-05-22.md",
+      "4. Archive/daily/2021-06-10.md",
+      "4. Archive/daily/2021-05-25.md",
+      "4. Archive/daily/2021-05-04.md",
+      "4. Archive/daily/2021-03-01.md",
+      "4. Archive/daily/2021-04-12 2.md",
+      "4. Archive/daily/2021-03-01 3.md",
+      "4. Archive/daily/2021-03-18.md",
+      "4. Archive/daily/2021-03-18 2.md",
+      "4. Archive/daily/2021-03-01 4.md",
+      "4. Archive/daily/2020-08-04.md",
+      "4. Archive/daily/2020-12-20.md",
+      "4. Archive/archived-productivity/_Emotional to-do list_.md"
     ]
   },
   {
@@ -584,197 +767,6 @@
       "4. Archive/daily/Fri, Apr 10, 2020.md",
       "4. Archive/daily/2020-06-14.md",
       "4. Archive/daily/2020-06-24.md"
-    ]
-  },
-  {
-    "tag": "z-archives/someday-maybe",
-    "tagCount": 13,
-    "relativePaths": [
-      "4. Archive/writing-fiction-research/Historical graffiti and culture.md",
-      "4. Archive/writing-fiction/Faerie story notes.md",
-      "4. Archive/writing-fiction/D&D haunted theater.md",
-      "4. Archive/therapy/Therapist question notes.md",
-      "4. Archive/media-recs/Music I_ve liked.md",
-      "4. Archive/media-recs/Cult books.md",
-      "4. Archive/health/archived-apd-has/Pink noise and superior canal dehiscence syndrome.md",
-      "4. Archive/health/TrainingAndRehabilitation videos.md",
-      "4. Archive/health/Health experiment options.md",
-      "4. Archive/finances-insurance/Mint alternatives.md",
-      "4. Archive/clothing-and-stuff/desk.md",
-      "4. Archive/asl/ASL things can watch.md",
-      "4. Archive/archived-productivity/Productivity research options.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing",
-    "tagCount": 16,
-    "relativePaths": [
-      "4. Archive/writing-fiction/Thrillersuspense notes.md",
-      "4. Archive/writing-fiction/Pratchett.md",
-      "4. Archive/writing business/Craft article.md",
-      "4. Archive/reviews/Margie course reviews.md",
-      "4. Archive/archived-how-tos/Setting up highlight color keyboard shortcuts.md"
-    ]
-  },
-  {
-    "tag": "z-archives/partially-written-threads",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/writing advice thread.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing/business",
-    "tagCount": 5,
-    "relativePaths": [
-      "4. Archive/writing business/agents.md",
-      "4. Archive/writing business/Writers organizations.md",
-      "4. Archive/sensitivity-read/Sensitivity read prices.md",
-      "4. Archive/sensitivity-read/Sensitivity read costs.md",
-      "4. Archive/licenses-passwords/Jellyfish photo license.md"
-    ]
-  },
-  {
-    "tag": "1-tracking",
-    "tagCount": 8,
-    "relativePaths": [
-      "4. Archive/writing business/Writing op exploration advice.md",
-      "4. Archive/socializing/Socialization plans.md",
-      "4. Archive/socializing/Conversation topics (what I_m doing with my life).md",
-      "4. Archive/socializing/Contextual reminder system [needs to be updated - .md",
-      "4. Archive/health/health issues check-ins.md",
-      "4. Archive/finances-insurance/Gift cards.md",
-      "4. Archive/clothing-and-stuff/Messenger bags.md",
-      "4. Archive/archived-productivity/Problems solving.md"
-    ]
-  },
-  {
-    "tag": "/accessiblecons",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/SFF convention accessibility pledge.md"
-    ]
-  },
-  {
-    "tag": "z-archives/writing/presses",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Presses that publish autistic authors.md"
-    ]
-  },
-  {
-    "tag": "on",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "writing",
-    "tagCount": 4,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md",
-      "4. Archive/validating/The Curious Absence of Masculine Pride and Competition.md",
-      "4. Archive/analyze writers/Plot-creation support with plot-construction model for writing novels.md",
-      "4. Archive/analyze writers/Characters’ Emotion Design Support System for Writing Novels Based on Story Arcs of Target Readers.md"
-    ]
-  },
-  {
-    "tag": "my",
-    "tagCount": 3,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md",
-      "4. Archive/validating/only knowing how to obstruct and destroy.md",
-      "4. Archive/validating/Girl code (tumblr post by soulvomit).md"
-    ]
-  },
-  {
-    "tag": "fucking",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "industry",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "general",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "malarkey",
-    "tagCount": 2,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "fandom",
-    "tagCount": 1,
-    "relativePaths": [
-      "4. Archive/writing business/Marketing in competition with fandom.md"
-    ]
-  },
-  {
-    "tag": "z-archives/sj",
-    "tagCount": 49,
-    "relativePaths": [
-      "4. Archive/writing business/Emma kind words.md",
-      "4. Archive/validating/Talking over autistic people.md",
-      "4. Archive/validating/romantic love and homeschooling.md",
-      "4. Archive/validating/it’s never about the autism…..but you know what, i.md",
-      "4. Archive/validating/httpsearlgraytay.tumblr.compost648967237070454784.md",
-      "4. Archive/validating/eat bones and shit ghosts.md",
-      "4. Archive/validating/_We tend to design for the _sexy_ disabilities_.md",
-      "4. Archive/validating/You can just unfollow people.md",
-      "4. Archive/validating/Post That Criticizes Feminism Because of Its Lack .md",
-      "4. Archive/validating/Twilight People.md",
-      "4. Archive/validating/Tweet on accommodations.md",
-      "4. Archive/validating/Trauma A vs Trauma B.md",
-      "4. Archive/validating/Tired of being an activist.md",
-      "4. Archive/validating/Social contract and exploiters.md",
-      "4. Archive/validating/Social abuse.md",
-      "4. Archive/validating/Simple writing is hard.md",
-      "4. Archive/validating/Shame on the Internet.md",
-      "4. Archive/validating/Perspective.md",
-      "4. Archive/validating/Perspective in the face of other people_s anger.md",
-      "4. Archive/validating/JADE.md",
-      "4. Archive/validating/If you can resist anything, resist.md",
-      "4. Archive/validating/How to recognize.md",
-      "4. Archive/validating/Emotional abuse cheatsheet.md",
-      "4. Archive/validating/Communication styles connection and competition.md",
-      "4. Archive/validating/Contextual gender.md",
-      "4. Archive/validating/Cognitive dissonance.md",
-      "4. Archive/validating/Bi folks in straight-passing relationships are que.md",
-      "4. Archive/validating/Bad SJ.md",
-      "4. Archive/validating/Articulating the situation.md",
-      "4. Archive/validating/Affirmation re abuse.md",
-      "4. Archive/trauma-and-associated/Fawn.md",
-      "4. Archive/sunrise-movement/GND disability.md",
-      "4. Archive/media/Last Unicorn.md",
-      "4. Archive/health/archived-apd-has/APDdeaf link.md",
-      "4. Archive/daily/2021-06-02.md",
-      "4. Archive/daily/2021-05-22.md",
-      "4. Archive/daily/2021-06-10.md",
-      "4. Archive/daily/2021-05-25.md",
-      "4. Archive/daily/2021-05-04.md",
-      "4. Archive/daily/2021-03-01.md",
-      "4. Archive/daily/2021-04-12 2.md",
-      "4. Archive/daily/2021-03-01 3.md",
-      "4. Archive/daily/2021-03-18.md",
-      "4. Archive/daily/2021-03-18 2.md",
-      "4. Archive/daily/2021-03-01 4.md",
-      "4. Archive/daily/2020-08-04.md",
-      "4. Archive/daily/2020-12-20.md",
-      "4. Archive/archived-productivity/_Emotional to-do list_.md"
     ]
   },
   {
@@ -1407,6 +1399,13 @@
     ]
   },
   {
+    "tag": "z-archives/health/eye",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/health/vertical heterophoria/Vertical heterophoria.md"
+    ]
+  },
+  {
     "tag": "z-archives/health/psych",
     "tagCount": 1,
     "relativePaths": [
@@ -1452,6 +1451,13 @@
     "tagCount": 1,
     "relativePaths": [
       "4. Archive/kindle-notes/McCulloch-Because Internet.md"
+    ]
+  },
+  {
+    "tag": "s",
+    "tagCount": 1,
+    "relativePaths": [
+      "4. Archive/indexing/Getting back into the index (advice).md"
     ]
   },
   {
@@ -2389,13 +2395,6 @@
     "tagCount": 1,
     "relativePaths": [
       "3. Resources/the indexer/Diversity in Canadian Publishing Award  Indexer (The).md"
-    ]
-  },
-  {
-    "tag": "s",
-    "tagCount": 1,
-    "relativePaths": [
-      "1. Projects/i - develop and document indexing processes/Getting back into the index (advice).md"
     ]
   }
 ]

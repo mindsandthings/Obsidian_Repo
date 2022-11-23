@@ -1,7 +1,5 @@
 pick names for the faerie princesses - need another one for Nerine, or a different one for Nightshade/Bellflower
 
-give Aimee an employee ID tattoo
-
 Timeline! For kraken poisoning! At least a few days earlier, for the caterpillars
 Nail down dates for Lily bringing the device through, and Lily poisoning the kraken. 
 Do I want to make the components iron/magnetite/something like that? 
@@ -119,8 +117,7 @@ I'd like to do a better job of the Aimee-Madison dynamic
 
 -----
 
-
-  # FPA  
+# FPA  
 
 Faerie Court Holdings, Inc., the IP holder for both the parks and the children's series
 
