@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Supplements I tell people about.md",
+                "file": "daily/2022-11-23-Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "checkbook",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Supplements I tell people about.md",
+                "file": "daily/2022-11-23-Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Supplements I tell people about.md",
+                "file": "daily/2022-11-23-Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Supplements I tell people about.md"
+                "file": "daily/2022-11-23-Wed.md"
               }
             }
           },
@@ -171,17 +171,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "53870cf0476d9759",
+  "active": "dbca5a0904a26c48",
   "lastOpenFiles": [
+    "2. Areas/health/Supplements I tell people about.md",
+    "2. Areas/food/Food notes.md",
+    "periodic/Daily reminders.md",
     "0. Inbox/00-scratchpad-note.md",
     "1. Projects/i - x477 indexing course/Module 8/Green outllne.md",
     "1. Projects/p - indexers book group/Indexers book group Nov 28 2022.md",
     "1. Projects/p - indexers book group/Indexer's Companion excerpts and notes.md",
     "1. Projects/p - transfer pnwasi listserv/Steps to transfer pnwasi listserv.md",
     "2. Areas/PNW-ASI/PNW-ASI webmaster documentation.md",
-    "2. Areas/PNW-ASI/ASI-PNW website errata.md",
-    "4. Archive/validating/only knowing how to obstruct and destroy.md",
-    "4. Archive/vr-quest-art/VR art notes.md",
-    "daily/2022-11-22-Tue.md"
+    "2. Areas/PNW-ASI/ASI-PNW website errata.md"
   ]
 }

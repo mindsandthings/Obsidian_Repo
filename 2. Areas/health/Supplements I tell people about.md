@@ -1,3 +1,3 @@
-magnesium
+cmagnesium
 calcium
 melatonin
