@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md",
+                "file": "1. Projects/w - learn literary techniques/Learner DIY course (Strengths).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f153ecf194ecabf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/w - learn literary techniques/Id list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md",
+                "file": "1. Projects/w - learn literary techniques/Id list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md",
+                "file": "1. Projects/w - learn literary techniques/Id list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md"
+                "file": "1. Projects/w - learn literary techniques/Id list.md"
               }
             }
           },
@@ -183,17 +195,17 @@
     "width": 324.5,
     "collapsed": true
   },
-  "active": "6e13e0d569bbc94a",
+  "active": "f153ecf194ecabf3",
   "lastOpenFiles": [
-    "1. Projects/i - x477 indexing course/Module 8/0 Indexing project 3 notes - Green.md",
+    "1. Projects/w - learn literary techniques/DIY writing structure course.md",
+    "1. Projects/w - learn literary techniques/Writing books I can try (rhetoric and poetry).md",
+    "1. Projects/w - learn literary techniques/Top 20 rhetorical devices 1.md",
+    "1. Projects/w - learn literary techniques/Tamsyn Muir analsis.md",
+    "1. Projects/w - learn literary techniques/Learner DIY course (Strengths).md",
+    "1. Projects/w - learn literary techniques/Id list.md",
+    "1. Projects/w - learn literary techniques/5-question scene checklist 1.md",
     "1. Projects/i - x477 indexing course/Module 8/0 Green outllne.md",
-    "1. Projects/i - x477 indexing course/Module 8/0 Pruning the lengthy index.md",
-    "1. Projects/i - x477 indexing course/Module 8/0 Module 8 Discussion.md",
-    "1. Projects/i - x477 indexing course/Module 8/0 Replies on Green.md",
-    "1. Projects/i - x477 indexing course/Module 8/8.0 Putting It All Together.md",
-    "1. Projects/i - develop and document indexing processes/Chet Chat excerpts to add to.md",
-    "1. Projects/i - develop and document indexing processes/Berkeley office hours excerpts to add to.md",
-    "1. Projects/i - develop and document indexing processes/0 Index edit checklist.md",
-    "4. Archive/Home automation open source.md"
+    "1. Projects/i - x477 indexing course/Module 8/0 Indexing project 3 notes - Green.md",
+    "1. Projects/i - x477 indexing course/Module 8/0 Pruning the lengthy index.md"
   ]
 }
